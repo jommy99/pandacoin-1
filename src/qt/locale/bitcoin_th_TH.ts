@@ -1,24 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="th_TH">
+<TS version="2.1" language="th_TH">
 <context>
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>เกี่ยวกับ Digital PandaBank</translation>
     </message>
     <message>
         <location line="+39"/>
         <source>&lt;b&gt;Pandacoin&lt;/b&gt; version</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Pandacoin&lt;/b&gt; รุ่น</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Pandacoin developers</source>
-        <translation type="unfinished"></translation>
+Copyright © 2014-2017 The Pandacoin developers</source>
+        <translation>ลิขสิทธิ์© 2009-2014 นักพัฒนา Bitcoin
+สงวนลิขสิทธิ์© 2012-2014 นักพัฒนา NovaCoin
+ลิขสิทธิ์© 2014-2017 นักพัฒนาซอฟต์แวร์ Pandacoin
+
+Lik̄hs̄ithṭhi̒© 2009-2014 nạk phạtʹhnā Bitcoin
+s̄ngwn lik̄hs̄ithṭhi̒© 2012-2014 nạk phạtʹhnā NovaCoin
+lik̄hs̄ithṭhi̒© 2014-2017 nạk phạtʹhnā sxft̒wær̒ Pandacoin</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -28,7 +34,18 @@ This is experimental software.
 Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
 This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/) and cryptographic software written by Eric Young (eay@cryptsoft.com) and UPnP software written by Thomas Bernard.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+นี่เป็นซอฟต์แวร์ทดลอง
+
+แจกจ่ายภายใต้ใบอนุญาตซอฟต์แวร์ MIT / X11 ดูไฟล์ COPYING ที่แนบมาหรือ http://www.opensource.org/licenses/mit-license.php
+
+ผลิตภัณฑ์นี้ประกอบด้วยซอฟต์แวร์ที่พัฒนาโดย OpenSSL Project เพื่อใช้ใน OpenSSL Toolkit (http://www.openssl.org/) และซอฟต์แวร์เข้ารหัสลับที่เขียนโดย Eric Young (eay@cryptsoft.com) และซอฟต์แวร์ UPnP ที่เขียนโดย Thomas Bernard
+
+Nī̀ pĕn sxft̒wær̒ thdlxng
+
+cækc̀āy p̣hāy tı̂ bı xnuỵāt sxft̒wær̒ MIT/ X11 dū fịl̒ COPYING thī̀ næb mā h̄rụ̄x http://Www.Opensource.Org/licenses/mit-license.Php
+
+p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy OpenSSL Project pheụ̄̀x chı̂ nı OpenSSL Toolkit (http://Www.Openssl.Org/) læa sxft̒wær̒ k̄hêārh̄ạs̄ lạb thī̀ k̄heīyn doy Eric Young (eay@cryptsoft.Com) læa sxft̒wær̒ UPnP thī̀ k̄heīyn doy Thomas Bernard.</translation>
     </message>
 </context>
 <context>
@@ -36,17 +53,17 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location filename="../accountmodel.cpp" line="+24"/>
         <source>Account Name</source>
-        <translation type="unfinished"></translation>
+        <translation>ชื่อบัญชี</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Account Address</source>
-        <translation type="unfinished"></translation>
+        <translation>ที่อยู่บัญชี</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Account Balance</source>
-        <translation type="unfinished"></translation>
+        <translation>ยอดเงินในบัญชี</translation>
     </message>
 </context>
 <context>
@@ -54,81 +71,81 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location filename="../forms/accountpage.ui" line="+20"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>กรอบ</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Transactions</source>
-        <translation type="unfinished"></translation>
+        <translation>การทำธุรกรรม</translation>
     </message>
     <message>
         <location line="+38"/>
         <source>View transactions for</source>
-        <translation type="unfinished"></translation>
+        <translation>ดูธุรกรรมสำหรับ</translation>
     </message>
     <message>
         <location line="+36"/>
         <source>Copy Address</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอกที่อยู่</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Show QR Code</source>
-        <translation type="unfinished"></translation>
+        <translation>แสดง QR Code</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Sign message</source>
-        <translation type="unfinished"></translation>
+        <translation>ลงชื่อเข้าใช้ข้อความ</translation>
     </message>
     <message>
         <location line="+132"/>
         <source>Last 30 Days</source>
-        <translation type="unfinished"></translation>
+        <translation>30 วันล่าสุด</translation>
     </message>
     <message>
         <location line="+40"/>
         <source>Out</source>
-        <translation type="unfinished"></translation>
+        <translation>ออก</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>In</source>
-        <translation type="unfinished"></translation>
+        <translation>ใน</translation>
     </message>
     <message>
         <location line="+23"/>
         <location line="+10"/>
         <location line="+140"/>
         <source>PND</source>
-        <translation type="unfinished"></translation>
+        <translation>PND</translation>
     </message>
     <message>
         <location line="-128"/>
         <source>Interest Gained</source>
-        <translation type="unfinished"></translation>
+        <translation>ดอกเบี้ยที่ได้รับ</translation>
     </message>
     <message>
         <location line="+115"/>
         <source>Total interest</source>
-        <translation type="unfinished"></translation>
+        <translation>รวมดอกเบี้ย</translation>
     </message>
     <message>
         <location line="+32"/>
         <location line="+25"/>
         <source>Create Account</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้างบัญชี</translation>
     </message>
     <message>
         <location filename="../forms/accountpage.cpp" line="+155"/>
         <source>All Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>บัญชีทั้งหมด</translation>
     </message>
     <message>
         <location line="+28"/>
         <location line="+4"/>
-        <source>transaction found</source>
-        <translation type="unfinished"></translation>
+        <source>transactions found</source>
+        <translation>พบธุรกรรมแล้ว</translation>
     </message>
 </context>
 <context>
@@ -263,7 +280,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>ลบ</translation>
     </message>
     <message>
-        <location filename="../addressbookpage.cpp" line="+65"/>
+        <location filename="../addressbookpage.cpp" line="+69"/>
         <source>Copy &amp;Label</source>
         <translation type="unfinished"></translation>
     </message>
@@ -410,7 +427,7 @@ This product includes software developed by the OpenSSL Project for use in the O
 <context>
     <name>AddressTableModel</name>
     <message>
-        <location filename="../addresstablemodel.cpp" line="+25"/>
+        <location filename="../addresstablemodel.cpp" line="+29"/>
         <source>Label</source>
         <translation>ชื่อ</translation>
     </message>
@@ -434,7 +451,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+21"/>
-        <location filename="../askpassphrasedialog.cpp" line="+42"/>
+        <location filename="../askpassphrasedialog.cpp" line="+46"/>
         <source>Enter password</source>
         <translation type="unfinished"></translation>
     </message>
@@ -643,7 +660,7 @@ This product includes software developed by the OpenSSL Project for use in the O
 <context>
     <name>BitcoinGUI</name>
     <message>
-        <location filename="../bitcoingui.cpp" line="+311"/>
+        <location filename="../bitcoingui.cpp" line="+309"/>
         <source>Sign &amp;message...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1265,7 +1282,7 @@ Address: %4
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../bitcoin.cpp" line="+111"/>
+        <location filename="../bitcoin.cpp" line="+112"/>
         <source>A fatal error occurred. Pandacoin can no longer continue safely and will quit.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1273,7 +1290,7 @@ Address: %4
 <context>
     <name>ClientModel</name>
     <message>
-        <location filename="../clientmodel.cpp" line="+92"/>
+        <location filename="../clientmodel.cpp" line="+96"/>
         <source>Network Alert</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1316,7 +1333,7 @@ Address: %4
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../coincontroldialog.cpp" line="+551"/>
+        <location filename="../coincontroldialog.cpp" line="+555"/>
         <source>no</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1619,7 +1636,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../editaddressdialog.cpp" line="+23"/>
+        <location filename="../editaddressdialog.cpp" line="+28"/>
         <source>New receiving address</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1662,7 +1679,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
 <context>
     <name>GUIUtil::HelpMessageBox</name>
     <message>
-        <location filename="../guiutil.cpp" line="+655"/>
+        <location filename="../guiutil.cpp" line="+659"/>
         <location line="+12"/>
         <source>Pandacoin-Qt</source>
         <translation type="unfinished"></translation>
@@ -1972,7 +1989,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="+58"/>
+        <location filename="../optionsdialog.cpp" line="+62"/>
         <source>default</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2102,7 +2119,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../overviewpage.cpp" line="+40"/>
+        <location filename="../overviewpage.cpp" line="+44"/>
         <source>Copy account address</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2225,7 +2242,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../init.cpp" line="+849"/>
+        <location filename="../../init.cpp" line="+850"/>
         <source>My account</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2314,7 +2331,7 @@ Should you encounter this error repeatedly please seek assistance.</source>
         <location line="+53"/>
         <location line="+23"/>
         <location line="+23"/>
-        <location filename="../rpcconsole.cpp" line="+347"/>
+        <location filename="../rpcconsole.cpp" line="+351"/>
         <source>N/A</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2583,7 +2600,7 @@ Should you encounter this error repeatedly please seek assistance.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../sendcoinsentry.cpp" line="+108"/>
+        <location filename="../sendcoinsentry.cpp" line="+112"/>
         <source>Copy quantity</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2837,7 +2854,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../signverifymessagedialog.cpp" line="+27"/>
+        <location filename="../signverifymessagedialog.cpp" line="+31"/>
         <location line="+3"/>
         <source>Enter a Pandacoin address (e.g. PBZ8YVV3XT3WWWd2a1jo4N9WePiwKB3mJE)</source>
         <translation type="unfinished"></translation>
@@ -2939,7 +2956,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
 <context>
     <name>TransactionDesc</name>
     <message>
-        <location filename="../transactiondesc.cpp" line="+19"/>
+        <location filename="../transactiondesc.cpp" line="+23"/>
         <source>Open until %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3175,7 +3192,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
 <context>
     <name>TransactionTableModel</name>
     <message>
-        <location filename="../transactiontablemodel.cpp" line="+326"/>
+        <location filename="../transactiontablemodel.cpp" line="+330"/>
         <source>Date</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3352,7 +3369,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
         <translation type="obsolete">วันนี้</translation>
     </message>
     <message>
-        <location filename="../transactionview.cpp" line="+65"/>
+        <location filename="../transactionview.cpp" line="+69"/>
         <source>Copy address</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3463,7 +3480,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
 <context>
     <name>WalletModel</name>
     <message>
-        <location filename="../walletmodel.cpp" line="+501"/>
+        <location filename="../walletmodel.cpp" line="+505"/>
         <source>Sending...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3471,7 +3488,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
 <context>
     <name>bitcoin-core</name>
     <message>
-        <location filename="../bitcoinstrings.cpp" line="+33"/>
+        <location filename="../bitcoinstrings.cpp" line="+35"/>
         <source>Pandacoin version</source>
         <translation type="unfinished"></translation>
     </message>

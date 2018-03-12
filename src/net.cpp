@@ -1332,6 +1332,7 @@ unsigned int pnSeed[] =
 	0x2d4fbefe, // 45.79.190.254
 	0x2e4d972e, // 46.77.151.46
 	0x74CE1E26 // 116.206.30.38
+	0x2D4FAA8B	// 45.79.170.139
 };
 
 unsigned int pnSeedTestnet[] =

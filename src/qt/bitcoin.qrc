@@ -122,5 +122,7 @@
         <file alias="uk">locale/bitcoin_uk.qm</file>
         <file alias="zh_CN">locale/bitcoin_zh_CN.qm</file>
         <file alias="zh_TW">locale/bitcoin_zh_TW.qm</file>
+		<file alias="th_TH">locale/bitcoin_th_TH.qm</file>
+        <file alias="id_ID">locale/bitcoin_id_ID.qm</file>
     </qresource>
 </RCC>
