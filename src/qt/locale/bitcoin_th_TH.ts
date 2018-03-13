@@ -153,58 +153,58 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location filename="../forms/accountsummaryheaderwidget.ui" line="+14"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>กรอบ</translation>
     </message>
     <message>
         <location line="+32"/>
         <source>Earning interest</source>
-        <translation type="unfinished"></translation>
+        <translation>มีรายได้ดอกเบี้ย</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Total balance</source>
-        <translation type="unfinished"></translation>
+        <translation>ยอดรวม</translation>
     </message>
     <message>
         <location line="+153"/>
         <source>Edit account name.</source>
-        <translation type="unfinished"></translation>
+        <translation>แก้ไขชื่อบัญชี.</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Accept new account name.</source>
-        <translation type="unfinished"></translation>
+        <translation>ยอมรับชื่อบัญชีใหม่.</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Cancel editing of account name.</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิกการแก้ไขชื่อบัญชี.</translation>
     </message>
     <message>
         <location line="-156"/>
         <source>Available</source>
-        <translation type="unfinished"></translation>
+        <translation>ที่มีจำหน่าย</translation>
     </message>
     <message>
         <location line="+37"/>
         <source>Pending</source>
-        <translation type="unfinished"></translation>
+        <translation>รอดำเนินการ</translation>
     </message>
     <message>
         <location filename="../forms/accountsummaryheaderwidget.cpp" line="+63"/>
         <location line="+9"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>ความผิดพลาด</translation>
     </message>
     <message>
         <location line="-9"/>
         <source>An account with this name already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>บัญชีที่มีชื่อนี้มีอยู่แล้ว.</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Error could not change name of Digital PandaBank account.</source>
-        <translation type="unfinished"></translation>
+        <translation>ข้อผิดพลาดไม่สามารถเปลี่ยนชื่อบัญชี Digital PandaBank.</translation>
     </message>
 </context>
 <context>
@@ -277,7 +277,7 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location line="+14"/>
         <source>&amp;Delete</source>
-        <translation>ลบ</translation>
+        <translation>&amp;ลบ</translation>
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+69"/>
@@ -307,7 +307,7 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location line="+0"/>
         <source>Could not write to file %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่สามารถเขียนไปยังแฟ้ม %1.</translation>
     </message>
 </context>
 <context>
@@ -315,7 +315,7 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location filename="../forms/addressbookpage_new.ui" line="+14"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>กรอบ</translation>
     </message>
     <message>
         <location line="+34"/>
@@ -325,7 +325,7 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location line="+26"/>
         <source>Create a new address</source>
-        <translation type="unfinished">สร้างที่อยู่ใหม่</translation>
+        <translation>สร้างที่อยู่ใหม่</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -335,7 +335,7 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location line="+11"/>
         <source>Copy the currently selected address to the system clipboard</source>
-        <translation type="unfinished">คัดลอกที่อยู่ที่ถูกเลือกไปยัง คลิปบอร์ดของระบบ</translation>
+        <translation>คัดลอกที่อยู่ที่ถูกเลือกไปยัง คลิปบอร์ดของระบบ</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -365,7 +365,7 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location line="+3"/>
         <source>&amp;Delete</source>
-        <translation type="unfinished">ลบ</translation>
+        <translation>&amp;ลบ</translation>
     </message>
     <message>
         <location line="+25"/>
@@ -485,7 +485,7 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location line="-3"/>
         <source>Serves to disable the trivial sendmoney when OS account compromised. Provides no real security.</source>
-        <translation type="unfinished"></translation>
+        <translation>ทำหน้าที่ปิดใช้งาน sendmoney เล็กน้อยเมื่อบัญชี OS ถูกบุกรุก ไม่มีการรักษาความปลอดภัยที่แท้จริง.</translation>
     </message>
     <message>
         <source>Encrypt wallet</source>
@@ -1292,7 +1292,7 @@ Address: %4
     <message>
         <location filename="../clientmodel.cpp" line="+96"/>
         <source>Network Alert</source>
-        <translation type="unfinished"></translation>
+        <translation>Network Alert</translation>
     </message>
 </context>
 <context>
@@ -1554,58 +1554,58 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../forms/createaccountwidget.ui" line="+20"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>กรอบ</translation>
     </message>
     <message>
         <location line="+53"/>
         <source>Creating a new Digital PandaBank account is easy</source>
-        <translation type="unfinished"></translation>
+        <translation>การสร้างบัญชี PandaBank แบบดิจิตอลเป็นเรื่องง่าย</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Create</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้าง</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Account name</source>
-        <translation type="unfinished"></translation>
+        <translation>ชื่อบัญชี</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Account address</source>
-        <translation type="unfinished"></translation>
+        <translation>ที่อยู่บัญชี</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิก</translation>
     </message>
     <message>
         <location filename="../forms/createaccountwidget.cpp" line="+55"/>
         <location line="+19"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>ความผิดพลาด</translation>
     </message>
     <message>
         <location line="-19"/>
         <source>An account with this name already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>บัญชีที่มีชื่อนี้มีอยู่แล้ว.</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Digital PandaBank account created</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้างบัญชี Digital PandaBank แล้ว</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Your Digital PandaBank Account has been created.</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้างบัญชี PandaBank ดิจิตอลของคุณแล้ว.</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Error creating Digital PandaBank account.</source>
-        <translation type="unfinished"></translation>
+        <translation>เกิดข้อผิดพลาดในการสร้างบัญชี Digital PandaBank.</translation>
     </message>
 </context>
 <context>
@@ -1682,42 +1682,42 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location filename="../guiutil.cpp" line="+659"/>
         <location line="+12"/>
         <source>Pandacoin-Qt</source>
-        <translation type="unfinished"></translation>
+        <translation>Pandacoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
         <source>version</source>
-        <translation type="unfinished"></translation>
+        <translation>รุ่น</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Usage:</source>
-        <translation type="unfinished"></translation>
+        <translation>การใช้งาน:</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>command-line options</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัวเลือกบรรทัดคำสั่ง</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>UI options</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัวเลือก UI</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Set language, for example &quot;de_DE&quot; (default: system locale)</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Start minimized</source>
-        <translation type="unfinished"></translation>
+        <translation>เริ่มลดขนาด</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show splash screen on startup (default: 1)</source>
-        <translation type="unfinished"></translation>
+        <translation>แสดงหน้าจอเริ่มต้น (ค่าเริ่มต้น: 1)</translation>
     </message>
 </context>
 <context>
@@ -1727,27 +1727,27 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location filename="../forms/lockbar.cpp" line="+37"/>
         <location line="+5"/>
         <source>Lock</source>
-        <translation type="unfinished"></translation>
+        <translation>ล็อค</translation>
     </message>
     <message>
         <location filename="../forms/lockbar.cpp" line="-3"/>
         <source>Wallet is &lt;b&gt;not encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt; click to encrypt and lock.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wallet ถูกเข้ารหัส &lt;b&gt; ไม่ได้เข้ารหัส &lt;/ b&gt; และ &lt;b&gt; ปลดล็อก &lt;/ b&gt; ในปัจจุบันเพื่อเข้ารหัสและล็อค.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt; click to lock.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wallet ได้รับการเข้ารหัส &lt;b&gt; เข้ารหัส &lt;/ b&gt; และ &lt;b&gt; ปลดล็อก &lt;/ b&gt; ในปัจจุบัน &lt;/ b&gt; เพื่อล็อค.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Unlock</source>
-        <translation type="unfinished"></translation>
+        <translation>ปลดล็อค</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt; click to unlock.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wallet ถูกเข้ารหัส &lt;b&gt; b / b&gt; และ &lt;b&gt; ล็อค &lt;/ b&gt; ในปัจจุบันเพื่อปลดล็อก.</translation>
     </message>
 </context>
 <context>
@@ -1755,7 +1755,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../forms/mainframe.ui" line="+14"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>กรอบ</translation>
     </message>
 </context>
 <context>
@@ -1763,22 +1763,22 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../forms/menubar.ui" line="+55"/>
         <source>Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>โหมด</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>ไฟล์</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>การตั้งค่า</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>ช่วยด้วย</translation>
     </message>
 </context>
 <context>
@@ -2261,57 +2261,57 @@ Should you encounter this error repeatedly please seek assistance.</source>
     <message>
         <location filename="../forms/qrcodedialog.ui" line="+14"/>
         <source>QR Code Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>กรอบข้อความ QR Code</translation>
     </message>
     <message>
         <location line="+59"/>
         <source>Request Payment</source>
-        <translation type="unfinished"></translation>
+        <translation>ขอชำระเงิน</translation>
     </message>
     <message>
         <location line="+56"/>
         <source>Amount:</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวน:</translation>
     </message>
     <message>
         <location line="-44"/>
         <source>Label:</source>
-        <translation type="unfinished"></translation>
+        <translation>ฉลาก:</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Message:</source>
-        <translation type="unfinished"></translation>
+        <translation>ข้อความ:</translation>
     </message>
     <message>
         <location line="+71"/>
         <source>&amp;Save As...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;บันทึกเป็น...</translation>
     </message>
     <message>
         <location filename="../qrcodedialog.cpp" line="+62"/>
         <source>Error encoding URI into QR Code.</source>
-        <translation type="unfinished"></translation>
+        <translation>เกิดข้อผิดพลาดในการเข้ารหัส URI ลงใน QR Code.</translation>
     </message>
     <message>
         <location line="+40"/>
         <source>The entered amount is invalid, please check.</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนเงินที่ป้อนไม่ถูกต้องโปรดตรวจสอบ.</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Resulting URI too long, try to reduce the text for label / message.</source>
-        <translation type="unfinished"></translation>
+        <translation>URI ที่เป็นผลลัพธ์ยาวเกินไปพยายามลดข้อความสำหรับป้ายกำกับ / ข้อความ.</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Save QR Code</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกรหัส QR</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>PNG Images (*.png)</source>
-        <translation type="unfinished"></translation>
+        <translation>ภาพ PNG (* .png)</translation>
     </message>
 </context>
 <context>
@@ -2678,7 +2678,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location filename="../forms/sendcoinstargetwidget.ui" line="+14"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>กรอบ</translation>
     </message>
     <message>
         <location line="+27"/>
@@ -2942,7 +2942,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
         <location filename="../accountmodel.cpp" line="+241"/>
         <location line="+4"/>
         <source>All Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>บัญชีทั้งหมด</translation>
     </message>
 </context>
 <context>
@@ -2950,7 +2950,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location filename="../forms/tabbeddatewidget.ui" line="+20"/>
         <source>TabWidget</source>
-        <translation type="unfinished"></translation>
+        <translation>วิดเจ็ตแท็บ</translation>
     </message>
 </context>
 <context>
@@ -3143,12 +3143,12 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location filename="../forms/transactiondescdialog.ui" line="+14"/>
         <source>Transaction details</source>
-        <translation type="unfinished"></translation>
+        <translation>รายละเอียดธุรกรรม</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>This pane shows a detailed description of the transaction</source>
-        <translation type="unfinished"></translation>
+        <translation>บานหน้าต่างนี้จะแสดงรายละเอียดของธุรกรรม</translation>
     </message>
 </context>
 <context>
@@ -3156,37 +3156,37 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location filename="../forms/transactionfilterwidget.ui" line="+20"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>กรอบ</translation>
     </message>
     <message>
         <location line="+21"/>
         <source> or jump to</source>
-        <translation type="unfinished"></translation>
+        <translation> หรือกระโดดไป</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Show</source>
-        <translation type="unfinished"></translation>
+        <translation>แสดง</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Recent Transactions</source>
-        <translation type="unfinished"></translation>
+        <translation>ธุรกรรมล่าสุด</translation>
     </message>
     <message>
         <location line="+30"/>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่งออก</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Search by keyword</source>
-        <translation type="unfinished"></translation>
+        <translation>ค้นหาโดยใช้คำหลัก</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
 </context>
 <context>
@@ -3331,7 +3331,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+4"/>
         <source>Account balance at end of transaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>ยอดคงเหลือของบัญชี ณ วันสิ้นงวด.</translation>
     </message>
     <message>
         <location line="-539"/>
@@ -3339,27 +3339,27 @@ Please select the &quot;from&quot; address at the top of this page.</source>
         <location line="+19"/>
         <location line="+19"/>
         <source>(n/a)</source>
-        <translation type="unfinished"></translation>
+        <translation>( n / a)</translation>
     </message>
     <message>
         <location line="+466"/>
         <source>Transaction status. Hover over this field to show number of confirmations.</source>
-        <translation type="unfinished"></translation>
+        <translation>สถานะของธุรกรรม วางเมาส์เหนือฟิลด์นี้เพื่อแสดงจำนวนการยืนยัน.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Date and time that the transaction was received.</source>
-        <translation type="unfinished"></translation>
+        <translation>วันที่และเวลาที่ได้รับธุรกรรม.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Type of transaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>ประเภทรายการ.</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Amount removed from or added to balance.</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนเงินที่ลบออกจากหรือเพิ่มลงในยอดคงเหลือ.</translation>
     </message>
 </context>
 <context>
@@ -3456,7 +3456,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+0"/>
         <source>Could not write to file %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่สามารถเขียนไปยังแฟ้ม %1.</translation>
     </message>
 </context>
 <context>
@@ -3464,17 +3464,17 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location filename="../forms/transferpage.ui" line="+14"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>กรอบ</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Transfers</source>
-        <translation type="unfinished"></translation>
+        <translation>บริการรถรับส่ง</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Address Book</source>
-        <translation type="unfinished"></translation>
+        <translation>สมุดที่อยู่</translation>
     </message>
 </context>
 <context>
@@ -3482,7 +3482,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location filename="../walletmodel.cpp" line="+505"/>
         <source>Sending...</source>
-        <translation type="unfinished"></translation>
+        <translation>การส่ง...</translation>
     </message>
 </context>
 <context>
