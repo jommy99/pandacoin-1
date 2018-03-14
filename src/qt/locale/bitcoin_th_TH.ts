@@ -1613,67 +1613,67 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../forms/editaddressdialog.ui" line="+14"/>
         <source>Edit Address</source>
-        <translation type="unfinished"></translation>
+        <translation>แก้ไขที่อยู่</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>&amp;Label</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ฉลาก</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>The label associated with this address book entry</source>
-        <translation type="unfinished"></translation>
+        <translation>The label associated with this address book entry</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>&amp;Address</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;และที่อยู่</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>The address associated with this address book entry. This can only be modified for sending addresses.</source>
-        <translation type="unfinished"></translation>
+        <translation>ที่อยู่ที่เชื่อมโยงกับรายการสมุดที่อยู่นี้ ซึ่งสามารถแก้ไขได้เฉพาะสำหรับการส่งที่อยู่เท่านั้น.</translation>
     </message>
     <message>
         <location filename="../editaddressdialog.cpp" line="+28"/>
         <source>New receiving address</source>
-        <translation type="unfinished"></translation>
+        <translation>ที่อยู่ใหม่</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>New sending address</source>
-        <translation type="unfinished"></translation>
+        <translation>ที่อยู่ใหม่ในการส่ง</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Edit receiving address</source>
-        <translation type="unfinished"></translation>
+        <translation>แก้ไขที่อยู่รับ</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Edit sending address</source>
-        <translation type="unfinished"></translation>
+        <translation>แก้ไขที่อยู่ในการส่ง</translation>
     </message>
     <message>
         <location line="+76"/>
         <source>The entered address &quot;%1&quot; is already in the address book.</source>
-        <translation type="unfinished"></translation>
+        <translation>ที่อยู่ที่ป้อน &quot;%1&quot; อยู่ในสมุดที่อยู่แล้ว.</translation>
     </message>
     <message>
         <location line="-5"/>
         <source>The entered address &quot;%1&quot; is not a valid Pandacoin address.</source>
-        <translation type="unfinished"></translation>
+        <translation>ที่อยู่ที่ป้อน &quot;%1&quot; ไม่ใช่ที่อยู่ Pandacoin ที่ถูกต้อง.</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Could not unlock wallet.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่สามารถปลดล็อกกระเป๋าสตางค์ได้.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>New key generation failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้างคีย์ใหม่ไม่สำเร็จ.</translation>
     </message>
 </context>
 <context>
@@ -2155,22 +2155,22 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="-569"/>
         <source>&lt;b&gt;%1&lt;/b&gt; to %2 (%3)</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;%1 &lt;/ b&gt; ถึง%2 (%3)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Confirm send coins</source>
-        <translation type="unfinished"></translation>
+        <translation>ยืนยันการส่งเหรียญ</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Are you sure you want to send %1?</source>
-        <translation type="unfinished"></translation>
+        <translation>แน่ใจหรือไม่ว่าคุณต้องการส่ง%1?</translation>
     </message>
     <message>
         <location line="+0"/>
         <source> and </source>
-        <translation type="unfinished"></translation>
+        <translation> และ </translation>
     </message>
     <message>
         <location line="+63"/>
@@ -2184,52 +2184,52 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+12"/>
         <location line="+12"/>
         <source>Send Coins</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่งเหรียญ</translation>
     </message>
     <message>
         <location line="-98"/>
         <source>The recipient address is not valid, please recheck.</source>
-        <translation type="unfinished"></translation>
+        <translation>ที่อยู่ผู้รับไม่ถูกต้องโปรดตรวจสอบอีกครั้ง.</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>The amount to pay must be larger than 0.</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนเงินที่ต้องจ่ายต้องมีขนาดใหญ่กว่า 0.</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>The amount exceeds your balance.</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนเงินเกินยอดดุลของคุณ.</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>The amount exceeds your available balance, some of your Pandacoins are currently being used to earn you interest.</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนเงินที่สูงกว่ายอดเงินคงเหลือที่คุณมีอยู่บางส่วนของ Pandacoins ของคุณกำลังถูกนำมาใช้เพื่อให้คุณได้รับดอกเบี้ย.</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>The total exceeds your balance when the %1 transaction fee is included.</source>
-        <translation type="unfinished"></translation>
+        <translation>ยอดรวมเกินยอดเงินของคุณเมื่อมีการรวมค่าธรรมเนียมธุรกรรม%1.</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>The amount exceeds your available balance when the %1 transaction fee is included, some of your Pandacoins are currently being used to earn you interest.</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนเงินเกินกว่ายอดเงินคงเหลือที่คุณมีอยู่เมื่อรวมค่าธรรมเนียมการทำธุรกรรม%1 บางส่วนของ Pandacoins ของคุณกำลังใช้อยู่เพื่อให้คุณได้รับดอกเบี้ย.</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Duplicate address found, can only send to each address once per send operation.</source>
-        <translation type="unfinished"></translation>
+        <translation>พบที่อยู่ซ้ำเท่านั้นสามารถส่งไปยังที่อยู่แต่ละแห่งได้เพียงครั้งเดียวต่อการส่ง.</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Error: Transaction creation failed because transaction size (in Kb) too large.</source>
-        <translation type="unfinished"></translation>
+        <translation>ข้อผิดพลาด: การสร้างธุรกรรมล้มเหลวเนื่องจากขนาดรายการ (ใน Kb) ใหญ่เกินไป.</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Error: Transaction creation failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>ข้อผิดพลาด: การสร้างธุรกรรมล้มเหลว.</translation>
     </message>
     <message>
         <location line="+12"/>
@@ -2683,77 +2683,77 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+27"/>
         <source>Account name</source>
-        <translation type="unfinished"></translation>
+        <translation>ชื่อบัญชี</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>The address to send the payment to  (e.g. PBZ8YVV3XT3WWWd2a1jo4N9WePiwKB3mJE)</source>
-        <translation type="unfinished"></translation>
+        <translation>ที่อยู่เพื่อส่งการชำระเงินไปที่ (เช่น PBZ8YVV3XT3WWWd2a1jo4N9WePiwKB3mJE)</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Enter a Pandacoin address (e.g. PBZ8YVV3XT3WWWd2a1jo4N9WePiwKB3mJE)</source>
-        <translation type="unfinished"></translation>
+        <translation>ป้อนที่อยู่ Pandacoin (เช่น PBZ8YVV3XT3WWWd2a1jo4N9WePiwKB3mJE)</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Choose address from address book</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกที่อยู่จากสมุดที่อยู่</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Alt+A</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+A</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Paste address from clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>วางที่อยู่จากคลิปบอร์ด</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Alt+P</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+P</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Remove this recipient</source>
-        <translation type="unfinished"></translation>
+        <translation>นำผู้รับรายนี้ออก</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Account address</source>
-        <translation type="unfinished"></translation>
+        <translation>ที่อยู่บัญชี</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>ต่อไป</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Add another</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มอีกหนึ่ง</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>▾</source>
-        <translation type="unfinished"></translation>
+        <translation>▾</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Amount</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวน</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>New accounts will automatically be added to your address book</source>
-        <translation type="unfinished"></translation>
+        <translation>ระบบจะเพิ่มบัญชีใหม่ลงในสมุดที่อยู่ของคุณโดยอัตโนมัติ</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Enter an account name for this account address to add it to your address book</source>
-        <translation type="unfinished"></translation>
+        <translation>ป้อนชื่อบัญชีสำหรับที่อยู่ของบัญชีนี้เพื่อเพิ่มลงในสมุดที่อยู่ของคุณ</translation>
     </message>
 </context>
 <context>
