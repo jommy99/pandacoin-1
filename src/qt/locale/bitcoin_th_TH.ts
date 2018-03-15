@@ -212,7 +212,7 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
         <source>Address Book</source>
-        <translation type="unfinished"></translation>
+        <translation>สมุดที่อยู่</translation>
     </message>
     <message>
         <location line="+22"/>
@@ -320,7 +320,7 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location line="+34"/>
         <source>Address Book</source>
-        <translation type="unfinished"></translation>
+        <translation>สมุดที่อยู่</translation>
     </message>
     <message>
         <location line="+26"/>
@@ -330,7 +330,7 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location line="+3"/>
         <source>&amp;New Address</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ที่อยู่ใหม่</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -340,27 +340,27 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location line="+3"/>
         <source>&amp;Copy Address</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;คัดลอกที่อยู่</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Show &amp;QR Code</source>
-        <translation type="unfinished"></translation>
+        <translation>แสดง &amp;QR Code</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Verify a message to ensure it was signed with a specified Pandacoin address</source>
-        <translation type="unfinished"></translation>
+        <translation>ยืนยันข้อความเพื่อให้มั่นใจว่าได้ลงชื่อด้วยที่อยู่ Pandacoin ที่ระบุ</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Verify Message</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ยืนยันข้อความ</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Delete the currently selected address from the list</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบที่อยู่ปัจจุบันที่เลือกออกจากรายการ</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -370,58 +370,58 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location line="+25"/>
         <source>Search address book</source>
-        <translation type="unfinished"></translation>
+        <translation>ค้นหาสมุดที่อยู่</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <location line="+80"/>
         <location line="+245"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>แก้ไข</translation>
     </message>
     <message>
         <location line="+40"/>
         <source>Account address</source>
-        <translation type="unfinished"></translation>
+        <translation>ที่อยู่บัญชี</translation>
     </message>
     <message>
         <location line="-191"/>
         <source>Send Pandacoins</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่ง Pandacoins</translation>
     </message>
     <message>
         <location line="+40"/>
         <source>From</source>
-        <translation type="unfinished"></translation>
+        <translation>จาก</translation>
     </message>
     <message>
         <location line="+36"/>
         <source>Amount</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวน</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>ต่อไป</translation>
     </message>
     <message>
         <location line="+67"/>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>เสร็จสิ้น</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Account name</source>
-        <translation type="unfinished"></translation>
+        <translation>ชื่อบัญชี</translation>
     </message>
     <message>
         <location line="+57"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบ</translation>
     </message>
 </context>
 <context>
@@ -3395,42 +3395,42 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+1"/>
         <source>Edit label</source>
-        <translation type="unfinished"></translation>
+        <translation>แก้ไขป้ายกำกับ</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show transaction details</source>
-        <translation type="unfinished"></translation>
+        <translation>แสดงรายละเอียดธุรกรรม</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show transaction in blockchain explorer</source>
-        <translation type="unfinished"></translation>
+        <translation>แสดงธุรกรรมใน blockchain explorer</translation>
     </message>
     <message>
         <location line="+57"/>
         <source>Export Transaction Data</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่งออกข้อมูลธุรกรรม</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Comma separated file (*.csv)</source>
-        <translation type="unfinished"></translation>
+        <translation>ไฟล์ที่คั่นด้วยจุลภาค (* .csv)</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Confirmed</source>
-        <translation type="unfinished"></translation>
+        <translation>ได้รับการยืนยัน</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>วันที่</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>ชนิด</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3445,17 +3445,17 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+1"/>
         <source>Amount</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวน</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>ID</source>
-        <translation type="unfinished"></translation>
+        <translation>ID</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Error exporting</source>
-        <translation type="unfinished"></translation>
+        <translation>เกิดข้อผิดพลาดในการส่งออก</translation>
     </message>
     <message>
         <location line="+0"/>
