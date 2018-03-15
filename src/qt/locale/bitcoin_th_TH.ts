@@ -232,47 +232,47 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location line="-11"/>
         <source>&amp;New Address</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ที่อยู่ใหม่</translation>
     </message>
     <message>
         <location line="-46"/>
         <source>These are your Pandacoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation type="unfinished"></translation>
+        <translation>นี่คือที่อยู่ Pandacoin ของคุณสำหรับการรับเงิน คุณอาจต้องการให้คนละคนกับผู้ส่งเพื่อให้คุณสามารถติดตามว่าใครจ่ายเงินให้คุณ.</translation>
     </message>
     <message>
         <location line="+60"/>
         <source>&amp;Copy Address</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;คัดลอกที่อยู</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Show &amp;QR Code</source>
-        <translation type="unfinished"></translation>
+        <translation>แสดง &amp;QR Code</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Sign a message to prove you own a Pandacoin address</source>
-        <translation type="unfinished"></translation>
+        <translation>ลงชื่อเข้าใช้เพื่อยืนยันว่าคุณเป็นเจ้าของที่อยู่ Pandacoin</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Sign &amp;Message</source>
-        <translation type="unfinished"></translation>
+        <translation>ลงชื่อและ&amp;ข้อความ</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Delete the currently selected address from the list</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบที่อยู่ปัจจุบันที่เลือกออกจากรายการ</translation>
     </message>
     <message>
         <location line="-14"/>
         <source>Verify a message to ensure it was signed with a specified Pandacoin address</source>
-        <translation type="unfinished"></translation>
+        <translation>ยืนยันข้อความเพื่อให้มั่นใจว่าได้ลงชื่อด้วยที่อยู่ Pandacoin ที่ระบุ</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Verify Message</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ยืนยันข้อความ</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -282,27 +282,27 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location filename="../addressbookpage.cpp" line="+69"/>
         <source>Copy &amp;Label</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอกแล&amp;ะป้ายกำกับ</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;และแก้ไข</translation>
     </message>
     <message>
         <location line="+250"/>
         <source>Export Address Book Data</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่งออกข้อมูลสมุดที่อยู่</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Comma separated file (*.csv)</source>
-        <translation type="unfinished"></translation>
+        <translation>ไฟล์ที่คั่นด้วยจุลภาค (* .csv)</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Error exporting</source>
-        <translation type="unfinished"></translation>
+        <translation>เกิดข้อผิดพลาดในการส่งออก</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -662,148 +662,148 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location filename="../bitcoingui.cpp" line="+309"/>
         <source>Sign &amp;message...</source>
-        <translation type="unfinished"></translation>
+        <translation>ลงชื่อแ&amp;ละข้อความ ...</translation>
     </message>
     <message>
         <location line="+506"/>
         <source>Synchronizing with network...</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังซิงค์กับเครือข่าย ...</translation>
     </message>
     <message>
         <location line="-570"/>
         <source>&amp;Overview</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;และภาพรวม</translation>
     </message>
     <message>
         <location line="-156"/>
         <source>Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>Digital PandaBank</translation>
     </message>
     <message>
         <location line="+58"/>
         <source>My Home</source>
-        <translation type="unfinished"></translation>
+        <translation>บ้านของฉัน</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>View Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>ดูบัญชีดูบัญชี</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Transfers</source>
-        <translation type="unfinished"></translation>
+        <translation>บริการรถรับส่ง</translation>
     </message>
     <message>
         <location line="+96"/>
         <source>Show general overview of wallet</source>
-        <translation type="unfinished"></translation>
+        <translation>แสดงภาพรวมทั่วไปของกระเป๋าสตางค์</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Send coins to a Digital PandaBank address</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่งเหรียญไปยังที่อยู่ Digital PandaBank</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>&amp;Transactions</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;การทำธุรกรรม</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Browse transaction history</source>
-        <translation type="unfinished"></translation>
+        <translation>เรียกดูประวัติการทำธุรกรรม</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>&amp;Address Book</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;สมุดที่อยู่</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Edit the list of stored addresses and labels</source>
-        <translation type="unfinished"></translation>
+        <translation>แก้ไขรายการที่อยู่ที่เก็บไว้และป้ายกำกับ</translation>
     </message>
     <message>
         <location line="-13"/>
         <source>&amp;Receive coins</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;รับเหรียญ</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show the list of addresses for receiving payments</source>
-        <translation type="unfinished"></translation>
+        <translation>แสดงรายการที่อยู่สำหรับรับการชำระเงิน</translation>
     </message>
     <message>
         <location line="-7"/>
         <source>&amp;Send coins</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;และส่งเหรียญ</translation>
     </message>
     <message>
         <location line="+33"/>
         <source>E&amp;xit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ออก</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Quit application</source>
-        <translation type="unfinished"></translation>
+        <translation>ออกจากแอพพลิเคชัน</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>About &amp;Qt</source>
-        <translation type="unfinished"></translation>
+        <translation>เกี่ยวกับ &amp;Qt</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show information about Qt</source>
-        <translation type="unfinished"></translation>
+        <translation>แสดงข้อมูลเกี่ยวกับ Qt</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Options...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ตัวเลือก...</translation>
     </message>
     <message>
         <location line="+537"/>
         <source>Downloaded %1 of %2 blocks of transaction history (%3% done).</source>
-        <translation type="unfinished"></translation>
+        <translation>ดาวน์โหลด%1 จาก%2 บล็อคประวัติการทำธุรกรรม (%3% เสร็จสิ้น).</translation>
     </message>
     <message>
         <location line="-512"/>
         <source>&amp;Export...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ส่งออก...</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Export the data in the current tab to a file</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่งออกข้อมูลในแท็บปัจจุบันไปยังไฟล์</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Debug window</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;หน้าต่างดีบัก</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Open debugging and diagnostic console</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดการแก้จุดบกพร่องและคอนโซลการวินิจฉัย</translation>
     </message>
     <message>
         <location line="-12"/>
         <source>&amp;Verify message...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ยืนยันข้อความ ...</translation>
     </message>
     <message>
         <location line="-13"/>
         <source>&amp;Show / Hide</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;แสดงซ่อน</translation>
     </message>
     <message>
         <location line="+102"/>
         <location line="+9"/>
         <source>[testnet]</source>
-        <translation type="unfinished"></translation>
+        <translation>[testnet]</translation>
     </message>
     <message>
         <location line="+141"/>
@@ -1284,7 +1284,7 @@ Address: %4
     <message>
         <location filename="../bitcoin.cpp" line="+112"/>
         <source>A fatal error occurred. Pandacoin can no longer continue safely and will quit.</source>
-        <translation type="unfinished"></translation>
+        <translation>เกิดข้อผิดพลาดร้ายแรงขึ้น Pandacoin ไม่สามารถดำเนินการต่อได้อย่างปลอดภัยและจะเลิก.</translation>
     </message>
 </context>
 <context>
@@ -2026,128 +2026,128 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../forms/overviewpage.ui" line="+14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>ฟอร์ม</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>Welcome to your Digital PandaBank, You last logged on at &lt;TIME&gt; on &lt;DATE&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>ยินดีต้อนรับสู่ Digital PandaBank ของคุณคุณเข้าสู่ระบบครั้งล่าสุดเมื่อ &lt;TIME&gt; ในวันที่ &lt;DATE&gt;</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>My Portfolio</source>
-        <translation type="unfinished"></translation>
+        <translation>ผลงานของฉัน</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>More</source>
-        <translation type="unfinished"></translation>
+        <translation>มากกว่า</translation>
     </message>
     <message>
         <location line="+58"/>
         <source>Portfolio Summary</source>
-        <translation type="unfinished"></translation>
+        <translation>สรุปผลงาน</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Available</source>
-        <translation type="unfinished"></translation>
+        <translation>ที่มีจำหน่าย</translation>
     </message>
     <message>
         <location line="+45"/>
         <source>Earning Interest</source>
-        <translation type="unfinished"></translation>
+        <translation>รายได้ดอกเบี้ย</translation>
     </message>
     <message>
         <location line="+42"/>
         <source>Pending</source>
-        <translation type="unfinished"></translation>
+        <translation>รอดำเนินการ</translation>
     </message>
     <message>
         <location line="+45"/>
         <source>Total Balance</source>
-        <translation type="unfinished"></translation>
+        <translation>ยอดคงเหลือทั้งหมด</translation>
     </message>
     <message>
         <location line="+48"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: &lt;span style=&quot; font-weight:600;&quot;&gt;Available&lt;/span&gt; is the amount of PND that is available for you to spend or transfer. &lt;span style=&quot; font-weight:600;&quot;&gt;Earning Interest&lt;/span&gt; is the amount of PND that is currently being used to generate interest. &lt;span style=&quot; font-weight:600;&quot;&gt;Pending&lt;/span&gt; is the amount of recent incoming PND from another account address waiting to be transferred to your account. &lt;span style=&quot; font-weight:600;&quot;&gt;Total Balance&lt;/span&gt; is the sum total of PND of all your account balances. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;span&gt; = &quot;font-weight: 600;&quot;&gt; พร้อมใช้งาน &lt;/ span&gt; คือจำนวน PND ที่คุณสามารถใช้ได้หรือโอนย้าย &lt;span style = &quot;font-weight: 600;&quot;&gt; รายได้ที่น่าสนใจ &lt;/ span&gt; คือจำนวนเงิน PND ที่กำลังใช้ในการสร้างดอกเบี้ย &lt;span style = &quot;font-weight: 600;&quot;&gt; รอดำเนินการ &lt;/ span&gt; คือจำนวนเงินที่เข้ามาล่าสุด PND จากที่อยู่บัญชีอื่นที่รอการโอนไปยังบัญชีของคุณ &lt;span style = &quot;font-weight: 600;&quot;&gt; ยอดรวม &lt;/ span&gt; คือยอดรวมของ PND ของยอดคงเหลือในบัญชีทั้งหมดของคุณ &lt;/ p&gt; &lt;/ body&gt; &lt;/ html&gt;</translation>
     </message>
     <message>
         <location line="+89"/>
         <source>Quick Transfer</source>
-        <translation type="unfinished"></translation>
+        <translation>Quick Transfer</translation>
     </message>
     <message>
         <location line="+30"/>
         <source>To</source>
-        <translation type="unfinished"></translation>
+        <translation>ไปยัง</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Amount</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนs</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>From</source>
-        <translation type="unfinished"></translation>
+        <translation>จาก</translation>
     </message>
     <message>
         <location line="+71"/>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>ต่อไป</translation>
     </message>
     <message>
         <location line="-365"/>
         <source>Your current spendable balance</source>
-        <translation type="unfinished"></translation>
+        <translation>ยอดคงเหลือที่สามารถชำระได้ในปัจจุบันของคุณ</translation>
     </message>
     <message>
         <location line="+132"/>
         <source>Your current total balance</source>
-        <translation type="unfinished"></translation>
+        <translation>ยอดรวมปัจจุบันของคุณ</translation>
     </message>
     <message>
         <location line="-45"/>
         <source>Total of transactions that have yet to be confirmed, and do not yet count toward the current balance</source>
-        <translation type="unfinished"></translation>
+        <translation>ยอดรวมของธุรกรรมที่ยังไม่ได้รับการยืนยันและยังไม่นับรวมยอดคงเหลือปัจจุบัน</translation>
     </message>
     <message>
         <location line="-42"/>
         <source>Total of coins that was staked, and do not yet count toward the current balance</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนเหรียญทั้งหมดที่ถูกวางเดิมพันและยังไม่นับรวมกับยอดเงินปัจจุบัน</translation>
     </message>
     <message>
         <location filename="../overviewpage.cpp" line="+44"/>
         <source>Copy account address</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอกที่อยู่บัญชี</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy account name</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอกชื่อบัญชี</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy account balance</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอกยอดคงเหลือในบัญชี</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Welcome to your Digital PandaBank, You last logged on at</source>
-        <translation type="unfinished"></translation>
+        <translation>ยินดีต้อนรับสู่ Digital PandaBank ของคุณคุณเข้าสู่ระบบครั้งล่าสุดเมื่อวันที่</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>on</source>
-        <translation type="unfinished"></translation>
+        <translation>บน</translation>
     </message>
     <message>
         <location line="+96"/>
         <location line="+7"/>
         <source>Select account</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกบัญชี</translation>
     </message>
 </context>
 <context>
@@ -2234,17 +2234,17 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+12"/>
         <source>Error: The transaction was rejected. This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation type="unfinished"></translation>
+        <translation>ข้อผิดพลาด: ธุรกรรมถูกปฏิเสธ กรณีนี้อาจเกิดขึ้นหากมีการใช้เหรียญบางส่วนในกระเป๋าสตางค์ของคุณเช่นหากคุณใช้สำเนา wallet.dat และเหรียญถูกนำไปใช้ในการคัดลอก แต่ไม่ได้ทำเครื่องหมายว่าใช้จ่ายไปแล้วในที่นี้.</translation>
     </message>
     <message>
         <location filename="../pandastyles.cpp" line="+18"/>
         <source>Arial, &apos;Helvetica Neue&apos;, Helvetica, sans-serif</source>
-        <translation type="unfinished"></translation>
+        <translation>Arial, &apos;Helvetica Neue&apos;, Helvetica, sans-serif</translation>
     </message>
     <message>
         <location filename="../../init.cpp" line="+850"/>
         <source>My account</source>
-        <translation type="unfinished"></translation>
+        <translation>บัญชีของฉัน</translation>
     </message>
     <message>
         <location filename="../../main.cpp" line="+928"/>
@@ -2253,7 +2253,11 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
 
 The most likely cause of this error is a problem with your local blockchain, so the blockchain will now reset itself and sync again.
 Should you encounter this error repeatedly please seek assistance.</source>
-        <translation type="unfinished"></translation>
+        <translation>พบข้อผิดพลาดในการซิงค์:
+% s
+
+สาเหตุที่เป็นไปได้มากที่สุดของข้อผิดพลาดนี้คือปัญหาเกี่ยวกับ blockchain ในระบบของคุณดังนั้น blockchain จะตั้งค่าใหม่และซิงค์อีกครั้ง
+หากคุณพบข้อผิดพลาดนี้ซ้ำ ๆ โปรดขอความช่วยเหลือ.</translation>
     </message>
 </context>
 <context>
@@ -2319,7 +2323,7 @@ Should you encounter this error repeatedly please seek assistance.</source>
     <message>
         <location filename="../forms/rpcconsole.ui" line="+46"/>
         <source>Client name</source>
-        <translation type="unfinished"></translation>
+        <translation>ชื่อลูกค้า</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2333,132 +2337,132 @@ Should you encounter this error repeatedly please seek assistance.</source>
         <location line="+23"/>
         <location filename="../rpcconsole.cpp" line="+351"/>
         <source>N/A</source>
-        <translation type="unfinished"></translation>
+        <translation>N/A</translation>
     </message>
     <message>
         <location line="-217"/>
         <source>Client version</source>
-        <translation type="unfinished"></translation>
+        <translation>เวอร์ชันไคลเอ็นต์</translation>
     </message>
     <message>
         <location line="-45"/>
         <source>&amp;Information</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ข้อมูล</translation>
     </message>
     <message>
         <location line="+68"/>
         <source>Using OpenSSL version</source>
-        <translation type="unfinished"></translation>
+        <translation>ใช้ OpenSSL เวอร์ชัน</translation>
     </message>
     <message>
         <location line="+49"/>
         <source>Startup time</source>
-        <translation type="unfinished"></translation>
+        <translation>เวลาเริ่มต้น</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>Network</source>
-        <translation type="unfinished"></translation>
+        <translation>เครือข่าย</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Number of connections</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนการเชื่อมต่อ</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>On testnet</source>
-        <translation type="unfinished"></translation>
+        <translation>บน testnet</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Block chain</source>
-        <translation type="unfinished"></translation>
+        <translation>ห่วงโซ่ที่ถูกบล็อก</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Current number of blocks</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนบล็อคปัจจุบัน</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Estimated total blocks</source>
-        <translation type="unfinished"></translation>
+        <translation>บล็อกทั้งหมดโดยประมาณ</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Last block time</source>
-        <translation type="unfinished"></translation>
+        <translation>เวลาปิดกั้นครั้งล่าสุด</translation>
     </message>
     <message>
         <location line="+52"/>
         <source>&amp;Open</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;เปิด</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Command-line options</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัวเลือกบรรทัดคำสั่ง</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Show the Pandacoin-Qt help message to get a list with possible Pandacoin command-line options.</source>
-        <translation type="unfinished"></translation>
+        <translation>แสดงข้อความช่วยเหลือ Pandacoin-Qt เพื่อดูรายการที่มีตัวเลือกบรรทัดคำสั่ง Pandacoin ที่เป็นไปได้.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Show</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;แสดง</translation>
     </message>
     <message>
         <location line="+24"/>
         <source>&amp;Console</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;และคอนโซล</translation>
     </message>
     <message>
         <location line="-260"/>
         <source>Build date</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้างวันที่</translation>
     </message>
     <message>
         <location line="-104"/>
         <source>Pandacoin - Debug window</source>
-        <translation type="unfinished"></translation>
+        <translation>Pandacoin - หน้าต่างดีบัก</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Pandacoin Core</source>
-        <translation type="unfinished"></translation>
+        <translation>Pandacoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
         <source>Debug log file</source>
-        <translation type="unfinished"></translation>
+        <translation>ไฟล์บันทึกข้อผิดพลาด</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Open the Pandacoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดไฟล์บันทึกการแก้ปัญหา Pandacoin จากไดเร็กทอรีข้อมูลปัจจุบัน อาจใช้เวลาสักครู่สำหรับไฟล์บันทึกขนาดใหญ่.</translation>
     </message>
     <message>
         <location line="+102"/>
         <source>Clear console</source>
-        <translation type="unfinished"></translation>
+        <translation>ล้างคอนโซล</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
         <source>Welcome to the Pandacoin RPC console.</source>
-        <translation type="unfinished"></translation>
+        <translation>ยินดีต้อนรับสู่คอนโซล Pandacoin RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
-        <translation type="unfinished"></translation>
+        <translation>ใช้ลูกศรขึ้นและลงเพื่อนำทางประวัติและ &lt;b&gt; Ctrl-L &lt;/ b&gt; เพื่อล้างหน้าจอ.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
-        <translation type="unfinished"></translation>
+        <translation>พิมพ์ &lt;b&gt; help &lt;/ b&gt; เพื่อดูภาพรวมของคำสั่งที่พร้อมใช้งาน.</translation>
     </message>
 </context>
 <context>
@@ -3371,22 +3375,22 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location filename="../transactionview.cpp" line="+69"/>
         <source>Copy address</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอกที่อยู่</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy label</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอกฉลาก</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy amount</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนสำเนา</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy transaction ID</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอก ID ธุรกรรม</translation>
     </message>
     <message>
         <location line="+1"/>
