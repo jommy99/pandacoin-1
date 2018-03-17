@@ -447,28 +447,28 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location filename="../forms/askpassphrasedialog.ui" line="+26"/>
         <source>Passphrase Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>กล่องโต้ตอบวลีรหัสผ่าน</translation>
     </message>
     <message>
         <location line="+21"/>
         <location filename="../askpassphrasedialog.cpp" line="+46"/>
         <source>Enter password</source>
-        <translation type="unfinished"></translation>
+        <translation>ใส่รหัสผ่าน</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>New password</source>
-        <translation type="unfinished"></translation>
+        <translation>รหัสผ่านใหม่</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Repeat new password</source>
-        <translation type="unfinished"></translation>
+        <translation>ทำซ้ำรหัสผ่านใหม่</translation>
     </message>
     <message>
         <location line="+39"/>
         <source>For earning interest only</source>
-        <translation type="unfinished"></translation>
+        <translation>สำหรับรายได้ที่น่าสนใจเท่านั้น</translation>
     </message>
     <message>
         <source>Enter passphrase</source>
@@ -514,88 +514,88 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location filename="../askpassphrasedialog.cpp" line="-7"/>
         <source>Enter the new password to the wallet.&lt;br/&gt;Please use a password of &lt;b&gt;10 or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>ใส่รหัสผ่านใหม่ลงในกระเป๋าสตางค์ &lt;br/&gt; โปรดใช้รหัสผ่านของ &lt;b&gt; อักขระแบบสุ่ม 10 ตัวขึ้นไป &lt;b&gt; แปดหรือมากกว่าหนึ่งคำ &lt;/ b&gt;.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Encrypt Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>เข้ารหัส Digital PandaBank</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Log on to Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>เข้าสู่ Digital PandaBank</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Please enter your Digital PandaBank password to log on to Digital PandaBank.</source>
-        <translation type="unfinished"></translation>
+        <translation>กรุณาใส่รหัสผ่าน PandaBank ดิจิตอลของคุณเพื่อเข้าสู่ Digital PandaBank.</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>LOG ON</source>
-        <translation type="unfinished"></translation>
+        <translation>เข้าสู่ระบบ</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>This operation needs your Digital PandaBank password to unlock Digital PandaBank.</source>
-        <translation type="unfinished"></translation>
+        <translation>การดำเนินการนี้ต้องการรหัสผ่าน PandaBank ดิจิตอลของคุณเพื่อปลดล็อก Digital PandaBank.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Unlock Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>ปลดล็อก PandaBank ดิจิตอล</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>This operation needs your Digital PandaBank password to decrypt Digital PandaBank.</source>
-        <translation type="unfinished"></translation>
+        <translation>การดำเนินการนี้ต้องการรหัสผ่าน PandaBank แบบดิจิตอลของคุณเพื่อถอดรหัส Digital PandaBank.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Decrypt Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>ถอดรหัส Digital PandaBank</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Change password</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนรหัสผ่าน</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Enter the old and new password to Digital PandaBank.</source>
-        <translation type="unfinished"></translation>
+        <translation>ป้อนรหัสผ่านเดิมและรหัสผ่านใหม่ของ Digital PandaBank.</translation>
     </message>
     <message>
         <location line="+46"/>
         <source>Confirm Digital PandaBank encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>ยืนยันการเข้ารหัส PandaBank แบบดิจิตอล</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Warning: If you encrypt your Digital PandaBank and lose your password, you will &lt;b&gt;LOSE ALL OF YOUR COINS&lt;/b&gt;!</source>
-        <translation type="unfinished"></translation>
+        <translation>คำเตือน: หากคุณเข้ารหัส PandaBank ดิจิตอลและสูญเสียรหัสผ่านของคุณคุณจะ &lt;b&gt; สูญเสียเหรียญทั้งหมดของคุณ &lt;/ b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Are you sure you wish to encrypt your Digital PandaBank?</source>
-        <translation type="unfinished"></translation>
+        <translation>คุณแน่ใจหรือไม่ว่าต้องการเข้ารหัส Digital PandaBank?</translation>
     </message>
     <message>
         <location line="+9"/>
         <location line="+61"/>
         <source>Digital PandaBank encrypted</source>
-        <translation type="unfinished"></translation>
+        <translation>Digital PandaBank ถูกเข้ารหัส</translation>
     </message>
     <message>
         <location line="-59"/>
         <source>Digital PandaBank will close now to finish the encryption process. Remember that encrypting your Digital PandaBank cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Digital PandaBank จะปิดตอนนี้เพื่อสิ้นสุดขั้นตอนการเข้ารหัส โปรดทราบว่าการเข้ารหัสลับ Digital PandaBank ของคุณไม่สามารถป้องกันเหรียญของคุณจากการถูกโจรกรรมจากมัลแวร์ที่ติดไวรัสคอมพิวเตอร์ของคุณได้อย่างเต็มที่.</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
-        <translation type="unfinished"></translation>
+        <translation>ข้อมูลสำคัญ: การสำรองข้อมูลก่อนหน้าใด ๆ ที่คุณทำจากกระเป๋าสตางค์ของคุณควรถูกแทนที่โดยใช้ไฟล์กระเป๋าสตางค์ที่เข้ารหัสลับใหม่ที่สร้างขึ้น เพื่อความปลอดภัยการสำรองข้อมูลก่อนหน้าของไฟล์กระเป๋าสตางค์ที่ไม่ได้เข้ารหัสจะกลายเป็นสิ่งที่ไม่ได้ผลทันทีที่คุณเริ่มใช้กระเป๋าเงินที่เข้ารหัสใหม่.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -603,12 +603,12 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
         <location line="+45"/>
         <location line="+6"/>
         <source>Digital PandaBank encryption failed</source>
-        <translation type="unfinished"></translation>
+        <translation>การเข้ารหัสดิจิตอล PandaBank ล้มเหลว</translation>
     </message>
     <message>
         <location line="-57"/>
         <source>Digital PandaBank encryption failed due to an internal error. Your Digital PandaBank was not encrypted.</source>
-        <translation type="unfinished"></translation>
+        <translation>การเข้ารหัสดิจิตอล PandaBank ล้มเหลวเนื่องจากข้อผิดพลาดภายใน PandaBank ดิจิตอลของคุณไม่ได้รับการเข้ารหัส.</translation>
     </message>
     <message>
         <location line="+7"/>
