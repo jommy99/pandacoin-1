@@ -808,7 +808,7 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location line="+141"/>
         <source>%1 active %2 to Digital PandaBank network</source>
-        <translation>ส่งเหรียญไปยังที่อยู่ Digital PandaBank</translation>
+        <translation>%1 active %2  ส่งเหรียญไปยังที่อยู่ Digital PandaBank</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -823,17 +823,17 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location line="+16"/>
         <source>Searching for peers.</source>
-        <translation>ค้นหาโดยใช้คำหลัก</translation>
+        <translation>ค้นหาโดยใช้คำหลัก.</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Connecting to peers.</source>
-        <translation>ค้นหาโดยใช้คำหลัก</translation>
+        <translation>ค้นหาโดยใช้คำหลัก.</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Fetching checkpoints.</source>
-        <translation>ค้นหาโดยใช้คำหลัก</translation>
+        <translation>ค้นหาโดยใช้คำหลัก.</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -938,7 +938,7 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location line="+30"/>
         <source>Rapid Blockchain Download (Phase 2 of 2).</source>
-        <translation>ดาวน์โหลด%1 จาก%2 บล็อคประวัติการทำธุรกรรม (%3% เสร็จสิ้น).</translation>
+        <translation>ดาวน์โหลด  จาก   บล็อคประวัติการทำธุรกรรม (  % เสร็จสิ้น).</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1289,7 +1289,7 @@ Address: %4
     <message>
         <location line="+0"/>
         <source>There was an error trying to save the wallet data to the new location.</source>
-        <translation>ที่อยู่ที่ป้อน &quot;%1&quot; ไม่ใช่ที่อยู่ Pandacoin ที่ถูกต้อง.</translation>
+        <translation>ที่อยู่ที่ป้อน &quot;&quot; ไม่ใช่ที่อยู่ Pandacoin ที่ถูกต้อง.</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+112"/>
