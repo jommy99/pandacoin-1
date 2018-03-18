@@ -614,35 +614,35 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
         <location line="+7"/>
         <location line="+51"/>
         <source>The supplied passwords do not match.</source>
-        <translation type="unfinished"></translation>
+        <translation>รหัสผ่านที่ให้มาไม่ตรงกัน.</translation>
     </message>
     <message>
         <location line="-38"/>
         <source>Digital PandaBank unlock failed</source>
-        <translation type="unfinished"></translation>
+        <translation>ปลดล็อก PandaBank ดิจิตอล</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+12"/>
         <location line="+19"/>
         <source>The password entered for your Digital PandaBank was incorrect.</source>
-        <translation type="unfinished"></translation>
+        <translation>ป้อนรหัสผ่านเดิมและรหัสผ่านใหม่ของ Digital PandaBank.</translation>
     </message>
     <message>
         <location line="-20"/>
         <source>Digital PandaBank decryption failed</source>
-        <translation type="unfinished"></translation>
+        <translation>การเข้ารหัสดิจิตอล PandaBank ล้มเหลว</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Wallet password was successfully changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>รหัสผ่านที่ให้มาไม่ตรงกัน.</translation>
     </message>
     <message>
         <location line="+49"/>
         <location line="+24"/>
         <source>Warning: The Caps Lock key is on!</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -808,32 +808,32 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location line="+141"/>
         <source>%1 active %2 to Digital PandaBank network</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่งเหรียญไปยังที่อยู่ Digital PandaBank</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>connection</source>
-        <translation type="unfinished"></translation>
+        <translation>การทำธุรกรรม</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>connections</source>
-        <translation type="unfinished"></translation>
+        <translation>การทำธุรกรรม</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Searching for peers.</source>
-        <translation type="unfinished"></translation>
+        <translation>ค้นหาโดยใช้คำหลัก</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Connecting to peers.</source>
-        <translation type="unfinished"></translation>
+        <translation>ค้นหาโดยใช้คำหลัก</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Fetching checkpoints.</source>
-        <translation type="unfinished"></translation>
+        <translation>ค้นหาโดยใช้คำหลัก</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -845,51 +845,51 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
         <location line="+29"/>
         <location line="+29"/>
         <source>%1 %2 remaining</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="-217"/>
         <source>checkpoint</source>
-        <translation type="unfinished"></translation>
+        <translation>ค้นหาโดยใช้คำหลัก</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>checkpoints</source>
-        <translation type="unfinished"></translation>
+        <translation>ค้นหาโดยใช้คำหลัก</translation>
     </message>
     <message>
         <location line="+22"/>
         <location line="+33"/>
         <source>Performing Instant Sync</source>
-        <translation type="unfinished"></translation>
+        <translation>สำหรับรายได้ที่น่าสนใจเท่านั้น</translation>
     </message>
     <message>
         <location line="-31"/>
         <source>(Phase 1 of 3)</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนรหัสผ่าน</translation>
     </message>
     <message>
         <location line="+9"/>
         <location line="+96"/>
         <source>header</source>
-        <translation type="unfinished"></translation>
+        <translation>ช่วยด้วย</translation>
     </message>
     <message>
         <location line="-96"/>
         <location line="+96"/>
         <source>headers</source>
-        <translation type="unfinished"></translation>
+        <translation>ช่วยด้วย</translation>
     </message>
     <message>
         <location line="-88"/>
         <location line="+96"/>
         <source>Downloaded %1 of %2 headers (%3% done).</source>
-        <translation type="unfinished"></translation>
+        <translation>ดาวน์โหลด%1 จาก%2 บล็อคประวัติการทำธุรกรรม (%3% เสร็จสิ้น).</translation>
     </message>
     <message>
         <location line="-80"/>
         <source>(Phase 2 of 3)</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนรหัสผ่าน</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -898,7 +898,7 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
         <location line="+29"/>
         <location line="+29"/>
         <source>block</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="-151"/>
@@ -907,53 +907,53 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
         <location line="+29"/>
         <location line="+29"/>
         <source>blocks</source>
-        <translation type="unfinished"></translation>
+        <translation>ปลดล็อค</translation>
     </message>
     <message>
         <location line="-143"/>
         <location line="+93"/>
         <source>Downloaded %1 of %2 blocks (%3% done).</source>
-        <translation type="unfinished"></translation>
+        <translation>ดาวน์โหลด%1 จาก%2 บล็อคประวัติการทำธุรกรรม (%3% เสร็จสิ้น).</translation>
     </message>
     <message>
         <location line="-79"/>
         <source>Scanning wallet transactions</source>
-        <translation type="unfinished"></translation>
+        <translation>แสดงรายละเอียดธุรกรรม</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>(Phase 3 of 3)</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนรหัสผ่าน</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Scanned %1 of %2 blocks (%3% done).</source>
-        <translation type="unfinished"></translation>
+        <translation>ดาวน์โหลด%1 จาก%2 บล็อคประวัติการทำธุรกรรม (%3% เสร็จสิ้น).</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Rapid Blockchain Download (Phase 1 of 2).</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+30"/>
         <source>Rapid Blockchain Download (Phase 2 of 2).</source>
-        <translation type="unfinished"></translation>
+        <translation>ดาวน์โหลด%1 จาก%2 บล็อคประวัติการทำธุรกรรม (%3% เสร็จสิ้น).</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>Verify blockchain.</source>
-        <translation type="unfinished"></translation>
+        <translation>ห่วงโซ่ที่ถูกบล็อก</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Verified %1 of %2 blocks (%3% done).</source>
-        <translation type="unfinished"></translation>
+        <translation>ดาวน์โหลด%1 จาก%2 บล็อคประวัติการทำธุรกรรม (%3% เสร็จสิ้น).</translation>
     </message>
     <message>
         <location line="+37"/>
         <source>Downloaded %1 blocks of transaction history.</source>
-        <translation type="unfinished"></translation>
+        <translation>ดาวน์โหลด%1 จาก%2 บล็อคประวัติการทำธุรกรรม (%3% เสร็จสิ้น).</translation>
     </message>
     <message>
         <location line="+24"/>
@@ -961,66 +961,66 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
         <location line="+4"/>
         <location line="+4"/>
         <source>%1 %2 ago</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="-12"/>
         <location line="+454"/>
         <source>second</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่งเหรียญ</translation>
     </message>
     <message>
         <location line="-454"/>
         <location line="+454"/>
         <source>seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่งเหรียญ</translation>
     </message>
     <message>
         <location line="-450"/>
         <location line="+454"/>
         <source>minute</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="-454"/>
         <location line="+454"/>
         <source>minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>ข้อความ:</translation>
     </message>
     <message>
         <location line="-450"/>
         <location line="+454"/>
         <source>hour</source>
-        <translation type="unfinished"></translation>
+        <translation>ช่วยด้วย</translation>
     </message>
     <message>
         <location line="-454"/>
         <location line="+454"/>
         <source>hours</source>
-        <translation type="unfinished"></translation>
+        <translation>ช่วยด้วย</translation>
     </message>
     <message>
         <location line="-450"/>
         <location line="+454"/>
         <source>day</source>
-        <translation type="unfinished"></translation>
+        <translation>วันที่</translation>
     </message>
     <message>
         <location line="-454"/>
         <location line="+454"/>
         <source>days</source>
-        <translation type="unfinished"></translation>
+        <translation>วันที่</translation>
     </message>
     <message>
         <location line="-250"/>
         <location line="+15"/>
         <source>URI can not be parsed! This can be caused by an invalid Digital PandaBank address or malformed URI parameters.</source>
-        <translation type="unfinished"></translation>
+        <translation>คำเตือน: หากคุณเข้ารหัส PandaBank ดิจิตอลและสูญเสียรหัสผ่านของคุณคุณจะ &lt;b&gt; สูญเสียเหรียญทั้งหมดของคุณ &lt;/ b&gt;!</translation>
     </message>
     <message>
         <location line="+116"/>
         <source>Activate Digital PandaBank ‘Classic’</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1029,12 +1029,12 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
 Switching to Digital PandaBank &apos;Classic&apos; from other modes will wipe out your existing blockchain data.
 
 Activate Digital PandaBank &apos;Classic&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;span&gt; = &quot;font-weight: 600;&quot;&gt; พร้อมใช้งาน &lt;/ span&gt; คือจำนวน PND ที่คุณสามารถใช้ได้หรือโอนย้าย &lt;span style = &quot;font-weight: 600;&quot;&gt; รายได้ที่น่าสนใจ &lt;/ span&gt; คือจำนวนเงิน PND ที่กำลังใช้ในการสร้างดอกเบี้ย &lt;span style = &quot;font-weight: 600;&quot;&gt; รอดำเนินการ &lt;/ span&gt; คือจำนวนเงินที่เข้ามาล่าสุด PND จากที่อยู่บัญชีอื่นที่รอการโอนไปยังบัญชีของคุณ &lt;span style = &quot;font-weight: 600;&quot;&gt; ยอดรวม &lt;/ span&gt; คือยอดรวมของ PND ของยอดคงเหลือในบัญชีทั้งหมดของคุณ &lt;/ p&gt; &lt;/ body&gt; &lt;/ html&gt;</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Activate Digital PandaBank ‘Hybrid’</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้างบัญชี Digital PandaBank แล้ว</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1043,12 +1043,12 @@ Activate Digital PandaBank &apos;Classic&apos;?</source>
 Digital PandaBank &apos;Hybrid allows you to earn interest and help secure the Pandacoin Network in approximately 5 to 15 minutes after installation, once both synchronization and download of the blockchain is completed.
 
 Activate Digital PandaBank &apos;Hybrid&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;span&gt; = &quot;font-weight: 600;&quot;&gt; พร้อมใช้งาน &lt;/ span&gt; คือจำนวน PND ที่คุณสามารถใช้ได้หรือโอนย้าย &lt;span style = &quot;font-weight: 600;&quot;&gt; รายได้ที่น่าสนใจ &lt;/ span&gt; คือจำนวนเงิน PND ที่กำลังใช้ในการสร้างดอกเบี้ย &lt;span style = &quot;font-weight: 600;&quot;&gt; รอดำเนินการ &lt;/ span&gt; คือจำนวนเงินที่เข้ามาล่าสุด PND จากที่อยู่บัญชีอื่นที่รอการโอนไปยังบัญชีของคุณ &lt;span style = &quot;font-weight: 600;&quot;&gt; ยอดรวม &lt;/ span&gt; คือยอดรวมของ PND ของยอดคงเหลือในบัญชีทั้งหมดของคุณ &lt;/ p&gt; &lt;/ body&gt; &lt;/ html&gt;</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Activate Digital PandaBank ‘Lite’</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้างบัญชี Digital PandaBank แล้ว</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1057,17 +1057,27 @@ Activate Digital PandaBank &apos;Hybrid&apos;?</source>
 Pandacoin &apos;Lite&apos; DOES NOT allow you to earn interest or help secure the Pandacoin Network.
 
 Activate Digital PandaBank &apos;Lite&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>นี่เป็นซอฟต์แวร์ทดลอง
+
+แจกจ่ายภายใต้ใบอนุญาตซอฟต์แวร์ MIT / X11 ดูไฟล์ COPYING ที่แนบมาหรือ http://www.opensource.org/licenses/mit-license.php
+
+ผลิตภัณฑ์นี้ประกอบด้วยซอฟต์แวร์ที่พัฒนาโดย OpenSSL Project เพื่อใช้ใน OpenSSL Toolkit (http://www.openssl.org/) และซอฟต์แวร์เข้ารหัสลับที่เขียนโดย Eric Young (eay@cryptsoft.com) และซอฟต์แวร์ UPnP ที่เขียนโดย Thomas Bernard
+
+Nī̀ pĕn sxft̒wær̒ thdlxng
+
+cækc̀āy p̣hāy tı̂ bı xnuỵāt sxft̒wær̒ MIT/ X11 dū fịl̒ COPYING thī̀ næb mā h̄rụ̄x http://Www.Opensource.Org/licenses/mit-license.Php
+
+p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy OpenSSL Project pheụ̄̀x chı̂ nı OpenSSL Toolkit (http://Www.Openssl.Org/) læa sxft̒wær̒ k̄hêārh̄ạs̄ lạb thī̀ k̄heīyn doy Eric Young (eay@cryptsoft.Com) læa sxft̒wær̒ UPnP thī̀ k̄heīyn doy Thomas Bernard?</translation>
     </message>
     <message>
         <location line="+42"/>
         <source>Unable to earn interest in light mode.&lt;br/&gt;Switch to hybrid mode if you would like to earn interest.</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนเงินที่สูงกว่ายอดเงินคงเหลือที่คุณมีอยู่บางส่วนของ Pandacoins ของคุณกำลังถูกนำมาใช้เพื่อให้คุณได้รับดอกเบี้ย.</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Unable to earn interest until syncing is completed.</source>
-        <translation type="unfinished"></translation>
+        <translation>การสร้างบัญชี PandaBank แบบดิจิตอลเป็นเรื่องง่าย</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -1075,141 +1085,141 @@ Activate Digital PandaBank &apos;Lite&apos;?</source>
         <location line="+4"/>
         <location line="+4"/>
         <source>%1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>โหมด</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Staking.&lt;br&gt;Your weight is %1&lt;br&gt;Network weight is %2&lt;br&gt;Expected time to earn reward is %3</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนเงินที่สูงกว่ายอดเงินคงเหลือที่คุณมีอยู่บางส่วนของ Pandacoins ของคุณกำลังถูกนำมาใช้เพื่อให้คุณได้รับดอกเบี้ย.</translation>
     </message>
     <message>
         <location line="-1045"/>
         <source>&amp;About Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>เกี่ยวกับ Digital PandaBank</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show information about Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>เกิดข้อผิดพลาดในการสร้างบัญชี Digital PandaBank.</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Modify configuration options for Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้างบัญชี PandaBank ดิจิตอลของคุณแล้ว.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Encrypt Digital PandaBank...</source>
-        <translation type="unfinished"></translation>
+        <translation>เข้ารหัส Digital PandaBank</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Encrypt or decrypt Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>ยืนยันการเข้ารหัส PandaBank แบบดิจิตอล</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Backup Digital PandaBank...</source>
-        <translation type="unfinished"></translation>
+        <translation>เข้ารหัส Digital PandaBank</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Backup Digital PandaBank to another location</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่งเหรียญไปยังที่อยู่ Digital PandaBank</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Change Password...</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนรหัสผ่าน</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Change the password used for wallet encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>รหัสผ่านที่ให้มาไม่ตรงกัน.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Unlock Digital PandaBank...</source>
-        <translation type="unfinished"></translation>
+        <translation>เข้ารหัส Digital PandaBank</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Unlock Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>ปลดล็อก PandaBank ดิจิตอล</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Lock Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>ปลดล็อก PandaBank ดิจิตอล</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Lock Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>ปลดล็อก PandaBank ดิจิตอล</translation>
     </message>
     <message>
         <location line="+4"/>
         <location line="+1"/>
         <source>Activate &apos;Classic&apos; client mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้างบัญชี Digital PandaBank แล้ว</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+1"/>
         <source>Activate &apos;Hybrid&apos; client mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้างบัญชี Digital PandaBank แล้ว</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+1"/>
         <source>Activate &apos;Lite&apos; client mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้างบัญชี Digital PandaBank แล้ว</translation>
     </message>
     <message>
         <location line="+91"/>
         <location line="+71"/>
         <source>Digital PandaBank client</source>
-        <translation type="unfinished"></translation>
+        <translation>เกี่ยวกับ Digital PandaBank</translation>
     </message>
     <message>
         <location line="+134"/>
         <source>Downloaded %1 of %2 checkpoints (%3% done).</source>
-        <translation type="unfinished"></translation>
+        <translation>ดาวน์โหลด%1 จาก%2 บล็อคประวัติการทำธุรกรรม (%3% เสร็จสิ้น).</translation>
     </message>
     <message>
         <location line="+268"/>
         <source>Up to date</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Catching up...</source>
-        <translation type="unfinished"></translation>
+        <translation>ค้นหาโดยใช้คำหลัก</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Last received block was generated %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>ดาวน์โหลด%1 จาก%2 บล็อคประวัติการทำธุรกรรม (%3% เสร็จสิ้น).</translation>
     </message>
     <message>
         <location line="+64"/>
         <source>This transaction is over the size limit.  You can still send it for a fee of %1, which goes to the nodes that process your transaction and helps to support the network.  Do you want to pay the fee?</source>
-        <translation type="unfinished"></translation>
+        <translation>Digital PandaBank จะปิดตอนนี้เพื่อสิ้นสุดขั้นตอนการเข้ารหัส โปรดทราบว่าการเข้ารหัสลับ Digital PandaBank ของคุณไม่สามารถป้องกันเหรียญของคุณจากการถูกโจรกรรมจากมัลแวร์ที่ติดไวรัสคอมพิวเตอร์ของคุณได้อย่างเต็มที่.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Confirm transaction fee</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอก ID ธุรกรรม</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>Sent transaction</source>
-        <translation type="unfinished"></translation>
+        <translation>ธุรกรรมล่าสุด</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Incoming transaction</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอก ID ธุรกรรม</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1218,68 +1228,68 @@ Amount: %2
 Type: %3
 Address: %4
 </source>
-        <translation type="unfinished"></translation>
+        <translation>แก้ไขรายการที่อยู่ที่เก็บไว้และป้ายกำกับ</translation>
     </message>
     <message>
         <location line="+83"/>
         <location line="+15"/>
         <source>URI handling</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+245"/>
         <source>Not earning interest because wallet is locked</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนเงินที่ป้อนไม่ถูกต้องโปรดตรวจสอบ.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Not earning interest because wallet is offline</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนเงินที่ป้อนไม่ถูกต้องโปรดตรวจสอบ.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Not earning interest because wallet is syncing</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนเงินที่ป้อนไม่ถูกต้องโปรดตรวจสอบ.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Not earning interest because you don&apos;t have mature coins</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนเงินที่ป้อนไม่ถูกต้องโปรดตรวจสอบ.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Not earning interest</source>
-        <translation type="unfinished"></translation>
+        <translation>มีรายได้ดอกเบี้ย</translation>
     </message>
     <message>
         <location line="-235"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Wallet ได้รับการเข้ารหัส &lt;b&gt; เข้ารหัส &lt;/ b&gt; และ &lt;b&gt; ปลดล็อก &lt;/ b&gt; ในปัจจุบัน &lt;/ b&gt; เพื่อล็อค.</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Wallet ได้รับการเข้ารหัส &lt;b&gt; เข้ารหัส &lt;/ b&gt; และ &lt;b&gt; ปลดล็อก &lt;/ b&gt; ในปัจจุบัน &lt;/ b&gt; เพื่อล็อค.</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>Backup Wallet</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดกระเป๋าสตางค์</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Wallet Data (*.dat)</source>
-        <translation type="unfinished"></translation>
+        <translation>ถอดรหัสกระเป๋าสตางค์</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Backup Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดกระเป๋าสตางค์</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>There was an error trying to save the wallet data to the new location.</source>
-        <translation type="unfinished"></translation>
+        <translation>ที่อยู่ที่ป้อน &quot;%1&quot; ไม่ใช่ที่อยู่ Pandacoin ที่ถูกต้อง.</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+112"/>
@@ -1300,77 +1310,77 @@ Address: %4
     <message>
         <location filename="../forms/coincontroldialog.ui" line="+14"/>
         <source>Coin Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Pandacoin Core</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Quantity:</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+32"/>
         <source>Bytes:</source>
-        <translation type="unfinished"></translation>
+        <translation>ข้อความ:</translation>
     </message>
     <message>
         <location line="+48"/>
         <source>Amount:</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวน:</translation>
     </message>
     <message>
         <location line="+32"/>
         <source>Priority:</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+48"/>
         <source>Fee:</source>
-        <translation type="unfinished"></translation>
+        <translation>จาก</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>Low Output:</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../coincontroldialog.cpp" line="+555"/>
         <source>no</source>
-        <translation type="unfinished"></translation>
+        <translation>N/A</translation>
     </message>
     <message>
         <location filename="../forms/coincontroldialog.ui" line="+51"/>
         <source>After Fee:</source>
-        <translation type="unfinished"></translation>
+        <translation>จาก</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>Change:</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิก</translation>
     </message>
     <message>
         <location line="+69"/>
         <source>(un)select all</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกบัญชี</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Tree mode</source>
-        <translation type="unfinished"></translation>
+        <translation>โหมด</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>List mode</source>
-        <translation type="unfinished"></translation>
+        <translation>โหมด</translation>
     </message>
     <message>
         <location line="+45"/>
         <source>Amount</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวน</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Label</source>
-        <translation type="unfinished">ชื่อ</translation>
+        <translation>ชื่อ</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -1380,123 +1390,123 @@ Address: %4
     <message>
         <location line="+5"/>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>วันที่</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Confirmations</source>
-        <translation type="unfinished"></translation>
+        <translation>ได้รับการยืนยัน</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Confirmed</source>
-        <translation type="unfinished"></translation>
+        <translation>ได้รับการยืนยัน</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Priority</source>
-        <translation type="unfinished"></translation>
+        <translation>เครือข่าย</translation>
     </message>
     <message>
         <location filename="../coincontroldialog.cpp" line="-515"/>
         <source>Copy address</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอกที่อยู่</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy label</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอกฉลาก</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+26"/>
         <source>Copy amount</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนสำเนา</translation>
     </message>
     <message>
         <location line="-25"/>
         <source>Copy transaction ID</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอก ID ธุรกรรม</translation>
     </message>
     <message>
         <location line="+24"/>
         <source>Copy quantity</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนสำเนา</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Copy fee</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอกฉลาก</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy after fee</source>
-        <translation type="unfinished"></translation>
+        <translation>จาก</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy bytes</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอกฉลาก</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy priority</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนสำเนา</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy low output</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนสำเนา</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy change</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอกแล&amp;ะป้ายกำกับ</translation>
     </message>
     <message>
         <location line="+317"/>
         <source>highest</source>
-        <translation type="unfinished"></translation>
+        <translation>ช่วยด้วย</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>high</source>
-        <translation type="unfinished"></translation>
+        <translation>ช่วยด้วย</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>medium-high</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;และแก้ไข</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>medium</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;และแก้ไข</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>low-medium</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;และแก้ไข</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>low</source>
-        <translation type="unfinished"></translation>
+        <translation>ล็อค</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>lowest</source>
-        <translation type="unfinished"></translation>
+        <translation>ล็อค</translation>
     </message>
     <message>
         <location line="+155"/>
         <source>DUST</source>
-        <translation type="unfinished"></translation>
+        <translation>เสร็จสิ้น</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>yes</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1505,7 +1515,7 @@ Address: %4
  This means a fee of at least %1 per kb is required.
 
  Can vary +/- 1 Byte per input.</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนเงินเกินกว่ายอดเงินคงเหลือที่คุณมีอยู่เมื่อรวมค่าธรรมเนียมการทำธุรกรรม%1 บางส่วนของ Pandacoins ของคุณกำลังใช้อยู่เพื่อให้คุณได้รับดอกเบี้ย.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1514,7 +1524,7 @@ Address: %4
 This label turns red, if the priority is smaller than &quot;medium&quot;.
 
  This means a fee of at least %1 per kb is required.</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนเงินเกินกว่ายอดเงินคงเหลือที่คุณมีอยู่เมื่อรวมค่าธรรมเนียมการทำธุรกรรม%1 บางส่วนของ Pandacoins ของคุณกำลังใช้อยู่เพื่อให้คุณได้รับดอกเบี้ย.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1523,14 +1533,14 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
  This means a fee of at least %2 is required. 
 
  Amounts below 0.546 times the minimum relay fee are shown as DUST.</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนเงินเกินกว่ายอดเงินคงเหลือที่คุณมีอยู่เมื่อรวมค่าธรรมเนียมการทำธุรกรรม%1 บางส่วนของ Pandacoins ของคุณกำลังใช้อยู่เพื่อให้คุณได้รับดอกเบี้ย.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>This label turns red, if the change is smaller than %1.
 
  This means a fee of at least %2 is required.</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนเงินที่สูงกว่ายอดเงินคงเหลือที่คุณมีอยู่บางส่วนของ Pandacoins ของคุณกำลังถูกนำมาใช้เพื่อให้คุณได้รับดอกเบี้ย.</translation>
     </message>
     <message>
         <location line="+37"/>
@@ -1541,12 +1551,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <source>change from %1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้างที่อยู่ใหม่</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>(change)</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิก</translation>
     </message>
 </context>
 <context>
@@ -1786,239 +1796,239 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../forms/optionsdialog.ui" line="+14"/>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัวเลือก UI</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>&amp;Main</source>
-        <translation type="unfinished"></translation>
+        <translation>รอดำเนินการ</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Optional transaction fee per kB that helps make sure your transactions are processed quickly. Most transactions are 1 kB. Fee 0.01 recommended.</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนเงินเกินกว่ายอดเงินคงเหลือที่คุณมีอยู่เมื่อรวมค่าธรรมเนียมการทำธุรกรรม%1 บางส่วนของ Pandacoins ของคุณกำลังใช้อยู่เพื่อให้คุณได้รับดอกเบี้ย.</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Pay transaction &amp;fee</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอก ID ธุรกรรม</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Reserved amount does not participate in staking and is therefore spendable at any time.</source>
-        <translation type="unfinished"></translation>
+        <translation>ทำหน้าที่ปิดใช้งาน sendmoney เล็กน้อยเมื่อบัญชี OS ถูกบุกรุก ไม่มีการรักษาความปลอดภัยที่แท้จริง.</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Reserve</source>
-        <translation type="unfinished"></translation>
+        <translation>ที่อยู่</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Automatically start Pandacoin after logging in to the system.</source>
-        <translation type="unfinished"></translation>
+        <translation>ยินดีต้อนรับสู่ Digital PandaBank ของคุณคุณเข้าสู่ระบบครั้งล่าสุดเมื่อวันที่</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Start Digital PandaBank on system login</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;เกิดข้อผิดพลาดในการสร้างบัญชี Digital PandaBank</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Detach block and address databases at shutdown. This means they can be moved to another data directory, but it slows down shutdown. The wallet is always detached.</source>
-        <translation type="unfinished"></translation>
+        <translation>นี่คือที่อยู่ Pandacoin ของคุณสำหรับการรับเงิน คุณอาจต้องการให้คนละคนกับผู้ส่งเพื่อให้คุณสามารถติดตามว่าใครจ่ายเงินให้คุณ.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Detach databases at shutdown</source>
-        <translation type="unfinished"></translation>
+        <translation>เกี่ยวกับ Digital PandaBank</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>&amp;Network</source>
-        <translation type="unfinished"></translation>
+        <translation>เครือข่าย</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Automatically open the Pandacoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนเงินที่สูงกว่ายอดเงินคงเหลือที่คุณมีอยู่บางส่วนของ Pandacoins ของคุณกำลังถูกนำมาใช้เพื่อให้คุณได้รับดอกเบี้ย.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Map port using &amp;UPnP</source>
-        <translation type="unfinished"></translation>
+        <translation>ภาพ PNG (* .png)</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Connect to the Pandacoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation type="unfinished"></translation>
+        <translation>แสดงข้อความช่วยเหลือ Pandacoin-Qt เพื่อดูรายการที่มีตัวเลือกบรรทัดคำสั่ง Pandacoin ที่เป็นไปได้.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Connect through SOCKS proxy:</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Proxy &amp;IP:</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอกแล&amp;ะป้ายกำกับ</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>IP address of the proxy (e.g. 127.0.0.1)</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกที่อยู่จากสมุดที่อยู่</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>&amp;Port:</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่งออก</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Port of the proxy (e.g. 9050)</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกที่อยู่จากสมุดที่อยู่</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>SOCKS &amp;Version:</source>
-        <translation type="unfinished"></translation>
+        <translation>เวอร์ชันไคลเอ็นต์</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>SOCKS version of the proxy (e.g. 5)</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกที่อยู่จากสมุดที่อยู่</translation>
     </message>
     <message>
         <location line="+36"/>
         <source>&amp;Window</source>
-        <translation type="unfinished"></translation>
+        <translation>รอดำเนินการ</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Show only a tray icon after minimizing the window.</source>
-        <translation type="unfinished"></translation>
+        <translation>แสดงรายการที่อยู่สำหรับรับการชำระเงิน</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Minimize to the tray instead of the taskbar</source>
-        <translation type="unfinished"></translation>
+        <translation>แสดงรายการที่อยู่สำหรับรับการชำระเงิน</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Minimize instead of exit the application when the window is closed. When this option is enabled, the application will be closed only after selecting Quit in the menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>นี่คือที่อยู่ Pandacoin ของคุณสำหรับการรับเงิน คุณอาจต้องการให้คนละคนกับผู้ส่งเพื่อให้คุณสามารถติดตามว่าใครจ่ายเงินให้คุณ.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>M&amp;inimize on close</source>
-        <translation type="unfinished"></translation>
+        <translation>เริ่มลดขนาด</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>&amp;Display</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ฉลาก</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>User Interface &amp;language:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pandacoin - หน้าต่างดีบัก</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>The user interface language can be set here. This setting will take effect after restarting Pandacoin.</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดไฟล์บันทึกการแก้ปัญหา Pandacoin จากไดเร็กทอรีข้อมูลปัจจุบัน อาจใช้เวลาสักครู่สำหรับไฟล์บันทึกขนาดใหญ่.</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>&amp;Unit to show amounts in:</source>
-        <translation type="unfinished"></translation>
+        <translation>แสดงข้อมูลเกี่ยวกับ Qt</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation type="unfinished"></translation>
+        <translation>แสดงข้อความช่วยเหลือ Pandacoin-Qt เพื่อดูรายการที่มีตัวเลือกบรรทัดคำสั่ง Pandacoin ที่เป็นไปได้.</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Whether to show Pandacoin addresses in the transaction list or not.</source>
-        <translation type="unfinished"></translation>
+        <translation>ที่อยู่ที่ป้อน &quot;%1&quot; ไม่ใช่ที่อยู่ Pandacoin ที่ถูกต้อง.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Display addresses in transaction list</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกที่อยู่จากสมุดที่อยู่</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Whether to show coin control features or not.</source>
-        <translation type="unfinished"></translation>
+        <translation>ที่อยู่ที่ป้อน &quot;%1&quot; ไม่ใช่ที่อยู่ Pandacoin ที่ถูกต้อง.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Display coin &amp;control features (experts only!)</source>
-        <translation type="unfinished"></translation>
+        <translation>ที่อยู่ที่ป้อน &quot;%1&quot; ไม่ใช่ที่อยู่ Pandacoin ที่ถูกต้อง.</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>ยอดรวม</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Reset Blockchain</source>
-        <translation type="unfinished"></translation>
+        <translation>ห่วงโซ่ที่ถูกบล็อก</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Reset Peers</source>
-        <translation type="unfinished"></translation>
+        <translation>ที่อยู่</translation>
     </message>
     <message>
         <location line="+86"/>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation>PND</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิก</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>&amp;Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ฉลาก</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="+62"/>
         <source>default</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบ</translation>
     </message>
     <message>
         <location line="+152"/>
         <location line="+9"/>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>รอดำเนินการ</translation>
     </message>
     <message>
         <location line="-9"/>
         <location line="+9"/>
         <source>This setting will take effect after restarting Pandacoin.</source>
-        <translation type="unfinished"></translation>
+        <translation>ยินดีต้อนรับสู่ Digital PandaBank ของคุณคุณเข้าสู่ระบบครั้งล่าสุดเมื่อวันที่</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>The supplied proxy address is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนเงินที่ป้อนไม่ถูกต้องโปรดตรวจสอบ.</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Confirm Blockchain reset</source>
-        <translation type="unfinished"></translation>
+        <translation>ห่วงโซ่ที่ถูกบล็อก</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Are you sure you want to reset your Blockchain? This will cause the entire Blockchain to download again.</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดไฟล์บันทึกการแก้ปัญหา Pandacoin จากไดเร็กทอรีข้อมูลปัจจุบัน อาจใช้เวลาสักครู่สำหรับไฟล์บันทึกขนาดใหญ่.</translation>
     </message>
 </context>
 <context>
@@ -2477,53 +2487,53 @@ Should you encounter this error repeatedly please seek assistance.</source>
     <message>
         <location filename="../forms/sendcoinsentry.ui" line="+14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>ฟอร์ม</translation>
     </message>
     <message>
         <location line="+59"/>
         <source>Send Pandacoins</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่ง Pandacoins</translation>
     </message>
     <message>
         <location line="+74"/>
         <source>Coin Control Features</source>
-        <translation type="unfinished"></translation>
+        <translation>Pandacoin Core</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Inputs...</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+7"/>
         <source>automatically selected</source>
-        <translation type="unfinished"></translation>
+        <translation>บล็อกทั้งหมดโดยประมาณ</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Insufficient funds!</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+77"/>
         <source>Quantity:</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+22"/>
         <location line="+35"/>
         <source>0</source>
-        <translation type="unfinished"></translation>
+        <translation>N/A</translation>
     </message>
     <message>
         <location line="-19"/>
         <source>Bytes:</source>
-        <translation type="unfinished"></translation>
+        <translation>ข้อความ:</translation>
     </message>
     <message>
         <location line="+51"/>
         <source>Amount:</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวน:</translation>
     </message>
     <message>
         <location line="+22"/>
@@ -2531,150 +2541,150 @@ Should you encounter this error repeatedly please seek assistance.</source>
         <location line="+86"/>
         <location line="+32"/>
         <source>0.00 PND</source>
-        <translation type="unfinished"></translation>
+        <translation>PND</translation>
     </message>
     <message>
         <location line="-191"/>
         <source>Priority:</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+19"/>
         <source>medium</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;และแก้ไข</translation>
     </message>
     <message>
         <location line="+32"/>
         <source>Fee:</source>
-        <translation type="unfinished"></translation>
+        <translation>จาก</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>Low Output:</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+19"/>
         <source>no</source>
-        <translation type="unfinished"></translation>
+        <translation>N/A</translation>
     </message>
     <message>
         <location line="+32"/>
         <source>After Fee:</source>
-        <translation type="unfinished"></translation>
+        <translation>จาก</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>Change</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิก</translation>
     </message>
     <message>
         <location line="+50"/>
         <source>custom change address</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้างที่อยู่ใหม่</translation>
     </message>
     <message>
         <location line="+67"/>
         <source>From</source>
-        <translation type="unfinished"></translation>
+        <translation>จาก</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>To</source>
-        <translation type="unfinished"></translation>
+        <translation>ไปยัง</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Or</source>
-        <translation type="unfinished"></translation>
+        <translation>บน</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Amount</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวน</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>▾ Send To My Own Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>แน่ใจหรือไม่ว่าคุณต้องการส่ง%1?</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>ต่อไป</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+112"/>
         <source>Copy quantity</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนสำเนา</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy amount</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนสำเนา</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy fee</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอกฉลาก</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy after fee</source>
-        <translation type="unfinished"></translation>
+        <translation>จาก</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy bytes</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอกฉลาก</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy priority</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนสำเนา</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy low output</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนสำเนา</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy change</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอกแล&amp;ะป้ายกำกับ</translation>
     </message>
     <message>
         <location line="+115"/>
         <location line="+46"/>
         <source>No from account selected</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกบัญชี</translation>
     </message>
     <message>
         <location line="-46"/>
         <location line="+46"/>
         <source>You have not selected an account from which to make the payment.
 Please select the &quot;from&quot; address at the top of this page.</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนเงินที่สูงกว่ายอดเงินคงเหลือที่คุณมีอยู่บางส่วนของ Pandacoins ของคุณกำลังถูกนำมาใช้เพื่อให้คุณได้รับดอกเบี้ย.</translation>
     </message>
     <message>
         <location line="+114"/>
         <source>Search your accounts list...</source>
-        <translation type="unfinished"></translation>
+        <translation>แน่ใจหรือไม่ว่าคุณต้องการส่ง%1?</translation>
     </message>
     <message>
         <location line="+224"/>
         <source>WARNING: Invalid Pandacoin address</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนเงินที่ป้อนไม่ถูกต้องโปรดตรวจสอบ.</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>(no label)</source>
-        <translation type="unfinished">(ไม่มีชื่อ)</translation>
+        <translation>(ไม่มีชื่อ)</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>WARNING: unknown change address</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนเงินที่ป้อนไม่ถูกต้องโปรดตรวจสอบ.</translation>
     </message>
 </context>
 <context>
@@ -2765,119 +2775,123 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="+14"/>
         <source>Signatures - Sign / Verify a Message</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ยืนยันข้อความ ...</translation>
     </message>
     <message>
         <location line="+13"/>
         <location line="+124"/>
         <source>&amp;Sign Message</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="-118"/>
         <source>You can sign messages with your addresses to prove you own them. Be careful not to sign anything vague, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-        <translation type="unfinished"></translation>
+        <translation>พบข้อผิดพลาดในการซิงค์:
+% s
+
+สาเหตุที่เป็นไปได้มากที่สุดของข้อผิดพลาดนี้คือปัญหาเกี่ยวกับ blockchain ในระบบของคุณดังนั้น blockchain จะตั้งค่าใหม่และซิงค์อีกครั้ง
+หากคุณพบข้อผิดพลาดนี้ซ้ำ ๆ โปรดขอความช่วยเหลือ.</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>The address to sign the message with (e.g. PBZ8YVV3XT3WWWd2a1jo4N9WePiwKB3mJE)</source>
-        <translation type="unfinished"></translation>
+        <translation>ที่อยู่เพื่อส่งการชำระเงินไปที่ (เช่น PBZ8YVV3XT3WWWd2a1jo4N9WePiwKB3mJE)</translation>
     </message>
     <message>
         <location line="+10"/>
         <location line="+203"/>
         <source>Choose an address from the address book</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกที่อยู่จากสมุดที่อยู่</translation>
     </message>
     <message>
         <location line="-193"/>
         <location line="+203"/>
         <source>Alt+A</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+A</translation>
     </message>
     <message>
         <location line="-193"/>
         <source>Paste address from clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>วางที่อยู่จากคลิปบอร์ด</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Alt+P</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+P</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Enter the message you want to sign here</source>
-        <translation type="unfinished"></translation>
+        <translation>แน่ใจหรือไม่ว่าคุณต้องการส่ง%1?</translation>
     </message>
     <message>
         <location line="+24"/>
         <source>Copy the current signature to the system clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอกที่อยู่ที่ถูกเลือกไปยัง คลิปบอร์ดของระบบ</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Sign the message to prove you own this Pandacoin address</source>
-        <translation type="unfinished"></translation>
+        <translation>ลงชื่อเข้าใช้เพื่อยืนยันว่าคุณเป็นเจ้าของที่อยู่ Pandacoin</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Reset all sign message fields</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ยืนยันข้อความ ...</translation>
     </message>
     <message>
         <location line="+3"/>
         <location line="+146"/>
         <source>Clear &amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>ล้างคอนโซล</translation>
     </message>
     <message>
         <location line="-87"/>
         <location line="+70"/>
         <source>&amp;Verify Message</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ยืนยันข้อความ</translation>
     </message>
     <message>
         <location line="-64"/>
         <source>Enter the signing address, message (ensure you copy line breaks, spaces, tabs, etc. exactly) and signature below to verify the message. Be careful not to read more into the signature than what is in the signed message itself, to avoid being tricked by a man-in-the-middle attack.</source>
-        <translation type="unfinished"></translation>
+        <translation>ข้อมูลสำคัญ: การสำรองข้อมูลก่อนหน้าใด ๆ ที่คุณทำจากกระเป๋าสตางค์ของคุณควรถูกแทนที่โดยใช้ไฟล์กระเป๋าสตางค์ที่เข้ารหัสลับใหม่ที่สร้างขึ้น เพื่อความปลอดภัยการสำรองข้อมูลก่อนหน้าของไฟล์กระเป๋าสตางค์ที่ไม่ได้เข้ารหัสจะกลายเป็นสิ่งที่ไม่ได้ผลทันทีที่คุณเริ่มใช้กระเป๋าเงินที่เข้ารหัสใหม่.</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>The address the message was signed with (e.g. PBZ8YVV3XT3WWWd2a1jo4N9WePiwKB3mJE)</source>
-        <translation type="unfinished"></translation>
+        <translation>ที่อยู่เพื่อส่งการชำระเงินไปที่ (เช่น PBZ8YVV3XT3WWWd2a1jo4N9WePiwKB3mJE)</translation>
     </message>
     <message>
         <location line="+40"/>
         <source>Verify the message to ensure it was signed with the specified Pandacoin address</source>
-        <translation type="unfinished"></translation>
+        <translation>ยืนยันข้อความเพื่อให้มั่นใจว่าได้ลงชื่อด้วยที่อยู่ Pandacoin ที่ระบุ</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Reset all verify message fields</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ยืนยันข้อความ ...</translation>
     </message>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+31"/>
         <location line="+3"/>
         <source>Enter a Pandacoin address (e.g. PBZ8YVV3XT3WWWd2a1jo4N9WePiwKB3mJE)</source>
-        <translation type="unfinished"></translation>
+        <translation>ป้อนที่อยู่ Pandacoin (เช่น PBZ8YVV3XT3WWWd2a1jo4N9WePiwKB3mJE)</translation>
     </message>
     <message>
         <location line="-2"/>
         <source>Click &quot;Sign Message&quot; to generate signature</source>
-        <translation type="unfinished"></translation>
+        <translation>แน่ใจหรือไม่ว่าคุณต้องการส่ง%1?</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Enter Pandacoin signature</source>
-        <translation type="unfinished"></translation>
+        <translation>Pandacoin - หน้าต่างดีบัก</translation>
     </message>
     <message>
         <location line="+82"/>
         <location line="+81"/>
         <source>The entered address is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนเงินที่ป้อนไม่ถูกต้องโปรดตรวจสอบ.</translation>
     </message>
     <message>
         <location line="-81"/>
@@ -2885,59 +2899,59 @@ Please select the &quot;from&quot; address at the top of this page.</source>
         <location line="+73"/>
         <location line="+8"/>
         <source>Please check the address and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกที่อยู่จากสมุดที่อยู่</translation>
     </message>
     <message>
         <location line="-81"/>
         <location line="+81"/>
         <source>The entered address does not refer to a key.</source>
-        <translation type="unfinished"></translation>
+        <translation>แก้ไขรายการที่อยู่ที่เก็บไว้และป้ายกำกับ</translation>
     </message>
     <message>
         <location line="-73"/>
         <source>Wallet unlock was cancelled.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่สามารถปลดล็อกกระเป๋าสตางค์ได้.</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Private key for the entered address is not available.</source>
-        <translation type="unfinished"></translation>
+        <translation>ที่อยู่ที่ป้อน &quot;%1&quot; ไม่ใช่ที่อยู่ Pandacoin ที่ถูกต้อง.</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Message signing failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ยืนยันข้อความ ...</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Message signed.</source>
-        <translation type="unfinished"></translation>
+        <translation>ลงชื่อเข้าใช้ข้อความ</translation>
     </message>
     <message>
         <location line="+59"/>
         <source>The signature could not be decoded.</source>
-        <translation type="unfinished"></translation>
+        <translation>รหัสผ่านที่ให้มาไม่ตรงกัน.</translation>
     </message>
     <message>
         <location line="+0"/>
         <location line="+13"/>
         <source>Please check the signature and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกที่อยู่จากสมุดที่อยู่</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>The signature did not match the message digest.</source>
-        <translation type="unfinished"></translation>
+        <translation>แน่ใจหรือไม่ว่าคุณต้องการส่ง%1?</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Message verification failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้างคีย์ใหม่ไม่สำเร็จ.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Message verified.</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ยืนยันข้อความ</translation>
     </message>
 </context>
 <context>
@@ -2962,85 +2976,85 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location filename="../transactiondesc.cpp" line="+23"/>
         <source>Open until %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัวเลือก UI</translation>
     </message>
     <message numerus="yes">
         <location line="-2"/>
         <source>Open for %n block(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>จำนวนบล็อคปัจจุบัน</numerusform>
         </translation>
     </message>
     <message>
         <location line="+8"/>
         <source>conflicted</source>
-        <translation type="unfinished"></translation>
+        <translation>ได้รับการยืนยัน</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>%1/offline</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+2"/>
         <source>%1/unconfirmed</source>
-        <translation type="unfinished"></translation>
+        <translation>ได้รับการยืนยัน</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>%1 confirmations</source>
-        <translation type="unfinished"></translation>
+        <translation>ได้รับการยืนยัน</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message numerus="yes">
         <location line="+7"/>
         <source>, broadcast through %n node(s)</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>วันที่</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Source</source>
-        <translation type="unfinished"></translation>
+        <translation>ช่วยด้วย</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Generated</source>
-        <translation type="unfinished"></translation>
+        <translation>ดอกเบี้ยที่ได้รับ</translation>
     </message>
     <message>
         <location line="+5"/>
         <location line="+17"/>
         <source>From</source>
-        <translation type="unfinished"></translation>
+        <translation>จาก</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+22"/>
         <location line="+58"/>
         <source>To</source>
-        <translation type="unfinished"></translation>
+        <translation>ไปยัง</translation>
     </message>
     <message>
         <location line="-77"/>
         <location line="+2"/>
         <source>own address</source>
-        <translation type="unfinished"></translation>
+        <translation>สมุดที่อยู่</translation>
     </message>
     <message>
         <location line="-2"/>
         <source>label</source>
-        <translation type="unfinished"></translation>
+        <translation>ชื่อ</translation>
     </message>
     <message>
         <location line="+37"/>
@@ -3049,19 +3063,19 @@ Please select the &quot;from&quot; address at the top of this page.</source>
         <location line="+17"/>
         <location line="+30"/>
         <source>Credit</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้าง</translation>
     </message>
     <message numerus="yes">
         <location line="-102"/>
         <source>matures in %n more block(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>จำนวนบล็อคปัจจุบัน</numerusform>
         </translation>
     </message>
     <message>
         <location line="+2"/>
         <source>not accepted</source>
-        <translation type="unfinished"></translation>
+        <translation>ชื่อบัญชี</translation>
     </message>
     <message>
         <location line="+44"/>
@@ -3069,77 +3083,87 @@ Please select the &quot;from&quot; address at the top of this page.</source>
         <location line="+15"/>
         <location line="+30"/>
         <source>Debit</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบ</translation>
     </message>
     <message>
         <location line="-39"/>
         <source>Transaction fee</source>
-        <translation type="unfinished"></translation>
+        <translation>การทำธุรกรรม</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Net amount</source>
-        <translation type="unfinished"></translation>
+        <translation>ชื่อบัญชี</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Message</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>บ้านของฉัน</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Transaction ID</source>
-        <translation type="unfinished"></translation>
+        <translation>การทำธุรกรรม</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Generated coins must mature 510 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation type="unfinished"></translation>
+        <translation>นี่เป็นซอฟต์แวร์ทดลอง
+
+แจกจ่ายภายใต้ใบอนุญาตซอฟต์แวร์ MIT / X11 ดูไฟล์ COPYING ที่แนบมาหรือ http://www.opensource.org/licenses/mit-license.php
+
+ผลิตภัณฑ์นี้ประกอบด้วยซอฟต์แวร์ที่พัฒนาโดย OpenSSL Project เพื่อใช้ใน OpenSSL Toolkit (http://www.openssl.org/) และซอฟต์แวร์เข้ารหัสลับที่เขียนโดย Eric Young (eay@cryptsoft.com) และซอฟต์แวร์ UPnP ที่เขียนโดย Thomas Bernard
+
+Nī̀ pĕn sxft̒wær̒ thdlxng
+
+cækc̀āy p̣hāy tı̂ bı xnuỵāt sxft̒wær̒ MIT/ X11 dū fịl̒ COPYING thī̀ næb mā h̄rụ̄x http://Www.Opensource.Org/licenses/mit-license.Php
+
+p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy OpenSSL Project pheụ̄̀x chı̂ nı OpenSSL Toolkit (http://Www.Openssl.Org/) læa sxft̒wær̒ k̄hêārh̄ạs̄ lạb thī̀ k̄heīyn doy Eric Young (eay@cryptsoft.Com) læa sxft̒wær̒ UPnP thī̀ k̄heīyn doy Thomas Bernard?</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Debug information</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ข้อมูล</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Transaction</source>
-        <translation type="unfinished"></translation>
+        <translation>การทำธุรกรรม</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Inputs</source>
-        <translation type="unfinished"></translation>
+        <translation>ข้อความ:</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Amount</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวน</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>true</source>
-        <translation type="unfinished"></translation>
+        <translation>ชนิด</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>false</source>
-        <translation type="unfinished"></translation>
+        <translation>กรอบ</translation>
     </message>
     <message>
         <location line="-211"/>
         <source>, has not been successfully broadcast yet</source>
-        <translation type="unfinished"></translation>
+        <translation>รหัสผ่านที่ให้มาไม่ตรงกัน.</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>ปลดล็อค</translation>
     </message>
 </context>
 <context>
@@ -3198,12 +3222,12 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location filename="../transactiontablemodel.cpp" line="+330"/>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>วันที่</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>ชนิด</translation>
     </message>
     <message>
         <source>Address</source>
@@ -3212,125 +3236,125 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+0"/>
         <source>Amount</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวน</translation>
     </message>
     <message>
         <location line="+67"/>
         <source>Open until %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัวเลือก UI</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Confirmed (%1 confirmations)</source>
-        <translation type="unfinished"></translation>
+        <translation>ยืนยันการเข้ารหัสกระเป๋าสตางค์</translation>
     </message>
     <message numerus="yes">
         <location line="-15"/>
         <source>Open for %n more block(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>จำนวนบล็อคปัจจุบัน</numerusform>
         </translation>
     </message>
     <message>
         <location line="-64"/>
         <source>From account</source>
-        <translation type="unfinished"></translation>
+        <translation>บัญชีทั้งหมด</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>To account</source>
-        <translation type="unfinished"></translation>
+        <translation>บัญชีของฉัน</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Account Name</source>
-        <translation type="unfinished"></translation>
+        <translation>ชื่อบัญชี</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Balance</source>
-        <translation type="unfinished"></translation>
+        <translation>ยอดรวม</translation>
     </message>
     <message>
         <location line="+70"/>
         <source>Offline</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Unconfirmed</source>
-        <translation type="unfinished"></translation>
+        <translation>ได้รับการยืนยัน</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Confirming (%1 of %2 recommended confirmations)</source>
-        <translation type="unfinished"></translation>
+        <translation>ยืนยันการเข้ารหัสกระเป๋าสตางค์</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Conflicted</source>
-        <translation type="unfinished"></translation>
+        <translation>ได้รับการยืนยัน</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Immature (%1 confirmations, will be available after %2)</source>
-        <translation type="unfinished"></translation>
+        <translation>ยืนยันการเข้ารหัสกระเป๋าสตางค์</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>This block was not received by any other nodes and will probably not be accepted!</source>
-        <translation type="unfinished"></translation>
+        <translation>ทำหน้าที่ปิดใช้งาน sendmoney เล็กน้อยเมื่อบัญชี OS ถูกบุกรุก ไม่มีการรักษาความปลอดภัยที่แท้จริง.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Generated but not accepted</source>
-        <translation type="unfinished"></translation>
+        <translation>ยอมรับชื่อบัญชีใหม่.</translation>
     </message>
     <message>
         <location line="+42"/>
         <location line="+2"/>
         <source>Received</source>
-        <translation type="unfinished"></translation>
+        <translation>ที่อยู่</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Sent</source>
-        <translation type="unfinished"></translation>
+        <translation>แสดง</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Internal Transfer</source>
-        <translation type="unfinished"></translation>
+        <translation>รวมดอกเบี้ย</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Interest</source>
-        <translation type="unfinished"></translation>
+        <translation>รวมดอกเบี้ย</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Fee</source>
-        <translation type="unfinished"></translation>
+        <translation>จาก</translation>
     </message>
     <message>
         <location line="+569"/>
         <source>Destination account of transaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>ยอดคงเหลือของบัญชี ณ วันสิ้นงวด.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Source account of transaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>ยอดคงเหลือของบัญชี ณ วันสิ้นงวด.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Account for transaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>ยอดคงเหลือของบัญชี ณ วันสิ้นงวด.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Other account for transaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>ยอดคงเหลือของบัญชี ณ วันสิ้นงวด.</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -3494,373 +3518,373 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+35"/>
         <source>Pandacoin version</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Pandacoin&lt;/b&gt; รุ่น</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Usage:</source>
-        <translation type="unfinished"></translation>
+        <translation>การใช้งาน:</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Send command to -server or pandacoind</source>
-        <translation type="unfinished"></translation>
+        <translation>ยินดีต้อนรับสู่คอนโซล Pandacoin RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>List commands</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัวเลือกบรรทัดคำสั่ง</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Get help for a command</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัวเลือกบรรทัดคำสั่ง</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Options:</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัวเลือก UI</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Specify configuration file (default: pandacoin.conf)</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Specify pid file (default: pandacoind.pid)</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Specify wallet file (within data directory)</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่งออกข้อมูลในแท็บปัจจุบันไปยังไฟล์</translation>
     </message>
     <message>
         <location line="-1"/>
         <source>Specify data directory</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่งออกข้อมูลในแท็บปัจจุบันไปยังไฟล์</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Set database cache size in megabytes (default: 25)</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Set database disk log size in megabytes (default: 100)</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Listen for connections on &lt;port&gt; (default: 15714 or testnet: 25714)</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Maintain at most &lt;n&gt; connections to peers (default: 125)</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Connect to a node to retrieve peer addresses, and disconnect</source>
-        <translation type="unfinished"></translation>
+        <translation>ที่อยู่ที่ป้อน &quot;%1&quot; ไม่ใช่ที่อยู่ Pandacoin ที่ถูกต้อง.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Specify your own public address</source>
-        <translation type="unfinished"></translation>
+        <translation>ดับเบิลคลิก เพื่อแก้ไขที่อยู่ หรือชื่อ</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Bind to given address. Use [host]:port notation for IPv6</source>
-        <translation type="unfinished"></translation>
+        <translation>ที่อยู่ที่ป้อน  ไม่ใช่ที่อยู่ Pandacoin ที่ถูกต้อง</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Stake your coins to support network and gain reward (default: 1)</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Threshold for disconnecting misbehaving peers (default: 100)</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Number of seconds to keep misbehaving peers from reconnecting (default: 86400)</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
     </message>
     <message>
         <location line="-44"/>
         <source>An error occurred while setting up the RPC port %u for listening on IPv4: %s</source>
-        <translation type="unfinished"></translation>
+        <translation>เกิดข้อผิดพลาดร้ายแรงขึ้น Pandacoin ไม่สามารถดำเนินการต่อได้อย่างปลอดภัยและจะเลิก.</translation>
     </message>
     <message>
         <location line="+51"/>
         <source>Detach block and address databases. Increases shutdown time (default: 0)</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
     </message>
     <message>
         <location line="+109"/>
         <source>Error: The transaction was rejected.  This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation type="unfinished"></translation>
+        <translation>ข้อผิดพลาด: ธุรกรรมถูกปฏิเสธ กรณีนี้อาจเกิดขึ้นหากมีการใช้เหรียญบางส่วนในกระเป๋าสตางค์ของคุณเช่นหากคุณใช้สำเนา wallet.dat และเหรียญถูกนำไปใช้ในการคัดลอก แต่ไม่ได้ทำเครื่องหมายว่าใช้จ่ายไปแล้วในที่นี้.</translation>
     </message>
     <message>
         <location line="-5"/>
         <source>Error: This transaction requires a transaction fee of at least %s because of its amount, complexity, or use of recently received funds  </source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนเงินเกินกว่ายอดเงินคงเหลือที่คุณมีอยู่เมื่อรวมค่าธรรมเนียมการทำธุรกรรม%1 บางส่วนของ Pandacoins ของคุณกำลังใช้อยู่เพื่อให้คุณได้รับดอกเบี้ย.</translation>
     </message>
     <message>
         <location line="-87"/>
         <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 22444 or testnet: 25715)</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
     </message>
     <message>
         <location line="-11"/>
         <source>Accept command line and JSON-RPC commands</source>
-        <translation type="unfinished"></translation>
+        <translation>ยินดีต้อนรับสู่คอนโซล Pandacoin RPC.</translation>
     </message>
     <message>
         <location line="+101"/>
         <source>Error: Transaction creation failed  </source>
-        <translation type="unfinished"></translation>
+        <translation>ข้อผิดพลาด: การสร้างธุรกรรมล้มเหลว.</translation>
     </message>
     <message>
         <location line="-5"/>
         <source>Error: Wallet locked, unable to create transaction  </source>
-        <translation type="unfinished"></translation>
+        <translation>ข้อผิดพลาด: การสร้างธุรกรรมล้มเหลว.</translation>
     </message>
     <message>
         <location line="-8"/>
         <source>Importing blockchain data file.</source>
-        <translation type="unfinished"></translation>
+        <translation>ปลดล็อก PandaBank ดิจิตอล</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Importing bootstrap blockchain data file.</source>
-        <translation type="unfinished"></translation>
+        <translation>ปลดล็อก PandaBank ดิจิตอล</translation>
     </message>
     <message>
         <location line="-88"/>
         <source>Run in the background as a daemon and accept commands</source>
-        <translation type="unfinished"></translation>
+        <translation>วันที่และเวลาที่ได้รับธุรกรรม.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Use the test network</source>
-        <translation type="unfinished"></translation>
+        <translation>Network Alert</translation>
     </message>
     <message>
         <location line="-24"/>
         <source>Accept connections from outside (default: 1 if no -proxy or -connect)</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
     </message>
     <message>
         <location line="-38"/>
         <source>An error occurred while setting up the RPC port %u for listening on IPv6, falling back to IPv4: %s</source>
-        <translation type="unfinished"></translation>
+        <translation>เกิดข้อผิดพลาดร้ายแรงขึ้น Pandacoin ไม่สามารถดำเนินการต่อได้อย่างปลอดภัยและจะเลิก.</translation>
     </message>
     <message>
         <location line="+117"/>
         <source>Error initializing database environment %s! To recover, BACKUP THAT DIRECTORY, then remove everything from it except for wallet.dat.</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนเงินเกินกว่ายอดเงินคงเหลือที่คุณมีอยู่เมื่อรวมค่าธรรมเนียมการทำธุรกรรม%1 บางส่วนของ Pandacoins ของคุณกำลังใช้อยู่เพื่อให้คุณได้รับดอกเบี้ย.</translation>
     </message>
     <message>
         <location line="-20"/>
         <source>Set maximum size of high-priority/low-fee transactions in bytes (default: 27000)</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Warning: -paytxfee is set very high! This is the transaction fee you will pay if you send a transaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดไฟล์บันทึกการแก้ปัญหา Pandacoin จากไดเร็กทอรีข้อมูลปัจจุบัน อาจใช้เวลาสักครู่สำหรับไฟล์บันทึกขนาดใหญ่.</translation>
     </message>
     <message>
         <location line="+61"/>
         <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Pandacoin will not work properly.</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนเงินที่สูงกว่ายอดเงินคงเหลือที่คุณมีอยู่บางส่วนของ Pandacoins ของคุณกำลังถูกนำมาใช้เพื่อให้คุณได้รับดอกเบี้ย.</translation>
     </message>
     <message>
         <location line="-31"/>
         <source>Warning: error reading wallet.dat! All keys read correctly, but transaction data or address book entries might be missing or incorrect.</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนเงินเกินกว่ายอดเงินคงเหลือที่คุณมีอยู่เมื่อรวมค่าธรรมเนียมการทำธุรกรรม%1 บางส่วนของ Pandacoins ของคุณกำลังใช้อยู่เพื่อให้คุณได้รับดอกเบี้ย.</translation>
     </message>
     <message>
         <location line="-18"/>
         <source>Warning: wallet.dat corrupt, data salvaged! Original wallet.dat saved as wallet.{timestamp}.bak in %s; if your balance or transactions are incorrect you should restore from a backup.</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนเงินเกินกว่ายอดเงินคงเหลือที่คุณมีอยู่เมื่อรวมค่าธรรมเนียมการทำธุรกรรม%1 บางส่วนของ Pandacoins ของคุณกำลังใช้อยู่เพื่อให้คุณได้รับดอกเบี้ย.</translation>
     </message>
     <message>
         <location line="-30"/>
         <source>Attempt to recover private keys from a corrupt wallet.dat</source>
-        <translation type="unfinished"></translation>
+        <translation>ที่อยู่ที่ป้อน &quot;%1&quot; ไม่ใช่ที่อยู่ Pandacoin ที่ถูกต้อง.</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Block creation options:</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนบล็อคปัจจุบัน</translation>
     </message>
     <message>
         <location line="-62"/>
         <source>Connect only to the specified node(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>รหัสผ่านที่ให้มาไม่ตรงกัน.</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Discover own IP address (default: 1 when listening and no -externalip)</source>
-        <translation type="unfinished"></translation>
+        <translation>ที่อยู่ที่ป้อน &quot;%1&quot; ไม่ใช่ที่อยู่ Pandacoin ที่ถูกต้อง.</translation>
     </message>
     <message>
         <location line="+94"/>
         <source>Failed to listen on any port. Use -listen=0 if you want this.</source>
-        <translation type="unfinished"></translation>
+        <translation>เกิดข้อผิดพลาดร้ายแรงขึ้น Pandacoin ไม่สามารถดำเนินการต่อได้อย่างปลอดภัยและจะเลิก.</translation>
     </message>
     <message>
         <location line="-90"/>
         <source>Find peers using DNS lookup (default: 1)</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Sync checkpoints policy (default: strict)</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
     </message>
     <message>
         <location line="+83"/>
         <source>Invalid -tor address: &apos;%s&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนเงินที่ป้อนไม่ถูกต้องโปรดตรวจสอบ.</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Invalid amount for -reservebalance=&lt;amount&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนเงินที่ป้อนไม่ถูกต้องโปรดตรวจสอบ.</translation>
     </message>
     <message>
         <location line="-82"/>
         <source>Maximum per-connection receive buffer, &lt;n&gt;*1000 bytes (default: 5000)</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Maximum per-connection send buffer, &lt;n&gt;*1000 bytes (default: 1000)</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
     </message>
     <message>
         <location line="-16"/>
         <source>Only connect to nodes in network &lt;net&gt; (IPv4, IPv6 or Tor)</source>
-        <translation type="unfinished"></translation>
+        <translation>ที่อยู่ที่ป้อน &quot;%1&quot; ไม่ใช่ที่อยู่ Pandacoin ที่ถูกต้อง.</translation>
     </message>
     <message>
         <location line="+28"/>
         <source>Output extra debugging information. Implies all other -debug* options</source>
-        <translation type="unfinished"></translation>
+        <translation>ที่อยู่ที่ป้อน &quot;%1&quot; ไม่ใช่ที่อยู่ Pandacoin ที่ถูกต้อง.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Output extra network debugging information</source>
-        <translation type="unfinished"></translation>
+        <translation>ที่อยู่ที่ป้อน &quot;%1&quot; ไม่ใช่ที่อยู่ Pandacoin ที่ถูกต้อง.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Prepend debug output with timestamp</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดการแก้จุดบกพร่องและคอนโซลการวินิจฉัย</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
-        <translation type="unfinished"></translation>
+        <translation>ที่อยู่ที่ป้อน &quot;%1&quot; ไม่ใช่ที่อยู่ Pandacoin ที่ถูกต้อง.</translation>
     </message>
     <message>
         <location line="-74"/>
         <source>Select the version of socks proxy to use (4-5, default: 5)</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Send trace/debug info to console instead of debug.log file</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Send trace/debug info to debugger</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
     </message>
     <message>
         <location line="+28"/>
         <source>Set maximum block size in bytes (default: 250000)</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
     </message>
     <message>
         <location line="-1"/>
         <source>Set minimum block size in bytes (default: 0)</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
     </message>
     <message>
         <location line="-29"/>
         <source>Shrink debug.log file on client startup (default: 1 when no -debug)</source>
-        <translation type="unfinished"></translation>
+        <translation>ที่อยู่ที่ป้อน &quot;%1&quot; ไม่ใช่ที่อยู่ Pandacoin ที่ถูกต้อง.</translation>
     </message>
     <message>
         <location line="-42"/>
         <source>Specify connection timeout in milliseconds (default: 5000)</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
     </message>
     <message>
         <location line="+109"/>
         <source>Unable to sign checkpoint, wrong checkpointkey?
 </source>
-        <translation type="unfinished"></translation>
+        <translation>การสร้างบัญชี PandaBank แบบดิจิตอลเป็นเรื่องง่าย</translation>
     </message>
     <message>
         <location line="-80"/>
         <source>Use UPnP to map the listening port (default: 0)</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
     </message>
     <message>
         <location line="-1"/>
         <source>Use UPnP to map the listening port (default: 1 when listening)</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
     </message>
     <message>
         <location line="-25"/>
         <source>Use proxy to reach tor hidden services (default: same as -proxy)</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
     </message>
     <message>
         <location line="+42"/>
         <source>Username for JSON-RPC connections</source>
-        <translation type="unfinished"></translation>
+        <translation>ยอดคงเหลือของบัญชี ณ วันสิ้นงวด.</translation>
     </message>
     <message>
         <location line="+47"/>
         <source>Verifying database integrity...</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้างบัญชี Digital PandaBank แล้ว</translation>
     </message>
     <message>
         <location line="+57"/>
         <source>WARNING: syncronized checkpoint violation detected, but skipped!</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Warning: Disk space is low!</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนเงินที่ป้อนไม่ถูกต้องโปรดตรวจสอบ.</translation>
     </message>
     <message>
         <location line="-2"/>
         <source>Warning: This version is obsolete, upgrade required!</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนเงินที่ป้อนไม่ถูกต้องโปรดตรวจสอบ.</translation>
     </message>
     <message>
         <location line="-48"/>
         <source>wallet.dat corrupt, salvage failed</source>
-        <translation type="unfinished"></translation>
+        <translation>การเข้ารหัสกระเป๋าสตางค์ผิดพลาด</translation>
     </message>
     <message>
         <location line="-54"/>
         <source>Password for JSON-RPC connections</source>
-        <translation type="unfinished"></translation>
+        <translation>ยอดคงเหลือของบัญชี ณ วันสิ้นงวด.</translation>
     </message>
     <message>
         <location line="-84"/>
@@ -3875,304 +3899,304 @@ If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
 for example: alertnotify=echo %%s | mail -s &quot;Pandacoin Alert&quot; admin@foo.com
 </source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;span&gt; = &quot;font-weight: 600;&quot;&gt; พร้อมใช้งาน &lt;/ span&gt; คือจำนวน PND ที่คุณสามารถใช้ได้หรือโอนย้าย &lt;span style = &quot;font-weight: 600;&quot;&gt; รายได้ที่น่าสนใจ &lt;/ span&gt; คือจำนวนเงิน PND ที่กำลังใช้ในการสร้างดอกเบี้ย &lt;span style = &quot;font-weight: 600;&quot;&gt; รอดำเนินการ &lt;/ span&gt; คือจำนวนเงินที่เข้ามาล่าสุด PND จากที่อยู่บัญชีอื่นที่รอการโอนไปยังบัญชีของคุณ &lt;span style = &quot;font-weight: 600;&quot;&gt; ยอดรวม &lt;/ span&gt; คือยอดรวมของ PND ของยอดคงเหลือในบัญชีทั้งหมดของคุณ &lt;/ p&gt; &lt;/ body&gt; &lt;/ html&gt;</translation>
     </message>
     <message>
         <location line="+51"/>
         <source>Find peers using internet relay chat (default: 0)</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Sync time with other nodes. Disable if time on your system is precise e.g. syncing with NTP (default: 1)</source>
-        <translation type="unfinished"></translation>
+        <translation>ที่อยู่ที่เชื่อมโยงกับรายการสมุดที่อยู่นี้ ซึ่งสามารถแก้ไขได้เฉพาะสำหรับการส่งที่อยู่เท่านั้น.</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>When creating transactions, ignore inputs with value less than this (default: 0.01)</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Allow JSON-RPC connections from specified IP address</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบที่อยู่ปัจจุบันที่เลือกออกจากรายการ</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Send commands to node running on &lt;ip&gt; (default: 127.0.0.1)</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Execute command when the best block changes (%s in cmd is replaced by block hash)</source>
-        <translation type="unfinished"></translation>
+        <translation>ทำหน้าที่ปิดใช้งาน sendmoney เล็กน้อยเมื่อบัญชี OS ถูกบุกรุก ไม่มีการรักษาความปลอดภัยที่แท้จริง.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Execute command when a wallet transaction changes (%s in cmd is replaced by TxID)</source>
-        <translation type="unfinished"></translation>
+        <translation>ทำหน้าที่ปิดใช้งาน sendmoney เล็กน้อยเมื่อบัญชี OS ถูกบุกรุก ไม่มีการรักษาความปลอดภัยที่แท้จริง.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Require a confirmations for change (default: 0)</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Enforce transaction scripts to use canonical PUSH operators (default: 1)</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Execute command when a relevant alert is received (%s in cmd is replaced by message)</source>
-        <translation type="unfinished"></translation>
+        <translation>ทำหน้าที่ปิดใช้งาน sendmoney เล็กน้อยเมื่อบัญชี OS ถูกบุกรุก ไม่มีการรักษาความปลอดภัยที่แท้จริง.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Upgrade wallet to latest format</source>
-        <translation type="unfinished"></translation>
+        <translation>การเข้ารหัสกระเป๋าสตางค์ผิดพลาด</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Set key pool size to &lt;n&gt; (default: 100)</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Rescan the block chain for missing wallet transactions</source>
-        <translation type="unfinished"></translation>
+        <translation>ข้อผิดพลาด: การสร้างธุรกรรมล้มเหลว.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>How many blocks to check at startup (default: 2500, 0 = all)</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>How thorough the block verification is (0-6, default: 1)</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Imports blocks from external blk000?.dat file</source>
-        <translation type="unfinished"></translation>
+        <translation>ปลดล็อก PandaBank ดิจิตอล</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Use OpenSSL (https) for JSON-RPC connections</source>
-        <translation type="unfinished"></translation>
+        <translation>ยอดคงเหลือของบัญชี ณ วันสิ้นงวด.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Server certificate file (default: server.cert)</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Server private key (default: server.pem)</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Acceptable ciphers (default: TLSv1+HIGH:!SSLv2:!aNULL:!eNULL:!AH:!3DES:@STRENGTH)</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
     </message>
     <message>
         <location line="+53"/>
         <source>Error: Wallet unlocked for staking only, unable to create transaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>ข้อผิดพลาด: การสร้างธุรกรรมล้มเหลว.</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>WARNING: Invalid checkpoint found! Displayed transactions may not be correct! You may need to upgrade, or notify developers.</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนเงินที่สูงกว่ายอดเงินคงเหลือที่คุณมีอยู่บางส่วนของ Pandacoins ของคุณกำลังถูกนำมาใช้เพื่อให้คุณได้รับดอกเบี้ย.</translation>
     </message>
     <message>
         <location line="-158"/>
         <source>This help message</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ยืนยันข้อความ</translation>
     </message>
     <message>
         <location line="+95"/>
         <source>Wallet %s resides outside data directory %s.</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่งออกข้อมูลในแท็บปัจจุบันไปยังไฟล์</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Cannot obtain a lock on data directory %s.  Pandacoin is probably already running.</source>
-        <translation type="unfinished"></translation>
+        <translation>เกิดข้อผิดพลาดร้ายแรงขึ้น Pandacoin ไม่สามารถดำเนินการต่อได้อย่างปลอดภัยและจะเลิก.</translation>
     </message>
     <message>
         <location line="-98"/>
         <source>Pandacoin</source>
-        <translation type="unfinished"></translation>
+        <translation>Pandacoin-Qt</translation>
     </message>
     <message>
         <location line="+140"/>
         <source>Unable to bind to %s on this computer (bind returned error %d, %s)</source>
-        <translation type="unfinished"></translation>
+        <translation>ข้อผิดพลาด: การสร้างธุรกรรมล้มเหลว.</translation>
     </message>
     <message>
         <location line="-130"/>
         <source>Connect through socks proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกที่อยู่จากสมุดที่อยู่</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Allow DNS lookups for -addnode, -seednode and -connect</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบที่อยู่ปัจจุบันที่เลือกออกจากรายการ</translation>
     </message>
     <message>
         <location line="+122"/>
         <source>Loading addresses...</source>
-        <translation type="unfinished"></translation>
+        <translation>แก้ไขที่อยู่ในการส่ง</translation>
     </message>
     <message>
         <location line="-15"/>
         <source>Error loading blkindex.dat</source>
-        <translation type="unfinished"></translation>
+        <translation>เกิดข้อผิดพลาดในการเข้ารหัส URI ลงใน QR Code.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Error loading wallet.dat: Wallet corrupted</source>
-        <translation type="unfinished"></translation>
+        <translation>การเข้ารหัสกระเป๋าสตางค์ผิดพลาด</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Error loading wallet.dat: Wallet requires newer version of Pandacoin</source>
-        <translation type="unfinished"></translation>
+        <translation>ที่อยู่ที่ป้อน &quot;%1&quot; ไม่ใช่ที่อยู่ Pandacoin ที่ถูกต้อง.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Wallet needed to be rewritten: restart Pandacoin to complete</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Error loading wallet.dat</source>
-        <translation type="unfinished"></translation>
+        <translation>เกิดข้อผิดพลาดในการเข้ารหัส URI ลงใน QR Code.</translation>
     </message>
     <message>
         <location line="-16"/>
         <source>Invalid -proxy address: &apos;%s&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนเงินที่ป้อนไม่ถูกต้องโปรดตรวจสอบ.</translation>
     </message>
     <message>
         <location line="-1"/>
         <source>Unknown network specified in -onlynet: &apos;%s&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>รหัสผ่านที่ให้มาไม่ตรงกัน.</translation>
     </message>
     <message>
         <location line="-1"/>
         <source>Unknown -socks proxy version requested: %i</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกที่อยู่จากสมุดที่อยู่</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Cannot resolve -bind address: &apos;%s&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนเงินที่ป้อนไม่ถูกต้องโปรดตรวจสอบ.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Cannot resolve -externalip address: &apos;%s&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนเงินที่ป้อนไม่ถูกต้องโปรดตรวจสอบ.</translation>
     </message>
     <message>
         <location line="-24"/>
         <source>Invalid amount for -paytxfee=&lt;amount&gt;: &apos;%s&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนเงินที่ป้อนไม่ถูกต้องโปรดตรวจสอบ.</translation>
     </message>
     <message>
         <location line="+44"/>
         <source>Error: could not start node</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่สามารถเขียนไปยังแฟ้ม %1.</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Sending...</source>
-        <translation type="unfinished"></translation>
+        <translation>การส่ง...</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Invalid amount</source>
-        <translation type="unfinished"></translation>
+        <translation>ยอดเงินในบัญชี</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Insufficient funds</source>
-        <translation type="unfinished"></translation>
+        <translation>ยืนยันการส่งเหรียญ</translation>
     </message>
     <message>
         <location line="-34"/>
         <source>Loading block index...</source>
-        <translation type="unfinished"></translation>
+        <translation>เกิดข้อผิดพลาดในการเข้ารหัส URI ลงใน QR Code.</translation>
     </message>
     <message>
         <location line="-103"/>
         <source>Add a node to connect to and attempt to keep the connection open</source>
-        <translation type="unfinished"></translation>
+        <translation>ที่อยู่ที่ป้อน &quot;%1&quot; ไม่ใช่ที่อยู่ Pandacoin ที่ถูกต้อง.</translation>
     </message>
     <message>
         <location line="+122"/>
         <source>Unable to bind to %s on this computer. Pandacoin is probably already running.</source>
-        <translation type="unfinished"></translation>
+        <translation>เกิดข้อผิดพลาดร้ายแรงขึ้น Pandacoin ไม่สามารถดำเนินการต่อได้อย่างปลอดภัยและจะเลิก.</translation>
     </message>
     <message>
         <location line="-97"/>
         <source>Fee per KB to add to transactions you send</source>
-        <translation type="unfinished"></translation>
+        <translation>ยอดคงเหลือของบัญชี ณ วันสิ้นงวด.</translation>
     </message>
     <message>
         <location line="+55"/>
         <source>Invalid amount for -mininput=&lt;amount&gt;: &apos;%s&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนเงินที่ป้อนไม่ถูกต้องโปรดตรวจสอบ.</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Loading wallet...</source>
-        <translation type="unfinished"></translation>
+        <translation>เกิดข้อผิดพลาดในการเข้ารหัส URI ลงใน QR Code.</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Cannot downgrade wallet</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่สามารถปลดล็อกกระเป๋าสตางค์ได้.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Cannot initialize keypool</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่สามารถปลดล็อกกระเป๋าสตางค์ได้.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Cannot write default address</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนเงินที่ป้อนไม่ถูกต้องโปรดตรวจสอบ.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Rescanning...</source>
-        <translation type="unfinished"></translation>
+        <translation>ค้นหาโดยใช้คำหลัก</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Done loading</source>
-        <translation type="unfinished"></translation>
+        <translation>เกิดข้อผิดพลาดในการเข้ารหัส URI ลงใน QR Code.</translation>
     </message>
     <message>
         <location line="-167"/>
         <source>To use the %s option</source>
-        <translation type="unfinished"></translation>
+        <translation>Network Alert</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>ความผิดพลาด</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>You must set rpcpassword=&lt;password&gt; in the configuration file:
 %s
 If the file does not exist, create it with owner-readable-only file permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>จำนวนเงินเกินกว่ายอดเงินคงเหลือที่คุณมีอยู่เมื่อรวมค่าธรรมเนียมการทำธุรกรรม%1 บางส่วนของ Pandacoins ของคุณกำลังใช้อยู่เพื่อให้คุณได้รับดอกเบี้ย.</translation>
     </message>
 </context>
 </TS>
