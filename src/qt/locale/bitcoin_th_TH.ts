@@ -845,7 +845,7 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
         <location line="+29"/>
         <location line="+29"/>
         <source>%1 %2 remaining</source>
-        <translation></translation>
+        <translation>เหลือ%1 %2</translation>
     </message>
     <message>
         <location line="-217"/>
@@ -1020,7 +1020,7 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location line="+116"/>
         <source>Activate Digital PandaBank ‘Classic’</source>
-        <translation></translation>
+        <translation>เปิดใช้งาน Digital PandaBank &apos;Classic&apos;</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1197,7 +1197,7 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location line="+268"/>
         <source>Up to date</source>
-        <translation></translation>
+        <translation>ปัจจุบัน</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1246,7 +1246,7 @@ Address: %4
         <location line="+83"/>
         <location line="+15"/>
         <source>URI handling</source>
-        <translation></translation>
+        <translation>การจัดการ URI</translation>
     </message>
     <message>
         <location line="+245"/>
@@ -1327,7 +1327,7 @@ Address: %4
     <message>
         <location line="+31"/>
         <source>Quantity:</source>
-        <translation></translation>
+        <translation>ปริมาณ:</translation>
     </message>
     <message>
         <location line="+32"/>
@@ -1342,7 +1342,7 @@ Address: %4
     <message>
         <location line="+32"/>
         <source>Priority:</source>
-        <translation></translation>
+        <translation>ความสำคัญ:</translation>
     </message>
     <message>
         <location line="+48"/>
@@ -1352,12 +1352,12 @@ Address: %4
     <message>
         <location line="+35"/>
         <source>Low Output:</source>
-        <translation></translation>
+        <translation>เอาท์พุทต่ำ:</translation>
     </message>
     <message>
         <location filename="../coincontroldialog.cpp" line="+555"/>
         <source>no</source>
-        <translation>N/A</translation>
+        <translation>ไม่</translation>
     </message>
     <message>
         <location filename="../forms/coincontroldialog.ui" line="+51"/>
@@ -1367,9 +1367,7 @@ Address: %4
     <message>
         <location line="+35"/>
         <source>Change:</source>
-        <translation>เปลี่ยนแปลง
-
-:</translation>
+        <translation>เปลี่ยนแปลง:</translation>
     </message>
     <message>
         <location line="+69"/>
@@ -1379,12 +1377,12 @@ Address: %4
     <message>
         <location line="+13"/>
         <source>Tree mode</source>
-        <translation>โหมด</translation>
+        <translation>โหมดต้นไม้</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>List mode</source>
-        <translation>โหมด</translation>
+        <translation>โหมดรายการ</translation>
     </message>
     <message>
         <location line="+45"/>
@@ -1520,7 +1518,7 @@ Address: %4
     <message>
         <location line="+0"/>
         <source>yes</source>
-        <translation></translation>
+        <translation>ใช่</translation>
     </message>
     <message>
         <location line="+10"/>
