@@ -3793,98 +3793,99 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location line="+35"/>
         <source>SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
-        <translation>ที่อยู่ที่ป้อน &quot;%1&quot; ไม่ใช่ที่อยู่ Pandacoin ที่ถูกต้อง.</translation>
+        <translation>ตัวเลือก SSL: (ดู Bitcoin Wiki สำหรับคำแนะนำในการตั้งค่า SSL)</translation>
     </message>
     <message>
         <location line="-74"/>
         <source>Select the version of socks proxy to use (4-5, default: 5)</source>
-        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
+        <translation>เลือกพร็อกซีถุงเท้าเพื่อใช้ (4-5 ค่าดีฟอลต์: 5)</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Send trace/debug info to console instead of debug.log file</source>
-        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
+        <translation>ส่งข้อมูล trace / debug ไปยัง console แทนไฟล์ debug.log</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Send trace/debug info to debugger</source>
-        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
+        <translation>ส่งข้อมูลการสืบค้นกลับ / ดีบักไปยังดีบักเกอร์</translation>
     </message>
     <message>
         <location line="+28"/>
         <source>Set maximum block size in bytes (default: 250000)</source>
-        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
+        <translation>กำหนดขนาดบล็อกสูงสุดเป็นไบต์ (ค่าเริ่มต้น: 250000)</translation>
     </message>
     <message>
         <location line="-1"/>
         <source>Set minimum block size in bytes (default: 0)</source>
-        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
+        <translation>กำหนดขนาดบล็อกขั้นต่ำเป็นไบต์ (ค่าเริ่มต้น: 0)</translation>
     </message>
     <message>
         <location line="-29"/>
         <source>Shrink debug.log file on client startup (default: 1 when no -debug)</source>
-        <translation>ที่อยู่ที่ป้อน &quot;%1&quot; ไม่ใช่ที่อยู่ Pandacoin ที่ถูกต้อง.</translation>
+        <translation>ลดขนาดไฟล์ debug.log ในการเริ่มต้นของไคลเอ็นต์ (ค่าเริ่มต้น: 1 เมื่อไม่มีการแก้ไข)</translation>
     </message>
     <message>
         <location line="-42"/>
         <source>Specify connection timeout in milliseconds (default: 5000)</source>
-        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
+        <translation>ระบุระยะหมดเวลาการเชื่อมต่อเป็นมิลลิวินาที (ค่าเริ่มต้น: 5000)</translation>
     </message>
     <message>
         <location line="+109"/>
         <source>Unable to sign checkpoint, wrong checkpointkey?
 </source>
-        <translation>การสร้างบัญชี PandaBank แบบดิจิตอลเป็นเรื่องง่าย</translation>
+        <translation>ไม่สามารถเซ็นชื่อ checkpoint, checkpointkey ไม่ถูกต้อง?
+</translation>
     </message>
     <message>
         <location line="-80"/>
         <source>Use UPnP to map the listening port (default: 0)</source>
-        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
+        <translation>ใช้ UPnP เพื่อแมปพอร์ตการฟัง (ค่าเริ่มต้น: 0)</translation>
     </message>
     <message>
         <location line="-1"/>
         <source>Use UPnP to map the listening port (default: 1 when listening)</source>
-        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
+        <translation>ใช้ UPnP เพื่อแมปพอร์ตการฟัง (ค่าเริ่มต้น: 1 เมื่อฟัง)</translation>
     </message>
     <message>
         <location line="-25"/>
         <source>Use proxy to reach tor hidden services (default: same as -proxy)</source>
-        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
+        <translation>ใช้พร็อกซีเพื่อเข้าถึงบริการซ่อนเร้น (ค่าดีฟอลต์: เหมือนกับ -proxy)</translation>
     </message>
     <message>
         <location line="+42"/>
         <source>Username for JSON-RPC connections</source>
-        <translation>ยอดคงเหลือของบัญชี ณ วันสิ้นงวด.</translation>
+        <translation>ชื่อผู้ใช้สำหรับการเชื่อมต่อ JSON-RPC</translation>
     </message>
     <message>
         <location line="+47"/>
         <source>Verifying database integrity...</source>
-        <translation>สร้างบัญชี Digital PandaBank แล้ว</translation>
+        <translation>กำลังตรวจสอบความสมบูรณ์ของฐานข้อมูล ...</translation>
     </message>
     <message>
         <location line="+57"/>
         <source>WARNING: syncronized checkpoint violation detected, but skipped!</source>
-        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
+        <translation>คำเตือน: มีการตรวจพบการละเมิดจุดตรวจสอบการซิงค์โครไนซ์ แต่ข้ามไปแล้ว!</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Warning: Disk space is low!</source>
-        <translation>จำนวนเงินที่ป้อนไม่ถูกต้องโปรดตรวจสอบ.</translation>
+        <translation>คำเตือน: เนื้อที่ดิสก์เหลือน้อย!</translation>
     </message>
     <message>
         <location line="-2"/>
         <source>Warning: This version is obsolete, upgrade required!</source>
-        <translation>จำนวนเงินที่ป้อนไม่ถูกต้องโปรดตรวจสอบ.</translation>
+        <translation>คำเตือน: รุ่นนี้ล้าสมัยจำเป็นต้องอัพเกรด!</translation>
     </message>
     <message>
         <location line="-48"/>
         <source>wallet.dat corrupt, salvage failed</source>
-        <translation>การเข้ารหัสกระเป๋าสตางค์ผิดพลาด</translation>
+        <translation>wallet.dat เสียหายการกอบกู้ล้มเหลว</translation>
     </message>
     <message>
         <location line="-54"/>
         <source>Password for JSON-RPC connections</source>
-        <translation>ยอดคงเหลือของบัญชี ณ วันสิ้นงวด.</translation>
+        <translation>รหัสผ่านสำหรับการเชื่อมต่อ JSON-RPC</translation>
     </message>
     <message>
         <location line="-84"/>
@@ -3899,217 +3900,227 @@ If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
 for example: alertnotify=echo %%s | mail -s &quot;Pandacoin Alert&quot; admin@foo.com
 </source>
-        <translation>&lt;span&gt; = &quot;font-weight: 600;&quot;&gt; พร้อมใช้งาน &lt;/ span&gt; คือจำนวน PND ที่คุณสามารถใช้ได้หรือโอนย้าย &lt;span style = &quot;font-weight: 600;&quot;&gt; รายได้ที่น่าสนใจ &lt;/ span&gt; คือจำนวนเงิน PND ที่กำลังใช้ในการสร้างดอกเบี้ย &lt;span style = &quot;font-weight: 600;&quot;&gt; รอดำเนินการ &lt;/ span&gt; คือจำนวนเงินที่เข้ามาล่าสุด PND จากที่อยู่บัญชีอื่นที่รอการโอนไปยังบัญชีของคุณ &lt;span style = &quot;font-weight: 600;&quot;&gt; ยอดรวม &lt;/ span&gt; คือยอดรวมของ PND ของยอดคงเหลือในบัญชีทั้งหมดของคุณ &lt;/ p&gt; &lt;/ body&gt; &lt;/ html&gt;</translation>
+        <translation>%s คุณต้องตั้งค่า rpcpassword ในไฟล์การกำหนดค่า:
+ %s
+ขอแนะนำให้คุณใช้รหัสผ่านแบบสุ่มต่อไปนี้:
+rpcuser = pandacoinrpc
+rpcpassword =%s
+(คุณไม่จำเป็นต้องจำรหัสผ่านนี้)
+ชื่อผู้ใช้และรหัสผ่านต้องไม่เหมือนกัน
+หากไฟล์ไม่มีอยู่ให้สร้างไฟล์นี้โดยใช้สิทธิ์ของไฟล์ที่เจ้าของสามารถอ่านได้
+ขอแนะนำให้ตั้งค่าการแจ้งเตือนเพื่อให้คุณได้รับแจ้งถึงปัญหา
+ตัวอย่างเช่น: alertnotify = echo %%s | mail -s &quot;Pandacoin Alert&quot; admin@foo.com
+</translation>
     </message>
     <message>
         <location line="+51"/>
         <source>Find peers using internet relay chat (default: 0)</source>
-        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
+        <translation>ค้นหา peers โดยใช้ chat relay อินเทอร์เน็ต (ค่าเริ่มต้น: 0)</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Sync time with other nodes. Disable if time on your system is precise e.g. syncing with NTP (default: 1)</source>
-        <translation>ที่อยู่ที่เชื่อมโยงกับรายการสมุดที่อยู่นี้ ซึ่งสามารถแก้ไขได้เฉพาะสำหรับการส่งที่อยู่เท่านั้น.</translation>
+        <translation>เวลาซิงค์กับโหนดอื่น ปิดใช้งานหากเวลาในระบบของคุณแม่นยำเช่น การซิงค์กับ NTP (ค่าเริ่มต้น: 1)</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>When creating transactions, ignore inputs with value less than this (default: 0.01)</source>
-        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
+        <translation>เมื่อสร้างธุรกรรมละเว้นอินพุตที่มีค่าน้อยกว่านี้ (ค่าเริ่มต้น: 0.01)</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Allow JSON-RPC connections from specified IP address</source>
-        <translation>ลบที่อยู่ปัจจุบันที่เลือกออกจากรายการ</translation>
+        <translation>อนุญาตการเชื่อมต่อ JSON-RPC จากที่อยู่ IP ที่ระบุ</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Send commands to node running on &lt;ip&gt; (default: 127.0.0.1)</source>
-        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
+        <translation>ส่งคำสั่งไปยังโหนดที่ทำงานอยู่บน &lt;ip&gt; (ค่าเริ่มต้น: 127.0.0.1)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Execute command when the best block changes (%s in cmd is replaced by block hash)</source>
-        <translation>ทำหน้าที่ปิดใช้งาน sendmoney เล็กน้อยเมื่อบัญชี OS ถูกบุกรุก ไม่มีการรักษาความปลอดภัยที่แท้จริง.</translation>
+        <translation>ดำเนินการคำสั่งเมื่อมีการเปลี่ยนแปลงที่ดีที่สุดของบล็อก (%s ใน cmd ถูกแทนที่ด้วยการป้องกันกัญชา)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Execute command when a wallet transaction changes (%s in cmd is replaced by TxID)</source>
-        <translation>ทำหน้าที่ปิดใช้งาน sendmoney เล็กน้อยเมื่อบัญชี OS ถูกบุกรุก ไม่มีการรักษาความปลอดภัยที่แท้จริง.</translation>
+        <translation>ดำเนินการคำสั่งเมื่อมีการเปลี่ยนแปลงธุรกรรมกระเป๋าสตางค์ (%s ใน cmd จะถูกแทนที่ด้วย TxID)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Require a confirmations for change (default: 0)</source>
-        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
+        <translation>ต้องการการยืนยันสำหรับการเปลี่ยนแปลง (ค่าเริ่มต้น: 0)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Enforce transaction scripts to use canonical PUSH operators (default: 1)</source>
-        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
+        <translation>บังคับใช้สคริปต์การทำธุรกรรมเพื่อใช้ตัวดำเนินการ PUSH บัญญัติ (ค่าเริ่มต้น: 1)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Execute command when a relevant alert is received (%s in cmd is replaced by message)</source>
-        <translation>ทำหน้าที่ปิดใช้งาน sendmoney เล็กน้อยเมื่อบัญชี OS ถูกบุกรุก ไม่มีการรักษาความปลอดภัยที่แท้จริง.</translation>
+        <translation>ดำเนินการคำสั่งเมื่อได้รับการแจ้งเตือนที่เกี่ยวข้อง (%s ใน cmd จะถูกแทนที่ด้วยข้อความ)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Upgrade wallet to latest format</source>
-        <translation>การเข้ารหัสกระเป๋าสตางค์ผิดพลาด</translation>
+        <translation>อัปเกรดกระเป๋าสตางค์เป็นรูปแบบล่าสุด</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Set key pool size to &lt;n&gt; (default: 100)</source>
-        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
+        <translation>กำหนดขนาดพูลของคีย์เป็น &lt;n&gt; (ค่าเริ่มต้น: 100)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Rescan the block chain for missing wallet transactions</source>
-        <translation>ข้อผิดพลาด: การสร้างธุรกรรมล้มเหลว.</translation>
+        <translation>สแกนชุดลูกโซ่ใหม่สำหรับสต็อคที่ขาดหายไป</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>How many blocks to check at startup (default: 2500, 0 = all)</source>
-        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
+        <translation>จำนวนบล็อกที่จะตรวจสอบเมื่อเริ่มต้น (ค่าเริ่มต้น: 2500, 0 = ทั้งหมด)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>How thorough the block verification is (0-6, default: 1)</source>
-        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
+        <translation>วิธีการตรวจสอบความถูกต้องของบล็อกคืออะไร (0-6 ค่าดีฟอลต์: 1)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Imports blocks from external blk000?.dat file</source>
-        <translation>ปลดล็อก PandaBank ดิจิตอล</translation>
+        <translation>นำเข้าบล็อคจากไฟล์ blk000? .dat ภายนอก</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Use OpenSSL (https) for JSON-RPC connections</source>
-        <translation>ยอดคงเหลือของบัญชี ณ วันสิ้นงวด.</translation>
+        <translation>ใช้ OpenSSL (https) สำหรับการเชื่อมต่อ JSON-RPC</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Server certificate file (default: server.cert)</source>
-        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
+        <translation>ไฟล์ใบรับรองเซิร์ฟเวอร์ (ค่าเริ่มต้น: server.cert)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Server private key (default: server.pem)</source>
-        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
+        <translation>คีย์ส่วนตัวของเซิร์ฟเวอร์ (ค่าเริ่มต้น: server.pem)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Acceptable ciphers (default: TLSv1+HIGH:!SSLv2:!aNULL:!eNULL:!AH:!3DES:@STRENGTH)</source>
-        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
+        <translation>ciphers ที่ยอมรับได้ (ค่าเริ่มต้น: TLSv1 + HIGH:! SSLv2:! aNULL:! eNULL:! AH:! 3DES: @STRENGTH)</translation>
     </message>
     <message>
         <location line="+53"/>
         <source>Error: Wallet unlocked for staking only, unable to create transaction.</source>
-        <translation>ข้อผิดพลาด: การสร้างธุรกรรมล้มเหลว.</translation>
+        <translation>ข้อผิดพลาด: Wallet ไม่ได้รับการล็อกเพื่อปักหลักเท่านั้นและไม่สามารถสร้างธุรกรรมได้.</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>WARNING: Invalid checkpoint found! Displayed transactions may not be correct! You may need to upgrade, or notify developers.</source>
-        <translation>จำนวนเงินที่สูงกว่ายอดเงินคงเหลือที่คุณมีอยู่บางส่วนของ Pandacoins ของคุณกำลังถูกนำมาใช้เพื่อให้คุณได้รับดอกเบี้ย.</translation>
+        <translation>คำเตือน: พบด่านที่ไม่ถูกต้อง! ธุรกรรมที่แสดงอาจไม่ถูกต้อง! คุณอาจต้องอัปเกรดหรือแจ้งให้นักพัฒนาทราบ.</translation>
     </message>
     <message>
         <location line="-158"/>
         <source>This help message</source>
-        <translation>&amp;ยืนยันข้อความ</translation>
+        <translation>ข้อความช่วยเหลือนี้</translation>
     </message>
     <message>
         <location line="+95"/>
         <source>Wallet %s resides outside data directory %s.</source>
-        <translation>ส่งออกข้อมูลในแท็บปัจจุบันไปยังไฟล์</translation>
+        <translation>Wallet %s อยู่นอกไดเรกทอรีข้อมูล %s.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Cannot obtain a lock on data directory %s.  Pandacoin is probably already running.</source>
-        <translation>เกิดข้อผิดพลาดร้ายแรงขึ้น Pandacoin ไม่สามารถดำเนินการต่อได้อย่างปลอดภัยและจะเลิก.</translation>
+        <translation>ไม่สามารถขอรับการล็อกไดเรกทอรีข้อมูล %s ได้ Pandacoin น่าจะทำงานอยู่แล้ว.</translation>
     </message>
     <message>
         <location line="-98"/>
         <source>Pandacoin</source>
-        <translation>Pandacoin-Qt</translation>
+        <translation>Pandacoin</translation>
     </message>
     <message>
         <location line="+140"/>
         <source>Unable to bind to %s on this computer (bind returned error %d, %s)</source>
-        <translation>ข้อผิดพลาด: การสร้างธุรกรรมล้มเหลว.</translation>
+        <translation>ไม่สามารถผูกกับ %s บนคอมพิวเตอร์เครื่องนี้ได้ (ข้อผูกมัดแสดงข้อผิดพลาด %d,%s)</translation>
     </message>
     <message>
         <location line="-130"/>
         <source>Connect through socks proxy</source>
-        <translation>เลือกที่อยู่จากสมุดที่อยู่</translation>
+        <translation>เชื่อมต่อผ่าน proxy ถุงเท้า</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Allow DNS lookups for -addnode, -seednode and -connect</source>
-        <translation>ลบที่อยู่ปัจจุบันที่เลือกออกจากรายการ</translation>
+        <translation>อนุญาตการค้นหา DNS สำหรับ --addnode, -seednode และ -connect</translation>
     </message>
     <message>
         <location line="+122"/>
         <source>Loading addresses...</source>
-        <translation>แก้ไขที่อยู่ในการส่ง</translation>
+        <translation>กำลังโหลดที่อยู่ ...</translation>
     </message>
     <message>
         <location line="-15"/>
         <source>Error loading blkindex.dat</source>
-        <translation>เกิดข้อผิดพลาดในการเข้ารหัส URI ลงใน QR Code.</translation>
+        <translation>เกิดข้อผิดพลาดในการโหลด blkindex.dat</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Error loading wallet.dat: Wallet corrupted</source>
-        <translation>การเข้ารหัสกระเป๋าสตางค์ผิดพลาด</translation>
+        <translation>เกิดข้อผิดพลาดในการโหลด wallet.dat: Wallet เสียหาย</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Error loading wallet.dat: Wallet requires newer version of Pandacoin</source>
-        <translation>ที่อยู่ที่ป้อน &quot;%1&quot; ไม่ใช่ที่อยู่ Pandacoin ที่ถูกต้อง.</translation>
+        <translation>เกิดข้อผิดพลาดในการโหลด wallet.dat: Wallet ต้องใช้ Pandacoin เวอร์ชันใหม่กว่า</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Wallet needed to be rewritten: restart Pandacoin to complete</source>
-        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
+        <translation>ต้องมีการเขียนใหม่ของ Wallet: รีสตาร์ท Pandacoin ให้เสร็จสมบูรณ์</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Error loading wallet.dat</source>
-        <translation>เกิดข้อผิดพลาดในการเข้ารหัส URI ลงใน QR Code.</translation>
+        <translation>เกิดข้อผิดพลาดในการโหลด wallet.dat</translation>
     </message>
     <message>
         <location line="-16"/>
         <source>Invalid -proxy address: &apos;%s&apos;</source>
-        <translation>จำนวนเงินที่ป้อนไม่ถูกต้องโปรดตรวจสอบ.</translation>
+        <translation>ที่อยู่ของพร็อกซีไม่ถูกต้อง: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="-1"/>
         <source>Unknown network specified in -onlynet: &apos;%s&apos;</source>
-        <translation>รหัสผ่านที่ให้มาไม่ตรงกัน.</translation>
+        <translation>ไม่รู้จักเครือข่ายที่ระบุไว้ใน -onlynet: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="-1"/>
         <source>Unknown -socks proxy version requested: %i</source>
-        <translation>เลือกที่อยู่จากสมุดที่อยู่</translation>
+        <translation>ไม่ได้ระบุชื่อพร็อกซีเซิร์ฟเวอร์: %i</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Cannot resolve -bind address: &apos;%s&apos;</source>
-        <translation>จำนวนเงินที่ป้อนไม่ถูกต้องโปรดตรวจสอบ.</translation>
+        <translation>ไม่สามารถแก้ไขที่อยู่ที่อยู่: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Cannot resolve -externalip address: &apos;%s&apos;</source>
-        <translation>จำนวนเงินที่ป้อนไม่ถูกต้องโปรดตรวจสอบ.</translation>
+        <translation>ไม่สามารถแก้ปัญหาได้ -externalip address:  &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="-24"/>
         <source>Invalid amount for -paytxfee=&lt;amount&gt;: &apos;%s&apos;</source>
-        <translation>จำนวนเงินที่ป้อนไม่ถูกต้องโปรดตรวจสอบ.</translation>
+        <translation>จำนวนเงินไม่ถูกต้องสำหรับ -paytxfee = &lt;amount&gt;: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="+44"/>
         <source>Error: could not start node</source>
-        <translation>ไม่สามารถเขียนไปยังแฟ้ม %1.</translation>
+        <translation>ข้อผิดพลาด: ไม่สามารถเริ่มโหนด</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -4119,72 +4130,72 @@ for example: alertnotify=echo %%s | mail -s &quot;Pandacoin Alert&quot; admin@fo
     <message>
         <location line="+5"/>
         <source>Invalid amount</source>
-        <translation>ยอดเงินในบัญชี</translation>
+        <translation>จำนวนไม่ถูกต้อง</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Insufficient funds</source>
-        <translation>ยืนยันการส่งเหรียญ</translation>
+        <translation>เงินทุนไม่เพียงพอ</translation>
     </message>
     <message>
         <location line="-34"/>
         <source>Loading block index...</source>
-        <translation>เกิดข้อผิดพลาดในการเข้ารหัส URI ลงใน QR Code.</translation>
+        <translation>กำลังโหลดดัชนีบล็อก ...</translation>
     </message>
     <message>
         <location line="-103"/>
         <source>Add a node to connect to and attempt to keep the connection open</source>
-        <translation>ที่อยู่ที่ป้อน &quot;%1&quot; ไม่ใช่ที่อยู่ Pandacoin ที่ถูกต้อง.</translation>
+        <translation>เพิ่มโหนดเพื่อเชื่อมต่อและพยายามทำให้การเชื่อมต่อเปิดขึ้น</translation>
     </message>
     <message>
         <location line="+122"/>
         <source>Unable to bind to %s on this computer. Pandacoin is probably already running.</source>
-        <translation>เกิดข้อผิดพลาดร้ายแรงขึ้น Pandacoin ไม่สามารถดำเนินการต่อได้อย่างปลอดภัยและจะเลิก.</translation>
+        <translation>ไม่สามารถผูกกับ %s บนคอมพิวเตอร์เครื่องนี้ Pandacoin น่าจะทำงานอยู่แล้ว.</translation>
     </message>
     <message>
         <location line="-97"/>
         <source>Fee per KB to add to transactions you send</source>
-        <translation>ยอดคงเหลือของบัญชี ณ วันสิ้นงวด.</translation>
+        <translation>ค่าธรรมเนียมต่อ KB เพื่อเพิ่มธุรกรรมที่คุณส่ง</translation>
     </message>
     <message>
         <location line="+55"/>
         <source>Invalid amount for -mininput=&lt;amount&gt;: &apos;%s&apos;</source>
-        <translation>จำนวนเงินที่ป้อนไม่ถูกต้องโปรดตรวจสอบ.</translation>
+        <translation>จำนวนเงินไม่ถูกต้องสำหรับ -mininput = &lt;amount&gt;: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Loading wallet...</source>
-        <translation>เกิดข้อผิดพลาดในการเข้ารหัส URI ลงใน QR Code.</translation>
+        <translation>กำลังโหลดกระเป๋าสตางค์ ...</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Cannot downgrade wallet</source>
-        <translation>ไม่สามารถปลดล็อกกระเป๋าสตางค์ได้.</translation>
+        <translation>ไม่สามารถลดระดับกระเป๋าเงินได้</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Cannot initialize keypool</source>
-        <translation>ไม่สามารถปลดล็อกกระเป๋าสตางค์ได้.</translation>
+        <translation>ไม่สามารถเริ่มต้นคีย์พูลได้</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Cannot write default address</source>
-        <translation>จำนวนเงินที่ป้อนไม่ถูกต้องโปรดตรวจสอบ.</translation>
+        <translation>ไม่สามารถเขียนที่อยู่เริ่มต้นได้</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Rescanning...</source>
-        <translation>ค้นหาโดยใช้คำหลัก</translation>
+        <translation>rescanning ...</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Done loading</source>
-        <translation>เกิดข้อผิดพลาดในการเข้ารหัส URI ลงใน QR Code.</translation>
+        <translation>โหลดเรียบร้อยแล้ว</translation>
     </message>
     <message>
         <location line="-167"/>
         <source>To use the %s option</source>
-        <translation>Network Alert</translation>
+        <translation>เมื่อต้องการใช้ตัวเลือก %s</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -4196,7 +4207,9 @@ for example: alertnotify=echo %%s | mail -s &quot;Pandacoin Alert&quot; admin@fo
         <source>You must set rpcpassword=&lt;password&gt; in the configuration file:
 %s
 If the file does not exist, create it with owner-readable-only file permissions.</source>
-        <translation>จำนวนเงินเกินกว่ายอดเงินคงเหลือที่คุณมีอยู่เมื่อรวมค่าธรรมเนียมการทำธุรกรรม%1 บางส่วนของ Pandacoins ของคุณกำลังใช้อยู่เพื่อให้คุณได้รับดอกเบี้ย.</translation>
+        <translation>คุณต้องตั้งค่า rpcpassword = &lt;password&gt; ในไฟล์คอนฟิกูเรชัน:
+%s
+หากไฟล์ไม่มีอยู่ให้สร้างไฟล์นี้โดยใช้สิทธิ์ของไฟล์ที่เจ้าของสามารถอ่านได้.</translation>
     </message>
 </context>
 </TS>
