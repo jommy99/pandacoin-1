@@ -943,7 +943,7 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location line="+29"/>
         <source>Verify blockchain.</source>
-        <translation>ห่วงโซ่ที่ถูกบล็อก</translation>
+        <translation>ยืนยัน blockchain.</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -953,7 +953,7 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location line="+37"/>
         <source>Downloaded %1 blocks of transaction history.</source>
-        <translation>ดาวน์โหลด%1 จาก%2 บล็อคประวัติการทำธุรกรรม (%3% เสร็จสิ้น).</translation>
+        <translation>ดาวน์โหลด %1 บล็อคประวัติการทำธุรกรรม.</translation>
     </message>
     <message>
         <location line="+24"/>
@@ -985,7 +985,7 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
         <location line="-454"/>
         <location line="+454"/>
         <source>minutes</source>
-        <translation>ข้อความ:</translation>
+        <translation>นาที</translation>
     </message>
     <message>
         <location line="-450"/>
@@ -1015,7 +1015,7 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
         <location line="-250"/>
         <location line="+15"/>
         <source>URI can not be parsed! This can be caused by an invalid Digital PandaBank address or malformed URI parameters.</source>
-        <translation>คำเตือน: หากคุณเข้ารหัส PandaBank ดิจิตอลและสูญเสียรหัสผ่านของคุณคุณจะ &lt;b&gt; สูญเสียเหรียญทั้งหมดของคุณ &lt;/ b&gt;!</translation>
+        <translation>ไม่สามารถแยกวิเคราะห์ URI ได้! อาจเป็นเพราะที่อยู่ของ PandaBank หรือพารามิเตอร์ URI ที่มีรูปแบบไม่ถูกต้อง.</translation>
     </message>
     <message>
         <location line="+116"/>
@@ -1029,7 +1029,11 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
 Switching to Digital PandaBank &apos;Classic&apos; from other modes will wipe out your existing blockchain data.
 
 Activate Digital PandaBank &apos;Classic&apos;?</source>
-        <translation>&lt;span&gt; = &quot;font-weight: 600;&quot;&gt; พร้อมใช้งาน &lt;/ span&gt; คือจำนวน PND ที่คุณสามารถใช้ได้หรือโอนย้าย &lt;span style = &quot;font-weight: 600;&quot;&gt; รายได้ที่น่าสนใจ &lt;/ span&gt; คือจำนวนเงิน PND ที่กำลังใช้ในการสร้างดอกเบี้ย &lt;span style = &quot;font-weight: 600;&quot;&gt; รอดำเนินการ &lt;/ span&gt; คือจำนวนเงินที่เข้ามาล่าสุด PND จากที่อยู่บัญชีอื่นที่รอการโอนไปยังบัญชีของคุณ &lt;span style = &quot;font-weight: 600;&quot;&gt; ยอดรวม &lt;/ span&gt; คือยอดรวมของ PND ของยอดคงเหลือในบัญชีทั้งหมดของคุณ &lt;/ p&gt; &lt;/ body&gt; &lt;/ html&gt;</translation>
+        <translation>Digital PandaBank &apos;Classic&apos; ช่วยให้คุณได้รับความสนใจและช่วยรักษาความปลอดภัยเครือข่าย Pandacoin เมื่อการซิงโครไนซ์และการดาวน์โหลดบล็อคเสร็จสิ้น มันทำงานโดยใช้วิธีการที่ล้าสมัยของการประสานและการดาวน์โหลดของ blockchain ซึ่งอาจใช้เวลาระหว่าง 4 ถึง 24 ชั่วโมงให้เสร็จสมบูรณ์ ขอแนะนำให้ผู้ใช้ Pandacoin ส่วนใหญ่ใช้ Pandacoin &apos;Hybrid&apos;
+
+การเปลี่ยนไปใช้ Digital PandaBank &apos;Classic&apos; จากโหมดอื่นจะล้างข้อมูล blockchain ที่มีอยู่ของคุณ
+
+เปิดใช้ Digital PandaBank &apos;Classic&apos; หรือไม่?</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1043,7 +1047,11 @@ Activate Digital PandaBank &apos;Classic&apos;?</source>
 Digital PandaBank &apos;Hybrid allows you to earn interest and help secure the Pandacoin Network in approximately 5 to 15 minutes after installation, once both synchronization and download of the blockchain is completed.
 
 Activate Digital PandaBank &apos;Hybrid&apos;?</source>
-        <translation>&lt;span&gt; = &quot;font-weight: 600;&quot;&gt; พร้อมใช้งาน &lt;/ span&gt; คือจำนวน PND ที่คุณสามารถใช้ได้หรือโอนย้าย &lt;span style = &quot;font-weight: 600;&quot;&gt; รายได้ที่น่าสนใจ &lt;/ span&gt; คือจำนวนเงิน PND ที่กำลังใช้ในการสร้างดอกเบี้ย &lt;span style = &quot;font-weight: 600;&quot;&gt; รอดำเนินการ &lt;/ span&gt; คือจำนวนเงินที่เข้ามาล่าสุด PND จากที่อยู่บัญชีอื่นที่รอการโอนไปยังบัญชีของคุณ &lt;span style = &quot;font-weight: 600;&quot;&gt; ยอดรวม &lt;/ span&gt; คือยอดรวมของ PND ของยอดคงเหลือในบัญชีทั้งหมดของคุณ &lt;/ p&gt; &lt;/ body&gt; &lt;/ html&gt;</translation>
+        <translation>Digital PandaBank &apos;Hybrid&apos; เป็นโหมดแนะนำสำหรับผู้ใช้ Pandacoin ส่วนใหญ่ การซิงโครไนซ์กับเครือข่าย Pandacoin จะใช้เวลาไม่กี่วินาทีหลังจากการติดตั้งเพื่อให้คุณสามารถดูและใช้ Pandacoins ได้ทันที
+
+Digital PandaBank &apos;Hybrid ช่วยให้คุณได้รับความสนใจและช่วยรักษาความปลอดภัยให้กับเครือข่าย Pandacoin ในเวลาประมาณ 5 ถึง 15 นาทีหลังจากการติดตั้งเมื่อการซิงโครไนซ์และดาวน์โหลดบล็อคเสร็จสมบูรณ์แล้ว
+
+เปิดใช้ Digital PandaBank &apos;Hybrid&apos; หรือไม่?</translation>
     </message>
     <message>
         <location line="+19"/>
@@ -1077,7 +1085,7 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location line="+6"/>
         <source>Unable to earn interest until syncing is completed.</source>
-        <translation>การสร้างบัญชี PandaBank แบบดิจิตอลเป็นเรื่องง่าย</translation>
+        <translation>ไม่สามารถมีรายได้จนกว่าการซิงค์จะเสร็จสมบูรณ์.</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -1085,32 +1093,32 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
         <location line="+4"/>
         <location line="+4"/>
         <source>%1 %2</source>
-        <translation>โหมด</translation>
+        <translation>%1 %2</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Staking.&lt;br&gt;Your weight is %1&lt;br&gt;Network weight is %2&lt;br&gt;Expected time to earn reward is %3</source>
-        <translation>จำนวนเงินที่สูงกว่ายอดเงินคงเหลือที่คุณมีอยู่บางส่วนของ Pandacoins ของคุณกำลังถูกนำมาใช้เพื่อให้คุณได้รับดอกเบี้ย.</translation>
+        <translation>การปักหลัก &lt;br&gt; น้ำหนักของคุณคือ %1 &lt;br&gt; น้ำหนักเครือข่าย %2 &lt;br&gt; คาดว่าจะได้รับรางวัลเป็น %3</translation>
     </message>
     <message>
         <location line="-1045"/>
         <source>&amp;About Digital PandaBank</source>
-        <translation>เกี่ยวกับ Digital PandaBank</translation>
+        <translation>&amp;เกี่ยวกับ Digital PandaBank</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show information about Digital PandaBank</source>
-        <translation>เกิดข้อผิดพลาดในการสร้างบัญชี Digital PandaBank.</translation>
+        <translation>แสดงข้อมูลเกี่ยวกับ Digital PandaBank</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Modify configuration options for Digital PandaBank</source>
-        <translation>สร้างบัญชี PandaBank ดิจิตอลของคุณแล้ว.</translation>
+        <translation>แก้ไขตัวเลือกการกำหนดค่า สำหรับ  Digital PandaBank</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Encrypt Digital PandaBank...</source>
-        <translation>เข้ารหัส Digital PandaBank</translation>
+        <translation>&amp;เข้ารหัส Digital PandaBank ...</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1120,7 +1128,7 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location line="+2"/>
         <source>&amp;Backup Digital PandaBank...</source>
-        <translation>เข้ารหัส Digital PandaBank</translation>
+        <translation>&amp;สำรองข้อมูล Digital PandaBank ...</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1130,17 +1138,17 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location line="+1"/>
         <source>&amp;Change Password...</source>
-        <translation>เปลี่ยนรหัสผ่าน</translation>
+        <translation>&amp;เปลี่ยนรหัสผ่าน...</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Change the password used for wallet encryption</source>
-        <translation>รหัสผ่านที่ให้มาไม่ตรงกัน.</translation>
+        <translation>เปลี่ยนรหัสผ่านที่ใช้สำหรับการเข้ารหัสกระเป๋าสตางค์</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Unlock Digital PandaBank...</source>
-        <translation>เข้ารหัส Digital PandaBank</translation>
+        <translation>&amp;ปลดล็อก PandaBank ดิจิตอล ...</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1150,7 +1158,7 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location line="+1"/>
         <source>&amp;Lock Digital PandaBank</source>
-        <translation>ปลดล็อก PandaBank ดิจิตอล</translation>
+        <translation>&amp;Lock Digital PandaBank</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1161,19 +1169,19 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
         <location line="+4"/>
         <location line="+1"/>
         <source>Activate &apos;Classic&apos; client mode.</source>
-        <translation>สร้างบัญชี Digital PandaBank แล้ว</translation>
+        <translation>เปิดใช้งานโหมดไคลเอ็นต์ &apos;คลาสสิก&apos;.</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+1"/>
         <source>Activate &apos;Hybrid&apos; client mode.</source>
-        <translation>สร้างบัญชี Digital PandaBank แล้ว</translation>
+        <translation>เปิดใช้งานโหมดไคลเอ็นต์ &apos;Hybrid&apos;.</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+1"/>
         <source>Activate &apos;Lite&apos; client mode.</source>
-        <translation>สร้างบัญชี Digital PandaBank แล้ว</translation>
+        <translation>เปิดใช้งานโหมดไคลเอ็นต์ &apos;Lite&apos;.</translation>
     </message>
     <message>
         <location line="+91"/>
@@ -1194,17 +1202,17 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location line="+7"/>
         <source>Catching up...</source>
-        <translation>ค้นหาโดยใช้คำหลัก</translation>
+        <translation>ตามไล่, ไล่ทัน...</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Last received block was generated %1.</source>
-        <translation>ดาวน์โหลด%1 จาก%2 บล็อคประวัติการทำธุรกรรม (%3% เสร็จสิ้น).</translation>
+        <translation>บล็อกที่รับล่าสุดได้รับการสร้างขึ้น %1.</translation>
     </message>
     <message>
         <location line="+64"/>
         <source>This transaction is over the size limit.  You can still send it for a fee of %1, which goes to the nodes that process your transaction and helps to support the network.  Do you want to pay the fee?</source>
-        <translation>Digital PandaBank จะปิดตอนนี้เพื่อสิ้นสุดขั้นตอนการเข้ารหัส โปรดทราบว่าการเข้ารหัสลับ Digital PandaBank ของคุณไม่สามารถป้องกันเหรียญของคุณจากการถูกโจรกรรมจากมัลแวร์ที่ติดไวรัสคอมพิวเตอร์ของคุณได้อย่างเต็มที่.</translation>
+        <translation>ธุรกรรมนี้มีขนาดเกินขีด จำกัด คุณยังคงสามารถส่งค่าใช้จ่าย %1 ไปที่โหนดที่ประมวลผลธุรกรรมของคุณและช่วยสนับสนุนเครือข่าย คุณต้องการชำระค่าธรรมเนียมหรือไม่?</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -1228,7 +1236,11 @@ Amount: %2
 Type: %3
 Address: %4
 </source>
-        <translation>แก้ไขรายการที่อยู่ที่เก็บไว้และป้ายกำกับ</translation>
+        <translation>วันที่: %1 
+จำนวนเงิน: %2 
+ประเภท: %3 
+ที่อยู่: %4
+</translation>
     </message>
     <message>
         <location line="+83"/>
@@ -1239,22 +1251,22 @@ Address: %4
     <message>
         <location line="+245"/>
         <source>Not earning interest because wallet is locked</source>
-        <translation>จำนวนเงินที่ป้อนไม่ถูกต้องโปรดตรวจสอบ.</translation>
+        <translation>ไม่ได้รับดอกเบี้ยเนื่องจากกระเป๋าสตางค์ถูกล็อค</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Not earning interest because wallet is offline</source>
-        <translation>จำนวนเงินที่ป้อนไม่ถูกต้องโปรดตรวจสอบ.</translation>
+        <translation>ไม่ได้รับผลประโยชน์เนื่องจากกระเป๋าสตางค์ออฟไลน์</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Not earning interest because wallet is syncing</source>
-        <translation>จำนวนเงินที่ป้อนไม่ถูกต้องโปรดตรวจสอบ.</translation>
+        <translation>ไม่ได้รับรายได้เนื่อง จากกระเป๋าสตางค์กำลังซิงค์</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Not earning interest because you don&apos;t have mature coins</source>
-        <translation>จำนวนเงินที่ป้อนไม่ถูกต้องโปรดตรวจสอบ.</translation>
+        <translation>ไม่มีรายได้เนื่องจากคุณไม่มีเหรียญสำหรับผู้ใหญ่</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -1264,12 +1276,12 @@ Address: %4
     <message>
         <location line="-235"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>
-        <translation>Wallet ได้รับการเข้ารหัส &lt;b&gt; เข้ารหัส &lt;/ b&gt; และ &lt;b&gt; ปลดล็อก &lt;/ b&gt; ในปัจจุบัน &lt;/ b&gt; เพื่อล็อค.</translation>
+        <translation>Wallet ถูกเข้ารหัส &lt;b&gt; เข้ารหัส &lt;/ b&gt; และปัจจุบัน &lt;b&gt; ปลดล็อก &lt;/ b&gt;</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</source>
-        <translation>Wallet ได้รับการเข้ารหัส &lt;b&gt; เข้ารหัส &lt;/ b&gt; และ &lt;b&gt; ปลดล็อก &lt;/ b&gt; ในปัจจุบัน &lt;/ b&gt; เพื่อล็อค.</translation>
+        <translation>Wallet ถูกเข้ารหัส &lt;b&gt; เข้ารหัส &lt;/ b&gt; และปัจจุบัน &lt;b&gt; ล็อค &lt;/ b&gt;</translation>
     </message>
     <message>
         <location line="+26"/>
@@ -1335,7 +1347,7 @@ Address: %4
     <message>
         <location line="+48"/>
         <source>Fee:</source>
-        <translation>จาก</translation>
+        <translation>ค่าใช้จ่าย:</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -1350,12 +1362,14 @@ Address: %4
     <message>
         <location filename="../forms/coincontroldialog.ui" line="+51"/>
         <source>After Fee:</source>
-        <translation>จาก</translation>
+        <translation>หลังจากค่าธรรมเนียม:</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>Change:</source>
-        <translation>ยกเลิก</translation>
+        <translation>เปลี่ยนแปลง
+
+:</translation>
     </message>
     <message>
         <location line="+69"/>
@@ -1461,7 +1475,7 @@ Address: %4
     <message>
         <location line="+1"/>
         <source>Copy change</source>
-        <translation>คัดลอกแล&amp;ะป้ายกำกับ</translation>
+        <translation>คัดลอกการเปลี่ยนแปลง</translation>
     </message>
     <message>
         <location line="+317"/>
@@ -1476,17 +1490,17 @@ Address: %4
     <message>
         <location line="+1"/>
         <source>medium-high</source>
-        <translation>&amp;และแก้ไข</translation>
+        <translation>กลางสูง</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>medium</source>
-        <translation>&amp;และแก้ไข</translation>
+        <translation>กลาง</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>low-medium</source>
-        <translation>&amp;และแก้ไข</translation>
+        <translation>ต่ำกลาง</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1533,14 +1547,20 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
  This means a fee of at least %2 is required. 
 
  Amounts below 0.546 times the minimum relay fee are shown as DUST.</source>
-        <translation>จำนวนเงินเกินกว่ายอดเงินคงเหลือที่คุณมีอยู่เมื่อรวมค่าธรรมเนียมการทำธุรกรรม%1 บางส่วนของ Pandacoins ของคุณกำลังใช้อยู่เพื่อให้คุณได้รับดอกเบี้ย.</translation>
+        <translation>ายกำกับนี้เปลี่ยนเป็นสีแดงหากผู้รับรายใดได้รับจำนวนเงินน้อยกว่า%1 
+
+ ซึ่งหมายความว่ามีค่าธรรมเนียมอย่างน้อย %2
+
+ จำนวนเงินต่ำกว่า 0.546 เท่าของค่าธรรมเนียมการโอนเงินขั้นต่ำจะแสดงเป็น DUST.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>This label turns red, if the change is smaller than %1.
 
  This means a fee of at least %2 is required.</source>
-        <translation>จำนวนเงินที่สูงกว่ายอดเงินคงเหลือที่คุณมีอยู่บางส่วนของ Pandacoins ของคุณกำลังถูกนำมาใช้เพื่อให้คุณได้รับดอกเบี้ย.</translation>
+        <translation>ป้ายกำกับนี้เปลี่ยนเป็นสีแดงหากการเปลี่ยนแปลงมีขนาดเล็กกว่า %1
+
+ ซึ่งหมายความว่ามีค่าธรรมเนียมอย่างน้อย %2.</translation>
     </message>
     <message>
         <location line="+37"/>
@@ -1551,7 +1571,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <source>change from %1 (%2)</source>
-        <translation>สร้างที่อยู่ใหม่</translation>
+        <translation>เปลี่ยนจาก %1 (%2)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1801,17 +1821,17 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+16"/>
         <source>&amp;Main</source>
-        <translation>รอดำเนินการ</translation>
+        <translation>&amp;หลัก</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Optional transaction fee per kB that helps make sure your transactions are processed quickly. Most transactions are 1 kB. Fee 0.01 recommended.</source>
-        <translation>จำนวนเงินเกินกว่ายอดเงินคงเหลือที่คุณมีอยู่เมื่อรวมค่าธรรมเนียมการทำธุรกรรม%1 บางส่วนของ Pandacoins ของคุณกำลังใช้อยู่เพื่อให้คุณได้รับดอกเบี้ย.</translation>
+        <translation>ค่าธรรมเนียมการทำรายการที่เลือกต่อหนึ่ง kB ซึ่งจะช่วยให้แน่ใจได้ว่าธุรกรรมของคุณได้รับการดำเนินการอย่างรวดเร็ว ธุรกรรมส่วนใหญ่เป็น 1 kB ขอแนะนำค่าธรรมเนียม 0.01.</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Pay transaction &amp;fee</source>
-        <translation>คัดลอก ID ธุรกรรม</translation>
+        <translation>ชำระเงิน &amp;และค่าธรรมเนียม</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -1826,7 +1846,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+31"/>
         <source>Automatically start Pandacoin after logging in to the system.</source>
-        <translation>ยินดีต้อนรับสู่ Digital PandaBank ของคุณคุณเข้าสู่ระบบครั้งล่าสุดเมื่อวันที่</translation>
+        <translation>เริ่มต้น Pandacoin โดยอัตโนมัติหลังจากเข้าสู่ระบบ.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1841,12 +1861,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+3"/>
         <source>&amp;Detach databases at shutdown</source>
-        <translation>เกี่ยวกับ Digital PandaBank</translation>
+        <translation>&amp;และแยกฐานข้อมูลออกเมื่อปิดระบบ</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>&amp;Network</source>
-        <translation>เครือข่าย</translation>
+        <translation>&amp;และเครือข่าย</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -1856,7 +1876,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+3"/>
         <source>Map port using &amp;UPnP</source>
-        <translation>ภาพ PNG (* .png)</translation>
+        <translation>ใช้พอร์ตแผนที่และ  &amp;UPnP</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1871,7 +1891,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+9"/>
         <source>Proxy &amp;IP:</source>
-        <translation>คัดลอกแล&amp;ะป้ายกำกับ</translation>
+        <translation>พร็อกซี่และ &amp;IP:</translation>
     </message>
     <message>
         <location line="+19"/>
@@ -1881,7 +1901,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+7"/>
         <source>&amp;Port:</source>
-        <translation>ส่งออก</translation>
+        <translation>&amp;ท่าเรือ:</translation>
     </message>
     <message>
         <location line="+19"/>
@@ -1891,7 +1911,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+7"/>
         <source>SOCKS &amp;Version:</source>
-        <translation>เวอร์ชันไคลเอ็นต์</translation>
+        <translation>SOCKS &amp;เวอร์ชัน:</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1901,17 +1921,17 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+36"/>
         <source>&amp;Window</source>
-        <translation>รอดำเนินการ</translation>
+        <translation>&amp;หน้าต่าง</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Show only a tray icon after minimizing the window.</source>
-        <translation>แสดงรายการที่อยู่สำหรับรับการชำระเงิน</translation>
+        <translation>แสดงเฉพาะไอคอนถาดหลังจากลดขนาดหน้าต่าง.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Minimize to the tray instead of the taskbar</source>
-        <translation>แสดงรายการที่อยู่สำหรับรับการชำระเงิน</translation>
+        <translation>&amp;ลดขนาดลงในถาดแทนแถบงาน</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1921,7 +1941,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+3"/>
         <source>M&amp;inimize on close</source>
-        <translation>เริ่มลดขนาด</translation>
+        <translation>M&amp;inimize เมื่อใกล้</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1931,7 +1951,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+8"/>
         <source>User Interface &amp;language:</source>
-        <translation>Pandacoin - หน้าต่างดีบัก</translation>
+        <translation>หน้าจอผู้ใช้  &amp;ภาษา:</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1941,7 +1961,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+11"/>
         <source>&amp;Unit to show amounts in:</source>
-        <translation>แสดงข้อมูลเกี่ยวกับ Qt</translation>
+        <translation>&amp;Unit เพื่อแสดงจำนวนเงินใน:</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1951,22 +1971,22 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+9"/>
         <source>Whether to show Pandacoin addresses in the transaction list or not.</source>
-        <translation>ที่อยู่ที่ป้อน &quot;%1&quot; ไม่ใช่ที่อยู่ Pandacoin ที่ถูกต้อง.</translation>
+        <translation>ไม่ว่าจะแสดงที่อยู่ Pandacoin ในรายการธุรกรรมหรือไม่.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Display addresses in transaction list</source>
-        <translation>เลือกที่อยู่จากสมุดที่อยู่</translation>
+        <translation>&amp;แสดงที่อยู่ในรายการธุรกรรม</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Whether to show coin control features or not.</source>
-        <translation>ที่อยู่ที่ป้อน &quot;%1&quot; ไม่ใช่ที่อยู่ Pandacoin ที่ถูกต้อง.</translation>
+        <translation>ไม่ว่าจะแสดงคุณสมบัติการควบคุมหยอดเหรียญหรือไม่.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Display coin &amp;control features (experts only!)</source>
-        <translation>ที่อยู่ที่ป้อน &quot;%1&quot; ไม่ใช่ที่อยู่ Pandacoin ที่ถูกต้อง.</translation>
+        <translation>แสดงคุณสมบัติ &amp;เหรียญและการควบคุม (เฉพาะผู้เชี่ยวชาญเท่านั้น!)</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1986,12 +2006,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+86"/>
         <source>&amp;OK</source>
-        <translation>PND</translation>
+        <translation>&amp;ตกลง</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>&amp;Cancel</source>
-        <translation>ยกเลิก</translation>
+        <translation>&amp;ยกเลิก</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2013,7 +2033,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="-9"/>
         <location line="+9"/>
         <source>This setting will take effect after restarting Pandacoin.</source>
-        <translation>ยินดีต้อนรับสู่ Digital PandaBank ของคุณคุณเข้าสู่ระบบครั้งล่าสุดเมื่อวันที่</translation>
+        <translation>การตั้งค่านี้จะมีผลหลังจากรีสตาร์ท Pandacoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -2551,12 +2571,12 @@ Should you encounter this error repeatedly please seek assistance.</source>
     <message>
         <location line="+19"/>
         <source>medium</source>
-        <translation>&amp;และแก้ไข</translation>
+        <translation>กลาง</translation>
     </message>
     <message>
         <location line="+32"/>
         <source>Fee:</source>
-        <translation>จาก</translation>
+        <translation>ค่าใช้จ่าย:</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -2571,7 +2591,7 @@ Should you encounter this error repeatedly please seek assistance.</source>
     <message>
         <location line="+32"/>
         <source>After Fee:</source>
-        <translation>จาก</translation>
+        <translation>หลังจากค่าธรรมเนียม:</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -2606,7 +2626,7 @@ Should you encounter this error repeatedly please seek assistance.</source>
     <message>
         <location line="+7"/>
         <source>▾ Send To My Own Accounts</source>
-        <translation>แน่ใจหรือไม่ว่าคุณต้องการส่ง%1?</translation>
+        <translation>▾ ส่งไปยังบัญชีของฉันเอง</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -2651,7 +2671,7 @@ Should you encounter this error repeatedly please seek assistance.</source>
     <message>
         <location line="+1"/>
         <source>Copy change</source>
-        <translation>คัดลอกแล&amp;ะป้ายกำกับ</translation>
+        <translation>คัดลอกการเปลี่ยนแปลง</translation>
     </message>
     <message>
         <location line="+115"/>
@@ -2669,12 +2689,12 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+114"/>
         <source>Search your accounts list...</source>
-        <translation>แน่ใจหรือไม่ว่าคุณต้องการส่ง%1?</translation>
+        <translation>ค้นหารายการบัญชีของคุณ ...</translation>
     </message>
     <message>
         <location line="+224"/>
         <source>WARNING: Invalid Pandacoin address</source>
-        <translation>จำนวนเงินที่ป้อนไม่ถูกต้องโปรดตรวจสอบ.</translation>
+        <translation>คำเตือน: ที่อยู่ Pandacoin ไม่ถูกต้อง</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -2684,7 +2704,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+4"/>
         <source>WARNING: unknown change address</source>
-        <translation>จำนวนเงินที่ป้อนไม่ถูกต้องโปรดตรวจสอบ.</translation>
+        <translation>คำเตือน: ที่อยู่ที่ไม่รู้จัก</translation>
     </message>
 </context>
 <context>
