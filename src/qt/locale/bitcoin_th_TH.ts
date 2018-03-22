@@ -3528,267 +3528,267 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location line="+1"/>
         <source>Send command to -server or pandacoind</source>
-        <translation>ยินดีต้อนรับสู่คอนโซล Pandacoin RPC.</translation>
+        <translation>Gửi lệnh -server or pandacoind</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>List commands</source>
-        <translation>ตัวเลือกบรรทัดคำสั่ง</translation>
+        <translation>รายการคำสั่ง</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Get help for a command</source>
-        <translation>ตัวเลือกบรรทัดคำสั่ง</translation>
+        <translation>ขอความช่วยเหลือสำหรับคำสั่ง</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Options:</source>
-        <translation>ตัวเลือก UI</translation>
+        <translation>ตัวเลือก:</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Specify configuration file (default: pandacoin.conf)</source>
-        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
+        <translation>ระบุไฟล์การกำหนดค่า (ค่าเริ่มต้น: pandacoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Specify pid file (default: pandacoind.pid)</source>
-        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
+        <translation>ระบุไฟล์ pid (ค่าดีฟอลต์: pandacoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Specify wallet file (within data directory)</source>
-        <translation>ส่งออกข้อมูลในแท็บปัจจุบันไปยังไฟล์</translation>
+        <translation>ระบุไฟล์กระเป๋าสตางค์ (ภายในไดเรกทอรีข้อมูล)</translation>
     </message>
     <message>
         <location line="-1"/>
         <source>Specify data directory</source>
-        <translation>ส่งออกข้อมูลในแท็บปัจจุบันไปยังไฟล์</translation>
+        <translation>ระบุไดเร็กทอรีข้อมูล</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Set database cache size in megabytes (default: 25)</source>
-        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
+        <translation>ตั้งค่าขนาดแคชฐานข้อมูลเป็นเมกะไบต์ (ค่าเริ่มต้น: 25)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Set database disk log size in megabytes (default: 100)</source>
-        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
+        <translation>ตั้งค่าขนาดล็อกของดิสก์ฐานข้อมูลเป็นเมกะไบต์ (ค่าเริ่มต้น: 100)</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Listen for connections on &lt;port&gt; (default: 15714 or testnet: 25714)</source>
-        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
+        <translation>ฟังการเชื่อมต่อใน &lt;port&gt; (ค่าเริ่มต้น: 15714 หรือ testnet: 25714)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Maintain at most &lt;n&gt; connections to peers (default: 125)</source>
-        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
+        <translation>รักษาส่วนใหญ่ &lt;n&gt; การเชื่อมต่อกับเพื่อน (ค่าเริ่มต้น: 125)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Connect to a node to retrieve peer addresses, and disconnect</source>
-        <translation>ที่อยู่ที่ป้อน &quot;%1&quot; ไม่ใช่ที่อยู่ Pandacoin ที่ถูกต้อง.</translation>
+        <translation>เชื่อมต่อกับโหนดเพื่อดึงข้อมูลที่อยู่ของเพื่อนและยกเลิกการเชื่อมต่อ</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Specify your own public address</source>
-        <translation>ดับเบิลคลิก เพื่อแก้ไขที่อยู่ หรือชื่อ</translation>
+        <translation>ระบุที่อยู่สาธารณะของคุณเอง</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Bind to given address. Use [host]:port notation for IPv6</source>
-        <translation>ที่อยู่ที่ป้อน  ไม่ใช่ที่อยู่ Pandacoin ที่ถูกต้อง</translation>
+        <translation>ผูกกับที่อยู่ที่ระบุ ใช้ [โฮสต์]: สัญกรณ์พอร์ตสำหรับ IPv6</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Stake your coins to support network and gain reward (default: 1)</source>
-        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
+        <translation>เดิมพันเหรียญของคุณเพื่อสนับสนุนเครือข่ายและได้รับรางวัล (ค่าเริ่มต้น: 1)</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Threshold for disconnecting misbehaving peers (default: 100)</source>
-        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
+        <translation>เกณฑ์การถอดปลั๊กเพื่อนที่ไม่ทำงาน (ค่าเริ่มต้น: 100)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Number of seconds to keep misbehaving peers from reconnecting (default: 86400)</source>
-        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
+        <translation>จำนวนวินาทีที่จะทำให้เพื่อนที่ทำงานไม่ถูกต้องจากการเชื่อมต่อใหม่ (ค่าเริ่มต้น: 86400)</translation>
     </message>
     <message>
         <location line="-44"/>
         <source>An error occurred while setting up the RPC port %u for listening on IPv4: %s</source>
-        <translation>เกิดข้อผิดพลาดร้ายแรงขึ้น Pandacoin ไม่สามารถดำเนินการต่อได้อย่างปลอดภัยและจะเลิก.</translation>
+        <translation>เกิดข้อผิดพลาดขณะตั้งค่าพอร์ต RPC% u สำหรับฟังใน IPv4:%s</translation>
     </message>
     <message>
         <location line="+51"/>
         <source>Detach block and address databases. Increases shutdown time (default: 0)</source>
-        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
+        <translation>แยกฐานข้อมูลการบล็อกและที่อยู่ เพิ่มเวลาปิดระบบ (ค่าเริ่มต้น: 0)</translation>
     </message>
     <message>
         <location line="+109"/>
         <source>Error: The transaction was rejected.  This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation>ข้อผิดพลาด: ธุรกรรมถูกปฏิเสธ กรณีนี้อาจเกิดขึ้นหากมีการใช้เหรียญบางส่วนในกระเป๋าสตางค์ของคุณเช่นหากคุณใช้สำเนา wallet.dat และเหรียญถูกนำไปใช้ในการคัดลอก แต่ไม่ได้ทำเครื่องหมายว่าใช้จ่ายไปแล้วในที่นี้.</translation>
+        <translation>ข้อผิดพลาด: ธุรกรรมถูกปฏิเสธ กรณีนี้อาจเกิดขึ้นหากมีการใช้เหรียญบางส่วนในกระเป๋าสตางค์ของคุณเช่นหากคุณใช้สำเนา wallet.dat และเหรียญถูกนำไปใช้ในการคัดลอก แต่ไม่ได้ทำเครื่องหมายเป็นการใช้จ่ายที่นี่.</translation>
     </message>
     <message>
         <location line="-5"/>
         <source>Error: This transaction requires a transaction fee of at least %s because of its amount, complexity, or use of recently received funds  </source>
-        <translation>จำนวนเงินเกินกว่ายอดเงินคงเหลือที่คุณมีอยู่เมื่อรวมค่าธรรมเนียมการทำธุรกรรม%1 บางส่วนของ Pandacoins ของคุณกำลังใช้อยู่เพื่อให้คุณได้รับดอกเบี้ย.</translation>
+        <translation>ข้อผิดพลาด: ธุรกรรมนี้ต้องมีค่าธรรมเนียมการทำธุรกรรมอย่างน้อย%s เนื่องจากจำนวนเงินความซับซ้อนหรือการใช้เงินที่ได้รับเมื่อเร็ว ๆ นี้  </translation>
     </message>
     <message>
         <location line="-87"/>
         <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 22444 or testnet: 25715)</source>
-        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
+        <translation>ฟังการเชื่อมต่อ JSON-RPC บน &lt;port&gt; (ค่าเริ่มต้น: 22444 หรือ testnet: 25715)</translation>
     </message>
     <message>
         <location line="-11"/>
         <source>Accept command line and JSON-RPC commands</source>
-        <translation>ยินดีต้อนรับสู่คอนโซล Pandacoin RPC.</translation>
+        <translation>ยอมรับบรรทัดรับคำสั่งและคำสั่ง JSON-RPC</translation>
     </message>
     <message>
         <location line="+101"/>
         <source>Error: Transaction creation failed  </source>
-        <translation>ข้อผิดพลาด: การสร้างธุรกรรมล้มเหลว.</translation>
+        <translation>ข้อผิดพลาด: การสร้างธุรกรรมล้มเหลว  </translation>
     </message>
     <message>
         <location line="-5"/>
         <source>Error: Wallet locked, unable to create transaction  </source>
-        <translation>ข้อผิดพลาด: การสร้างธุรกรรมล้มเหลว.</translation>
+        <translation>ข้อผิดพลาด: Wallet ถูกล็อคไม่สามารถสร้างธุรกรรมได้  </translation>
     </message>
     <message>
         <location line="-8"/>
         <source>Importing blockchain data file.</source>
-        <translation>ปลดล็อก PandaBank ดิจิตอล</translation>
+        <translation>กำลังนำเข้าไฟล์ข้อมูล blockchain.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Importing bootstrap blockchain data file.</source>
-        <translation>ปลดล็อก PandaBank ดิจิตอล</translation>
+        <translation>การนำเข้าข้อมูล bootstrap blockchain.</translation>
     </message>
     <message>
         <location line="-88"/>
         <source>Run in the background as a daemon and accept commands</source>
-        <translation>วันที่และเวลาที่ได้รับธุรกรรม.</translation>
+        <translation>เรียกใช้ในพื้นหลังเป็น daemon และยอมรับคำสั่ง</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Use the test network</source>
-        <translation>Network Alert</translation>
+        <translation>ใช้เครือข่ายทดสอบ</translation>
     </message>
     <message>
         <location line="-24"/>
         <source>Accept connections from outside (default: 1 if no -proxy or -connect)</source>
-        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
+        <translation>ยอมรับการเชื่อมต่อจากภายนอก (ค่าเริ่มต้น: 1 ถ้าไม่มี -proxy หรือ -connect)</translation>
     </message>
     <message>
         <location line="-38"/>
         <source>An error occurred while setting up the RPC port %u for listening on IPv6, falling back to IPv4: %s</source>
-        <translation>เกิดข้อผิดพลาดร้ายแรงขึ้น Pandacoin ไม่สามารถดำเนินการต่อได้อย่างปลอดภัยและจะเลิก.</translation>
+        <translation>เกิดข้อผิดพลาดขณะตั้งค่าพอร์ต RPC% u สำหรับฟังใน IPv6 และกลับไปที่ IPv4: %s</translation>
     </message>
     <message>
         <location line="+117"/>
         <source>Error initializing database environment %s! To recover, BACKUP THAT DIRECTORY, then remove everything from it except for wallet.dat.</source>
-        <translation>จำนวนเงินเกินกว่ายอดเงินคงเหลือที่คุณมีอยู่เมื่อรวมค่าธรรมเนียมการทำธุรกรรม%1 บางส่วนของ Pandacoins ของคุณกำลังใช้อยู่เพื่อให้คุณได้รับดอกเบี้ย.</translation>
+        <translation>ข้อผิดพลาดในการเริ่มต้นระบบฐานข้อมูล% s! ในการกู้คืนโปรดสำรองข้อมูลเนื้อหานั้นจากนั้นลบข้อมูลทั้งหมดออกยกเว้นไฟล์ wallet.dat.</translation>
     </message>
     <message>
         <location line="-20"/>
         <source>Set maximum size of high-priority/low-fee transactions in bytes (default: 27000)</source>
-        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
+        <translation>ตั้งค่าขนาดสูงสุดของธุรกรรมที่มีลำดับความสำคัญสูง / ต่ำค่าธรรมเนียมเป็นไบต์ (ค่าเริ่มต้น: 27000)</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Warning: -paytxfee is set very high! This is the transaction fee you will pay if you send a transaction.</source>
-        <translation>เปิดไฟล์บันทึกการแก้ปัญหา Pandacoin จากไดเร็กทอรีข้อมูลปัจจุบัน อาจใช้เวลาสักครู่สำหรับไฟล์บันทึกขนาดใหญ่.</translation>
+        <translation>คำเตือน: -paytxfee ตั้งค่าสูงมาก! นี่คือค่าธรรมเนียมการทำธุรกรรมที่คุณจะจ่ายหากคุณส่งธุรกรรม.</translation>
     </message>
     <message>
         <location line="+61"/>
         <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Pandacoin will not work properly.</source>
-        <translation>จำนวนเงินที่สูงกว่ายอดเงินคงเหลือที่คุณมีอยู่บางส่วนของ Pandacoins ของคุณกำลังถูกนำมาใช้เพื่อให้คุณได้รับดอกเบี้ย.</translation>
+        <translation>คำเตือน: โปรดตรวจสอบว่าวันที่และเวลาของคอมพิวเตอร์ของคุณถูกต้อง! ถ้านาฬิกาของคุณผิด Pandacoin จะทำงานไม่ถูกต้อง.</translation>
     </message>
     <message>
         <location line="-31"/>
         <source>Warning: error reading wallet.dat! All keys read correctly, but transaction data or address book entries might be missing or incorrect.</source>
-        <translation>จำนวนเงินเกินกว่ายอดเงินคงเหลือที่คุณมีอยู่เมื่อรวมค่าธรรมเนียมการทำธุรกรรม%1 บางส่วนของ Pandacoins ของคุณกำลังใช้อยู่เพื่อให้คุณได้รับดอกเบี้ย.</translation>
+        <translation>คำเตือน: อ่านข้อผิดพลาด wallet.dat! คีย์ทั้งหมดอ่านได้อย่างถูกต้อง แต่ข้อมูลธุรกรรมหรือรายการสมุดที่อยู่อาจหายไปหรือไม่ถูกต้อง.</translation>
     </message>
     <message>
         <location line="-18"/>
         <source>Warning: wallet.dat corrupt, data salvaged! Original wallet.dat saved as wallet.{timestamp}.bak in %s; if your balance or transactions are incorrect you should restore from a backup.</source>
-        <translation>จำนวนเงินเกินกว่ายอดเงินคงเหลือที่คุณมีอยู่เมื่อรวมค่าธรรมเนียมการทำธุรกรรม%1 บางส่วนของ Pandacoins ของคุณกำลังใช้อยู่เพื่อให้คุณได้รับดอกเบี้ย.</translation>
+        <translation>คำเตือน: wallet.dat เสียหายข้อมูลที่ถูกกู้! wallet.dat เดิมที่บันทึกไว้เป็นกระเป๋าสตางค์ {timestamp} .bak ใน% s; หากยอดคงเหลือหรือธุรกรรมของคุณไม่ถูกต้องคุณควรเรียกคืนจากสำเนาสำรอง.</translation>
     </message>
     <message>
         <location line="-30"/>
         <source>Attempt to recover private keys from a corrupt wallet.dat</source>
-        <translation>ที่อยู่ที่ป้อน &quot;%1&quot; ไม่ใช่ที่อยู่ Pandacoin ที่ถูกต้อง.</translation>
+        <translation>พยายามกู้คืนคีย์ส่วนตัวจาก wallet.dat ที่เสียหาย</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Block creation options:</source>
-        <translation>จำนวนบล็อคปัจจุบัน</translation>
+        <translation>ตัวเลือกการสร้างบล็อก:</translation>
     </message>
     <message>
         <location line="-62"/>
         <source>Connect only to the specified node(s)</source>
-        <translation>รหัสผ่านที่ให้มาไม่ตรงกัน.</translation>
+        <translation>เชื่อมต่อกับโหนดที่ระบุเท่านั้น</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Discover own IP address (default: 1 when listening and no -externalip)</source>
-        <translation>ที่อยู่ที่ป้อน &quot;%1&quot; ไม่ใช่ที่อยู่ Pandacoin ที่ถูกต้อง.</translation>
+        <translation>ค้นพบที่อยู่ IP ของตัวเอง (ค่าเริ่มต้น: 1 เมื่อฟังและไม่มี -externalip)</translation>
     </message>
     <message>
         <location line="+94"/>
         <source>Failed to listen on any port. Use -listen=0 if you want this.</source>
-        <translation>เกิดข้อผิดพลาดร้ายแรงขึ้น Pandacoin ไม่สามารถดำเนินการต่อได้อย่างปลอดภัยและจะเลิก.</translation>
+        <translation>ไม่สามารถฟังพอร์ตใดก็ได้ ใช้ -listen = 0 ถ้าต้องการ.</translation>
     </message>
     <message>
         <location line="-90"/>
         <source>Find peers using DNS lookup (default: 1)</source>
-        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
+        <translation>ค้นหา peers โดยใช้ DNS lookup (ค่าดีฟอลต์: 1)</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Sync checkpoints policy (default: strict)</source>
-        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
+        <translation>นโยบายจุดตรวจสอบการซิงค์ (ค่าเริ่มต้น: เข้มงวด)</translation>
     </message>
     <message>
         <location line="+83"/>
         <source>Invalid -tor address: &apos;%s&apos;</source>
-        <translation>จำนวนเงินที่ป้อนไม่ถูกต้องโปรดตรวจสอบ.</translation>
+        <translation>ที่อยู่ไม่ถูกต้อง: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Invalid amount for -reservebalance=&lt;amount&gt;</source>
-        <translation>จำนวนเงินที่ป้อนไม่ถูกต้องโปรดตรวจสอบ.</translation>
+        <translation>จำนวนเงินไม่ถูกต้องสำหรับ -reservebalance = &lt;amount&gt;</translation>
     </message>
     <message>
         <location line="-82"/>
         <source>Maximum per-connection receive buffer, &lt;n&gt;*1000 bytes (default: 5000)</source>
-        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
+        <translation>จำนวนสูงสุดต่อการเชื่อมต่อได้รับบัฟเฟอร์ &lt;n&gt; * 1000 ไบต์ (ค่าเริ่มต้น: 5000)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Maximum per-connection send buffer, &lt;n&gt;*1000 bytes (default: 1000)</source>
-        <translation>ตั้งค่าภาษาเช่น &quot;de_DE&quot; (ค่าเริ่มต้น: ระบบภาษา)</translation>
+        <translation>บัฟเฟอร์ส่งสูงสุดต่อการเชื่อมต่อ &lt;n&gt; * 1000 ไบต์ (ค่าเริ่มต้น: 1000)</translation>
     </message>
     <message>
         <location line="-16"/>
         <source>Only connect to nodes in network &lt;net&gt; (IPv4, IPv6 or Tor)</source>
-        <translation>ที่อยู่ที่ป้อน &quot;%1&quot; ไม่ใช่ที่อยู่ Pandacoin ที่ถูกต้อง.</translation>
+        <translation>เชื่อมต่อเฉพาะโหนดในเครือข่าย &lt;net&gt; (IPv4, IPv6 หรือ Tor)</translation>
     </message>
     <message>
         <location line="+28"/>
         <source>Output extra debugging information. Implies all other -debug* options</source>
-        <translation>ที่อยู่ที่ป้อน &quot;%1&quot; ไม่ใช่ที่อยู่ Pandacoin ที่ถูกต้อง.</translation>
+        <translation>แสดงข้อมูลการแก้จุดบกพร่องพิเศษ ใช้ตัวเลือกอื่น ๆ ในการแก้ปัญหา * ทั้งหมด</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Output extra network debugging information</source>
-        <translation>ที่อยู่ที่ป้อน &quot;%1&quot; ไม่ใช่ที่อยู่ Pandacoin ที่ถูกต้อง.</translation>
+        <translation>ข้อมูลการแก้จุดบกพร่องเครือข่ายเสริม</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Prepend debug output with timestamp</source>
-        <translation>เปิดการแก้จุดบกพร่องและคอนโซลการวินิจฉัย</translation>
+        <translation>นำเอาผลลัพธ์การแก้ปัญหาออกด้วย timestamp</translation>
     </message>
     <message>
         <location line="+35"/>
