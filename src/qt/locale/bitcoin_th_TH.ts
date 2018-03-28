@@ -1651,7 +1651,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+10"/>
         <source>The label associated with this address book entry</source>
-        <translation>The label associated with this address book entry</translation>
+        <translation>ป้ายกำกับที่เกี่ยวข้องกับรายการสมุดที่อยู่นี้</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1884,7 +1884,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+3"/>
         <source>&amp;Connect through SOCKS proxy:</source>
-        <translation></translation>
+        <translation>&amp;เชื่อมต่อผ่าน  SOCKS proxy:</translation>
     </message>
     <message>
         <location line="+9"/>
