@@ -62,7 +62,7 @@ Produk ini mencakup perangkat lunak yang dikembangkan oleh OpenSSL Project untuk
     <message>
         <location filename="../forms/accountpage.ui" line="+20"/>
         <source>Frame</source>
-        <translation>Dari</translation>
+        <translation>Bingkai</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -87,7 +87,7 @@ Produk ini mencakup perangkat lunak yang dikembangkan oleh OpenSSL Project untuk
     <message>
         <location line="+14"/>
         <source>Sign message</source>
-        <translation>Pesan &amp;penanda...</translation>
+        <translation>Tanda tangani pesan</translation>
     </message>
     <message>
         <location line="+132"/>
@@ -97,40 +97,40 @@ Produk ini mencakup perangkat lunak yang dikembangkan oleh OpenSSL Project untuk
     <message>
         <location line="+40"/>
         <source>Out</source>
-        <translation></translation>
+        <translation>Di luar</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>In</source>
-        <translation>ID</translation>
+        <translation>Di</translation>
     </message>
     <message>
         <location line="+23"/>
         <location line="+10"/>
         <location line="+140"/>
         <source>PND</source>
-        <translation>&amp;YA</translation>
+        <translation>PND</translation>
     </message>
     <message>
         <location line="-128"/>
         <source>Interest Gained</source>
-        <translation>Salin Alamat</translation>
+        <translation>Bunga Diterima</translation>
     </message>
     <message>
         <location line="+115"/>
         <source>Total interest</source>
-        <translation>Salin Alamat</translation>
+        <translation>Bunga total</translation>
     </message>
     <message>
         <location line="+32"/>
         <location line="+25"/>
         <source>Create Account</source>
-        <translation>Salin Alamat</translation>
+        <translation>Membuat akun</translation>
     </message>
     <message>
         <location filename="../forms/accountpage.cpp" line="+155"/>
         <source>All Accounts</source>
-        <translation>Salin jumlah</translation>
+        <translation>Semua Akun</translation>
     </message>
     <message>
         <location line="+28"/>
