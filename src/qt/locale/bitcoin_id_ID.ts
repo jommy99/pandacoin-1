@@ -144,58 +144,58 @@ Produk ini mencakup perangkat lunak yang dikembangkan oleh OpenSSL Project untuk
     <message>
         <location filename="../forms/accountsummaryheaderwidget.ui" line="+14"/>
         <source>Frame</source>
-        <translation>Dari</translation>
+        <translation>Bingkai</translation>
     </message>
     <message>
         <location line="+32"/>
         <source>Earning interest</source>
-        <translation>Salin Alamat</translation>
+        <translation>Memperoleh bunga</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Total balance</source>
-        <translation>Saldo:</translation>
+        <translation>Total saldo</translation>
     </message>
     <message>
         <location line="+153"/>
         <source>Edit account name.</source>
-        <translation>Salin jumlah</translation>
+        <translation>Edit nama akun.</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Accept new account name.</source>
-        <translation>Salin jumlah</translation>
+        <translation>Terima nama akun baru.</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Cancel editing of account name.</source>
-        <translation>Salin jumlah</translation>
+        <translation>Batalkan pengeditan nama akun.</translation>
     </message>
     <message>
         <location line="-156"/>
         <source>Available</source>
-        <translation>Mengenai &amp;Qt</translation>
+        <translation>Tersedia</translation>
     </message>
     <message>
         <location line="+37"/>
         <source>Pending</source>
-        <translation>&amp;Jendela</translation>
+        <translation>Menunggu keputusan</translation>
     </message>
     <message>
         <location filename="../forms/accountsummaryheaderwidget.cpp" line="+63"/>
         <location line="+9"/>
         <source>Error</source>
-        <translation>Gagal</translation>
+        <translation>Kesalahan</translation>
     </message>
     <message>
         <location line="-9"/>
         <source>An account with this name already exists.</source>
-        <translation>Salin jumlah</translation>
+        <translation>Akun dengan nama ini sudah ada.</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Error could not change name of Digital PandaBank account.</source>
-        <translation>Salin jumlah</translation>
+        <translation>Kesalahan tidak dapat mengubah nama akun PandaBank Digital.</translation>
     </message>
 </context>
 <context>
@@ -308,7 +308,7 @@ Jika berkas tidak ada, buatlah dengan permisi berkas hanya-dapat-dibaca-oleh-pem
     <message>
         <location filename="../forms/addressbookpage_new.ui" line="+14"/>
         <source>Frame</source>
-        <translation>Dari</translation>
+        <translation>Bingkai</translation>
     </message>
     <message>
         <location line="+34"/>
@@ -1648,7 +1648,7 @@ Jika berkas tidak ada, buatlah dengan permisi berkas hanya-dapat-dibaca-oleh-pem
     <message>
         <location filename="../forms/createaccountwidget.ui" line="+20"/>
         <source>Frame</source>
-        <translation>Dari</translation>
+        <translation>Bingkai</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -1849,7 +1849,7 @@ Jika berkas tidak ada, buatlah dengan permisi berkas hanya-dapat-dibaca-oleh-pem
     <message>
         <location filename="../forms/mainframe.ui" line="+14"/>
         <source>Frame</source>
-        <translation></translation>
+        <translation>Bingkai</translation>
     </message>
 </context>
 <context>
@@ -2873,7 +2873,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location filename="../forms/sendcoinstargetwidget.ui" line="+14"/>
         <source>Frame</source>
-        <translation>Dari</translation>
+        <translation>Bingkai</translation>
     </message>
     <message>
         <location line="+27"/>
@@ -3360,7 +3360,7 @@ Produk ini mencakup perangkat lunak yang dikembangkan oleh OpenSSL Project untuk
     <message>
         <location filename="../forms/transactionfilterwidget.ui" line="+20"/>
         <source>Frame</source>
-        <translation>Dari</translation>
+        <translation>Bingkai</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -3752,7 +3752,7 @@ Produk ini mencakup perangkat lunak yang dikembangkan oleh OpenSSL Project untuk
     <message>
         <location filename="../forms/transferpage.ui" line="+14"/>
         <source>Frame</source>
-        <translation>Dari</translation>
+        <translation>Bingkai</translation>
     </message>
     <message>
         <location line="+22"/>
