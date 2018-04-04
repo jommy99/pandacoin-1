@@ -438,7 +438,7 @@ Produk ini mencakup perangkat lunak yang dikembangkan oleh OpenSSL Project untuk
     <message>
         <location filename="../forms/askpassphrasedialog.ui" line="+26"/>
         <source>Passphrase Dialog</source>
-        <translation>Dialog Kata kunci</translation>
+        <translation>Dialog Passphrase</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -449,17 +449,17 @@ Produk ini mencakup perangkat lunak yang dikembangkan oleh OpenSSL Project untuk
     <message>
         <location line="+14"/>
         <source>New password</source>
-        <translation>Kata kunci baru</translation>
+        <translation>Kata sandi baru</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Repeat new password</source>
-        <translation>Ulangi kata kunci baru</translation>
+        <translation>Ulangi kata sandi baru</translation>
     </message>
     <message>
         <location line="+39"/>
         <source>For earning interest only</source>
-        <translation>Salin Alamat</translation>
+        <translation>Untuk mendapatkan bunga saja</translation>
     </message>
     <message>
         <source>Enter passphrase</source>
@@ -476,7 +476,7 @@ Produk ini mencakup perangkat lunak yang dikembangkan oleh OpenSSL Project untuk
     <message>
         <location line="-3"/>
         <source>Serves to disable the trivial sendmoney when OS account compromised. Provides no real security.</source>
-        <translation>Blok ini tidak diterima oleh node lainnya dan kemungkinan tidak akan diterima!</translation>
+        <translation>Berfungsi untuk menonaktifkan sentmoney yang sepele ketika akun OS disusupi. Tidak memberikan keamanan nyata.</translation>
     </message>
     <message>
         <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;10 or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
@@ -522,87 +522,83 @@ Produk ini mencakup perangkat lunak yang dikembangkan oleh OpenSSL Project untuk
     <message>
         <location line="+1"/>
         <source>Encrypt Digital PandaBank</source>
-        <translation>Tentang PandaBank Digital</translation>
+        <translation>Enkripsikan PandaBank Digital</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Log on to Digital PandaBank</source>
-        <translation>Tentang PandaBank Digital</translation>
+        <translation>Log on ke Digital PandaBank</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Please enter your Digital PandaBank password to log on to Digital PandaBank.</source>
-        <translation>Enkripsi dompet gagal karena kesalahan internal. Dompet Anda tidak dienkripsi.</translation>
+        <translation>Silakan masukkan kata sandi Digital PandaBank Anda untuk masuk ke Digital PandaBank.</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>LOG ON</source>
-        <translation>Pilihan</translation>
+        <translation>LOG ON</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>This operation needs your Digital PandaBank password to unlock Digital PandaBank.</source>
-        <translation>Enkripsi dompet gagal karena kesalahan internal. Dompet Anda tidak dienkripsi.</translation>
+        <translation>Operasi ini membutuhkan kata sandi PandaBank Digital Anda untuk membuka kunci PandaBank Digital.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Unlock Digital PandaBank</source>
-        <translation>Tentang PandaBank Digital</translation>
+        <translation>Buka Kunci PandaBank Digital</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>This operation needs your Digital PandaBank password to decrypt Digital PandaBank.</source>
-        <translation>Enkripsi dompet gagal karena kesalahan internal. Dompet Anda tidak dienkripsi.</translation>
+        <translation>Operasi ini membutuhkan kata sandi PandaBank Digital Anda untuk mendekripsi Digital PandaBank.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Decrypt Digital PandaBank</source>
-        <translation>Tentang PandaBank Digital</translation>
+        <translation>Dekripsi PandaBank Digital</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Change password</source>
-        <translation>Ubah kata kunci</translation>
+        <translation>Ganti kata sandi</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Enter the old and new password to Digital PandaBank.</source>
-        <translation>Masukkan kata kunci lama dan baru ke dompet ini.</translation>
+        <translation>Masukkan kata sandi lama dan baru ke Digital PandaBank.</translation>
     </message>
     <message>
         <location line="+46"/>
         <source>Confirm Digital PandaBank encryption</source>
-        <translation>Tentang PandaBank Digital</translation>
+        <translation>Konfirmasikan enkripsi PandaBank Digital</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Warning: If you encrypt your Digital PandaBank and lose your password, you will &lt;b&gt;LOSE ALL OF YOUR COINS&lt;/b&gt;!</source>
-        <translation>Enkripsi dompet gagal karena kesalahan internal. Dompet Anda tidak dienkripsi.</translation>
+        <translation>Peringatan: Jika Anda mengenkripsi PandaBank Digital dan kehilangan kata sandi, Anda akan &lt;b&gt; KEHILANGAN SEMUA KOIN ANDA &lt;/ b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Are you sure you wish to encrypt your Digital PandaBank?</source>
-        <translation>Masukkan kata kunci lama dan baru ke dompet ini.</translation>
+        <translation>Apakah Anda yakin ingin mengenkripsi PandaBank Digital Anda?</translation>
     </message>
     <message>
         <location line="+9"/>
         <location line="+61"/>
         <source>Digital PandaBank encrypted</source>
-        <translation>Tentang PandaBank Digital</translation>
+        <translation>Digital PandaBank dienkripsi</translation>
     </message>
     <message>
         <location line="-59"/>
         <source>Digital PandaBank will close now to finish the encryption process. Remember that encrypting your Digital PandaBank cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Anda harus mengatur rpcpassword=&lt;kata sandi&gt; dalam berkas konfigurasi:
-%s
-Jika berkas tidak ada, buatlah dengan permisi berkas hanya-dapat-dibaca-oleh-pemilik.</translation>
+        <translation>PandaBank digital akan tutup sekarang untuk menyelesaikan proses enkripsi. Ingat bahwa mengenkripsi PandaBank Digital Anda tidak dapat sepenuhnya melindungi koin Anda dari pencurian oleh malware yang menginfeksi komputer Anda.</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
-        <translation>Anda harus mengatur rpcpassword=&lt;kata sandi&gt; dalam berkas konfigurasi:
-%s
-Jika berkas tidak ada, buatlah dengan permisi berkas hanya-dapat-dibaca-oleh-pemilik.</translation>
+        <translation>PENTING: Semua cadangan sebelumnya yang Anda buat dari file dompet Anda harus diganti dengan file dompet terenkripsi yang baru dibuat. Untuk alasan keamanan, cadangan sebelumnya dari file dompet yang tidak terenkripsi akan menjadi tidak berguna segera setelah Anda mulai menggunakan dompet terenkripsi yang baru.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -610,46 +606,46 @@ Jika berkas tidak ada, buatlah dengan permisi berkas hanya-dapat-dibaca-oleh-pem
         <location line="+45"/>
         <location line="+6"/>
         <source>Digital PandaBank encryption failed</source>
-        <translation>Tentang PandaBank Digital</translation>
+        <translation>Enkripsi PandaBank digital gagal</translation>
     </message>
     <message>
         <location line="-57"/>
         <source>Digital PandaBank encryption failed due to an internal error. Your Digital PandaBank was not encrypted.</source>
-        <translation>Enkripsi dompet gagal karena kesalahan internal. Dompet Anda tidak dienkripsi.</translation>
+        <translation>Enkripsi PandaBank digital gagal karena kesalahan internal. PandaBank Digital Anda tidak dienkripsi.</translation>
     </message>
     <message>
         <location line="+7"/>
         <location line="+51"/>
         <source>The supplied passwords do not match.</source>
-        <translation>Kata kunci yang dimasukkan tidak cocok.</translation>
+        <translation>Kata sandi yang diberikan tidak cocok.</translation>
     </message>
     <message>
         <location line="-38"/>
         <source>Digital PandaBank unlock failed</source>
-        <translation>Tentang PandaBank Digital</translation>
+        <translation>Gagal membuka PandaBank digital</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+12"/>
         <location line="+19"/>
         <source>The password entered for your Digital PandaBank was incorrect.</source>
-        <translation>Kata kunci yang dimasukkan untuk dekripsi dompet tidak cocok.</translation>
+        <translation>Kata sandi yang dimasukkan untuk PandaBank Digital Anda salah.</translation>
     </message>
     <message>
         <location line="-20"/>
         <source>Digital PandaBank decryption failed</source>
-        <translation>Tentang PandaBank Digital</translation>
+        <translation>Dekripsi PandaBank digital gagal</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Wallet password was successfully changed.</source>
-        <translation>, belum berhasil disiarkan</translation>
+        <translation>Sandi dompet berhasil diubah.</translation>
     </message>
     <message>
         <location line="+49"/>
         <location line="+24"/>
         <source>Warning: The Caps Lock key is on!</source>
-        <translation>Cadangkan dompet ke lokasi lain</translation>
+        <translation>Peringatan: Tombol Caps Lock aktif!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
