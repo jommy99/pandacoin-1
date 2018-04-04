@@ -203,12 +203,12 @@ Produk ini mencakup perangkat lunak yang dikembangkan oleh OpenSSL Project untuk
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
         <source>Address Book</source>
-        <translation>Salin alamat</translation>
+        <translation>Buku alamat</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Double-click to edit address or label</source>
-        <translation>Klik-ganda untuk mengubah alamat atau label</translation>
+        <translation>Klik dua kali untuk mengedit alamat atau label</translation>
     </message>
     <message>
         <location line="+27"/>
@@ -223,14 +223,12 @@ Produk ini mencakup perangkat lunak yang dikembangkan oleh OpenSSL Project untuk
     <message>
         <location line="-11"/>
         <source>&amp;New Address</source>
-        <translation>&amp;Salin Alamat</translation>
+        <translation>&amp;Alamat baru</translation>
     </message>
     <message>
         <location line="-46"/>
         <source>These are your Pandacoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Anda harus mengatur rpcpassword=&lt;kata sandi&gt; dalam berkas konfigurasi:
-%s
-Jika berkas tidak ada, buatlah dengan permisi berkas hanya-dapat-dibaca-oleh-pemilik.</translation>
+        <translation>Ini adalah alamat Pandacoin Anda untuk menerima pembayaran. Anda mungkin ingin memberikan yang berbeda kepada setiap pengirim sehingga Anda dapat melacak siapa yang membayar Anda.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -240,37 +238,37 @@ Jika berkas tidak ada, buatlah dengan permisi berkas hanya-dapat-dibaca-oleh-pem
     <message>
         <location line="+11"/>
         <source>Show &amp;QR Code</source>
-        <translation></translation>
+        <translation>Tampilkan Kode &amp;QR</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Sign a message to prove you own a Pandacoin address</source>
-        <translation>Hubungkan ke node untuk menerima alamat peer, dan putuskan</translation>
+        <translation>Tanda tangani pesan untuk membuktikan bahwa Anda memiliki alamat Pandacoin</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Sign &amp;Message</source>
-        <translation>Pesan &amp;penanda...</translation>
+        <translation>Masuk &amp;Pesan</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Delete the currently selected address from the list</source>
-        <translation>Salin alamat yang dipilih ke clipboard</translation>
+        <translation>Hapus alamat yang dipilih saat ini dari daftar</translation>
     </message>
     <message>
         <location line="-14"/>
         <source>Verify a message to ensure it was signed with a specified Pandacoin address</source>
-        <translation>Hubungkan ke node untuk menerima alamat peer, dan putuskan</translation>
+        <translation>Verifikasi pesan untuk memastikannya ditandatangani dengan alamat Pandacoin tertentu</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Verify Message</source>
-        <translation>&amp;Verifikasi pesan...</translation>
+        <translation>&amp;Verifikasi Pesan</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>&amp;Delete</source>
-        <translation>&amp;Hapus</translation>
+        <translation>&amp;Menghapus</translation>
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+69"/>
@@ -280,27 +278,27 @@ Jika berkas tidak ada, buatlah dengan permisi berkas hanya-dapat-dibaca-oleh-pem
     <message>
         <location line="+2"/>
         <source>&amp;Edit</source>
-        <translation>&amp;Ubah</translation>
+        <translation>&amp;Edit</translation>
     </message>
     <message>
         <location line="+250"/>
         <source>Export Address Book Data</source>
-        <translation>Salin alamat</translation>
+        <translation>Ekspor Data Buku Alamat</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Comma separated file (*.csv)</source>
-        <translation>File CSV (*.csv)</translation>
+        <translation>File yang dipisahkan koma (* .csv)</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Error exporting</source>
-        <translation>Gagal memuat wallet.dat</translation>
+        <translation>Kesalahan mengekspor</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Could not write to file %1.</source>
-        <translation>Tidak dapat membuka dompet.</translation>
+        <translation>Tidak dapat menulis ke file%1.</translation>
     </message>
 </context>
 <context>
@@ -313,7 +311,7 @@ Jika berkas tidak ada, buatlah dengan permisi berkas hanya-dapat-dibaca-oleh-pem
     <message>
         <location line="+34"/>
         <source>Address Book</source>
-        <translation>Salin alamat</translation>
+        <translation>Buku alamat</translation>
     </message>
     <message>
         <location line="+26"/>
@@ -323,12 +321,12 @@ Jika berkas tidak ada, buatlah dengan permisi berkas hanya-dapat-dibaca-oleh-pem
     <message>
         <location line="+3"/>
         <source>&amp;New Address</source>
-        <translation>&amp;Salin Alamat</translation>
+        <translation>&amp;Alamat baru</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Copy the currently selected address to the system clipboard</source>
-        <translation>Salin alamat yang dipilih ke clipboard</translation>
+        <translation>Salin alamat yang saat ini dipilih ke papan klip sistem</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -338,53 +336,53 @@ Jika berkas tidak ada, buatlah dengan permisi berkas hanya-dapat-dibaca-oleh-pem
     <message>
         <location line="+11"/>
         <source>Show &amp;QR Code</source>
-        <translation></translation>
+        <translation>Tampilkan Kode &amp;QR</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Verify a message to ensure it was signed with a specified Pandacoin address</source>
-        <translation>Hubungkan ke node untuk menerima alamat peer, dan putuskan</translation>
+        <translation>Verifikasi pesan untuk memastikannya ditandatangani dengan alamat Pandacoin tertentu</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Verify Message</source>
-        <translation>&amp;Verifikasi pesan...</translation>
+        <translation>&amp;Verifikasi Pesan</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Delete the currently selected address from the list</source>
-        <translation>Salin alamat yang dipilih ke clipboard</translation>
+        <translation>Hapus alamat yang dipilih saat ini dari daftar</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Delete</source>
-        <translation>&amp;Hapus</translation>
+        <translation>&amp;Menghapus</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Search address book</source>
-        <translation>Salin alamat</translation>
+        <translation>Cari buku alamat</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>...</source>
-        <translation></translation>
+        <translation>...</translation>
     </message>
     <message>
         <location line="+80"/>
         <location line="+245"/>
         <source>Edit</source>
-        <translation>&amp;Ubah</translation>
+        <translation>Edit</translation>
     </message>
     <message>
         <location line="+40"/>
         <source>Account address</source>
-        <translation>Salin Alamat</translation>
+        <translation>Alamat akun</translation>
     </message>
     <message>
         <location line="-191"/>
         <source>Send Pandacoins</source>
-        <translation>Kirim Koin</translation>
+        <translation>Kirim Pandacoins</translation>
     </message>
     <message>
         <location line="+40"/>
@@ -399,22 +397,22 @@ Jika berkas tidak ada, buatlah dengan permisi berkas hanya-dapat-dibaca-oleh-pem
     <message>
         <location line="+15"/>
         <source>Next</source>
-        <translation>T/S</translation>
+        <translation>Berikutnya</translation>
     </message>
     <message>
         <location line="+67"/>
         <source>Done</source>
-        <translation>T/S</translation>
+        <translation>Selesai</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Account name</source>
-        <translation>Salin jumlah</translation>
+        <translation>Nama akun</translation>
     </message>
     <message>
         <location line="+57"/>
         <source>Delete</source>
-        <translation>&amp;Hapus</translation>
+        <translation>Menghapus</translation>
     </message>
 </context>
 <context>
@@ -432,7 +430,7 @@ Jika berkas tidak ada, buatlah dengan permisi berkas hanya-dapat-dibaca-oleh-pem
     <message>
         <location line="+36"/>
         <source>(no label)</source>
-        <translation>(tidak ada label)</translation>
+        <translation>(tanpa label)</translation>
     </message>
 </context>
 <context>
