@@ -681,47 +681,47 @@ Produk ini mencakup perangkat lunak yang dikembangkan oleh OpenSSL Project untuk
     <message>
         <location filename="../bitcoingui.cpp" line="+309"/>
         <source>Sign &amp;message...</source>
-        <translation>Pesan &amp;penanda...</translation>
+        <translation>Tanda &amp;pesan ...</translation>
     </message>
     <message>
         <location line="+506"/>
         <source>Synchronizing with network...</source>
-        <translation>Sinkronisasi dengan jaringan...</translation>
+        <translation>Sinkronisasi dengan jaringan ...</translation>
     </message>
     <message>
         <location line="-570"/>
         <source>&amp;Overview</source>
-        <translation>&amp;Kilasan</translation>
+        <translation>&amp;Ringkasan</translation>
     </message>
     <message>
         <location line="-156"/>
         <source>Digital PandaBank</source>
-        <translation>Tentang PandaBank Digital</translation>
+        <translation>PandaBank Digital</translation>
     </message>
     <message>
         <location line="+58"/>
         <source>My Home</source>
-        <translation>Pesan:</translation>
+        <translation>Rumah saya</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>View Accounts</source>
-        <translation>Salin jumlah</translation>
+        <translation>Lihat Akun</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Transfers</source>
-        <translation>Transaksi</translation>
+        <translation>Transfers</translation>
     </message>
     <message>
         <location line="+96"/>
         <source>Show general overview of wallet</source>
-        <translation>Tampilkan kilasan umum dari dompet</translation>
+        <translation>Tampilkan gambaran umum dompet</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Send coins to a Digital PandaBank address</source>
-        <translation>Tentang PandaBank Digital</translation>
+        <translation>Kirim koin ke alamat Digital PandaBank</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -731,32 +731,32 @@ Produk ini mencakup perangkat lunak yang dikembangkan oleh OpenSSL Project untuk
     <message>
         <location line="+1"/>
         <source>Browse transaction history</source>
-        <translation>Jelajah sejarah transaksi</translation>
+        <translation>Telusuri riwayat transaksi</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>&amp;Address Book</source>
-        <translation>Salin alamat</translation>
+        <translation>&amp;Buku alamat</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Edit the list of stored addresses and labels</source>
-        <translation>Klik-ganda untuk mengubah alamat atau label</translation>
+        <translation>Edit daftar alamat dan label yang tersimpan</translation>
     </message>
     <message>
         <location line="-13"/>
         <source>&amp;Receive coins</source>
-        <translation>Diterima dengan</translation>
+        <translation>&amp;Terima koin</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show the list of addresses for receiving payments</source>
-        <translation>Salin alamat yang dipilih ke clipboard</translation>
+        <translation>Tampilkan daftar alamat untuk menerima pembayaran</translation>
     </message>
     <message>
         <location line="-7"/>
         <source>&amp;Send coins</source>
-        <translation>Kirim Koin</translation>
+        <translation>&amp;Kirim koin</translation>
     </message>
     <message>
         <location line="+33"/>
@@ -766,17 +766,17 @@ Produk ini mencakup perangkat lunak yang dikembangkan oleh OpenSSL Project untuk
     <message>
         <location line="+1"/>
         <source>Quit application</source>
-        <translation>Keluar dari aplikasi</translation>
+        <translation>Tutup aplikasi</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>About &amp;Qt</source>
-        <translation>Mengenai &amp;Qt</translation>
+        <translation>Tentang &amp;Qt</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show information about Qt</source>
-        <translation>Tampilkan informasi mengenai Qt</translation>
+        <translation>Tampilkan informasi tentang Qt</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -798,17 +798,17 @@ Produk ini mencakup perangkat lunak yang dikembangkan oleh OpenSSL Project untuk
     <message>
         <location line="+537"/>
         <source>Downloaded %1 of %2 blocks of transaction history (%3% done).</source>
-        <translation>Jendela ini menampilkan deskripsi rinci dari transaksi tersebut</translation>
+        <translation>Mengunduh%1 dari%2 blok riwayat transaksi (%3% selesai).</translation>
     </message>
     <message>
         <location line="-512"/>
         <source>&amp;Export...</source>
-        <translation>&amp;Port:</translation>
+        <translation>&amp;Ekspor...</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Export the data in the current tab to a file</source>
-        <translation>Tentang PandaBank Digital</translation>
+        <translation>Ekspor data dalam tab saat ini ke file</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -826,7 +826,7 @@ Produk ini mencakup perangkat lunak yang dikembangkan oleh OpenSSL Project untuk
     <message>
         <location line="+1"/>
         <source>Open debugging and diagnostic console</source>
-        <translation>Buka konsol debug dan diagnosa</translation>
+        <translation>Buka debug dan konsol diagnostik</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -840,7 +840,7 @@ Produk ini mencakup perangkat lunak yang dikembangkan oleh OpenSSL Project untuk
     <message>
         <location line="-13"/>
         <source>&amp;Show / Hide</source>
-        <translation></translation>
+        <translation>&amp;Tunjukan Sembunyikan</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -867,139 +867,137 @@ Produk ini mencakup perangkat lunak yang dikembangkan oleh OpenSSL Project untuk
     <message>
         <location line="+431"/>
         <source>Downloaded %1 blocks of transaction history.</source>
-        <translation>Jendela ini menampilkan deskripsi rinci dari transaksi tersebut</translation>
+        <translation>Mengunduh %1 blok riwayat transaksi.</translation>
     </message>
     <message>
         <location line="+240"/>
         <location line="+15"/>
         <source>URI can not be parsed! This can be caused by an invalid Digital PandaBank address or malformed URI parameters.</source>
-        <translation>Enkripsi dompet gagal karena kesalahan internal. Dompet Anda tidak dienkripsi.</translation>
+        <translation>URI tidak dapat diuraikan! Ini dapat disebabkan oleh alamat PandaBank Digital yang tidak valid atau parameter URI salah bentuk.</translation>
     </message>
     <message>
         <location line="+239"/>
         <source>Staking.&lt;br&gt;Your weight is %1&lt;br&gt;Network weight is %2&lt;br&gt;Expected time to earn reward is %3</source>
-        <translation>Enkripsi dompet gagal karena kesalahan internal. Dompet Anda tidak dienkripsi.</translation>
+        <translation>Staking. &lt;br&gt; Berat badan Anda %1 &lt;br&gt; Berat jaringan adalah %2 &lt;br&gt; Waktu yang diharapkan untuk mendapatkan hadiah adalah%3</translation>
     </message>
     <message>
         <location line="-1045"/>
         <source>&amp;About Digital PandaBank</source>
-        <translation>Tentang PandaBank Digital</translation>
+        <translation>&amp;Tentang PandaBank Digital</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show information about Digital PandaBank</source>
-        <translation>Tentang PandaBank Digital</translation>
+        <translation>Tampilkan informasi tentang Digital PandaBank</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Modify configuration options for Digital PandaBank</source>
-        <translation>Tentang PandaBank Digital</translation>
+        <translation>Ubah opsi konfigurasi untuk PandaBank Digital</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Encrypt Digital PandaBank...</source>
-        <translation>Tentang PandaBank Digital</translation>
+        <translation>&amp;Enkripsikan PandaBank Digital ...</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Encrypt or decrypt Digital PandaBank</source>
-        <translation>Tentang PandaBank Digital</translation>
+        <translation>Enkripsi atau dekripsi Digital PandaBank</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Backup Digital PandaBank...</source>
-        <translation>Tentang PandaBank Digital</translation>
+        <translation>&amp;Cadangkan Digital PandaBank ...</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Backup Digital PandaBank to another location</source>
-        <translation>Cadangkan dompet ke lokasi lain</translation>
+        <translation>Cadangkan Digital PandaBank ke lokasi lain</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Change Password...</source>
-        <translation>Ubah kata kunci</translation>
+        <translation>&amp;Ganti kata sandi...</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Change the password used for wallet encryption</source>
-        <translation>Ubah kata kunci yang digunakan untuk enkripsi dompet</translation>
+        <translation>Ubah kata sandi yang digunakan untuk enkripsi dompet</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Unlock Digital PandaBank...</source>
-        <translation>Tentang PandaBank Digital</translation>
+        <translation>&amp;Buka Kunci PandaBank Digital ...</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Unlock Digital PandaBank</source>
-        <translation>Tentang PandaBank Digital</translation>
+        <translation>Buka Kunci PandaBank Digital</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Lock Digital PandaBank</source>
-        <translation>Tentang PandaBank Digital</translation>
+        <translation>&amp;Kunci Digital PandaBank</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Lock Digital PandaBank</source>
-        <translation>Tentang PandaBank Digital</translation>
+        <translation>Kunci PandaBank Digital</translation>
     </message>
     <message>
         <location line="+4"/>
         <location line="+1"/>
         <source>Activate &apos;Classic&apos; client mode.</source>
-        <translation></translation>
+        <translation>Aktifkan mode klien &apos;Klasik&apos;.</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+1"/>
         <source>Activate &apos;Hybrid&apos; client mode.</source>
-        <translation>Alamat yang dimasukkan tidak sesuai.</translation>
+        <translation>Aktifkan mode klien &apos;Hybrid&apos;.</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+1"/>
         <source>Activate &apos;Lite&apos; client mode.</source>
-        <translation>Alamat yang dimasukkan tidak sesuai.</translation>
+        <translation>Aktifkan mode klien &apos;Lite&apos;.</translation>
     </message>
     <message>
         <location line="+91"/>
         <location line="+71"/>
         <source>Digital PandaBank client</source>
-        <translation>Tentang PandaBank Digital</translation>
+        <translation>Klien Digital PandaBank</translation>
     </message>
     <message>
         <location line="+134"/>
         <source>Downloaded %1 of %2 checkpoints (%3% done).</source>
-        <translation>Jendela ini menampilkan deskripsi rinci dari transaksi tersebut</translation>
+        <translation>Mengunduh%1 dari%2 pos pemeriksaan (%3% selesai).</translation>
     </message>
     <message>
         <location line="+268"/>
         <source>Up to date</source>
-        <translation>Terbaru</translation>
+        <translation>Terkini</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Catching up...</source>
-        <translation>Menyusul...</translation>
+        <translation>Menangkap ...</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Last received block was generated %1.</source>
-        <translation>Tanggal dan waktu transaksi tersebut diterima.</translation>
+        <translation>Blok terakhir yang diterima telah dihasilkan %1.</translation>
     </message>
     <message>
         <location line="+64"/>
         <source>This transaction is over the size limit.  You can still send it for a fee of %1, which goes to the nodes that process your transaction and helps to support the network.  Do you want to pay the fee?</source>
-        <translation>Anda harus mengatur rpcpassword=&lt;kata sandi&gt; dalam berkas konfigurasi:
-%s
-Jika berkas tidak ada, buatlah dengan permisi berkas hanya-dapat-dibaca-oleh-pemilik.</translation>
+        <translation>Transaksi ini melebihi batas ukuran. Anda masih dapat mengirimnya dengan biaya %1, yang masuk ke simpul yang memproses transaksi Anda dan membantu mendukung jaringan. Apakah Anda ingin membayar biayanya?</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Confirm transaction fee</source>
-        <translation>Bayar &amp;biaya transaksi</translation>
+        <translation>Konfirmasikan biaya transaksi</translation>
     </message>
     <message>
         <location line="+27"/>
@@ -1009,7 +1007,7 @@ Jika berkas tidak ada, buatlah dengan permisi berkas hanya-dapat-dibaca-oleh-pem
     <message>
         <location line="+1"/>
         <source>Incoming transaction</source>
-        <translation>Transaksi diterima</translation>
+        <translation>Transaksi masuk</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1020,7 +1018,7 @@ Address: %4
 </source>
         <translation>Tanggal: %1
 Jumlah: %2
-Jenis: %3
+Ketik: %3
 Alamat: %4
 </translation>
     </message>
@@ -1028,12 +1026,12 @@ Alamat: %4
         <location line="+83"/>
         <location line="+15"/>
         <source>URI handling</source>
-        <translation></translation>
+        <translation>Penanganan URI</translation>
     </message>
     <message>
         <location line="+116"/>
         <source>Activate Digital PandaBank ‘Classic’</source>
-        <translation>Tentang PandaBank Digital</translation>
+        <translation>Aktifkan PandaBank Digital ‘Klasik’</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1042,17 +1040,16 @@ Alamat: %4
 Switching to Digital PandaBank &apos;Classic&apos; from other modes will wipe out your existing blockchain data.
 
 Activate Digital PandaBank &apos;Classic&apos;?</source>
-        <translation>
-Ini adalah perangkat lunak eksperimental.
+        <translation>Digital PandaBank &apos;Classic&apos; memungkinkan Anda memperoleh bunga dan membantu mengamankan Pandacoin Network setelah sinkronisasi dan pengunduhan blockchain selesai. Ini beroperasi menggunakan metode sinkronisasi dan pengunduhan yang usang dari blockchain, yang bisa memakan waktu antara 4 hingga 24 jam untuk menyelesaikannya. Kami merekomendasikan sebagian besar pengguna Pandacoin untuk menggunakan Pandacoin &apos;Hybrid&apos;.
 
-Didistribusikan di bawah lisensi perangkat lunak MIT / X11, lihat file yang menyertainya COPYING atau http://www.opensource.org/licenses/mit-license.php.
+Beralih ke Digital PandaBank &apos;Klasik&apos; dari mode lain akan menghapus data blockchain Anda yang ada.
 
-Produk ini mencakup perangkat lunak yang dikembangkan oleh OpenSSL Project untuk digunakan dalam OpenSSL Toolkit (http://www.openssl.org/) dan perangkat lunak kriptografi yang ditulis oleh Eric Young (eay@cryptsoft.com) dan perangkat lunak UPnP yang ditulis oleh Thomas Bernard.</translation>
+Aktifkan PandaBank &apos;Klasik&apos; Digital?</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Activate Digital PandaBank ‘Hybrid’</source>
-        <translation>Tentang PandaBank Digital</translation>
+        <translation>Aktifkan PandaBank Digital ‘Hybrid’</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1061,17 +1058,16 @@ Produk ini mencakup perangkat lunak yang dikembangkan oleh OpenSSL Project untuk
 Digital PandaBank &apos;Hybrid allows you to earn interest and help secure the Pandacoin Network in approximately 5 to 15 minutes after installation, once both synchronization and download of the blockchain is completed.
 
 Activate Digital PandaBank &apos;Hybrid&apos;?</source>
-        <translation>
-Ini adalah perangkat lunak eksperimental.
+        <translation>Digital PandaBank &apos;Hybrid&apos; adalah mode yang direkomendasikan untuk sebagian besar pengguna Pandacoin. Sinkronisasi dengan Pandacoin Network hanya akan membutuhkan beberapa detik setelah instalasi sehingga Anda dapat melihat dan menggunakan Pandacoins Anda segera.
 
-Didistribusikan di bawah lisensi perangkat lunak MIT / X11, lihat file yang menyertainya COPYING atau http://www.opensource.org/licenses/mit-license.php.
+Digital PandaBank &apos;Hybrid memungkinkan Anda memperoleh bunga dan membantu mengamankan Pandacoin Network dalam waktu sekitar 5 hingga 15 menit setelah instalasi, setelah sinkronisasi dan pengunduhan blockchain selesai.
 
-Produk ini mencakup perangkat lunak yang dikembangkan oleh OpenSSL Project untuk digunakan dalam OpenSSL Toolkit (http://www.openssl.org/) dan perangkat lunak kriptografi yang ditulis oleh Eric Young (eay@cryptsoft.com) dan perangkat lunak UPnP yang ditulis oleh Thomas Bernard.</translation>
+Aktifkan PandaBank &apos;Hybrid&apos; Digital?</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Activate Digital PandaBank ‘Lite’</source>
-        <translation>Tentang PandaBank Digital</translation>
+        <translation>Aktifkan PandaBank Digital ‘Lite’</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1080,22 +1076,21 @@ Produk ini mencakup perangkat lunak yang dikembangkan oleh OpenSSL Project untuk
 Pandacoin &apos;Lite&apos; DOES NOT allow you to earn interest or help secure the Pandacoin Network.
 
 Activate Digital PandaBank &apos;Lite&apos;?</source>
-        <translation>
-Ini adalah perangkat lunak eksperimental.
+        <translation>Digital PandaBank &apos;Lite&apos; adalah untuk pengguna yang memiliki akses ke ruang penyimpanan unduhan atau hard drive yang terbatas. Data yang tersimpan hanya beberapa megabyte. Sinkronisasi dengan Pandacoin Network hanya akan membutuhkan beberapa detik setelah instalasi sehingga Anda dapat melihat dan menggunakan Pandacoins Anda segera.
 
-Didistribusikan di bawah lisensi perangkat lunak MIT / X11, lihat file yang menyertainya COPYING atau http://www.opensource.org/licenses/mit-license.php.
+Pandacoin &apos;Lite&apos; TIDAK memungkinkan Anda untuk mendapatkan bunga atau membantu mengamankan Jaringan Pandacoin.
 
-Produk ini mencakup perangkat lunak yang dikembangkan oleh OpenSSL Project untuk digunakan dalam OpenSSL Toolkit (http://www.openssl.org/) dan perangkat lunak kriptografi yang ditulis oleh Eric Young (eay@cryptsoft.com) dan perangkat lunak UPnP yang ditulis oleh Thomas Bernard.</translation>
+Aktifkan PandaBank &apos;Lite&apos; Digital?</translation>
     </message>
     <message>
         <location line="+42"/>
         <source>Unable to earn interest in light mode.&lt;br/&gt;Switch to hybrid mode if you would like to earn interest.</source>
-        <translation>Enkripsi dompet gagal karena kesalahan internal. Dompet Anda tidak dienkripsi.</translation>
+        <translation>Tidak dapat memperoleh bunga dalam mode ringan. &lt;br/&gt; Beralih ke mode hibrid jika Anda ingin mendapatkan bunga.</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Unable to earn interest until syncing is completed.</source>
-        <translation>Tidak dapat mengikat ke %s dengan komputer ini (ikatan gagal %d, %s)</translation>
+        <translation>Tidak dapat menghasilkan bunga sampai sinkronisasi selesai.</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -1103,67 +1098,67 @@ Produk ini mencakup perangkat lunak yang dikembangkan oleh OpenSSL Project untuk
         <location line="+4"/>
         <location line="+4"/>
         <source>%1 %2</source>
-        <translation>Tertambang</translation>
+        <translation>%1 %2</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Not earning interest because wallet is locked</source>
-        <translation>Tidak dapat mengikat ke %s dengan komputer ini (ikatan gagal %d, %s)</translation>
+        <translation>Tidak mendapatkan bunga karena dompet terkunci</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Not earning interest because wallet is offline</source>
-        <translation>Tidak dapat mengikat ke %s dengan komputer ini (ikatan gagal %d, %s)</translation>
+        <translation>Tidak mendapatkan bunga karena dompet sedang offline</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Not earning interest because wallet is syncing</source>
-        <translation>Tidak dapat mengikat ke %s dengan komputer ini (ikatan gagal %d, %s)</translation>
+        <translation>Tidak mendapatkan bunga karena dompet sedang disinkronkan</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Not earning interest because you don&apos;t have mature coins</source>
-        <translation>Tidak dapat mengikat ke %s dengan komputer ini (ikatan gagal %d, %s)</translation>
+        <translation>Tidak mendapatkan bunga karena Anda tidak memiliki koin yang matang</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Not earning interest</source>
-        <translation>Salin Alamat</translation>
+        <translation>Tidak menghasilkan bunga</translation>
     </message>
     <message>
         <location line="-235"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>
-        <translation>Dompet saat ini &lt;b&gt;terenkripsi&lt;/b&gt; dan &lt;b&gt;terbuka&lt;/b&gt;</translation>
+        <translation>Wallet &lt;b&gt; dienkripsi &lt;/b&gt; dan saat ini &lt;b&gt; tidak terkunci &lt;/b&gt;</translation>
     </message>
     <message>
         <location line="-563"/>
         <source>%1 active %2 to Digital PandaBank network</source>
-        <translation>Tentang PandaBank Digital</translation>
+        <translation>%1 aktif %2 ke jaringan Digital PandaBank</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>connection</source>
-        <translation>Transaksi</translation>
+        <translation>koneksi</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>connections</source>
-        <translation>Transaksi</translation>
+        <translation>koneksi</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Searching for peers.</source>
-        <translation>Salin Alamat</translation>
+        <translation>Mencari teman sebaya.</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Connecting to peers.</source>
-        <translation>Salin Alamat</translation>
+        <translation>Menghubungkan ke teman sebaya.</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Fetching checkpoints.</source>
-        <translation>Salin Alamat</translation>
+        <translation>Mengambil pos pemeriksaan.</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -1175,51 +1170,51 @@ Produk ini mencakup perangkat lunak yang dikembangkan oleh OpenSSL Project untuk
         <location line="+29"/>
         <location line="+29"/>
         <source>%1 %2 remaining</source>
-        <translation>Memindai ulang...</translation>
+        <translation>%1 %2 tersisa</translation>
     </message>
     <message>
         <location line="-217"/>
         <source>checkpoint</source>
-        <translation>Salin Alamat</translation>
+        <translation>pos pemeriksaan</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>checkpoints</source>
-        <translation>Salin Alamat</translation>
+        <translation>pos-pos pemeriksaan</translation>
     </message>
     <message>
         <location line="+22"/>
         <location line="+33"/>
         <source>Performing Instant Sync</source>
-        <translation>Salin Alamat</translation>
+        <translation>Melakukan Sinkronisasi Instan</translation>
     </message>
     <message>
         <location line="-31"/>
         <source>(Phase 1 of 3)</source>
-        <translation>Ubah kata kunci</translation>
+        <translation>(Tahap 1 dari 3)</translation>
     </message>
     <message>
         <location line="+9"/>
         <location line="+96"/>
         <source>header</source>
-        <translation>Lainnya</translation>
+        <translation>tajuk</translation>
     </message>
     <message>
         <location line="-96"/>
         <location line="+96"/>
         <source>headers</source>
-        <translation>Lainnya</translation>
+        <translation>tajuk</translation>
     </message>
     <message>
         <location line="-88"/>
         <location line="+96"/>
         <source>Downloaded %1 of %2 headers (%3% done).</source>
-        <translation>Jendela ini menampilkan deskripsi rinci dari transaksi tersebut</translation>
+        <translation>Mengunduh %1 dari %2 header (%3% selesai).</translation>
     </message>
     <message>
         <location line="-80"/>
         <source>(Phase 2 of 3)</source>
-        <translation>Ubah kata kunci</translation>
+        <translation>(Tahap 2 dari 3)</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -1228,7 +1223,7 @@ Produk ini mencakup perangkat lunak yang dikembangkan oleh OpenSSL Project untuk
         <location line="+29"/>
         <location line="+29"/>
         <source>block</source>
-        <translation>Rantai blok</translation>
+        <translation>blok</translation>
     </message>
     <message>
         <location line="-151"/>
@@ -1237,48 +1232,48 @@ Produk ini mencakup perangkat lunak yang dikembangkan oleh OpenSSL Project untuk
         <location line="+29"/>
         <location line="+29"/>
         <source>blocks</source>
-        <translation>Rantai blok</translation>
+        <translation>blok</translation>
     </message>
     <message>
         <location line="-143"/>
         <location line="+93"/>
         <source>Downloaded %1 of %2 blocks (%3% done).</source>
-        <translation>Jendela ini menampilkan deskripsi rinci dari transaksi tersebut</translation>
+        <translation>Mengunduh %1 dari %2 blok (%3% selesai).</translation>
     </message>
     <message>
         <location line="-79"/>
         <source>Scanning wallet transactions</source>
-        <translation>&lt;b&gt;Transaksi sebelumnya&lt;/b&gt;</translation>
+        <translation>Memindai transaksi dompet</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>(Phase 3 of 3)</source>
-        <translation>Ubah kata kunci</translation>
+        <translation>(Tahap 3 dari 3)</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Scanned %1 of %2 blocks (%3% done).</source>
-        <translation>Jendela ini menampilkan deskripsi rinci dari transaksi tersebut</translation>
+        <translation>Dipindai %1 dari %2 blok (%3% selesai).</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Rapid Blockchain Download (Phase 1 of 2).</source>
-        <translation>Jendela ini menampilkan deskripsi rinci dari transaksi tersebut</translation>
+        <translation>Rapid Blockchain Download (Tahap 1 dari 2).</translation>
     </message>
     <message>
         <location line="+30"/>
         <source>Rapid Blockchain Download (Phase 2 of 2).</source>
-        <translation>Jendela ini menampilkan deskripsi rinci dari transaksi tersebut</translation>
+        <translation>Rapid Blockchain Download (Tahap 2 dari 2).</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>Verify blockchain.</source>
-        <translation>Rantai blok</translation>
+        <translation>Verifikasi blockchain.</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Verified %1 of %2 blocks (%3% done).</source>
-        <translation>Jendela ini menampilkan deskripsi rinci dari transaksi tersebut</translation>
+        <translation>Telah diverifikasi %1 dari %2 blok (%3% selesai).</translation>
     </message>
     <message>
         <location line="+61"/>
@@ -1286,85 +1281,85 @@ Produk ini mencakup perangkat lunak yang dikembangkan oleh OpenSSL Project untuk
         <location line="+4"/>
         <location line="+4"/>
         <source>%1 %2 ago</source>
-        <translation>Tertambang</translation>
+        <translation>%1 %2 yang lalu</translation>
     </message>
     <message>
         <location line="-12"/>
         <location line="+454"/>
         <source>second</source>
-        <translation>Kirim Koin</translation>
+        <translation>kedua</translation>
     </message>
     <message>
         <location line="-454"/>
         <location line="+454"/>
         <source>seconds</source>
-        <translation>Kirim Koin</translation>
+        <translation>detik</translation>
     </message>
     <message>
         <location line="-450"/>
         <location line="+454"/>
         <source>minute</source>
-        <translation>Tertambang</translation>
+        <translation>menit</translation>
     </message>
     <message>
         <location line="-454"/>
         <location line="+454"/>
         <source>minutes</source>
-        <translation>Tertambang</translation>
+        <translation>menit</translation>
     </message>
     <message>
         <location line="-450"/>
         <location line="+454"/>
         <source>hour</source>
-        <translation>Pesan:</translation>
+        <translation>jam</translation>
     </message>
     <message>
         <location line="-454"/>
         <location line="+454"/>
         <source>hours</source>
-        <translation>Pesan:</translation>
+        <translation>jam</translation>
     </message>
     <message>
         <location line="-450"/>
         <location line="+454"/>
         <source>day</source>
-        <translation>Tanggal</translation>
+        <translation>hari</translation>
     </message>
     <message>
         <location line="-454"/>
         <location line="+454"/>
         <source>days</source>
-        <translation>Tanggal</translation>
+        <translation>hari</translation>
     </message>
     <message>
         <location line="-207"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</source>
-        <translation>Dompet saat ini &lt;b&gt;terenkripsi&lt;/b&gt; dan &lt;b&gt;terkunci&lt;/b&gt;</translation>
+        <translation>Wallet &lt;b&gt; dienkripsi &lt;/b&gt; dan saat ini &lt;b&gt; terkunci &lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>Backup Wallet</source>
-        <translation>&amp;Cadangkan Dompet...</translation>
+        <translation>Dompet Cadangan</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Wallet Data (*.dat)</source>
-        <translation>%Enkripsi Dompet...</translation>
+        <translation>Data Wallet (* .dat)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Backup Failed</source>
-        <translation>&amp;Cadangkan Dompet...</translation>
+        <translation>Cadangan Gagal</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>There was an error trying to save the wallet data to the new location.</source>
-        <translation>Operasi ini memerlukan kata kunci dompet Anda untuk membuka dompet ini.</translation>
+        <translation>Terjadi kesalahan saat mencoba menyimpan data dompet ke lokasi baru.</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+112"/>
         <source>A fatal error occurred. Pandacoin can no longer continue safely and will quit.</source>
-        <translation>Operasi ini memerlukan kata kunci dompet Anda untuk membuka dompet ini.</translation>
+        <translation>Kesalahan fatal terjadi. Pandacoin tidak bisa lagi berlanjut dengan aman dan akan berhenti.</translation>
     </message>
 </context>
 <context>
@@ -1372,7 +1367,7 @@ Produk ini mencakup perangkat lunak yang dikembangkan oleh OpenSSL Project untuk
     <message>
         <location filename="../clientmodel.cpp" line="+96"/>
         <source>Network Alert</source>
-        <translation>Notifikasi Jaringan</translation>
+        <translation>Peringatan Jaringan</translation>
     </message>
 </context>
 <context>
