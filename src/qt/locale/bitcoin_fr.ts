@@ -167,7 +167,7 @@ Ce logiciel est expérimental.
     <message>
         <location line="+20"/>
         <source>Accept new account name.</source>
-        <translation type="unfinished">Acceptez le nouveau nom de compte.</translation>
+        <translation>Acceptez le nouveau nom de compte.</translation>
     </message>
     <message>
         <location line="+20"/>
@@ -188,7 +188,7 @@ Ce logiciel est expérimental.
         <location filename="../forms/accountsummaryheaderwidget.cpp" line="+63"/>
         <location line="+9"/>
         <source>Error</source>
-        <translation type="unfinished">Erreur</translation>
+        <translation>Erreur</translation>
     </message>
     <message>
         <location line="-9"/>
@@ -261,7 +261,7 @@ Ce logiciel est expérimental.
     <message>
         <location line="-14"/>
         <source>Verify a message to ensure it was signed with a specified Pandacoin address</source>
-        <translation>Vérifier un message pour s&apos;assurer qu&apos;il vient d&apos;un adresse Pandacoin spécifique.</translation>
+        <translation>Vérifier un message pour s&apos;assurer qu&apos;il vient d&apos;un adresse Pandacoin spécifique</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -314,52 +314,52 @@ Ce logiciel est expérimental.
     <message>
         <location line="+34"/>
         <source>Address Book</source>
-        <translation type="unfinished">Répertoire d&apos;adresses</translation>
+        <translation>Répertoire d&apos;adresses</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>Create a new address</source>
-        <translation type="unfinished">Créer une nouvelle adresse</translation>
+        <translation>Créer une nouvelle adresse</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;New Address</source>
-        <translation type="unfinished">&amp;Nouvelle adresse</translation>
+        <translation>&amp;Nouvelle adresse</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Copy the currently selected address to the system clipboard</source>
-        <translation type="unfinished">Copier l&apos;adresse sélectionnée vers le presse-papier système</translation>
+        <translation>Copier l&apos;adresse sélectionnée vers le presse-papier système</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Copy Address</source>
-        <translation type="unfinished">&amp;Copier l&apos;adresse</translation>
+        <translation>&amp;Copier l&apos;adresse</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Show &amp;QR Code</source>
-        <translation type="unfinished">Montrer le &amp;QR Code</translation>
+        <translation>Montrer le &amp;QR Code</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Verify a message to ensure it was signed with a specified Pandacoin address</source>
-        <translation type="unfinished">Vérifier un message pour s&apos;assurer qu&apos;il vient d&apos;un adresse Pandacoin spécifique.</translation>
+        <translation>Vérifier un message pour s&apos;assurer qu&apos;il vient d&apos;un adresse Pandacoin spécifique</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Verify Message</source>
-        <translation type="unfinished">&amp;Vérifier un message</translation>
+        <translation>&amp;Vérifier un message</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Delete the currently selected address from the list</source>
-        <translation type="unfinished">Effacer l&apos;adresse actuellement sélectionnée de la liste</translation>
+        <translation>Effacer l&apos;adresse actuellement sélectionnée de la liste</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Delete</source>
-        <translation type="unfinished">&amp;Supprimer</translation>
+        <translation>&amp;Supprimer</translation>
     </message>
     <message>
         <location line="+25"/>
@@ -394,12 +394,12 @@ Ce logiciel est expérimental.
     <message>
         <location line="+40"/>
         <source>From</source>
-        <translation type="unfinished">De</translation>
+        <translation>De</translation>
     </message>
     <message>
         <location line="+36"/>
         <source>Amount</source>
-        <translation type="unfinished">Montant</translation>
+        <translation>Montant</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -908,7 +908,7 @@ Ce logiciel est expérimental.
     <message>
         <location line="+5"/>
         <source>&amp;Address Book</source>
-        <translation>Carnet d&apos;adresses</translation>
+        <translation>&amp;Carnet d&apos;adresses</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -981,7 +981,7 @@ Ce logiciel est expérimental.
     <message>
         <location line="+537"/>
         <source>Downloaded %1 of %2 blocks of transaction history (%3% done).</source>
-        <translation>Téléchargement des blocks de l&apos;historique des transactions : 1% sur 2% (%3% effectués).</translation>
+        <translation>Téléchargement des blocks de l&apos;historique des transactions :  %1 sur %2  (%3% effectués).</translation>
     </message>
     <message>
         <location line="-512"/>
@@ -1097,7 +1097,7 @@ Ce logiciel est expérimental.
     <message>
         <location line="+431"/>
         <source>Downloaded %1 blocks of transaction history.</source>
-        <translation>Téléchargement de blocs de l&apos;historique de transactions : 1% blocks</translation>
+        <translation>Téléchargement de blocs de l&apos;historique de transactions :  %1 blocks.</translation>
     </message>
     <message>
         <location line="+24"/>
@@ -1570,7 +1570,7 @@ Activate Digital PandaBank &apos;Lite&apos;?</source>
     <message>
         <location line="+35"/>
         <source>Low Output:</source>
-        <translation>Sortie faible</translation>
+        <translation>Sortie faible:</translation>
     </message>
     <message>
         <location filename="../coincontroldialog.cpp" line="+551"/>
@@ -1762,7 +1762,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
 
 L&apos;étiquette passe au rouge si votre priorité est plus basse que la &quot;moyenne&quot;.
 
-Cela implique que des frais d&apos;un minimum de %1 par kb sont requis</translation>
+Cela implique que des frais d&apos;un minimum de %1 par kb sont requis.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1839,7 +1839,7 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
         <location filename="../forms/createaccountwidget.cpp" line="+55"/>
         <location line="+19"/>
         <source>Error</source>
-        <translation type="unfinished">Erreur</translation>
+        <translation>Erreur</translation>
     </message>
     <message>
         <location line="-19"/>
@@ -2184,7 +2184,7 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location line="+13"/>
         <source>The user interface language can be set here. This setting will take effect after restarting Pandacoin.</source>
-        <translation>La langue d&apos;interface de l&apos;utilisateur peut être définie ici. Les modification seront prises en compte après redémarrage de l&apos;application Pandacoin</translation>
+        <translation>La langue d&apos;interface de l&apos;utilisateur peut être définie ici. Les modification seront prises en compte après redémarrage de l&apos;application Pandacoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -2199,7 +2199,7 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location line="+9"/>
         <source>Whether to show Pandacoin addresses in the transaction list or not.</source>
-        <translation>Afficher les adresses Pandacoin au sein de la liste de transactions</translation>
+        <translation>Afficher les adresses Pandacoin au sein de la liste de transactions.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2214,7 +2214,7 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location line="+3"/>
         <source>Display coin &amp;control features (experts only!)</source>
-        <translation>Afficher les options de monnaie &amp; contrôle (mode expert)</translation>
+        <translation>Afficher les options de monnaie &amp;contrôle (mode expert)</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -2261,7 +2261,7 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
         <location line="-9"/>
         <location line="+9"/>
         <source>This setting will take effect after restarting Pandacoin.</source>
-        <translation>Les paramètres prendront effet après redémarrage du client Pandacoin</translation>
+        <translation>Les paramètres prendront effet après redémarrage du client Pandacoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -2339,17 +2339,17 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location line="+30"/>
         <source>To</source>
-        <translation type="unfinished">À</translation>
+        <translation>À</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Amount</source>
-        <translation type="unfinished">Montant</translation>
+        <translation>Montant</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>From</source>
-        <translation type="unfinished">De</translation>
+        <translation>De</translation>
     </message>
     <message>
         <location line="+71"/>
@@ -2453,22 +2453,22 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location filename="../guiutil.cpp" line="-569"/>
         <source>&lt;b&gt;%1&lt;/b&gt; to %2 (%3)</source>
-        <translation type="unfinished">&lt;b&gt;%1&lt;/b&gt; à %2 (%3)</translation>
+        <translation>&lt;b&gt;%1&lt;/b&gt; à %2 (%3)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Confirm send coins</source>
-        <translation type="unfinished">Confirmer l’envoi des pièces</translation>
+        <translation>Confirmer l’envoi des pièces</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Are you sure you want to send %1?</source>
-        <translation type="unfinished">Etes-vous sûr de vouloir envoyer %1?</translation>
+        <translation>Etes-vous sûr de vouloir envoyer %1?</translation>
     </message>
     <message>
         <location line="+0"/>
         <source> and </source>
-        <translation type="unfinished">et</translation>
+        <translation> et </translation>
     </message>
     <message>
         <location line="+63"/>
@@ -2482,22 +2482,22 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
         <location line="+12"/>
         <location line="+12"/>
         <source>Send Coins</source>
-        <translation type="unfinished">Envoyer des monnaies</translation>
+        <translation>Envoyer des monnaies</translation>
     </message>
     <message>
         <location line="-98"/>
         <source>The recipient address is not valid, please recheck.</source>
-        <translation type="unfinished">L&apos;adresse du destinataire n’est pas valide, veuillez la vérifier.</translation>
+        <translation>L&apos;adresse du destinataire n’est pas valide, veuillez la vérifier.</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>The amount to pay must be larger than 0.</source>
-        <translation type="unfinished">Le montant à payer doit être supérieur à 0.</translation>
+        <translation>Le montant à payer doit être supérieur à 0.</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>The amount exceeds your balance.</source>
-        <translation type="unfinished">Le montant dépasse votre solde.</translation>
+        <translation>Le montant dépasse votre solde.</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -2507,7 +2507,7 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location line="+15"/>
         <source>The total exceeds your balance when the %1 transaction fee is included.</source>
-        <translation type="unfinished">Le montant dépasse votre solde lorsque les frais de transaction de %1 sont inclus.</translation>
+        <translation>Le montant dépasse votre solde lorsque les frais de transaction de %1 sont inclus.</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -2517,7 +2517,7 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location line="+13"/>
         <source>Duplicate address found, can only send to each address once per send operation.</source>
-        <translation type="unfinished">Adresse indentique trouvée, il n&apos;est possible d&apos;envoyer qu&apos;une fois à chaque adresse par opération d&apos;envoi.</translation>
+        <translation>Adresse indentique trouvée, il n&apos;est possible d&apos;envoyer qu&apos;une fois à chaque adresse par opération d&apos;envoi.</translation>
     </message>
     <message>
         <location line="+12"/>
@@ -2527,12 +2527,12 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location line="+12"/>
         <source>Error: Transaction creation failed.</source>
-        <translation type="unfinished">Erreur: Echec lors de la création de la transaction</translation>
+        <translation>Erreur: Echec lors de la création de la transaction.</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Error: The transaction was rejected. This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation type="unfinished">Erreur: La transaction a été rejetée. Cela peut se produire si une quantité d&apos;argent de votre portefeuille a déjà été dépensée, comme dans le cas où une copie du fichier wallet.dat aurait été utilisée afin d&apos;effectuer des dépenses, à la place du fichier courant.</translation>
+        <translation>Erreur: La transaction a été rejetée. Cela peut se produire si une quantité d&apos;argent de votre portefeuille a déjà été dépensée, comme dans le cas où une copie du fichier wallet.dat aurait été utilisée afin d&apos;effectuer des dépenses, à la place du fichier courant.</translation>
     </message>
     <message>
         <location filename="../pandastyles.cpp" line="+18"/>
@@ -2631,7 +2631,7 @@ Should you encounter this error repeatedly please seek assistance.</source>
         <location line="+23"/>
         <location filename="../rpcconsole.cpp" line="+347"/>
         <source>N/A</source>
-        <translation>N.D.</translation>
+        <translation>N/A</translation>
     </message>
     <message>
         <location line="-217"/>
@@ -2701,7 +2701,7 @@ Should you encounter this error repeatedly please seek assistance.</source>
     <message>
         <location line="+7"/>
         <source>Show the Pandacoin-Qt help message to get a list with possible Pandacoin command-line options.</source>
-        <translation>Afficher le message d&apos;aide Pandacoin-Qt afin d&apos;obtenir la liste des options de de L&apos;outil en ligne de commande Pandacoin</translation>
+        <translation>Afficher le message d&apos;aide Pandacoin-Qt afin d&apos;obtenir la liste des options de de L&apos;outil en ligne de commande Pandacoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2973,22 +2973,22 @@ Should you encounter this error repeatedly please seek assistance.</source>
     <message>
         <location line="+74"/>
         <source>Coin Control Features</source>
-        <translation type="unfinished">Fonctions de contrôle des monnaies</translation>
+        <translation>Fonctions de contrôle des monnaies</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Inputs...</source>
-        <translation type="unfinished">Entrants...</translation>
+        <translation>Entrants...</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>automatically selected</source>
-        <translation type="unfinished">choisi automatiquement</translation>
+        <translation>choisi automatiquement</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Insufficient funds!</source>
-        <translation type="unfinished">Fonds insuffisants!</translation>
+        <translation>Fonds insuffisants!</translation>
     </message>
     <message>
         <location line="+77"/>
@@ -2999,7 +2999,7 @@ Should you encounter this error repeatedly please seek assistance.</source>
         <location line="+22"/>
         <location line="+35"/>
         <source>0</source>
-        <translation type="unfinished">0</translation>
+        <translation>0</translation>
     </message>
     <message>
         <location line="-19"/>
@@ -3017,7 +3017,7 @@ Should you encounter this error repeatedly please seek assistance.</source>
         <location line="+86"/>
         <location line="+32"/>
         <source>0.00 PND</source>
-        <translation type="unfinished">123.456 PND {0.00 ?}</translation>
+        <translation>123.456 PND {0.00 ?}</translation>
     </message>
     <message>
         <location line="-191"/>
@@ -3037,12 +3037,12 @@ Should you encounter this error repeatedly please seek assistance.</source>
     <message>
         <location line="+35"/>
         <source>Low Output:</source>
-        <translation type="unfinished">Sortie faible</translation>
+        <translation>Sortie faible:</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>no</source>
-        <translation type="unfinished">non</translation>
+        <translation>non</translation>
     </message>
     <message>
         <location line="+32"/>
@@ -3052,22 +3052,22 @@ Should you encounter this error repeatedly please seek assistance.</source>
     <message>
         <location line="+35"/>
         <source>Change</source>
-        <translation type="unfinished">Monnaie :</translation>
+        <translation>Monnaie</translation>
     </message>
     <message>
         <location line="+50"/>
         <source>custom change address</source>
-        <translation type="unfinished">adresse de change personnalisée</translation>
+        <translation>adresse de change personnalisée</translation>
     </message>
     <message>
         <location line="+67"/>
         <source>From</source>
-        <translation type="unfinished">De</translation>
+        <translation>De</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>To</source>
-        <translation type="unfinished">À</translation>
+        <translation>À</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -3077,7 +3077,7 @@ Should you encounter this error repeatedly please seek assistance.</source>
     <message>
         <location line="+25"/>
         <source>Amount</source>
-        <translation type="unfinished">Montant</translation>
+        <translation>Montant</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -3136,42 +3136,42 @@ Should you encounter this error repeatedly please seek assistance.</source>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+108"/>
         <source>Copy quantity</source>
-        <translation type="unfinished">Copier la quantité</translation>
+        <translation>Copier la quantité</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy amount</source>
-        <translation type="unfinished">Copier le montant</translation>
+        <translation>Copier le montant</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy fee</source>
-        <translation type="unfinished">Copier les frais</translation>
+        <translation>Copier les frais</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy after fee</source>
-        <translation type="unfinished">Copier le montant après les frais</translation>
+        <translation>Copier le montant après les frais</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy bytes</source>
-        <translation type="unfinished">Copier les octets</translation>
+        <translation>Copier les octets</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy priority</source>
-        <translation type="unfinished">Copier la priorité</translation>
+        <translation>Copier la priorité</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy low output</source>
-        <translation type="unfinished">Copier la sortie faible</translation>
+        <translation>Copier la sortie faible</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy change</source>
-        <translation type="unfinished">Copier la monnaie</translation>
+        <translation>Copier la monnaie</translation>
     </message>
     <message>
         <location line="+115"/>
@@ -3194,7 +3194,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+224"/>
         <source>WARNING: Invalid Pandacoin address</source>
-        <translation type="unfinished">AVERTISSEMENT: Adresse Pandacoin Invalide</translation>
+        <translation>AVERTISSEMENT: Adresse Pandacoin Invalide</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -3204,7 +3204,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+4"/>
         <source>WARNING: unknown change address</source>
-        <translation type="unfinished">AVERTISSEMENT: Adresse Pandacoin Invalide</translation>
+        <translation>AVERTISSEMENT: Adresse Pandacoin Invalide</translation>
     </message>
 </context>
 <context>
@@ -3222,7 +3222,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+12"/>
         <source>The address to send the payment to  (e.g. PBZ8YVV3XT3WWWd2a1jo4N9WePiwKB3mJE)</source>
-        <translation type="unfinished">Adresse destinataire du paiement (ex: PBZ8YVV3XT3WWWd2a1jo4N9WePiwKB3mJE)</translation>
+        <translation>Adresse destinataire du paiement (ex: PBZ8YVV3XT3WWWd2a1jo4N9WePiwKB3mJE)</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -3232,12 +3232,12 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+7"/>
         <source>Choose address from address book</source>
-        <translation type="unfinished">Choisir une adresse du carnet d&apos;adresse</translation>
+        <translation>Choisir une adresse du carnet d&apos;adresse</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Alt+A</source>
-        <translation type="unfinished">Alt+A</translation>
+        <translation>Alt+A</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -3247,12 +3247,12 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+10"/>
         <source>Alt+P</source>
-        <translation type="unfinished">Alt+P</translation>
+        <translation>Alt+P</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Remove this recipient</source>
-        <translation type="unfinished">Supprimer ce destinataire</translation>
+        <translation>Supprimer ce destinataire</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -3277,7 +3277,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+7"/>
         <source>Amount</source>
-        <translation type="unfinished">Montant</translation>
+        <translation>Montant</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -3380,7 +3380,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+40"/>
         <source>Verify the message to ensure it was signed with the specified Pandacoin address</source>
-        <translation>Vérifier le message afin de vous assurer qu&apos;il provient de l&apos;adresse Pandacoin spécifiée.</translation>
+        <translation>Vérifier le message afin de vous assurer qu&apos;il provient de l&apos;adresse Pandacoin spécifiée</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -4070,7 +4070,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+0"/>
         <source>Could not write to file %1.</source>
-        <translation>Impossible d&apos;écrire dans le fichier %1</translation>
+        <translation>Impossible d&apos;écrire dans le fichier %1.</translation>
     </message>
     <message>
         <source>Range:</source>
@@ -4247,17 +4247,17 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="-5"/>
         <source>Error: Wallet locked, unable to create transaction  </source>
-        <translation>Erreur: Portefeuille verrouillé, impossible d&apos;effectuer cette transaction</translation>
+        <translation>Erreur: Portefeuille verrouillé, impossible d&apos;effectuer cette transaction  </translation>
     </message>
     <message>
         <location line="-8"/>
         <source>Importing blockchain data file.</source>
-        <translation>Import en cours du fichier de chaîne de blocs</translation>
+        <translation>Import en cours du fichier de chaîne de blocs.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Importing bootstrap blockchain data file.</source>
-        <translation>Import en masse du fichier de chaîne bloc</translation>
+        <translation>Import en masse du fichier de chaîne bloc.</translation>
     </message>
     <message>
         <location line="-88"/>
@@ -4282,7 +4282,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+117"/>
         <source>Error initializing database environment %s! To recover, BACKUP THAT DIRECTORY, then remove everything from it except for wallet.dat.</source>
-        <translation>Erreur lors de l&apos;initialisation de l&apos;environnement de base de données %s! Afin de procéder à la récupération, une SAUVEGARDE DE CE REPERTOIRE est nécessaire, puis, supprimez le contenu entier de ce répertoire, à l&apos;exception du fichier wallet.dat </translation>
+        <translation>Erreur lors de l&apos;initialisation de l&apos;environnement de base de données %s! Afin de procéder à la récupération, une SAUVEGARDE DE CE REPERTOIRE est nécessaire, puis, supprimez le contenu entier de ce répertoire, à l&apos;exception du fichier wallet.dat.</translation>
     </message>
     <message>
         <location line="-20"/>
@@ -4297,7 +4297,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+61"/>
         <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Pandacoin will not work properly.</source>
-        <translation>Avertissement: Veuillez vérifier la date et l&apos;heure de votre ordinateur. Pandacoin ne pourra pas fonctionner correctement si l&apos;horloge est réglée de façon incorrecte</translation>
+        <translation>Avertissement: Veuillez vérifier la date et l&apos;heure de votre ordinateur. Pandacoin ne pourra pas fonctionner correctement si l&apos;horloge est réglée de façon incorrecte.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -4609,7 +4609,7 @@ par exemple: alertnotify=echo %%s | mail -s &quot;Alerte Pandacoin&quot; admin@f
     <message>
         <location line="+53"/>
         <source>Error: Wallet unlocked for staking only, unable to create transaction.</source>
-        <translation>Erreur: Portefeuille déverrouillé uniquement pour &quot;staking&quot; , impossible d&apos;effectuer cette transaction</translation>
+        <translation>Erreur: Portefeuille déverrouillé uniquement pour &quot;staking&quot; , impossible d&apos;effectuer cette transaction.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -4624,12 +4624,12 @@ par exemple: alertnotify=echo %%s | mail -s &quot;Alerte Pandacoin&quot; admin@f
     <message>
         <location line="+95"/>
         <source>Wallet %s resides outside data directory %s.</source>
-        <translation>Le portefeuille %s réside en dehors répertoire de données %s</translation>
+        <translation>Le portefeuille %s réside en dehors répertoire de données %s.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Cannot obtain a lock on data directory %s.  Pandacoin is probably already running.</source>
-        <translation>Echec lors de la tentative de verrouillage des données du répertoire %s. L&apos;application Pandacoin est probablement déjà en cours d&apos;exécution</translation>
+        <translation>Echec lors de la tentative de verrouillage des données du répertoire %s. L&apos;application Pandacoin est probablement déjà en cours d&apos;exécution.</translation>
     </message>
     <message>
         <location line="-98"/>
@@ -4744,7 +4744,7 @@ par exemple: alertnotify=echo %%s | mail -s &quot;Alerte Pandacoin&quot; admin@f
     <message>
         <location line="+122"/>
         <source>Unable to bind to %s on this computer. Pandacoin is probably already running.</source>
-        <translation>Connexion au port %s impossible. L&apos;application Pandacoin est probablement déjà en cours d&apos;exécution</translation>
+        <translation>Connexion au port %s impossible. L&apos;application Pandacoin est probablement déjà en cours d&apos;exécution.</translation>
     </message>
     <message>
         <location line="-97"/>
