@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="fr">
+<TS version="2.1" language="fr">
 <context>
     <name>AboutDialog</name>
     <message>
@@ -10,7 +10,7 @@
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>À propos de Digital PandaBank</translation>
     </message>
     <message>
         <location line="+39"/>
@@ -24,7 +24,7 @@ Copyright © 2012-2014 The NovaCoin developers
 Copyright © 2014 The Pandacoin developers</source>
         <translation>Copyright © 2009-2014 Les développeurs Bitcoin
 Copyright © 2012-2014 Les développeurs NovaCoin
-Copyright © 2014 Les développeurs Pandacoin</translation>
+Copyright © 2014-2018 Les développeurs Pandacoin</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -35,7 +35,7 @@ Distributed under the MIT/X11 software license, see the accompanying file COPYIN
 
 This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/) and cryptographic software written by Eric Young (eay@cryptsoft.com) and UPnP software written by Thomas Bernard.</source>
         <translation>
- Ce logiciel est expérimental.
+Ce logiciel est expérimental.
 
  Distribué sous licence logicielle MIT/X11, voir le fichier COPYING joint ou http://www.opensource.org/licenses/mit-license.php.
 
@@ -47,17 +47,17 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location filename="../accountmodel.cpp" line="+24"/>
         <source>Account Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom du compte</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Account Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Adresse du compte</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Account Balance</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -147,27 +147,27 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location filename="../forms/accountsummaryheaderwidget.ui" line="+14"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Cadre</translation>
     </message>
     <message>
         <location line="+32"/>
         <source>Earning interest</source>
-        <translation type="unfinished"></translation>
+        <translation>Gagner de l&apos;intérêt</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Total balance</source>
-        <translation type="unfinished"></translation>
+        <translation>Solde total</translation>
     </message>
     <message>
         <location line="+153"/>
         <source>Edit account name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier le nom du compte.</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Accept new account name.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Acceptez le nouveau nom de compte.</translation>
     </message>
     <message>
         <location line="+20"/>
@@ -1981,27 +1981,27 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
         <location filename="../forms/lockbar.cpp" line="+37"/>
         <location line="+5"/>
         <source>Lock</source>
-        <translation type="unfinished"></translation>
+        <translation>Fermer à clé</translation>
     </message>
     <message>
         <location filename="../forms/lockbar.cpp" line="-3"/>
         <source>Wallet is &lt;b&gt;not encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt; click to encrypt and lock.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le portefeuille est &lt;b&gt; non chiffré &lt;/ b&gt; et actuellement &lt;b&gt; déverrouillé &lt;/ b&gt; cliquez pour chiffrer et verrouiller.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt; click to lock.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le portefeuille est &lt;b&gt; chiffré &lt;/ b&gt; et actuellement &lt;b&gt; déverrouillé &lt;/ b&gt; cliquez pour verrouiller.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Unlock</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrir</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt; click to unlock.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le portefeuille est &lt;b&gt; chiffré &lt;/ b&gt; et actuellement &lt;b&gt; verrouillé &lt;/ b&gt; cliquez pour déverrouiller.</translation>
     </message>
 </context>
 <context>
@@ -2009,7 +2009,7 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location filename="../forms/mainframe.ui" line="+14"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Cadre</translation>
     </message>
 </context>
 <context>
@@ -2017,22 +2017,22 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location filename="../forms/menubar.ui" line="+55"/>
         <source>Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Fichier</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Aidez-moi</translation>
     </message>
 </context>
 <context>
@@ -3476,7 +3476,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
         <location filename="../accountmodel.cpp" line="+241"/>
         <location line="+4"/>
         <source>All Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Tous les comptes</translation>
     </message>
 </context>
 <context>
@@ -3484,7 +3484,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location filename="../forms/tabbeddatewidget.ui" line="+20"/>
         <source>TabWidget</source>
-        <translation type="unfinished"></translation>
+        <translation>TabWidget</translation>
     </message>
 </context>
 <context>
@@ -3693,37 +3693,37 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location filename="../forms/transactionfilterwidget.ui" line="+20"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Cadre</translation>
     </message>
     <message>
         <location line="+21"/>
         <source> or jump to</source>
-        <translation type="unfinished"></translation>
+        <translation> ou saute à</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Montrer</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Recent Transactions</source>
-        <translation type="unfinished"></translation>
+        <translation>transactions récentes</translation>
     </message>
     <message>
         <location line="+30"/>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportation</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Search by keyword</source>
-        <translation type="unfinished"></translation>
+        <translation>Recherche par mots-clés</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
 </context>
 <context>
@@ -4086,17 +4086,17 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location filename="../forms/transferpage.ui" line="+14"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Cadre</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Transfers</source>
-        <translation type="unfinished"></translation>
+        <translation>Transferts</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Address Book</source>
-        <translation type="unfinished">Répertoire d&apos;adresses</translation>
+        <translation>Carnet d&apos;adresses</translation>
     </message>
 </context>
 <context>
@@ -4227,7 +4227,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="-5"/>
         <source>Error: This transaction requires a transaction fee of at least %s because of its amount, complexity, or use of recently received funds  </source>
-        <translation>Erreur: Cette transaction requière des frais minimum de  %s a cause de son montant, de sa complexité ou de l&apos;utilisation de fonds récemment reçus.</translation>
+        <translation>Erreur: Cette transaction requière des frais minimum de  %s a cause de son montant, de sa complexité ou de l&apos;utilisation de fonds récemment reçus  </translation>
     </message>
     <message>
         <location line="-87"/>
@@ -4242,7 +4242,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+101"/>
         <source>Error: Transaction creation failed  </source>
-        <translation>Erreur: La création de cette transaction à échouée</translation>
+        <translation>Erreur: La création de cette transaction à échouée  </translation>
     </message>
     <message>
         <location line="-5"/>
