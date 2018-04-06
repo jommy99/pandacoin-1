@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="ja">
+<TS version="2.1" language="ja">
 <context>
     <name>AboutDialog</name>
     <message>
@@ -10,7 +10,7 @@
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>デジタルパンダバンクについて</translation>
     </message>
     <message>
         <location line="+39"/>
@@ -47,17 +47,17 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location filename="../accountmodel.cpp" line="+24"/>
         <source>Account Name</source>
-        <translation type="unfinished"></translation>
+        <translation>アカウント名</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Account Address</source>
-        <translation type="unfinished"></translation>
+        <translation>アカウントアドレス</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Account Balance</source>
-        <translation type="unfinished"></translation>
+        <translation>勘定残高</translation>
     </message>
 </context>
 <context>
@@ -314,37 +314,37 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="+34"/>
         <source>Address Book</source>
-        <translation type="unfinished">アドレス帳</translation>
+        <translation>アドレス帳</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>Create a new address</source>
-        <translation type="unfinished">新規アドレスの作成</translation>
+        <translation>新規アドレスの作成</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;New Address</source>
-        <translation type="unfinished">新しいアドレス</translation>
+        <translation>&amp;新しいアドレス</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Copy the currently selected address to the system clipboard</source>
-        <translation type="unfinished">現在選択されているアドレスをシステムのクリップボードにコピーする</translation>
+        <translation>現在選択されているアドレスをシステムのクリップボードにコピーする</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Copy Address</source>
-        <translation type="unfinished">アドレスをコピー (&amp;C)</translation>
+        <translation>アドレスをコピー (&amp;C)</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Show &amp;QR Code</source>
-        <translation type="unfinished">QRコードを表す</translation>
+        <translation>&amp;QRコードを表す</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Verify a message to ensure it was signed with a specified Pandacoin address</source>
-        <translation type="unfinished">受け取ったメッセージの署名を確保のため、メッセージを確認する。</translation>
+        <translation>受け取ったメッセージの署名を確保のため、メッセージを確認する</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -354,12 +354,12 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="+11"/>
         <source>Delete the currently selected address from the list</source>
-        <translation type="unfinished">選択されたアドレスを一覧から削除する</translation>
+        <translation>選択されたアドレスを一覧から削除する</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Delete</source>
-        <translation type="unfinished">削除</translation>
+        <translation>&amp;削除</translation>
     </message>
     <message>
         <location line="+25"/>
@@ -394,12 +394,12 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="+40"/>
         <source>From</source>
-        <translation type="unfinished">送信</translation>
+        <translation>送信</translation>
     </message>
     <message>
         <location line="+36"/>
         <source>Amount</source>
-        <translation type="unfinished">総額</translation>
+        <translation>総額</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -2442,22 +2442,22 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="-569"/>
         <source>&lt;b&gt;%1&lt;/b&gt; to %2 (%3)</source>
-        <translation type="unfinished">&lt;b&gt;%1&lt;/b&gt; から %2 (%3)に</translation>
+        <translation>&lt;b&gt;%1&lt;/b&gt; から %2 (%3)に</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Confirm send coins</source>
-        <translation type="unfinished">コインを送る確認</translation>
+        <translation>コインを送る確認</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Are you sure you want to send %1?</source>
-        <translation type="unfinished">%1送付、よろしいですか?</translation>
+        <translation>%1送付、よろしいですか?</translation>
     </message>
     <message>
         <location line="+0"/>
         <source> and </source>
-        <translation type="unfinished">と</translation>
+        <translation> と </translation>
     </message>
     <message>
         <location line="+63"/>
@@ -2471,22 +2471,22 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+12"/>
         <location line="+12"/>
         <source>Send Coins</source>
-        <translation type="unfinished">コインを送る</translation>
+        <translation>コインを送る</translation>
     </message>
     <message>
         <location line="-98"/>
         <source>The recipient address is not valid, please recheck.</source>
-        <translation type="unfinished">受取人のアドレスが不正です。再確認してください。</translation>
+        <translation>受取人のアドレスが不正です。再確認してください。</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>The amount to pay must be larger than 0.</source>
-        <translation type="unfinished">支払額は0より大きくないといけません。</translation>
+        <translation>支払額は0より大きくないといけません。</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>The amount exceeds your balance.</source>
-        <translation type="unfinished">額が残高を超えています。</translation>
+        <translation>額が残高を超えています。</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -2496,7 +2496,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+15"/>
         <source>The total exceeds your balance when the %1 transaction fee is included.</source>
-        <translation type="unfinished">%1 の処理手数料を含めると額が残高を超えています。</translation>
+        <translation>%1 の処理手数料を含めると額が残高を超えています。</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -2506,7 +2506,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+13"/>
         <source>Duplicate address found, can only send to each address once per send operation.</source>
-        <translation type="unfinished">重複しているアドレスが見つかりました。1回の送信で同じアドレスに送ることは出来ません。</translation>
+        <translation>重複しているアドレスが見つかりました。1回の送信で同じアドレスに送ることは出来ません。</translation>
     </message>
     <message>
         <location line="+12"/>
@@ -2516,12 +2516,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+12"/>
         <source>Error: Transaction creation failed.</source>
-        <translation type="unfinished">エラー：処理を失敗しました。</translation>
+        <translation>エラー：処理を失敗しました。</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Error: The transaction was rejected. This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation type="unfinished">エラー：処理は拒否されました。ウォレットのコインをすでに費やした可能性で、wallet.datのコピーで費やしたが、現行のwallet.datとはアップデートされていない。</translation>
+        <translation>エラー：処理は拒否されました。ウォレットのコインをすでに費やした可能性で、wallet.datのコピーで費やしたが、現行のwallet.datとはアップデートされていない。</translation>
     </message>
     <message>
         <location filename="../pandastyles.cpp" line="+18"/>
@@ -2962,43 +2962,43 @@ Should you encounter this error repeatedly please seek assistance.</source>
     <message>
         <location line="+74"/>
         <source>Coin Control Features</source>
-        <translation type="unfinished">コインのコントロールの設定</translation>
+        <translation>コインのコントロールの設定</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Inputs...</source>
-        <translation type="unfinished">入力...</translation>
+        <translation>入力...</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>automatically selected</source>
-        <translation type="unfinished">自動的に選択</translation>
+        <translation>自動的に選択</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Insufficient funds!</source>
-        <translation type="unfinished">資金不足！</translation>
+        <translation>資金不足！</translation>
     </message>
     <message>
         <location line="+77"/>
         <source>Quantity:</source>
-        <translation type="unfinished">数量：</translation>
+        <translation>数量：</translation>
     </message>
     <message>
         <location line="+22"/>
         <location line="+35"/>
         <source>0</source>
-        <translation type="unfinished">0</translation>
+        <translation>0</translation>
     </message>
     <message>
         <location line="-19"/>
         <source>Bytes:</source>
-        <translation type="unfinished">バイト</translation>
+        <translation>バイト:</translation>
     </message>
     <message>
         <location line="+51"/>
         <source>Amount:</source>
-        <translation type="unfinished">総額:</translation>
+        <translation>総額:</translation>
     </message>
     <message>
         <location line="+22"/>
@@ -3006,57 +3006,57 @@ Should you encounter this error repeatedly please seek assistance.</source>
         <location line="+86"/>
         <location line="+32"/>
         <source>0.00 PND</source>
-        <translation type="unfinished">123.456 PND {0.00 ?}</translation>
+        <translation>123.456 PND {0.00 ?}</translation>
     </message>
     <message>
         <location line="-191"/>
         <source>Priority:</source>
-        <translation type="unfinished">優先:</translation>
+        <translation>優先:</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>medium</source>
-        <translation type="unfinished">中</translation>
+        <translation>中</translation>
     </message>
     <message>
         <location line="+32"/>
         <source>Fee:</source>
-        <translation type="unfinished">料金:</translation>
+        <translation>料金:</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>Low Output:</source>
-        <translation type="unfinished">アウトプット低い:</translation>
+        <translation>アウトプット低い:</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>no</source>
-        <translation type="unfinished">いいえ</translation>
+        <translation>いいえ</translation>
     </message>
     <message>
         <location line="+32"/>
         <source>After Fee:</source>
-        <translation type="unfinished">料金の後</translation>
+        <translation>料金の後:</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>Change</source>
-        <translation type="unfinished">お釣り:</translation>
+        <translation>お釣り</translation>
     </message>
     <message>
         <location line="+50"/>
         <source>custom change address</source>
-        <translation type="unfinished">カスタムのお釣りのアドレス</translation>
+        <translation>カスタムのお釣りのアドレス</translation>
     </message>
     <message>
         <location line="+67"/>
         <source>From</source>
-        <translation type="unfinished">送信</translation>
+        <translation>送信</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>To</source>
-        <translation type="unfinished">受信</translation>
+        <translation>受信</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -3066,7 +3066,7 @@ Should you encounter this error repeatedly please seek assistance.</source>
     <message>
         <location line="+25"/>
         <source>Amount</source>
-        <translation type="unfinished">総額</translation>
+        <translation>総額</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -3125,48 +3125,48 @@ Should you encounter this error repeatedly please seek assistance.</source>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+108"/>
         <source>Copy quantity</source>
-        <translation type="unfinished">数量をコピー</translation>
+        <translation>数量をコピー</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy amount</source>
-        <translation type="unfinished">総額のコピー</translation>
+        <translation>総額のコピー</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy fee</source>
-        <translation type="unfinished">料金をコピー</translation>
+        <translation>料金をコピー</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy after fee</source>
-        <translation type="unfinished">料金の後をコピー</translation>
+        <translation>料金の後をコピー</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy bytes</source>
-        <translation type="unfinished">バイトをコピー</translation>
+        <translation>バイトをコピー</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy priority</source>
-        <translation type="unfinished">優先をコピー</translation>
+        <translation>優先をコピー</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy low output</source>
-        <translation type="unfinished">アウトプット低いをコピー</translation>
+        <translation>アウトプット低いをコピー</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy change</source>
-        <translation type="unfinished">お釣りをコピー</translation>
+        <translation>お釣りをコピー</translation>
     </message>
     <message>
         <location line="+115"/>
         <location line="+46"/>
         <source>No from account selected</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="-46"/>
@@ -3183,17 +3183,17 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+224"/>
         <source>WARNING: Invalid Pandacoin address</source>
-        <translation type="unfinished">警告：無効なブラックコインアドレス</translation>
+        <translation>警告：無効なブラックコインアドレス</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>(no label)</source>
-        <translation type="unfinished">（ラベル無し）</translation>
+        <translation>（ラベル無し）</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>WARNING: unknown change address</source>
-        <translation type="unfinished">警告：不明なお釣りのアドレス</translation>
+        <translation>警告：不明なお釣りのアドレス</translation>
     </message>
 </context>
 <context>
