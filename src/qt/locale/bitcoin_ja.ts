@@ -309,7 +309,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location filename="../forms/addressbookpage_new.ui" line="+14"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>フレーム</translation>
     </message>
     <message>
         <location line="+34"/>
@@ -349,7 +349,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="+3"/>
         <source>&amp;Verify Message</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;メッセージの確認（＆V）</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -364,12 +364,12 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="+25"/>
         <source>Search address book</source>
-        <translation type="unfinished"></translation>
+        <translation>アドレス帳を検索</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>label</source>
@@ -379,7 +379,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
         <location line="+80"/>
         <location line="+245"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>編集</translation>
     </message>
     <message>
         <location line="+40"/>
@@ -980,7 +980,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="+537"/>
         <source>Downloaded %1 of %2 blocks of transaction history (%3% done).</source>
-        <translation>処理の履歴の%1 / %2 ブロックをダウンロードしました。(%3% 完成）</translation>
+        <translation>処理の履歴の%1 / %2 ブロックをダウンロードしました。(%3% 完成）.</translation>
     </message>
     <message>
         <location line="-512"/>
@@ -2099,12 +2099,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+7"/>
         <source>Connect to the Pandacoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>ブラックコインのネットワークへSOCKSプロキシで接続する（例：TORで接続するばい）</translation>
+        <translation>ブラックコインのネットワークへSOCKSプロキシで接続する（例：TORで接続するばい）.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Connect through SOCKS proxy:</source>
-        <translation>SOCKSプロキシで接続する</translation>
+        <translation>&amp;SOCKSプロキシで接続する:</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -2492,7 +2492,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+4"/>
         <source>The amount exceeds your available balance, some of your Pandacoins are currently being used to earn you interest.</source>
-        <translation type="unfinished"></translation>
+        <translation>金額があなたの残高を超えています。あなたのパンダコインの一部は、現在、あなたの利益を得るために使用されています。</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -2502,7 +2502,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+4"/>
         <source>The amount exceeds your available balance when the %1 transaction fee is included, some of your Pandacoins are currently being used to earn you interest.</source>
-        <translation type="unfinished"></translation>
+        <translation>％1の取引手数料が含まれている場合、あなたの利用可能な残高 %1 を上回ります。あなたのパンダコインの一部は、現在あなたの利益を得るために使用されています。</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -2512,7 +2512,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+12"/>
         <source>Error: Transaction creation failed because transaction size (in Kb) too large.</source>
-        <translation type="unfinished"></translation>
+        <translation>エラー：トランザクションサイズ（Kb単位）が大きすぎるため、トランザクションの作成に失敗しました。</translation>
     </message>
     <message>
         <location line="+12"/>
@@ -2527,12 +2527,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../pandastyles.cpp" line="+18"/>
         <source>Arial, &apos;Helvetica Neue&apos;, Helvetica, sans-serif</source>
-        <translation type="unfinished"></translation>
+        <translation>Arial, &apos;Helvetica Neue&apos;, Helvetica, sans-serif</translation>
     </message>
     <message>
         <location filename="../../init.cpp" line="+849"/>
         <source>My account</source>
-        <translation type="unfinished"></translation>
+        <translation>マイアカウント</translation>
     </message>
     <message>
         <location filename="../../main.cpp" line="+928"/>
@@ -2541,7 +2541,11 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
 
 The most likely cause of this error is a problem with your local blockchain, so the blockchain will now reset itself and sync again.
 Should you encounter this error repeatedly please seek assistance.</source>
-        <translation type="unfinished"></translation>
+        <translation>同期エラーが発生しました：
+％s
+
+このエラーの原因としては、ローカルブロックチェーンの問題が考えられます。そのため、ブロックチェーンは自動的にリセットされ、再び同期します。
+繰り返しこのエラーが発生した場合は、援助を求めてください。</translation>
     </message>
 </context>
 <context>
@@ -3754,22 +3758,22 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="-64"/>
         <source>From account</source>
-        <translation type="unfinished"></translation>
+        <translation>アカウントから</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>To account</source>
-        <translation type="unfinished"></translation>
+        <translation>アカウントへ</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Account Name</source>
-        <translation type="unfinished"></translation>
+        <translation>アカウント名</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Balance</source>
-        <translation type="unfinished"></translation>
+        <translation>バランス</translation>
     </message>
     <message>
         <location line="+70"/>
@@ -3810,52 +3814,52 @@ Please select the &quot;from&quot; address at the top of this page.</source>
         <location line="+42"/>
         <location line="+2"/>
         <source>Received</source>
-        <translation type="unfinished"></translation>
+        <translation>受け取った</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Sent</source>
-        <translation type="unfinished"></translation>
+        <translation>送信済み</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Internal Transfer</source>
-        <translation type="unfinished"></translation>
+        <translation>内部転送</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Interest</source>
-        <translation type="unfinished"></translation>
+        <translation>インタレスト</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Fee</source>
-        <translation type="unfinished"></translation>
+        <translation>費用</translation>
     </message>
     <message>
         <location line="+569"/>
         <source>Destination account of transaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>トランザクションの宛先アカウント。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Source account of transaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>トランザクションのソースアカウント。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Account for transaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>取引のアカウント。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Other account for transaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>その他の取引のアカウント。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Account balance at end of transaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>取引終了時の口座残高。</translation>
     </message>
     <message>
         <source>Received with</source>
