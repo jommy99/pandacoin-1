@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="ja">
+<TS version="2.1" language="ja">
 <context>
     <name>AboutDialog</name>
     <message>
@@ -10,7 +10,7 @@
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>デジタルパンダバンクについて</translation>
     </message>
     <message>
         <location line="+39"/>
@@ -47,17 +47,17 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location filename="../accountmodel.cpp" line="+24"/>
         <source>Account Name</source>
-        <translation type="unfinished"></translation>
+        <translation>アカウント名</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Account Address</source>
-        <translation type="unfinished"></translation>
+        <translation>アカウントアドレス</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Account Balance</source>
-        <translation type="unfinished"></translation>
+        <translation>勘定残高</translation>
     </message>
 </context>
 <context>
@@ -65,81 +65,81 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location filename="../forms/accountpage.ui" line="+20"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>フレーム</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Transactions</source>
-        <translation type="unfinished"></translation>
+        <translation>トランザクション</translation>
     </message>
     <message>
         <location line="+38"/>
         <source>View transactions for</source>
-        <translation type="unfinished"></translation>
+        <translation>のトランザクションを表示する</translation>
     </message>
     <message>
         <location line="+36"/>
         <source>Copy Address</source>
-        <translation type="unfinished"></translation>
+        <translation>住所をコピーする</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Show QR Code</source>
-        <translation type="unfinished"></translation>
+        <translation>QRコードを表示する</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Sign message</source>
-        <translation type="unfinished"></translation>
+        <translation>サインメッセージ</translation>
     </message>
     <message>
         <location line="+132"/>
         <source>Last 30 Days</source>
-        <translation type="unfinished"></translation>
+        <translation>過去30日間</translation>
     </message>
     <message>
         <location line="+40"/>
         <source>Out</source>
-        <translation type="unfinished"></translation>
+        <translation>でる</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>In</source>
-        <translation type="unfinished"></translation>
+        <translation>に</translation>
     </message>
     <message>
         <location line="+23"/>
         <location line="+10"/>
         <location line="+140"/>
         <source>PND</source>
-        <translation type="unfinished"></translation>
+        <translation>PND</translation>
     </message>
     <message>
         <location line="-128"/>
         <source>Interest Gained</source>
-        <translation type="unfinished"></translation>
+        <translation>利子</translation>
     </message>
     <message>
         <location line="+115"/>
         <source>Total interest</source>
-        <translation type="unfinished"></translation>
+        <translation>総利息</translation>
     </message>
     <message>
         <location line="+32"/>
         <location line="+25"/>
         <source>Create Account</source>
-        <translation type="unfinished"></translation>
+        <translation>アカウントを作成する</translation>
     </message>
     <message>
         <location filename="../forms/accountpage.cpp" line="+155"/>
         <source>All Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>すべてのアカウント</translation>
     </message>
     <message>
         <location line="+28"/>
         <location line="+4"/>
         <source>transaction found</source>
-        <translation type="unfinished"></translation>
+        <translation>トランザクションが見つかりました</translation>
     </message>
 </context>
 <context>
@@ -147,58 +147,58 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location filename="../forms/accountsummaryheaderwidget.ui" line="+14"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>フレーム</translation>
     </message>
     <message>
         <location line="+32"/>
         <source>Earning interest</source>
-        <translation type="unfinished"></translation>
+        <translation>利益を得る</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Total balance</source>
-        <translation type="unfinished"></translation>
+        <translation>総合収支</translation>
     </message>
     <message>
         <location line="+153"/>
         <source>Edit account name.</source>
-        <translation type="unfinished"></translation>
+        <translation>アカウント名を編集します。</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Accept new account name.</source>
-        <translation type="unfinished"></translation>
+        <translation>新しいアカウント名を受け入れます。</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Cancel editing of account name.</source>
-        <translation type="unfinished"></translation>
+        <translation>アカウント名の編集をキャンセルします。</translation>
     </message>
     <message>
         <location line="-156"/>
         <source>Available</source>
-        <translation type="unfinished"></translation>
+        <translation>利用可能</translation>
     </message>
     <message>
         <location line="+37"/>
         <source>Pending</source>
-        <translation type="unfinished"></translation>
+        <translation>保留中</translation>
     </message>
     <message>
         <location filename="../forms/accountsummaryheaderwidget.cpp" line="+63"/>
         <location line="+9"/>
         <source>Error</source>
-        <translation type="unfinished">エラー</translation>
+        <translation>エラー</translation>
     </message>
     <message>
         <location line="-9"/>
         <source>An account with this name already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>この名前のアカウントは既に存在します。</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Error could not change name of Digital PandaBank account.</source>
-        <translation type="unfinished"></translation>
+        <translation>エラーがDigital PandaBankアカウントの名前を変更できませんでした。</translation>
     </message>
 </context>
 <context>
@@ -226,7 +226,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="-11"/>
         <source>&amp;New Address</source>
-        <translation>新しいアドレス</translation>
+        <translation>&amp;新しいアドレス</translation>
     </message>
     <message>
         <location line="-46"/>
@@ -241,17 +241,17 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="+11"/>
         <source>Show &amp;QR Code</source>
-        <translation>QRコードを表す</translation>
+        <translation>QRコー&amp;ドを表す</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Sign a message to prove you own a Pandacoin address</source>
-        <translation>所有権の証明するためのメサッジを署名する。</translation>
+        <translation>所有権の証明するためのメサッジを署名する</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Sign &amp;Message</source>
-        <translation>メサッジを署名する。</translation>
+        <translation>&amp;メサッジを署名する</translation>
     </message>
     <message>
         <location line="+25"/>
@@ -261,17 +261,17 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="-14"/>
         <source>Verify a message to ensure it was signed with a specified Pandacoin address</source>
-        <translation>受け取ったメッセージの署名を確保のため、メッセージを確認する。</translation>
+        <translation>受け取ったメッセージの署名を確保のため、メッセージを確認する</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Verify Message</source>
-        <translation>メッセージを確認する。</translation>
+        <translation>&amp;メッセージを確認する</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>&amp;Delete</source>
-        <translation>削除</translation>
+        <translation>&amp;削除</translation>
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+65"/>
@@ -301,7 +301,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="+0"/>
         <source>Could not write to file %1.</source>
-        <translation>ファイルを書き込めなかった。%1</translation>
+        <translation>ファイルを書き込めなかった。%1.</translation>
     </message>
 </context>
 <context>
@@ -309,67 +309,67 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location filename="../forms/addressbookpage_new.ui" line="+14"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>フレーム</translation>
     </message>
     <message>
         <location line="+34"/>
         <source>Address Book</source>
-        <translation type="unfinished">アドレス帳</translation>
+        <translation>アドレス帳</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>Create a new address</source>
-        <translation type="unfinished">新規アドレスの作成</translation>
+        <translation>新規アドレスの作成</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;New Address</source>
-        <translation type="unfinished">新しいアドレス</translation>
+        <translation>&amp;新しいアドレス</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Copy the currently selected address to the system clipboard</source>
-        <translation type="unfinished">現在選択されているアドレスをシステムのクリップボードにコピーする</translation>
+        <translation>現在選択されているアドレスをシステムのクリップボードにコピーする</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Copy Address</source>
-        <translation type="unfinished">アドレスをコピー (&amp;C)</translation>
+        <translation>アドレスをコピー (&amp;C)</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Show &amp;QR Code</source>
-        <translation type="unfinished">QRコードを表す</translation>
+        <translation>&amp;QRコードを表す</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Verify a message to ensure it was signed with a specified Pandacoin address</source>
-        <translation type="unfinished">受け取ったメッセージの署名を確保のため、メッセージを確認する。</translation>
+        <translation>受け取ったメッセージの署名を確保のため、メッセージを確認する</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Verify Message</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;メッセージの確認（＆V）</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Delete the currently selected address from the list</source>
-        <translation type="unfinished">選択されたアドレスを一覧から削除する</translation>
+        <translation>選択されたアドレスを一覧から削除する</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Delete</source>
-        <translation type="unfinished">削除</translation>
+        <translation>&amp;削除</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Search address book</source>
-        <translation type="unfinished"></translation>
+        <translation>アドレス帳を検索</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>label</source>
@@ -379,47 +379,47 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
         <location line="+80"/>
         <location line="+245"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>編集</translation>
     </message>
     <message>
         <location line="+40"/>
         <source>Account address</source>
-        <translation type="unfinished"></translation>
+        <translation>アカウントアドレス</translation>
     </message>
     <message>
         <location line="-191"/>
         <source>Send Pandacoins</source>
-        <translation type="unfinished"></translation>
+        <translation>パンダコインを送る</translation>
     </message>
     <message>
         <location line="+40"/>
         <source>From</source>
-        <translation type="unfinished">送信</translation>
+        <translation>送信</translation>
     </message>
     <message>
         <location line="+36"/>
         <source>Amount</source>
-        <translation type="unfinished">総額</translation>
+        <translation>総額</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>次</translation>
     </message>
     <message>
         <location line="+67"/>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>完了</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Account name</source>
-        <translation type="unfinished"></translation>
+        <translation>アカウント名</translation>
     </message>
     <message>
         <location line="+57"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>削除</translation>
     </message>
 </context>
 <context>
@@ -451,22 +451,22 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
         <location line="+21"/>
         <location filename="../askpassphrasedialog.cpp" line="+42"/>
         <source>Enter password</source>
-        <translation type="unfinished"></translation>
+        <translation>パスワードを入力する</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>New password</source>
-        <translation type="unfinished"></translation>
+        <translation>新しいパスフレーズ</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Repeat new password</source>
-        <translation type="unfinished"></translation>
+        <translation>新しいパスフレーズをもう一度</translation>
     </message>
     <message>
         <location line="+39"/>
         <source>For earning interest only</source>
-        <translation type="unfinished"></translation>
+        <translation>利息のみを得るため</translation>
     </message>
     <message>
         <source>Enter passphrase</source>
@@ -536,83 +536,83 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location filename="../askpassphrasedialog.cpp" line="-7"/>
         <source>Enter the new password to the wallet.&lt;br/&gt;Please use a password of &lt;b&gt;10 or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>ウォレットに新しいパスワードを入力してください。&lt;b&gt; 10以上のランダムな文字&lt;/ b&gt;、または&lt;b&gt; 8以上の単語&lt;/ b&gt;のパスワードを使用してください。</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Encrypt Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>デジタルPandaBankを暗号化する</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Log on to Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>Digital PandaBankにログオンする</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Please enter your Digital PandaBank password to log on to Digital PandaBank.</source>
-        <translation type="unfinished"></translation>
+        <translation>この操作では、Digital PandaBankのパスワードを解除してDigital PandaBankのロックを解除する必要があります。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>LOG ON</source>
-        <translation type="unfinished"></translation>
+        <translation>最低</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>This operation needs your Digital PandaBank password to unlock Digital PandaBank.</source>
-        <translation type="unfinished"></translation>
+        <translation>この操作では、Digital PandaBankのパスワードを解除してDigital PandaBankのロックを解除する必要があります。</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Unlock Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>デジタルパンダバンクのロック解除</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>This operation needs your Digital PandaBank password to decrypt Digital PandaBank.</source>
-        <translation type="unfinished"></translation>
+        <translation>この操作では、Digital PandaBankを解読するためにDigital PandaBankパスワードが必要です。</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Decrypt Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>デジタルPandaBankを復号化する</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Change password</source>
-        <translation type="unfinished"></translation>
+        <translation>パスワードを変更する</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Enter the old and new password to Digital PandaBank.</source>
-        <translation type="unfinished"></translation>
+        <translation>Digital PandaBankの古いパスワードと新しいパスワードを入力します。</translation>
     </message>
     <message>
         <location line="+46"/>
         <source>Confirm Digital PandaBank encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>デジタルパンダバンクの暗号化を確認する</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Warning: If you encrypt your Digital PandaBank and lose your password, you will &lt;b&gt;LOSE ALL OF YOUR COINS&lt;/b&gt;!</source>
-        <translation type="unfinished"></translation>
+        <translation>警告：Digital PandaBankを暗号化してパスワードを紛失した場合、&lt;b&gt;すべての払い戻し&lt;/ b&gt;が行われます！</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Are you sure you wish to encrypt your Digital PandaBank?</source>
-        <translation type="unfinished"></translation>
+        <translation>Digital PandaBankを暗号化してもよろしいですか？</translation>
     </message>
     <message>
         <location line="+9"/>
         <location line="+61"/>
         <source>Digital PandaBank encrypted</source>
-        <translation type="unfinished"></translation>
+        <translation>デジタルPandaBank暗号化</translation>
     </message>
     <message>
         <location line="-59"/>
         <source>Digital PandaBank will close now to finish the encryption process. Remember that encrypting your Digital PandaBank cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation type="unfinished"></translation>
+        <translation>デジタルPandaBankは、暗号化プロセスを終了するために今すぐ終了します。 Digital PandaBankを暗号化することで、コンピュータに感染したマルウェアがあなたのコインを盗まれるのを完全に保護することはできません。</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -625,40 +625,40 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
         <location line="+45"/>
         <location line="+6"/>
         <source>Digital PandaBank encryption failed</source>
-        <translation type="unfinished"></translation>
+        <translation>デジタルPandaBank暗号化に失敗しました</translation>
     </message>
     <message>
         <location line="-57"/>
         <source>Digital PandaBank encryption failed due to an internal error. Your Digital PandaBank was not encrypted.</source>
-        <translation type="unfinished"></translation>
+        <translation>内部エラーのためデジタルPandaBankの暗号化に失敗しました。あなたのデジタルPandaBankは暗号化されていませんでした。</translation>
     </message>
     <message>
         <location line="+7"/>
         <location line="+51"/>
         <source>The supplied passwords do not match.</source>
-        <translation type="unfinished"></translation>
+        <translation>提供されたパスワードが一致しません。</translation>
     </message>
     <message>
         <location line="-38"/>
         <source>Digital PandaBank unlock failed</source>
-        <translation type="unfinished"></translation>
+        <translation>デジタルPandaBankのロック解除に失敗しました</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+12"/>
         <location line="+19"/>
         <source>The password entered for your Digital PandaBank was incorrect.</source>
-        <translation type="unfinished"></translation>
+        <translation>ウォレットの暗号化解除のパスフレーズが正しくありません。</translation>
     </message>
     <message>
         <location line="-20"/>
         <source>Digital PandaBank decryption failed</source>
-        <translation type="unfinished"></translation>
+        <translation>デジタルPandaBank復号化に失敗しました</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Wallet password was successfully changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>ウォレットのパスワードが変更されました。</translation>
     </message>
     <message>
         <location line="+49"/>
@@ -708,37 +708,37 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location filename="../bitcoingui.cpp" line="+311"/>
         <source>Sign &amp;message...</source>
-        <translation>メッセージの署名... (&amp;m)</translation>
+        <translation>メッセージの署名... (&amp;m)...</translation>
     </message>
     <message>
         <location line="+240"/>
         <source>%1 active %2 to Digital PandaBank network</source>
-        <translation type="unfinished"></translation>
+        <translation>%1  アクティブ %1 デジタルパンダバンクネットワーク</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>connection</source>
-        <translation type="unfinished"></translation>
+        <translation>接続</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>connections</source>
-        <translation type="unfinished"></translation>
+        <translation>接続</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Searching for peers.</source>
-        <translation type="unfinished"></translation>
+        <translation>ピアを検索しています。</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Connecting to peers.</source>
-        <translation type="unfinished"></translation>
+        <translation>同輩に接続する。</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Fetching checkpoints.</source>
-        <translation type="unfinished"></translation>
+        <translation>チェックポイントを取得しています。</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -750,40 +750,40 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
         <location line="+29"/>
         <location line="+29"/>
         <source>%1 %2 remaining</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 %2 残り</translation>
     </message>
     <message>
         <location line="-217"/>
         <source>checkpoint</source>
-        <translation type="unfinished"></translation>
+        <translation>チェックポイント</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>checkpoints</source>
-        <translation type="unfinished"></translation>
+        <translation>チェックポイント</translation>
     </message>
     <message>
         <location line="+22"/>
         <location line="+33"/>
         <source>Performing Instant Sync</source>
-        <translation type="unfinished"></translation>
+        <translation>インスタント同期の実行</translation>
     </message>
     <message>
         <location line="-31"/>
         <source>(Phase 1 of 3)</source>
-        <translation type="unfinished"></translation>
+        <translation>（フェーズ1/3）</translation>
     </message>
     <message>
         <location line="+9"/>
         <location line="+96"/>
         <source>header</source>
-        <translation type="unfinished"></translation>
+        <translation>ヘッダ</translation>
     </message>
     <message>
         <location line="-96"/>
         <location line="+96"/>
         <source>headers</source>
-        <translation type="unfinished"></translation>
+        <translation>ヘッダー</translation>
     </message>
     <message>
         <location line="-88"/>
@@ -794,7 +794,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="-80"/>
         <source>(Phase 2 of 3)</source>
-        <translation type="unfinished"></translation>
+        <translation>（フェーズ2/3）</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -803,7 +803,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
         <location line="+29"/>
         <location line="+29"/>
         <source>block</source>
-        <translation type="unfinished"></translation>
+        <translation>ブロック</translation>
     </message>
     <message>
         <location line="-151"/>
@@ -812,7 +812,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
         <location line="+29"/>
         <location line="+29"/>
         <source>blocks</source>
-        <translation type="unfinished"></translation>
+        <translation>ブロック</translation>
     </message>
     <message>
         <location line="-143"/>
@@ -823,12 +823,12 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="-79"/>
         <source>Scanning wallet transactions</source>
-        <translation type="unfinished"></translation>
+        <translation>ウォレット・トランザクションのスキャン</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>(Phase 3 of 3)</source>
-        <translation type="unfinished"></translation>
+        <translation>（フェーズ3/3）</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -838,17 +838,17 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="+14"/>
         <source>Rapid Blockchain Download (Phase 1 of 2).</source>
-        <translation type="unfinished"></translation>
+        <translation>迅速なブロックチェーンのダウンロード（Phase 1 of 2).</translation>
     </message>
     <message>
         <location line="+30"/>
         <source>Rapid Blockchain Download (Phase 2 of 2).</source>
-        <translation type="unfinished"></translation>
+        <translation>迅速なブロックチェーンのダウンロード（Phase 2 of 2）.</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>Verify blockchain.</source>
-        <translation type="unfinished"></translation>
+        <translation>ブロックチェインを確認します。</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -868,22 +868,22 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="-156"/>
         <source>Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>デジタルパンダバンク</translation>
     </message>
     <message>
         <location line="+58"/>
         <source>My Home</source>
-        <translation type="unfinished"></translation>
+        <translation>私の家</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>View Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>アカウントを表示</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Transfers</source>
-        <translation type="unfinished"></translation>
+        <translation>転送</translation>
     </message>
     <message>
         <location line="+96"/>
@@ -893,7 +893,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="+6"/>
         <source>Send coins to a Digital PandaBank address</source>
-        <translation type="unfinished"></translation>
+        <translation>Send coins to a Digital PandaBank address</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -908,7 +908,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="+5"/>
         <source>&amp;Address Book</source>
-        <translation>アドレス帳</translation>
+        <translation>&amp;アドレス帳</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -918,7 +918,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="-13"/>
         <source>&amp;Receive coins</source>
-        <translation>コインを受け取る</translation>
+        <translation>&amp;コインを受け取る</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -928,7 +928,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="-7"/>
         <source>&amp;Send coins</source>
-        <translation>コインを送る</translation>
+        <translation>&amp;コインを送る</translation>
     </message>
     <message>
         <location line="+33"/>
@@ -957,7 +957,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="+2"/>
         <source>&amp;Options...</source>
-        <translation>オプション... (&amp;O)</translation>
+        <translation>オプション... (&amp;O)...</translation>
     </message>
     <message>
         <source>&amp;Encrypt Wallet...</source>
@@ -980,7 +980,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="+537"/>
         <source>Downloaded %1 of %2 blocks of transaction history (%3% done).</source>
-        <translation>処理の履歴の%1 / %2 ブロックをダウンロードしました。(%3% 完成）</translation>
+        <translation>処理の履歴の%1 / %2 ブロックをダウンロードしました。(%3% 完成）.</translation>
     </message>
     <message>
         <location line="-512"/>
@@ -1025,7 +1025,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="-12"/>
         <source>&amp;Verify message...</source>
-        <translation>メッセージの検証... (&amp;V)</translation>
+        <translation>メッセージの検証... (&amp;V)...</translation>
     </message>
     <message>
         <source>Pandacoin</source>
@@ -1103,61 +1103,61 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
         <location line="+4"/>
         <location line="+4"/>
         <source>%1 %2 ago</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 %2 前</translation>
     </message>
     <message>
         <location line="-12"/>
         <location line="+454"/>
         <source>second</source>
-        <translation type="unfinished"></translation>
+        <translation>秒</translation>
     </message>
     <message>
         <location line="-454"/>
         <location line="+454"/>
         <source>seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>秒</translation>
     </message>
     <message>
         <location line="-450"/>
         <location line="+454"/>
         <source>minute</source>
-        <translation type="unfinished"></translation>
+        <translation>分</translation>
     </message>
     <message>
         <location line="-454"/>
         <location line="+454"/>
         <source>minutes</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="-450"/>
         <location line="+454"/>
         <source>hour</source>
-        <translation type="unfinished"></translation>
+        <translation>時間</translation>
     </message>
     <message>
         <location line="-454"/>
         <location line="+454"/>
         <source>hours</source>
-        <translation type="unfinished"></translation>
+        <translation>時間</translation>
     </message>
     <message>
         <location line="-450"/>
         <location line="+454"/>
         <source>day</source>
-        <translation type="unfinished"></translation>
+        <translation>日</translation>
     </message>
     <message>
         <location line="-454"/>
         <location line="+454"/>
         <source>days</source>
-        <translation type="unfinished"></translation>
+        <translation>日々</translation>
     </message>
     <message>
         <location line="-250"/>
         <location line="+15"/>
         <source>URI can not be parsed! This can be caused by an invalid Digital PandaBank address or malformed URI parameters.</source>
-        <translation type="unfinished"></translation>
+        <translation>URIを解析できません！これは、無効なDigital PandaBankアドレスまたは不正な形式のURIパラメータによって引き起こされる可能性があります。</translation>
     </message>
     <message>
         <location line="+239"/>
@@ -1201,91 +1201,91 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="-1045"/>
         <source>&amp;About Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;デジタルパンダバンクについて</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show information about Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>デジタルパンダバンクについての情報を表示する</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Modify configuration options for Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>Digital PandaBankの設定オプションを変更する</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Encrypt Digital PandaBank...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;デジタルPandaBankを暗号化...</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Encrypt or decrypt Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>デジタルPandaBankを暗号化または復号化する</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Backup Digital PandaBank...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;デジタルPandaBankバックアップ...</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Backup Digital PandaBank to another location</source>
-        <translation type="unfinished"></translation>
+        <translation>Digital PandaBankを別の場所にバックアップする</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Change Password...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;パスワードを変更する...</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Change the password used for wallet encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>ウォレットの暗号化に使用するパスワードを変更する</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Unlock Digital PandaBank...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;デジタルパンダバンクのロックを解除する...</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Unlock Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>デジタルパンダバンクのロック解除</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Lock Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ックデジタルPandaBank</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Lock Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>ロックデジタルPandaBank</translation>
     </message>
     <message>
         <location line="+4"/>
         <location line="+1"/>
         <source>Activate &apos;Classic&apos; client mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;Lite&apos;クライアントモードを有効にします。</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+1"/>
         <source>Activate &apos;Hybrid&apos; client mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>「ハイブリッド」クライアントモードを有効にします。</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+1"/>
         <source>Activate &apos;Lite&apos; client mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;Lite&apos;クライアントモードを有効にします。</translation>
     </message>
     <message>
         <location line="+91"/>
         <location line="+71"/>
         <source>Digital PandaBank client</source>
-        <translation type="unfinished"></translation>
+        <translation>デジタルPandaBankクライアント</translation>
     </message>
     <message>
         <location line="+134"/>
@@ -1328,7 +1328,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="+64"/>
         <source>This transaction is over the size limit.  You can still send it for a fee of %1, which goes to the nodes that process your transaction and helps to support the network.  Do you want to pay the fee?</source>
-        <translation>この処理は大きさの制限を超えている。%1料金を払ったばい、通信可能性です。料金は手続きをするノードへ支払って、ネットワークのサッポートになります。料金を払いますか。</translation>
+        <translation>この処理は大きさの制限を超えている。%1料金を払ったばい、通信可能性です。料金は手続きをするノードへ支払って、ネットワークのサッポートになります。料金を払いますか?</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -1355,7 +1355,8 @@ Address: %4
         <translation>日付: %1
 総額: %2
 種類: %3
-アドレス: %4</translation>
+アドレス: %4
+</translation>
     </message>
     <message>
         <location line="+83"/>
@@ -1366,7 +1367,7 @@ Address: %4
     <message>
         <location line="+116"/>
         <source>Activate Digital PandaBank ‘Classic’</source>
-        <translation type="unfinished"></translation>
+        <translation>Digital PandaBank &apos;Lite&apos;を有効にする</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1375,12 +1376,16 @@ Address: %4
 Switching to Digital PandaBank &apos;Classic&apos; from other modes will wipe out your existing blockchain data.
 
 Activate Digital PandaBank &apos;Classic&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Digital PandaBank &apos;Classic&apos;を使用すると、同期とブロックチェーンのダウンロードが完了すると、Pandacoinネットワークを保護し、興味を持たせることができます。これは、古い同期方法とブロックチェーンのダウンロードを使用して動作します。これは完了までに4〜24時間かかります。 Pandacoinユーザーは、Pandacoin &apos;Hybrid&apos;を使用することをお勧めします。
+
+他のモードからDigital PandaBank &apos;Classic&apos;に切り替えると、既存のブロックチェーンデータが消去されます。
+
+Digital PandaBank &apos;Classic&apos;を有効にしますか？</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Activate Digital PandaBank ‘Hybrid’</source>
-        <translation type="unfinished"></translation>
+        <translation>Digital PandaBank &apos;Lite&apos;を有効にする</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1389,12 +1394,16 @@ Activate Digital PandaBank &apos;Classic&apos;?</source>
 Digital PandaBank &apos;Hybrid allows you to earn interest and help secure the Pandacoin Network in approximately 5 to 15 minutes after installation, once both synchronization and download of the blockchain is completed.
 
 Activate Digital PandaBank &apos;Hybrid&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Digital PandaBank「Hybrid」は、ほとんどのPandacoinユーザーにとって推奨されるモードです。 Pandacoinネットワークとの同期はインストール直後に数秒かかるので、Pandacoinsをすぐに見たり使えたりすることができます。
+
+Digital PandaBank &apos;Hybridを使用すると、ブロックチェーンの同期とダウンロードの両方が完了すると、インストール後約5〜15分でPandacoinネットワークを保護し、利益を得ることができます。
+
+Digital PandaBank &apos;Hybrid&apos;を有効にしますか？</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Activate Digital PandaBank ‘Lite’</source>
-        <translation type="unfinished"></translation>
+        <translation>Digital PandaBank &apos;Lite&apos;を有効にする</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1403,17 +1412,21 @@ Activate Digital PandaBank &apos;Hybrid&apos;?</source>
 Pandacoin &apos;Lite&apos; DOES NOT allow you to earn interest or help secure the Pandacoin Network.
 
 Activate Digital PandaBank &apos;Lite&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Digital PandaBank &apos;Lite&apos;は、限られたダウンロードまたはハードドライブのストレージスペースにアクセスできるユーザーを対象としています。保存されたデータはほんの数メガバイトです。 Pandacoinネットワークとの同期はインストール直後に数秒かかるので、Pandacoinsをすぐに見たり使えたりすることができます。
+
+Pandacoin &apos;Liteはあなたに興味を持ったり、Pandacoin Networkを保護するのを許可しません。
+
+Digital PandaBank &apos;Lite&apos;を有効にしますか？</translation>
     </message>
     <message>
         <location line="+42"/>
         <source>Unable to earn interest in light mode.&lt;br/&gt;Switch to hybrid mode if you would like to earn interest.</source>
-        <translation type="unfinished"></translation>
+        <translation>ライトモードで関心を得ることができません。&lt;br/&gt;利益を得るには、ハイブリッドモードに切り替えます。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Unable to earn interest until syncing is completed.</source>
-        <translation type="unfinished"></translation>
+        <translation>同期が完了するまで関心を得ることができません。</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -1421,32 +1434,32 @@ Activate Digital PandaBank &apos;Lite&apos;?</source>
         <location line="+4"/>
         <location line="+4"/>
         <source>%1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 %2</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Not earning interest because wallet is locked</source>
-        <translation type="unfinished"></translation>
+        <translation>ウォレットがロックされているため興味をもたない</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Not earning interest because wallet is offline</source>
-        <translation type="unfinished"></translation>
+        <translation>ウォレットはオフラインであるため、利益を得ることはできません</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Not earning interest because wallet is syncing</source>
-        <translation type="unfinished"></translation>
+        <translation>ウォレットが同期しているため興味がない</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Not earning interest because you don&apos;t have mature coins</source>
-        <translation type="unfinished"></translation>
+        <translation>あなたは成熟したコインを持っていないので、利益を得ることはできません</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Not earning interest</source>
-        <translation type="unfinished"></translation>
+        <translation>利子を得ていない</translation>
     </message>
     <message>
         <source>URI can not be parsed! This can be caused by an invalid Pandacoin address or malformed URI parameters.</source>
@@ -1539,7 +1552,7 @@ Activate Digital PandaBank &apos;Lite&apos;?</source>
     <message>
         <location line="+32"/>
         <source>Bytes:</source>
-        <translation>バイト</translation>
+        <translation>バイト:</translation>
     </message>
     <message>
         <location line="+48"/>
@@ -1569,7 +1582,7 @@ Activate Digital PandaBank &apos;Lite&apos;?</source>
     <message>
         <location filename="../forms/coincontroldialog.ui" line="+51"/>
         <source>After Fee:</source>
-        <translation>料金の後</translation>
+        <translation>料金の後:</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -1797,58 +1810,58 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../forms/createaccountwidget.ui" line="+20"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>フレーム</translation>
     </message>
     <message>
         <location line="+53"/>
         <source>Creating a new Digital PandaBank account is easy</source>
-        <translation type="unfinished"></translation>
+        <translation>新しいデジタルパンダバンクアカウントの作成は簡単です</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Create</source>
-        <translation type="unfinished"></translation>
+        <translation>作成する</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Account name</source>
-        <translation type="unfinished"></translation>
+        <translation>アカウント名</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Account address</source>
-        <translation type="unfinished"></translation>
+        <translation>アカウントアドレス</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>キャンセル</translation>
     </message>
     <message>
         <location filename="../forms/createaccountwidget.cpp" line="+55"/>
         <location line="+19"/>
         <source>Error</source>
-        <translation type="unfinished">エラー</translation>
+        <translation>エラー</translation>
     </message>
     <message>
         <location line="-19"/>
         <source>An account with this name already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>この名前のアカウントは既に存在します。</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Digital PandaBank account created</source>
-        <translation type="unfinished"></translation>
+        <translation>デジタルPandaBankアカウントが作成されました</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Your Digital PandaBank Account has been created.</source>
-        <translation type="unfinished"></translation>
+        <translation>あなたのデジタルPandaBankアカウントが作成されました。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Error creating Digital PandaBank account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Digital PandaBankアカウントの作成中にエラーが発生しました。</translation>
     </message>
 </context>
 <context>
@@ -1935,7 +1948,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+2"/>
         <source>Usage:</source>
-        <translation>使用法</translation>
+        <translation>使用法:</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1970,27 +1983,27 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location filename="../forms/lockbar.cpp" line="+37"/>
         <location line="+5"/>
         <source>Lock</source>
-        <translation type="unfinished"></translation>
+        <translation>ロック</translation>
     </message>
     <message>
         <location filename="../forms/lockbar.cpp" line="-3"/>
         <source>Wallet is &lt;b&gt;not encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt; click to encrypt and lock.</source>
-        <translation type="unfinished"></translation>
+        <translation>ウォレットは&lt;b&gt;暗号化されていません&lt;/ b&gt;。現在は&lt;b&gt;ロック解除&lt;/ b&gt;をクリックして暗号化してロックします。</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt; click to lock.</source>
-        <translation type="unfinished"></translation>
+        <translation>ウォレットは&lt;b&gt;暗号化&lt;/ b&gt;されており、現在ロックされています&lt;/ b&gt;をクリックするとロックされます。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Unlock</source>
-        <translation type="unfinished"></translation>
+        <translation>ロックを解除する</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt; click to unlock.</source>
-        <translation type="unfinished"></translation>
+        <translation>ウォレットは&lt;b&gt;暗号化&lt;/ b&gt;されており、現在ロックされています。</translation>
     </message>
 </context>
 <context>
@@ -1998,7 +2011,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../forms/mainframe.ui" line="+14"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>フレーム</translation>
     </message>
 </context>
 <context>
@@ -2006,22 +2019,22 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../forms/menubar.ui" line="+55"/>
         <source>Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>モード</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイル</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>設定</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>助けて</translation>
     </message>
 </context>
 <context>
@@ -2068,7 +2081,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+3"/>
         <source>&amp;Start Digital PandaBank on system login</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;システムログイン時にDigital PandaBankを起動する</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2078,7 +2091,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+3"/>
         <source>&amp;Detach databases at shutdown</source>
-        <translation>シャットダウンするとき、データベースを切り離す</translation>
+        <translation>&amp;シャットダウンするとき、データベースを切り離す</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -2098,12 +2111,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+7"/>
         <source>Connect to the Pandacoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>ブラックコインのネットワークへSOCKSプロキシで接続する（例：TORで接続するばい）</translation>
+        <translation>ブラックコインのネットワークへSOCKSプロキシで接続する（例：TORで接続するばい）.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Connect through SOCKS proxy:</source>
-        <translation>SOCKSプロキシで接続する</translation>
+        <translation>&amp;SOCKSプロキシで接続する:</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -2203,22 +2216,22 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+3"/>
         <source>Display coin &amp;control features (experts only!)</source>
-        <translation>コインコントロールの設定を表示する(有識者のみ！)</translation>
+        <translation>コインコントロ&amp;ールの設定を表示する(有識者のみ！)</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>上級</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Reset Blockchain</source>
-        <translation type="unfinished"></translation>
+        <translation>ブロックチェーンをリセットする</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Reset Peers</source>
-        <translation type="unfinished"></translation>
+        <translation>ピアをリセットする</translation>
     </message>
     <message>
         <location line="+86"/>
@@ -2233,7 +2246,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+10"/>
         <source>&amp;Apply</source>
-        <translation>適用する</translation>
+        <translation>&amp;適用する</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="+58"/>
@@ -2260,12 +2273,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+20"/>
         <source>Confirm Blockchain reset</source>
-        <translation type="unfinished"></translation>
+        <translation>ブロックチェーンのリセットを確認する</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Are you sure you want to reset your Blockchain? This will cause the entire Blockchain to download again.</source>
-        <translation type="unfinished"></translation>
+        <translation>ブロックチェーンをリセットしてもよろしいですか？これにより、ブロックチェーン全体が再びダウンロードされます。</translation>
     </message>
 </context>
 <context>
@@ -2278,72 +2291,73 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+26"/>
         <source>Welcome to your Digital PandaBank, You last logged on at &lt;TIME&gt; on &lt;DATE&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+22"/>
         <source>My Portfolio</source>
-        <translation type="unfinished"></translation>
+        <translation>私のポートフォリオ</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>More</source>
-        <translation type="unfinished"></translation>
+        <translation>もっと</translation>
     </message>
     <message>
         <location line="+58"/>
         <source>Portfolio Summary</source>
-        <translation type="unfinished"></translation>
+        <translation>ポートフォリオの概要</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Available</source>
-        <translation type="unfinished"></translation>
+        <translation>利用可能</translation>
     </message>
     <message>
         <location line="+45"/>
         <source>Earning Interest</source>
-        <translation type="unfinished"></translation>
+        <translation>利益を得る</translation>
     </message>
     <message>
         <location line="+42"/>
         <source>Pending</source>
-        <translation type="unfinished"></translation>
+        <translation>保留中</translation>
     </message>
     <message>
         <location line="+45"/>
         <source>Total Balance</source>
-        <translation type="unfinished"></translation>
+        <translation>総合収支</translation>
     </message>
     <message>
         <location line="+48"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: &lt;span style=&quot; font-weight:600;&quot;&gt;Available&lt;/span&gt; is the amount of PND that is available for you to spend or transfer. &lt;span style=&quot; font-weight:600;&quot;&gt;Earning Interest&lt;/span&gt; is the amount of PND that is currently being used to generate interest. &lt;span style=&quot; font-weight:600;&quot;&gt;Pending&lt;/span&gt; is the amount of recent incoming PND from another account address waiting to be transferred to your account. &lt;span style=&quot; font-weight:600;&quot;&gt;Total Balance&lt;/span&gt; is the sum total of PND of all your account balances. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt; &lt;head /&gt; &lt;body&gt; &lt;p&gt;注：&lt;span style = &quot;font-weight：600;&quot;&gt;利用可能&lt;/ span&gt;は、あなたが送金または転送するために利用できるPNDの金額です。 &lt;span style = &quot;font-weight：600;&quot;&gt;収益獲得額&lt;/ span&gt;は、現在利益を生み出すために使用されているPNDの額です。 &lt;span style = &quot;font-weight：600;&quot;&gt; Pending &lt;/ span&gt;は、アカウントに転送されるのを待っている別のアカウントアドレスからの最近の着信PNDの金額です。 &lt;span style = &quot;font-weight：600;&quot;&gt;合計残高&lt;/ span&gt;は、すべてのアカウント残高のPNDの合計です。 &lt;/ p&gt; &lt;/ body&gt; &lt;/ html&gt;
+&lt; Html &gt; &lt; head/ &gt; &lt; bodī &gt; &lt; p &gt; chū: &lt; Supan style =&quot; fonto - ueito: 600;&quot;&gt; Riyō kanō &lt;/ supan &gt; wa, anata ga sōkin matawa tensō suru tame ni riyō dekiru PND no kingakudesu. &lt; Supan style =&quot; fonto - ueito: 600;&quot;&gt; Shūeki kakutoku-gaku &lt;/ supan &gt; wa, genzai rieki o umidasu tame ni shiyō sa rete iru PND no gakudesu. &lt; Supan style =&quot; fonto - ueito: 600;&quot;&gt; Pendingu &lt;/ supan &gt; wa, akaunto ni tensō sa reru no o matte iru betsu no akaunto adoresu kara no saikin no chakushin PND no kingakudesu. &lt; Supan style =&quot; fonto - ueito: 600;&quot;&gt; Gōkei zandaka &lt;/ supan &gt; wa, subete no akaunto zandaka no PND no gōkeidesu. &lt;/ P &gt; &lt;/ bodī &gt; &lt;/ html &gt;</translation>
     </message>
     <message>
         <location line="+89"/>
         <source>Quick Transfer</source>
-        <translation type="unfinished"></translation>
+        <translation>クイック転送</translation>
     </message>
     <message>
         <location line="+30"/>
         <source>To</source>
-        <translation type="unfinished">受信</translation>
+        <translation>受信</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Amount</source>
-        <translation type="unfinished">総額</translation>
+        <translation>総額</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>From</source>
-        <translation type="unfinished">送信</translation>
+        <translation>送信</translation>
     </message>
     <message>
         <location line="+71"/>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>次</translation>
     </message>
     <message>
         <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Pandacoin network after a connection is established, but this process has not completed yet.</source>
@@ -2394,12 +2408,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-45"/>
         <source>Total of transactions that have yet to be confirmed, and do not yet count toward the current balance</source>
-        <translation>未確認の合計で、まだ現在の残高に含まれていない。</translation>
+        <translation>未確認の合計で、まだ現在の残高に含まれていない</translation>
     </message>
     <message>
         <location line="-42"/>
         <source>Total of coins that was staked, and do not yet count toward the current balance</source>
-        <translation>賭けているコインの合計で、まだ現在の残高に含まれていない。</translation>
+        <translation>賭けているコインの合計で、まだ現在の残高に含まれていない</translation>
     </message>
     <message>
         <source>out of sync</source>
@@ -2408,33 +2422,33 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../overviewpage.cpp" line="+40"/>
         <source>Copy account address</source>
-        <translation type="unfinished"></translation>
+        <translation>アカウントの住所をコピー</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy account name</source>
-        <translation type="unfinished"></translation>
+        <translation>アカウント名をコピー</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy account balance</source>
-        <translation type="unfinished"></translation>
+        <translation>口座残高のコピー</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Welcome to your Digital PandaBank, You last logged on at</source>
-        <translation type="unfinished"></translation>
+        <translation>あなたのDigital PandaBankへようこそ</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>on</source>
-        <translation type="unfinished"></translation>
+        <translation>に</translation>
     </message>
     <message>
         <location line="+96"/>
         <location line="+7"/>
         <source>Select account</source>
-        <translation type="unfinished"></translation>
+        <translation>アカウントを選択</translation>
     </message>
 </context>
 <context>
@@ -2442,22 +2456,22 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="-569"/>
         <source>&lt;b&gt;%1&lt;/b&gt; to %2 (%3)</source>
-        <translation type="unfinished">&lt;b&gt;%1&lt;/b&gt; から %2 (%3)に</translation>
+        <translation>&lt;b&gt;%1&lt;/b&gt; から %2 (%3)に</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Confirm send coins</source>
-        <translation type="unfinished">コインを送る確認</translation>
+        <translation>コインを送る確認</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Are you sure you want to send %1?</source>
-        <translation type="unfinished">%1送付、よろしいですか?</translation>
+        <translation>%1送付、よろしいですか?</translation>
     </message>
     <message>
         <location line="+0"/>
         <source> and </source>
-        <translation type="unfinished">と</translation>
+        <translation> と </translation>
     </message>
     <message>
         <location line="+63"/>
@@ -2471,67 +2485,67 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+12"/>
         <location line="+12"/>
         <source>Send Coins</source>
-        <translation type="unfinished">コインを送る</translation>
+        <translation>コインを送る</translation>
     </message>
     <message>
         <location line="-98"/>
         <source>The recipient address is not valid, please recheck.</source>
-        <translation type="unfinished">受取人のアドレスが不正です。再確認してください。</translation>
+        <translation>受取人のアドレスが不正です。再確認してください。</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>The amount to pay must be larger than 0.</source>
-        <translation type="unfinished">支払額は0より大きくないといけません。</translation>
+        <translation>支払額は0より大きくないといけません。</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>The amount exceeds your balance.</source>
-        <translation type="unfinished">額が残高を超えています。</translation>
+        <translation>額が残高を超えています。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>The amount exceeds your available balance, some of your Pandacoins are currently being used to earn you interest.</source>
-        <translation type="unfinished"></translation>
+        <translation>金額があなたの残高を超えています。あなたのパンダコインの一部は、現在、あなたの利益を得るために使用されています。</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>The total exceeds your balance when the %1 transaction fee is included.</source>
-        <translation type="unfinished">%1 の処理手数料を含めると額が残高を超えています。</translation>
+        <translation>%1 の処理手数料を含めると額が残高を超えています。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>The amount exceeds your available balance when the %1 transaction fee is included, some of your Pandacoins are currently being used to earn you interest.</source>
-        <translation type="unfinished"></translation>
+        <translation>％1の取引手数料が含まれている場合、あなたの利用可能な残高 %1 を上回ります。あなたのパンダコインの一部は、現在あなたの利益を得るために使用されています。</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Duplicate address found, can only send to each address once per send operation.</source>
-        <translation type="unfinished">重複しているアドレスが見つかりました。1回の送信で同じアドレスに送ることは出来ません。</translation>
+        <translation>重複しているアドレスが見つかりました。1回の送信で同じアドレスに送ることは出来ません。</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Error: Transaction creation failed because transaction size (in Kb) too large.</source>
-        <translation type="unfinished"></translation>
+        <translation>エラー：トランザクションサイズ（Kb単位）が大きすぎるため、トランザクションの作成に失敗しました。</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Error: Transaction creation failed.</source>
-        <translation type="unfinished">エラー：処理を失敗しました。</translation>
+        <translation>エラー：処理を失敗しました。</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Error: The transaction was rejected. This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation type="unfinished">エラー：処理は拒否されました。ウォレットのコインをすでに費やした可能性で、wallet.datのコピーで費やしたが、現行のwallet.datとはアップデートされていない。</translation>
+        <translation>エラー：処理は拒否されました。ウォレットのコインをすでに費やした可能性で、wallet.datのコピーで費やしたが、現行のwallet.datとはアップデートされていない。</translation>
     </message>
     <message>
         <location filename="../pandastyles.cpp" line="+18"/>
         <source>Arial, &apos;Helvetica Neue&apos;, Helvetica, sans-serif</source>
-        <translation type="unfinished"></translation>
+        <translation>Arial, &apos;Helvetica Neue&apos;, Helvetica, sans-serif</translation>
     </message>
     <message>
         <location filename="../../init.cpp" line="+849"/>
         <source>My account</source>
-        <translation type="unfinished"></translation>
+        <translation>マイアカウント</translation>
     </message>
     <message>
         <location filename="../../main.cpp" line="+928"/>
@@ -2540,7 +2554,11 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
 
 The most likely cause of this error is a problem with your local blockchain, so the blockchain will now reset itself and sync again.
 Should you encounter this error repeatedly please seek assistance.</source>
-        <translation type="unfinished"></translation>
+        <translation>同期エラーが発生しました：
+％s
+
+このエラーの原因としては、ローカルブロックチェーンの問題が考えられます。そのため、ブロックチェーンは自動的にリセットされ、再び同期します。
+繰り返しこのエラーが発生した場合は、援助を求めてください。</translation>
     </message>
 </context>
 <context>
@@ -2563,7 +2581,7 @@ Should you encounter this error repeatedly please seek assistance.</source>
     <message>
         <location line="-44"/>
         <source>Label:</source>
-        <translation>レベル</translation>
+        <translation>レベル:</translation>
     </message>
     <message>
         <location line="+19"/>
@@ -2957,48 +2975,48 @@ Should you encounter this error repeatedly please seek assistance.</source>
     <message>
         <location line="+59"/>
         <source>Send Pandacoins</source>
-        <translation type="unfinished"></translation>
+        <translation>パンダコインを送る</translation>
     </message>
     <message>
         <location line="+74"/>
         <source>Coin Control Features</source>
-        <translation type="unfinished">コインのコントロールの設定</translation>
+        <translation>コインのコントロールの設定</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Inputs...</source>
-        <translation type="unfinished">入力...</translation>
+        <translation>入力...</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>automatically selected</source>
-        <translation type="unfinished">自動的に選択</translation>
+        <translation>自動的に選択</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Insufficient funds!</source>
-        <translation type="unfinished">資金不足！</translation>
+        <translation>資金不足！</translation>
     </message>
     <message>
         <location line="+77"/>
         <source>Quantity:</source>
-        <translation type="unfinished">数量：</translation>
+        <translation>数量：</translation>
     </message>
     <message>
         <location line="+22"/>
         <location line="+35"/>
         <source>0</source>
-        <translation type="unfinished">0</translation>
+        <translation>0</translation>
     </message>
     <message>
         <location line="-19"/>
         <source>Bytes:</source>
-        <translation type="unfinished">バイト</translation>
+        <translation>バイト:</translation>
     </message>
     <message>
         <location line="+51"/>
         <source>Amount:</source>
-        <translation type="unfinished">総額:</translation>
+        <translation>総額:</translation>
     </message>
     <message>
         <location line="+22"/>
@@ -3006,77 +3024,77 @@ Should you encounter this error repeatedly please seek assistance.</source>
         <location line="+86"/>
         <location line="+32"/>
         <source>0.00 PND</source>
-        <translation type="unfinished">123.456 PND {0.00 ?}</translation>
+        <translation>123.456 PND {0.00 ?}</translation>
     </message>
     <message>
         <location line="-191"/>
         <source>Priority:</source>
-        <translation type="unfinished">優先:</translation>
+        <translation>優先:</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>medium</source>
-        <translation type="unfinished">中</translation>
+        <translation>中</translation>
     </message>
     <message>
         <location line="+32"/>
         <source>Fee:</source>
-        <translation type="unfinished">料金:</translation>
+        <translation>料金:</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>Low Output:</source>
-        <translation type="unfinished">アウトプット低い:</translation>
+        <translation>アウトプット低い:</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>no</source>
-        <translation type="unfinished">いいえ</translation>
+        <translation>いいえ</translation>
     </message>
     <message>
         <location line="+32"/>
         <source>After Fee:</source>
-        <translation type="unfinished">料金の後</translation>
+        <translation>料金の後:</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>Change</source>
-        <translation type="unfinished">お釣り:</translation>
+        <translation>お釣り</translation>
     </message>
     <message>
         <location line="+50"/>
         <source>custom change address</source>
-        <translation type="unfinished">カスタムのお釣りのアドレス</translation>
+        <translation>カスタムのお釣りのアドレス</translation>
     </message>
     <message>
         <location line="+67"/>
         <source>From</source>
-        <translation type="unfinished">送信</translation>
+        <translation>送信</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>To</source>
-        <translation type="unfinished">受信</translation>
+        <translation>受信</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Or</source>
-        <translation type="unfinished"></translation>
+        <translation>または</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Amount</source>
-        <translation type="unfinished">総額</translation>
+        <translation>総額</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>▾ Send To My Own Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>▾自分のアカウントに送る</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>次</translation>
     </message>
     <message>
         <source>A&amp;mount:</source>
@@ -3125,75 +3143,76 @@ Should you encounter this error repeatedly please seek assistance.</source>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+108"/>
         <source>Copy quantity</source>
-        <translation type="unfinished">数量をコピー</translation>
+        <translation>数量をコピー</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy amount</source>
-        <translation type="unfinished">総額のコピー</translation>
+        <translation>総額のコピー</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy fee</source>
-        <translation type="unfinished">料金をコピー</translation>
+        <translation>料金をコピー</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy after fee</source>
-        <translation type="unfinished">料金の後をコピー</translation>
+        <translation>料金の後をコピー</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy bytes</source>
-        <translation type="unfinished">バイトをコピー</translation>
+        <translation>バイトをコピー</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy priority</source>
-        <translation type="unfinished">優先をコピー</translation>
+        <translation>優先をコピー</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy low output</source>
-        <translation type="unfinished">アウトプット低いをコピー</translation>
+        <translation>アウトプット低いをコピー</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy change</source>
-        <translation type="unfinished">お釣りをコピー</translation>
+        <translation>お釣りをコピー</translation>
     </message>
     <message>
         <location line="+115"/>
         <location line="+46"/>
         <source>No from account selected</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="-46"/>
         <location line="+46"/>
         <source>You have not selected an account from which to make the payment.
 Please select the &quot;from&quot; address at the top of this page.</source>
-        <translation type="unfinished"></translation>
+        <translation>お支払いを行うアカウントを選択していません。
+このページの上部にある「差出人」アドレスを選択してください。</translation>
     </message>
     <message>
         <location line="+114"/>
         <source>Search your accounts list...</source>
-        <translation type="unfinished"></translation>
+        <translation>あなたのアカウントリストを検索する...</translation>
     </message>
     <message>
         <location line="+224"/>
         <source>WARNING: Invalid Pandacoin address</source>
-        <translation type="unfinished">警告：無効なブラックコインアドレス</translation>
+        <translation>警告：無効なブラックコインアドレス</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>(no label)</source>
-        <translation type="unfinished">（ラベル無し）</translation>
+        <translation>（ラベル無し）</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>WARNING: unknown change address</source>
-        <translation type="unfinished">警告：不明なお釣りのアドレス</translation>
+        <translation>警告：不明なお釣りのアドレス</translation>
     </message>
 </context>
 <context>
@@ -3201,82 +3220,82 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location filename="../forms/sendcoinstargetwidget.ui" line="+14"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>フレーム</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>Account name</source>
-        <translation type="unfinished"></translation>
+        <translation>アカウント名</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>The address to send the payment to  (e.g. PBZ8YVV3XT3WWWd2a1jo4N9WePiwKB3mJE)</source>
-        <translation type="unfinished">支払いへ送るアドレス (例：PBZ8YVV3XT3WWWd2a1jo4N9WePiwKB3mJE)</translation>
+        <translation>支払いへ送るアドレス (例：PBZ8YVV3XT3WWWd2a1jo4N9WePiwKB3mJE)</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Enter a Pandacoin address (e.g. PBZ8YVV3XT3WWWd2a1jo4N9WePiwKB3mJE)</source>
-        <translation type="unfinished"></translation>
+        <translation>パンダコインの住所を入力してください（例：PBZ8YVV3XT3WWWd2a1jo4N9WePiwKB3mJE）</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Choose address from address book</source>
-        <translation type="unfinished">アドレス帳からアドレスを選択する</translation>
+        <translation>アドレス帳からアドレスを選択する</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Alt+A</source>
-        <translation type="unfinished">Alt+A</translation>
+        <translation>Alt+A</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Paste address from clipboard</source>
-        <translation type="unfinished">クリップボードからアドレスを貼付ける</translation>
+        <translation>クリップボードからアドレスを貼付ける</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Alt+P</source>
-        <translation type="unfinished">Alt+P</translation>
+        <translation>Alt+P</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Remove this recipient</source>
-        <translation type="unfinished">この受信者を外す</translation>
+        <translation>この受信者を外す</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Account address</source>
-        <translation type="unfinished"></translation>
+        <translation>アカウントアドレス</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>次</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Add another</source>
-        <translation type="unfinished"></translation>
+        <translation>別のものを追加する</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>▾</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Amount</source>
-        <translation type="unfinished">総額</translation>
+        <translation>総額</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>New accounts will automatically be added to your address book</source>
-        <translation type="unfinished"></translation>
+        <translation>新しいアカウントが自動的にアドレス帳に追加されます</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Enter an account name for this account address to add it to your address book</source>
-        <translation type="unfinished"></translation>
+        <translation>このアカウントアドレスのアカウント名を入力してアドレス帳に追加する</translation>
     </message>
 </context>
 <context>
@@ -3369,7 +3388,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+40"/>
         <source>Verify the message to ensure it was signed with the specified Pandacoin address</source>
-        <translation>受け取ったメッセージの署名を確保のため、メッセージを確認する。</translation>
+        <translation>受け取ったメッセージの署名を確保のため、メッセージを確認する</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -3465,7 +3484,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
         <location filename="../accountmodel.cpp" line="+241"/>
         <location line="+4"/>
         <source>All Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>すべてのアカウント</translation>
     </message>
 </context>
 <context>
@@ -3473,7 +3492,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location filename="../forms/tabbeddatewidget.ui" line="+20"/>
         <source>TabWidget</source>
-        <translation type="unfinished"></translation>
+        <translation>TabWidget</translation>
     </message>
 </context>
 <context>
@@ -3679,37 +3698,37 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location filename="../forms/transactionfilterwidget.ui" line="+20"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>フレーム</translation>
     </message>
     <message>
         <location line="+21"/>
         <source> or jump to</source>
-        <translation type="unfinished"></translation>
+        <translation> またはにジャンプする</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Show</source>
-        <translation type="unfinished"></translation>
+        <translation>ショー</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Recent Transactions</source>
-        <translation type="unfinished"></translation>
+        <translation>最近の取引</translation>
     </message>
     <message>
         <location line="+30"/>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>輸出する</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Search by keyword</source>
-        <translation type="unfinished"></translation>
+        <translation>キーワードで探す</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
 </context>
 <context>
@@ -3753,22 +3772,22 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="-64"/>
         <source>From account</source>
-        <translation type="unfinished"></translation>
+        <translation>アカウントから</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>To account</source>
-        <translation type="unfinished"></translation>
+        <translation>アカウントへ</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Account Name</source>
-        <translation type="unfinished"></translation>
+        <translation>アカウント名</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Balance</source>
-        <translation type="unfinished"></translation>
+        <translation>バランス</translation>
     </message>
     <message>
         <location line="+70"/>
@@ -3809,52 +3828,52 @@ Please select the &quot;from&quot; address at the top of this page.</source>
         <location line="+42"/>
         <location line="+2"/>
         <source>Received</source>
-        <translation type="unfinished"></translation>
+        <translation>受け取った</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Sent</source>
-        <translation type="unfinished"></translation>
+        <translation>送信済み</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Internal Transfer</source>
-        <translation type="unfinished"></translation>
+        <translation>内部転送</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Interest</source>
-        <translation type="unfinished"></translation>
+        <translation>インタレスト</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Fee</source>
-        <translation type="unfinished"></translation>
+        <translation>費用</translation>
     </message>
     <message>
         <location line="+569"/>
         <source>Destination account of transaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>トランザクションの宛先アカウント。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Source account of transaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>トランザクションのソースアカウント。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Account for transaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>取引のアカウント。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Other account for transaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>その他の取引のアカウント。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Account balance at end of transaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>取引終了時の口座残高。</translation>
     </message>
     <message>
         <source>Received with</source>
@@ -4000,7 +4019,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+1"/>
         <source>Show transaction in blockchain explorer</source>
-        <translation type="unfinished"></translation>
+        <translation>ブロックチェーンエクスプローラでトランザクションを表示する</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -4055,7 +4074,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+0"/>
         <source>Could not write to file %1.</source>
-        <translation>ファイルを書き込めなかった。%1</translation>
+        <translation>ファイルを書き込めなかった。%1.</translation>
     </message>
     <message>
         <source>Range:</source>
@@ -4071,17 +4090,17 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location filename="../forms/transferpage.ui" line="+14"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>フレーム</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Transfers</source>
-        <translation type="unfinished"></translation>
+        <translation>転送</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Address Book</source>
-        <translation type="unfinished">アドレス帳</translation>
+        <translation>アドレス帳</translation>
     </message>
 </context>
 <context>
@@ -4107,7 +4126,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+1"/>
         <source>Send command to -server or pandacoind</source>
-        <translation>-server か pandacoindへコマンドを送る。</translation>
+        <translation>-server か pandacoindへコマンドを送る</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -4177,7 +4196,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+5"/>
         <source>Bind to given address. Use [host]:port notation for IPv6</source>
-        <translation>アドレスに結ぶ。IPv6のばい、[host]:port 表記法を使ってください。</translation>
+        <translation>アドレスに結ぶ。IPv6のばい、[host]:port 表記法を使ってください</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -4212,7 +4231,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="-5"/>
         <source>Error: This transaction requires a transaction fee of at least %s because of its amount, complexity, or use of recently received funds  </source>
-        <translation>エラー：額,複雑,最近もらった資金、どれかの理由で処理は少なくとも %sの料金が必要です。</translation>
+        <translation>エラー：額,複雑,最近もらった資金、どれかの理由で処理は少なくとも %sの料金が必要です  </translation>
     </message>
     <message>
         <location line="-87"/>
@@ -4227,12 +4246,12 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+101"/>
         <source>Error: Transaction creation failed  </source>
-        <translation>エラー：処理を失敗しました。</translation>
+        <translation>エラー：処理を失敗しました  </translation>
     </message>
     <message>
         <location line="-5"/>
         <source>Error: Wallet locked, unable to create transaction  </source>
-        <translation>エラー：ウォレットはロックされたために、処理を作られなかった。</translation>
+        <translation>エラー：ウォレットはロックされたために、処理を作られなかった  </translation>
     </message>
     <message>
         <location line="-8"/>
@@ -4282,7 +4301,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+61"/>
         <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Pandacoin will not work properly.</source>
-        <translation> 警告：コンピュータの日付と時間を調べてください。時間ずらしかったばい、ブラックコイン QTは正しく行動しない。</translation>
+        <translation>警告：コンピュータの日付と時間を調べてください。時間ずらしかったばい、ブラックコイン QTは正しく行動しない.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -4357,7 +4376,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+28"/>
         <source>Output extra debugging information. Implies all other -debug* options</source>
-        <translation>余分なデバッグ情報を出力する。この設定はすべてのdebug* の設定を有効にする。</translation>
+        <translation>余分なデバッグ情報を出力する。この設定はすべてのdebug* の設定を有効にする</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -4387,7 +4406,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+1"/>
         <source>Send trace/debug info to debugger</source>
-        <translation>デバッガへ追跡とデバッグ情報を送る。</translation>
+        <translation>デバッガへ追跡とデバッグ情報を送る</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -4413,7 +4432,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
         <location line="+109"/>
         <source>Unable to sign checkpoint, wrong checkpointkey?
 </source>
-        <translation>チェックポイントを署名できません。checkpointkeyは違いますか。
+        <translation>チェックポイントを署名できません。checkpointkeyは違いますか?
 </translation>
     </message>
     <message>
@@ -4444,7 +4463,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+57"/>
         <source>WARNING: syncronized checkpoint violation detected, but skipped!</source>
-        <translation>警告：シンクロナイズドチェックポイント違反を検出したが、チェックポイントを飛ばした。</translation>
+        <translation>警告：シンクロナイズドチェックポイント違反を検出したが、チェックポイントを飛ばした!</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -4569,7 +4588,7 @@ rpcpassword=%s
     <message>
         <location line="+1"/>
         <source>Imports blocks from external blk000?.dat file</source>
-        <translation>外部 blk000?.dat ファイルからブロックを読み込む。</translation>
+        <translation>外部 blk000?.dat ファイルからブロックを読み込む</translation>
     </message>
     <message>
         <location line="+8"/>

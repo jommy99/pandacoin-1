@@ -1,8 +1,13 @@
 #!/bin/bash
+export PATH=/mnt/mxe/usr/bin:$PATH
+
 MXE_INCLUDE_PATH=/mnt/mxe/usr/i686-w64-mingw32.static/include
 MXE_LIB_PATH=/mnt/mxe/usr/i686-w64-mingw32.static/lib
 
 i686-w64-mingw32.static-qmake-qt5 \
+	USE_PNP=1 \
+	USE_QRCODE=1 \
+	RELEASE=1 \
 	BOOST_LIB_SUFFIX=-mt \
 	BOOST_THREAD_LIB_SUFFIX=_win32-mt \
 	BOOST_INCLUDE_PATH=$MXE_INCLUDE_PATH/boost \
