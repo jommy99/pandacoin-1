@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="de">
+<TS version="2.1" language="de">
 <context>
     <name>AboutDialog</name>
     <message>
@@ -10,7 +10,7 @@
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>Über Digital PandaBank</translation>
     </message>
     <message>
         <location line="+39"/>
@@ -22,7 +22,9 @@
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
 Copyright © 2014 The Pandacoin developers</source>
-        <translation type="unfinished"></translation>
+        <translation>Copyright © 2009-2014 Die Bitcoin-Entwickler
+Copyright © 2012-2014 Die NovaCoin Entwickler
+Copyright © 20142018 Die Pandacoin-Entwickler</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -45,17 +47,17 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     <message>
         <location filename="../accountmodel.cpp" line="+24"/>
         <source>Account Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontobezeichnung</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Account Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontoadresse</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Account Balance</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontostand</translation>
     </message>
 </context>
 <context>
@@ -63,81 +65,81 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     <message>
         <location filename="../forms/accountpage.ui" line="+20"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmen</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Transactions</source>
-        <translation type="unfinished"></translation>
+        <translation>Transaktionen</translation>
     </message>
     <message>
         <location line="+38"/>
         <source>View transactions for</source>
-        <translation type="unfinished"></translation>
+        <translation>Transaktionen anzeigen für</translation>
     </message>
     <message>
         <location line="+36"/>
         <source>Copy Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Adresse kopieren</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Show QR Code</source>
-        <translation type="unfinished"></translation>
+        <translation>QR-Code anzeigen</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Sign message</source>
-        <translation type="unfinished"></translation>
+        <translation>Nachricht signieren</translation>
     </message>
     <message>
         <location line="+132"/>
         <source>Last 30 Days</source>
-        <translation type="unfinished"></translation>
+        <translation>Letzte 30 Tage</translation>
     </message>
     <message>
         <location line="+40"/>
         <source>Out</source>
-        <translation type="unfinished"></translation>
+        <translation>aus</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>In</source>
-        <translation type="unfinished"></translation>
+        <translation>Im</translation>
     </message>
     <message>
         <location line="+23"/>
         <location line="+10"/>
         <location line="+140"/>
         <source>PND</source>
-        <translation type="unfinished"></translation>
+        <translation>PND</translation>
     </message>
     <message>
         <location line="-128"/>
         <source>Interest Gained</source>
-        <translation type="unfinished"></translation>
+        <translation>Interesse gewonnen</translation>
     </message>
     <message>
         <location line="+115"/>
         <source>Total interest</source>
-        <translation type="unfinished"></translation>
+        <translation>Gesamtinteresse</translation>
     </message>
     <message>
         <location line="+32"/>
         <location line="+25"/>
         <source>Create Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzerkonto anlegen</translation>
     </message>
     <message>
         <location filename="../forms/accountpage.cpp" line="+155"/>
         <source>All Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Konten</translation>
     </message>
     <message>
         <location line="+28"/>
         <location line="+4"/>
         <source>transaction found</source>
-        <translation type="unfinished"></translation>
+        <translation>Transaktion gefunden</translation>
     </message>
 </context>
 <context>
@@ -145,58 +147,58 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     <message>
         <location filename="../forms/accountsummaryheaderwidget.ui" line="+14"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmen</translation>
     </message>
     <message>
         <location line="+32"/>
         <source>Earning interest</source>
-        <translation type="unfinished"></translation>
+        <translation>Interesse verdienen</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Total balance</source>
-        <translation type="unfinished"></translation>
+        <translation>Gesamtsaldo</translation>
     </message>
     <message>
         <location line="+153"/>
         <source>Edit account name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bearbeiten Sie den Kontonamen.</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Accept new account name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Akzeptieren Sie den neuen Kontonamen.</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Cancel editing of account name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Brechen Sie die Bearbeitung des Kontonamens ab.</translation>
     </message>
     <message>
         <location line="-156"/>
         <source>Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Verfügbar</translation>
     </message>
     <message>
         <location line="+37"/>
         <source>Pending</source>
-        <translation type="unfinished"></translation>
+        <translation>steht aus</translation>
     </message>
     <message>
         <location filename="../forms/accountsummaryheaderwidget.cpp" line="+63"/>
         <location line="+9"/>
         <source>Error</source>
-        <translation type="unfinished">Fehler</translation>
+        <translation>Fehler</translation>
     </message>
     <message>
         <location line="-9"/>
         <source>An account with this name already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ein Konto mit diesem Namen existiert bereits.</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Error could not change name of Digital PandaBank account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler konnte den Namen des Digital PandaBank-Kontos nicht ändern.</translation>
     </message>
 </context>
 <context>
@@ -264,7 +266,7 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     <message>
         <location line="+3"/>
         <source>&amp;Verify Message</source>
-        <translation type="unfinished">Nachricht &amp;verifizieren</translation>
+        <translation>Nachricht &amp;verifizieren</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -294,12 +296,12 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     <message>
         <location line="+13"/>
         <source>Error exporting</source>
-        <translation type="unfinished">Fehler beim Exportieren</translation>
+        <translation>Fehler beim Exportieren</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Could not write to file %1.</source>
-        <translation type="unfinished">Kann Datei nicht schreiben %1.</translation>
+        <translation>Kann Datei nicht schreiben %1.</translation>
     </message>
 </context>
 <context>
@@ -312,32 +314,32 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     <message>
         <location line="+34"/>
         <source>Address Book</source>
-        <translation type="unfinished">Adressbuch</translation>
+        <translation>Adressbuch</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>Create a new address</source>
-        <translation type="unfinished">Eine neue Adresse erstellen</translation>
+        <translation>Eine neue Adresse erstellen</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;New Address</source>
-        <translation type="unfinished">&amp;Neue Adresse</translation>
+        <translation>&amp;Neue Adresse</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Copy the currently selected address to the system clipboard</source>
-        <translation type="unfinished">Ausgewählte Adresse in die Zwischenablage kopieren</translation>
+        <translation>Ausgewählte Adresse in die Zwischenablage kopieren</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Copy Address</source>
-        <translation type="unfinished">Adresse &amp;kopieren</translation>
+        <translation>Adresse &amp;kopieren</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Show &amp;QR Code</source>
-        <translation type="unfinished">&amp;QR Code anzeigen</translation>
+        <translation>&amp;QR Code anzeigen</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -347,17 +349,17 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     <message>
         <location line="+3"/>
         <source>&amp;Verify Message</source>
-        <translation type="unfinished">Nachricht &amp;verifizieren</translation>
+        <translation>Nachricht &amp;verifizieren</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Delete the currently selected address from the list</source>
-        <translation type="unfinished">Ausgewählte Adresse aus der Liste entfernen</translation>
+        <translation>Ausgewählte Adresse aus der Liste entfernen</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Delete</source>
-        <translation type="unfinished">&amp;Löschen</translation>
+        <translation>&amp;Löschen</translation>
     </message>
     <message>
         <location line="+25"/>
@@ -392,12 +394,12 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     <message>
         <location line="+40"/>
         <source>From</source>
-        <translation type="unfinished">Von</translation>
+        <translation>Von</translation>
     </message>
     <message>
         <location line="+36"/>
         <source>Amount</source>
-        <translation type="unfinished">Betrag</translation>
+        <translation>Betrag</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1389,7 +1391,7 @@ Activate Digital PandaBank &apos;Lite&apos;?</source>
     <message>
         <location filename="../forms/coincontroldialog.ui" line="+14"/>
         <source>Coin Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Münzkontrolle</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -1594,7 +1596,11 @@ Activate Digital PandaBank &apos;Lite&apos;?</source>
  This means a fee of at least %1 per kb is required.
 
  Can vary +/- 1 Byte per input.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diese Beschriftung wird rot, wenn die Transaktionsgröße größer als 10000 Byte ist.
+
+ Dies bedeutet eine Gebühr von mindestens%1 pro kb erforderlich.
+
+ Kann +/- 1 Byte pro Eingang variieren.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1603,7 +1609,11 @@ Activate Digital PandaBank &apos;Lite&apos;?</source>
 This label turns red, if the priority is smaller than &quot;medium&quot;.
 
  This means a fee of at least %1 per kb is required.</source>
-        <translation type="unfinished"></translation>
+        <translation>Transaktionen mit höherer Priorität werden wahrscheinlicher zu einem Block.
+
+Diese Beschriftung wird rot, wenn die Priorität kleiner als &quot;mittel&quot; ist.
+
+ Dies bedeutet eine Gebühr von mindestens %1 pro kb erforderlich.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1612,14 +1622,20 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
  This means a fee of at least %2 is required. 
 
  Amounts below 0.546 times the minimum relay fee are shown as DUST.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diese Markierung wird rot, wenn ein Empfänger eine geringere Menge als %1 erhält.
+
+ Dies bedeutet eine Gebühr von mindestens  %2.
+
+ Beträge unter dem 0,546-fachen der minimalen Staffelgebühr werden als STAUB angezeigt.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>This label turns red, if the change is smaller than %1.
 
  This means a fee of at least %2 is required.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diese Beschriftung wird rot, wenn die Änderung kleiner als %1 ist.
+
+ Dies bedeutet eine Gebühr von mindestens  %2.</translation>
     </message>
     <message>
         <location line="+37"/>
@@ -1643,58 +1659,58 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../forms/createaccountwidget.ui" line="+20"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmen</translation>
     </message>
     <message>
         <location line="+53"/>
         <source>Creating a new Digital PandaBank account is easy</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Erstellen eines neuen Digital PandaBank-Kontos ist einfach</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Create</source>
-        <translation type="unfinished"></translation>
+        <translation>Erstellen</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Account name</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontobezeichnung</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Account address</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontoadresse</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Stornieren</translation>
     </message>
     <message>
         <location filename="../forms/createaccountwidget.cpp" line="+55"/>
         <location line="+19"/>
         <source>Error</source>
-        <translation type="unfinished">Fehler</translation>
+        <translation>Fehler</translation>
     </message>
     <message>
         <location line="-19"/>
         <source>An account with this name already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ein Konto mit diesem Namen existiert bereits.</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Digital PandaBank account created</source>
-        <translation type="unfinished"></translation>
+        <translation>Digital PandaBank Konto erstellt</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Your Digital PandaBank Account has been created.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ihr Digital PandaBank-Konto wurde erstellt.</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Error creating Digital PandaBank account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler beim Erstellen des Digital PandaBank-Kontos.</translation>
     </message>
 </context>
 <context>
@@ -1712,7 +1728,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+10"/>
         <source>The label associated with this address book entry</source>
-        <translation>Die Kennzeichnung verbunden mit diesem Adressbucheintrag.</translation>
+        <translation>Die Kennzeichnung verbunden mit diesem Adressbucheintrag</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1771,7 +1787,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location filename="../guiutil.cpp" line="+655"/>
         <location line="+12"/>
         <source>Pandacoin-Qt</source>
-        <translation type="unfinished"></translation>
+        <translation>Pandacoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1791,12 +1807,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+4"/>
         <source>UI options</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzeroberflächenoptionen</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Set language, for example &quot;de_DE&quot; (default: system locale)</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprache einstellen, zum Beispiel &quot;de_DE&quot; (Standard: Gebietsschema des Systems)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1806,7 +1822,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+1"/>
         <source>Show splash screen on startup (default: 1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Begrüßungsbildschirm beim Start anzeigen (Standard: 1)</translation>
     </message>
 </context>
 <context>
@@ -1816,27 +1832,27 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location filename="../forms/lockbar.cpp" line="+37"/>
         <location line="+5"/>
         <source>Lock</source>
-        <translation type="unfinished"></translation>
+        <translation>Sperren</translation>
     </message>
     <message>
         <location filename="../forms/lockbar.cpp" line="-3"/>
         <source>Wallet is &lt;b&gt;not encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt; click to encrypt and lock.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wallet ist &lt;b&gt; nicht verschlüsselt &lt;/ b&gt; und derzeit &lt;b&gt; entsperrt &lt;/ b&gt; zum Verschlüsseln und Sperren.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt; click to lock.</source>
-        <translation type="unfinished"></translation>
+        <translation>Brieftasche ist &lt;b&gt; verschlüsselt &lt;/ b&gt; und derzeit &lt;b&gt; entsperrt &lt;/ b&gt; zum Sperren klicken.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Unlock</source>
-        <translation type="unfinished"></translation>
+        <translation>Freischalten</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt; click to unlock.</source>
-        <translation type="unfinished"></translation>
+        <translation>Brieftasche ist &lt;b&gt; verschlüsselt &lt;/ b&gt; und derzeit &lt;b&gt; gesperrt &lt;/ b&gt; zum Entsperren klicken.</translation>
     </message>
 </context>
 <context>
@@ -1844,7 +1860,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../forms/mainframe.ui" line="+14"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmen</translation>
     </message>
 </context>
 <context>
@@ -1852,22 +1868,22 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../forms/menubar.ui" line="+55"/>
         <source>Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modus</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Datei</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>die Einstellungen</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Hilfe</translation>
     </message>
 </context>
 <context>
@@ -1885,7 +1901,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+6"/>
         <source>Optional transaction fee per kB that helps make sure your transactions are processed quickly. Most transactions are 1 kB. Fee 0.01 recommended.</source>
-        <translation type="unfinished"></translation>
+        <translation>Optionale Transaktionsgebühr pro kB, die dafür sorgt, dass Ihre Transaktionen schnell bearbeitet werden. Die meisten Transaktionen sind 1 kB. Gebühr 0,01 empfohlen.</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1895,7 +1911,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+31"/>
         <source>Reserved amount does not participate in staking and is therefore spendable at any time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der reservierte Betrag nimmt nicht am Staking teil und ist daher jederzeit verfügbar.</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1914,17 +1930,17 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+3"/>
         <source>&amp;Start Digital PandaBank on system login</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Starten Sie die digitale PandaBank beim System-Login</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Detach block and address databases at shutdown. This means they can be moved to another data directory, but it slows down shutdown. The wallet is always detached.</source>
-        <translation type="unfinished"></translation>
+        <translation>Trennen Sie die Block- und Adressdatenbanken beim Herunterfahren. Dies bedeutet, dass sie in ein anderes Datenverzeichnis verschoben werden können, das Herunterfahren jedoch verlangsamt wird. Die Brieftasche ist immer getrennt.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Detach databases at shutdown</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Trennen Sie Datenbanken beim Herunterfahren</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1944,12 +1960,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+7"/>
         <source>Connect to the Pandacoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation type="unfinished"></translation>
+        <translation>Stellen Sie über einen SOCKS-Proxy eine Verbindung mit dem PandaCoin-Netzwerk her (z. B. bei einer Verbindung über Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Connect through SOCKS proxy:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Verbinden über SOCKS-Proxy:</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -2054,17 +2070,17 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+21"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Fortgeschritten</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Reset Blockchain</source>
-        <translation type="unfinished"></translation>
+        <translation>Blockchain zurücksetzen</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Reset Peers</source>
-        <translation type="unfinished"></translation>
+        <translation>Peers zurücksetzen</translation>
     </message>
     <message>
         <location line="+86"/>
@@ -2106,12 +2122,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+20"/>
         <source>Confirm Blockchain reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestätigen Sie den Reset der Blockchain</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Are you sure you want to reset your Blockchain? This will cause the entire Blockchain to download again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Möchtest du deine Blockchain wirklich zurücksetzen? Dies führt dazu, dass die gesamte Blockchain erneut heruntergeladen wird.</translation>
     </message>
 </context>
 <context>
@@ -2174,17 +2190,17 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+30"/>
         <source>To</source>
-        <translation type="unfinished">An</translation>
+        <translation>An</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Amount</source>
-        <translation type="unfinished">Betrag</translation>
+        <translation>Betrag</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>From</source>
-        <translation type="unfinished">Von</translation>
+        <translation>Von</translation>
     </message>
     <message>
         <location line="+71"/>
@@ -2236,7 +2252,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-45"/>
         <source>Total of transactions that have yet to be confirmed, and do not yet count toward the current balance</source>
-        <translation>Anzahl der unbestätigten Transaktionen die somit noch nicht zum aktuellen Kontostand zählen.</translation>
+        <translation>Anzahl der unbestätigten Transaktionen die somit noch nicht zum aktuellen Kontostand zählen</translation>
     </message>
     <message>
         <location line="-42"/>
@@ -2289,7 +2305,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+3"/>
         <source>Confirm send coins</source>
-        <translation type="unfinished">Überweisung bestätigen</translation>
+        <translation>Überweisung bestätigen</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -2313,22 +2329,22 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+12"/>
         <location line="+12"/>
         <source>Send Coins</source>
-        <translation type="unfinished">Bitcoins überweisen</translation>
+        <translation>Bitcoins überweisen</translation>
     </message>
     <message>
         <location line="-98"/>
         <source>The recipient address is not valid, please recheck.</source>
-        <translation type="unfinished">Die Zahlungsadresse ist ungültig, bitte nochmals überprüfen.</translation>
+        <translation>Die Zahlungsadresse ist ungültig, bitte nochmals überprüfen.</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>The amount to pay must be larger than 0.</source>
-        <translation type="unfinished">Der zu zahlende Betrag muss größer als 0 sein.</translation>
+        <translation>Der zu zahlende Betrag muss größer als 0 sein.</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>The amount exceeds your balance.</source>
-        <translation type="unfinished">Der angegebene Betrag übersteigt ihren Kontostand.</translation>
+        <translation>Der angegebene Betrag übersteigt ihren Kontostand.</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -2338,7 +2354,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+15"/>
         <source>The total exceeds your balance when the %1 transaction fee is included.</source>
-        <translation type="unfinished">Der angegebene Betrag übersteigt aufgrund der Transaktionsgebühr in Höhe von %1 ihren Kontostand.</translation>
+        <translation>Der angegebene Betrag übersteigt aufgrund der Transaktionsgebühr in Höhe von %1 ihren Kontostand.</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -2348,7 +2364,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+13"/>
         <source>Duplicate address found, can only send to each address once per send operation.</source>
-        <translation type="unfinished">Doppelte Adresse gefunden, pro Überweisung kann an jede Adresse nur einmalig etwas überwiesen werden.</translation>
+        <translation>Doppelte Adresse gefunden, pro Überweisung kann an jede Adresse nur einmalig etwas überwiesen werden.</translation>
     </message>
     <message>
         <location line="+12"/>
@@ -2415,7 +2431,7 @@ Should you encounter this error repeatedly please seek assistance.</source>
     <message>
         <location line="+71"/>
         <source>&amp;Save As...</source>
-        <translation>&amp; Speichern als...</translation>
+        <translation>&amp;Speichern als...</translation>
     </message>
     <message>
         <location filename="../qrcodedialog.cpp" line="+62"/>
@@ -2462,7 +2478,7 @@ Should you encounter this error repeatedly please seek assistance.</source>
         <location line="+23"/>
         <location filename="../rpcconsole.cpp" line="+347"/>
         <source>N/A</source>
-        <translation>k.A.</translation>
+        <translation>N/A</translation>
     </message>
     <message>
         <location line="-217"/>
@@ -2527,12 +2543,12 @@ Should you encounter this error repeatedly please seek assistance.</source>
     <message>
         <location line="+16"/>
         <source>Command-line options</source>
-        <translation>Kommandozeilen Optionen:</translation>
+        <translation>Kommandozeilen Optionen</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Show the Pandacoin-Qt help message to get a list with possible Pandacoin command-line options.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeigen Sie die Pandacoin-Qt-Hilfemeldung an, um eine Liste mit möglichen Pandacoin-Befehlszeilenoptionen zu erhalten.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2567,7 +2583,7 @@ Should you encounter this error repeatedly please seek assistance.</source>
     <message>
         <location line="+7"/>
         <source>Open the Pandacoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Öffnen Sie die Pandacoin-Debugprotokolldatei aus dem aktuellen Datenverzeichnis. Bei großen Protokolldateien kann dies einige Sekunden dauern.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2577,7 +2593,7 @@ Should you encounter this error repeatedly please seek assistance.</source>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
         <source>Welcome to the Pandacoin RPC console.</source>
-        <translation type="unfinished"></translation>
+        <translation>Willkommen bei der Pandacoin RPC-Konsole.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2730,7 +2746,7 @@ Should you encounter this error repeatedly please seek assistance.</source>
     <message>
         <location filename="../forms/sendcoinsentry.ui" line="+14"/>
         <source>Form</source>
-        <translation type="unfinished">Formular</translation>
+        <translation>Formular</translation>
     </message>
     <message>
         <location line="+59"/>
@@ -2740,27 +2756,27 @@ Should you encounter this error repeatedly please seek assistance.</source>
     <message>
         <location line="+74"/>
         <source>Coin Control Features</source>
-        <translation type="unfinished">&quot;Coin Control&quot;-Funktionen</translation>
+        <translation>&quot;Coin Control&quot;-Funktionen</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Inputs...</source>
-        <translation type="unfinished">Eingaben...</translation>
+        <translation>Eingaben...</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>automatically selected</source>
-        <translation type="unfinished">automatisch ausgewählt</translation>
+        <translation>automatisch ausgewählt</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Insufficient funds!</source>
-        <translation type="unfinished">Unzureichender Kontostand!</translation>
+        <translation>Unzureichender Kontostand!</translation>
     </message>
     <message>
         <location line="+77"/>
         <source>Quantity:</source>
-        <translation type="unfinished">Anzahl:</translation>
+        <translation>Anzahl:</translation>
     </message>
     <message>
         <location line="+22"/>
@@ -2771,12 +2787,12 @@ Should you encounter this error repeatedly please seek assistance.</source>
     <message>
         <location line="-19"/>
         <source>Bytes:</source>
-        <translation type="unfinished">Byte:</translation>
+        <translation>Byte:</translation>
     </message>
     <message>
         <location line="+51"/>
         <source>Amount:</source>
-        <translation type="unfinished">Betrag:</translation>
+        <translation>Betrag:</translation>
     </message>
     <message>
         <location line="+22"/>
@@ -2789,32 +2805,32 @@ Should you encounter this error repeatedly please seek assistance.</source>
     <message>
         <location line="-191"/>
         <source>Priority:</source>
-        <translation type="unfinished">Priorität:</translation>
+        <translation>Priorität:</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>medium</source>
-        <translation type="unfinished">mittel</translation>
+        <translation>mittel</translation>
     </message>
     <message>
         <location line="+32"/>
         <source>Fee:</source>
-        <translation type="unfinished">Gebühr:</translation>
+        <translation>Gebühr:</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>Low Output:</source>
-        <translation type="unfinished">Zu geringer Ausgabebetrag:</translation>
+        <translation>Zu geringer Ausgabebetrag:</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>no</source>
-        <translation type="unfinished">nein</translation>
+        <translation>nein</translation>
     </message>
     <message>
         <location line="+32"/>
         <source>After Fee:</source>
-        <translation type="unfinished">Abzüglich Gebühr:</translation>
+        <translation>Abzüglich Gebühr:</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -2829,12 +2845,12 @@ Should you encounter this error repeatedly please seek assistance.</source>
     <message>
         <location line="+67"/>
         <source>From</source>
-        <translation type="unfinished">Von</translation>
+        <translation>Von</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>To</source>
-        <translation type="unfinished">An</translation>
+        <translation>An</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -2844,7 +2860,7 @@ Should you encounter this error repeatedly please seek assistance.</source>
     <message>
         <location line="+25"/>
         <source>Amount</source>
-        <translation type="unfinished">Betrag</translation>
+        <translation>Betrag</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2895,42 +2911,42 @@ Should you encounter this error repeatedly please seek assistance.</source>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+108"/>
         <source>Copy quantity</source>
-        <translation type="unfinished">Anzahl kopieren</translation>
+        <translation>Anzahl kopieren</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy amount</source>
-        <translation type="unfinished">Betrag kopieren</translation>
+        <translation>Betrag kopieren</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy fee</source>
-        <translation type="unfinished">Gebühr kopieren</translation>
+        <translation>Gebühr kopieren</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy after fee</source>
-        <translation type="unfinished">Abzüglich Gebühr kopieren</translation>
+        <translation>Abzüglich Gebühr kopieren</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy bytes</source>
-        <translation type="unfinished">Byte kopieren</translation>
+        <translation>Byte kopieren</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy priority</source>
-        <translation type="unfinished">Priorität kopieren</translation>
+        <translation>Priorität kopieren</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy low output</source>
-        <translation type="unfinished">Zu geringen Ausgabebetrag kopieren</translation>
+        <translation>Zu geringen Ausgabebetrag kopieren</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy change</source>
-        <translation type="unfinished">Wechselgeld kopieren</translation>
+        <translation>Wechselgeld kopieren</translation>
     </message>
     <message>
         <location line="+115"/>
@@ -2958,7 +2974,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+13"/>
         <source>(no label)</source>
-        <translation type="unfinished">(keine Bezeichnung)</translation>
+        <translation>(keine Bezeichnung)</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -2981,7 +2997,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+12"/>
         <source>The address to send the payment to  (e.g. PBZ8YVV3XT3WWWd2a1jo4N9WePiwKB3mJE)</source>
-        <translation type="unfinished">Empfängeradresse (z.b. PBZ8YVV3XT3WWWd2a1jo4N9WePiwKB3mJE)</translation>
+        <translation>Empfängeradresse (z.b. PBZ8YVV3XT3WWWd2a1jo4N9WePiwKB3mJE)</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -2991,22 +3007,22 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+7"/>
         <source>Choose address from address book</source>
-        <translation type="unfinished">Adresse aus dem Adressbuch auswählen</translation>
+        <translation>Adresse aus dem Adressbuch auswählen</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Alt+A</source>
-        <translation type="unfinished">Alt+A</translation>
+        <translation>Alt+A</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Paste address from clipboard</source>
-        <translation type="unfinished">Adresse aus der Zwischenablage einfügen</translation>
+        <translation>Adresse aus der Zwischenablage einfügen</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Alt+P</source>
-        <translation type="unfinished">Alt+P</translation>
+        <translation>Alt+P</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -3036,7 +3052,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+7"/>
         <source>Amount</source>
-        <translation type="unfinished">Betrag</translation>
+        <translation>Betrag</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -3070,7 +3086,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+18"/>
         <source>The address to sign the message with (e.g. PBZ8YVV3XT3WWWd2a1jo4N9WePiwKB3mJE)</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Adresse, mit der die Nachricht signiert werden soll (z. B. PBZ8YVV3XT3WWWd2a1jo4N9WePiwKB3mJE)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -3107,7 +3123,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+21"/>
         <source>Sign the message to prove you own this Pandacoin address</source>
-        <translation>Signiere die Nachricht um zu beweisen das du Besitzer dieser Pandacoin Adresse bist.</translation>
+        <translation>Signiere die Nachricht um zu beweisen das du Besitzer dieser Pandacoin Adresse bist</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -3134,12 +3150,12 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+21"/>
         <source>The address the message was signed with (e.g. PBZ8YVV3XT3WWWd2a1jo4N9WePiwKB3mJE)</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Adresse, mit der die Nachricht signiert wurde (z. B. PBZ8YVV3XT3WWWd2a1jo4N9WePiwKB3mJE)</translation>
     </message>
     <message>
         <location line="+40"/>
         <source>Verify the message to ensure it was signed with the specified Pandacoin address</source>
-        <translation type="unfinished"></translation>
+        <translation>Überprüfen Sie die Nachricht, um sicherzustellen, dass sie mit der angegebenen PandaCoin-Adresse signiert wurde</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -3150,7 +3166,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
         <source>Enter a Pandacoin address (e.g. PBZ8YVV3XT3WWWd2a1jo4N9WePiwKB3mJE)</source>
-        <translation type="unfinished"></translation>
+        <translation>Geben Sie eine Pandacoin-Adresse ein (z. B. PBZ8YVV3XT3WWWd2a1jo4N9WePiwKB3mJE)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -3235,7 +3251,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
         <location filename="../accountmodel.cpp" line="+241"/>
         <location line="+4"/>
         <source>All Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Konten</translation>
     </message>
 </context>
 <context>
@@ -3243,7 +3259,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location filename="../forms/tabbeddatewidget.ui" line="+20"/>
         <source>TabWidget</source>
-        <translation type="unfinished"></translation>
+        <translation>TabWidget</translation>
     </message>
 </context>
 <context>
@@ -3452,37 +3468,37 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location filename="../forms/transactionfilterwidget.ui" line="+20"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmen</translation>
     </message>
     <message>
         <location line="+21"/>
         <source> or jump to</source>
-        <translation type="unfinished"></translation>
+        <translation> oder springe zu</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Show</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Recent Transactions</source>
-        <translation type="unfinished"></translation>
+        <translation>kürzliche Transaktionen</translation>
     </message>
     <message>
         <location line="+30"/>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>Export</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Search by keyword</source>
-        <translation type="unfinished"></translation>
+        <translation>Über Schlüsselwort suchen</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
 </context>
 <context>
@@ -3774,7 +3790,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+1"/>
         <source>Show transaction in blockchain explorer</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeige Transaktion im Blockketten-Explorer</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -3845,17 +3861,17 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location filename="../forms/transferpage.ui" line="+14"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmen</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Transfers</source>
-        <translation type="unfinished"></translation>
+        <translation>Transfers</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Address Book</source>
-        <translation type="unfinished">Adressbuch</translation>
+        <translation>Adressbuch</translation>
     </message>
 </context>
 <context>
@@ -3871,7 +3887,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
         <source>Pandacoin version</source>
-        <translation type="unfinished"></translation>
+        <translation>PandaCoin-Version</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3881,7 +3897,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+1"/>
         <source>Send command to -server or pandacoind</source>
-        <translation>Kommando versenden an -server oder pandacoind </translation>
+        <translation>Kommando versenden an -server oder pandacoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3926,12 +3942,12 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+1"/>
         <source>Set database disk log size in megabytes (default: 100)</source>
-        <translation type="unfinished"></translation>
+        <translation>Legen Sie die Protokollgröße für die Datenbankfestplatte in Megabyte fest (Standard: 100)</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Listen for connections on &lt;port&gt; (default: 15714 or testnet: 25714)</source>
-        <translation type="unfinished"></translation>
+        <translation>Auf Verbindungen auf &lt;Port&gt; warten (Standard: 15714 oder Testnet: 25714)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3951,12 +3967,12 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+5"/>
         <source>Bind to given address. Use [host]:port notation for IPv6</source>
-        <translation type="unfinished"></translation>
+        <translation>An gegebene Adresse binden. Verwenden Sie [Host]: Portnotation für IPv6</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Stake your coins to support network and gain reward (default: 1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Setze deine Münzen ein, um das Netzwerk zu unterstützen und eine Belohnung zu erhalten (Standard: 1)</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -3976,7 +3992,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+51"/>
         <source>Detach block and address databases. Increases shutdown time (default: 0)</source>
-        <translation type="unfinished"></translation>
+        <translation>Trennen Sie die Block- und Adressdatenbanken. Erhöht die Abschaltzeit (Standard: 0)</translation>
     </message>
     <message>
         <location line="+109"/>
@@ -3986,12 +4002,12 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="-5"/>
         <source>Error: This transaction requires a transaction fee of at least %s because of its amount, complexity, or use of recently received funds  </source>
-        <translation>Fehler: Diese Transaktion benötigt eine Transaktionsgebühr von mindestens %s wegen der Anzahl, Komplexität oder Benutzung von neuerlich erhaltenen Beträgen.</translation>
+        <translation>Fehler: Diese Transaktion benötigt eine Transaktionsgebühr von mindestens %s wegen der Anzahl, Komplexität oder Benutzung von neuerlich erhaltenen Beträgen  </translation>
     </message>
     <message>
         <location line="-87"/>
         <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 22444 or testnet: 25715)</source>
-        <translation type="unfinished"></translation>
+        <translation>Auf JSON-RPC-Verbindungen auf &lt;Port&gt; warten (Standard: 22444 oder Testnet: 25715)</translation>
     </message>
     <message>
         <location line="-11"/>
@@ -4001,22 +4017,22 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+101"/>
         <source>Error: Transaction creation failed  </source>
-        <translation>Fehler: Erstellung der Transaktion fehlgeschlagen</translation>
+        <translation>Fehler: Erstellung der Transaktion fehlgeschlagen  </translation>
     </message>
     <message>
         <location line="-5"/>
         <source>Error: Wallet locked, unable to create transaction  </source>
-        <translation>Fehler: Brieftasche verschlüsselt, unfähig Transaktion zu erstellen</translation>
+        <translation>Fehler: Brieftasche verschlüsselt, unfähig Transaktion zu erstellen  </translation>
     </message>
     <message>
         <location line="-8"/>
         <source>Importing blockchain data file.</source>
-        <translation>Importiere Block Kette aus Datei</translation>
+        <translation>Importiere Block Kette aus Datei.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Importing bootstrap blockchain data file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Importieren der Bootstrap-Blockchain-Datendatei.</translation>
     </message>
     <message>
         <location line="-88"/>
@@ -4041,12 +4057,12 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+117"/>
         <source>Error initializing database environment %s! To recover, BACKUP THAT DIRECTORY, then remove everything from it except for wallet.dat.</source>
-        <translation type="unfinished"></translation>
+        <translation>ehler beim Initialisieren der Datenbankumgebung %s! Um dieses Problem zu beheben, BACKUP THAT DIRECTORY, entfernen Sie dann alles mit Ausnahme von wallet.dat.</translation>
     </message>
     <message>
         <location line="-20"/>
         <source>Set maximum size of high-priority/low-fee transactions in bytes (default: 27000)</source>
-        <translation type="unfinished"></translation>
+        <translation>Legen Sie die maximale Größe für Transaktionen mit hoher / niedriger Gebühr in Byte fest (Standard: 27000)</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -4096,22 +4112,22 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="-90"/>
         <source>Find peers using DNS lookup (default: 1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Finden Sie Peers mit DNS Lookup (Standard: 1)</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Sync checkpoints policy (default: strict)</source>
-        <translation type="unfinished"></translation>
+        <translation>Checkpoints-Richtlinie synchronisieren (Standard: streng)</translation>
     </message>
     <message>
         <location line="+83"/>
         <source>Invalid -tor address: &apos;%s&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ungültige Adresse: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Invalid amount for -reservebalance=&lt;amount&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ungültiger Betrag für -reservebalance = &lt;amount&gt;</translation>
     </message>
     <message>
         <location line="-82"/>
@@ -4131,17 +4147,17 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+28"/>
         <source>Output extra debugging information. Implies all other -debug* options</source>
-        <translation type="unfinished"></translation>
+        <translation>Geben Sie zusätzliche Debuginformationen aus. Impliziert alle anderen -debug * -Optionen</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Output extra network debugging information</source>
-        <translation type="unfinished"></translation>
+        <translation>Geben Sie zusätzliche Netzwerk-Debugging-Informationen aus</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Prepend debug output with timestamp</source>
-        <translation type="unfinished"></translation>
+        <translation>Stellen Sie die Debug-Ausgabe mit Zeitstempel voran</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -4151,7 +4167,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="-74"/>
         <source>Select the version of socks proxy to use (4-5, default: 5)</source>
-        <translation type="unfinished"></translation>
+        <translation>Wählen Sie die zu verwendende Version des SOCKS-Proxy aus (4-5, Standard: 5)</translation>
     </message>
     <message>
         <location line="+41"/>
@@ -4161,12 +4177,12 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+1"/>
         <source>Send trace/debug info to debugger</source>
-        <translation type="unfinished"></translation>
+        <translation>Sende Trace / Debug-Informationen an den Debugger</translation>
     </message>
     <message>
         <location line="+28"/>
         <source>Set maximum block size in bytes (default: 250000)</source>
-        <translation type="unfinished"></translation>
+        <translation>Setzt die maximale Blockgröße in Bytes (Standard: 250000)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -4187,7 +4203,8 @@ Please select the &quot;from&quot; address at the top of this page.</source>
         <location line="+109"/>
         <source>Unable to sign checkpoint, wrong checkpointkey?
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Kann Checkpoint, falscher Checkpointkey nicht signiert werden?
+</translation>
     </message>
     <message>
         <location line="-80"/>
@@ -4217,12 +4234,12 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+57"/>
         <source>WARNING: syncronized checkpoint violation detected, but skipped!</source>
-        <translation type="unfinished"></translation>
+        <translation>WARNUNG: Synchronisierte Checkpoint-Verletzung erkannt, aber übersprungen!</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Warning: Disk space is low!</source>
-        <translation>Warnung: Festplatte hat wenig freien Speicher</translation>
+        <translation>Warnung: Festplatte hat wenig freien Speicher!</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -4252,7 +4269,17 @@ If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
 for example: alertnotify=echo %%s | mail -s &quot;Pandacoin Alert&quot; admin@foo.com
 </source>
-        <translation type="unfinished"></translation>
+        <translation>%s, Sie müssen ein RPC-Passwort in der Konfigurationsdatei angeben:
+ %s
+Es wird empfohlen, das folgende zufällige Passwort zu verwenden:
+rpcuser = pandacoinrpc
+rpcpassword =%s
+(Sie müssen sich dieses Passwort nicht merken)
+Der Benutzername und das Passwort müssen nicht identisch sein.
+Wenn die Datei nicht existiert, erstellen Sie sie mit Dateiberechtigungen, die nur vom Eigentümer lesbar sind.
+Es wird auch empfohlen, alarmnotify zu setzen, damit Sie über Probleme informiert werden;
+zum Beispiel: alertnotify = echo %%s | mail -s &quot;Pandacoin Alert&quot; admin@foo.com
+</translation>
     </message>
     <message>
         <location line="+51"/>
@@ -4262,7 +4289,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Pandacoin Alert&quot; admin@fo
     <message>
         <location line="+5"/>
         <source>Sync time with other nodes. Disable if time on your system is precise e.g. syncing with NTP (default: 1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Synchronisieren Sie die Zeit mit anderen Knoten. Deaktivieren, wenn die Zeit auf Ihrem System präzise ist, z. Synchronisierung mit NTP (Standard: 1)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -4297,7 +4324,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Pandacoin Alert&quot; admin@fo
     <message>
         <location line="+1"/>
         <source>Enforce transaction scripts to use canonical PUSH operators (default: 1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Erzwingen Sie Transaktionsskripten, um kanonische PUSH-Operatoren zu verwenden (Standard: 1)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -4327,12 +4354,12 @@ for example: alertnotify=echo %%s | mail -s &quot;Pandacoin Alert&quot; admin@fo
     <message>
         <location line="+1"/>
         <source>How thorough the block verification is (0-6, default: 1)</source>
-        <translation type="unfinished"></translation>
+        <translation>How thorough the block verification is (0-6, default: 1)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Imports blocks from external blk000?.dat file</source>
-        <translation>Importiere Blöcke aus externer blk000?.dat Datei.</translation>
+        <translation>Importiere Blöcke aus externer blk000?.dat Datei</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -4352,12 +4379,12 @@ for example: alertnotify=echo %%s | mail -s &quot;Pandacoin Alert&quot; admin@fo
     <message>
         <location line="+1"/>
         <source>Acceptable ciphers (default: TLSv1+HIGH:!SSLv2:!aNULL:!eNULL:!AH:!3DES:@STRENGTH)</source>
-        <translation type="unfinished"></translation>
+        <translation>Zulässige Ziffern (Standard: TLSv1 + HIGH:! SSLv2:! ANULL:! ENULL:! AH:! 3DES: @STRENGTH)</translation>
     </message>
     <message>
         <location line="+53"/>
         <source>Error: Wallet unlocked for staking only, unable to create transaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler: Brieftasche nur zum Abstecken freigegeben, Transaktion kann nicht erstellt werden.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -4417,12 +4444,12 @@ for example: alertnotify=echo %%s | mail -s &quot;Pandacoin Alert&quot; admin@fo
     <message>
         <location line="+4"/>
         <source>Error loading wallet.dat: Wallet requires newer version of Pandacoin</source>
-        <translation>Fehler beim Laden wallet.dat. Brieftasche benötigt neuere Version der Pandacoin Brieftasche.</translation>
+        <translation>Fehler beim Laden wallet.dat. Brieftasche benötigt neuere Version der Pandacoin Brieftasche</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Wallet needed to be rewritten: restart Pandacoin to complete</source>
-        <translation>Brieftasche muss neu geschrieben werden. Starte die Pandacoin Brieftasche neu zum komplettieren.</translation>
+        <translation>Brieftasche muss neu geschrieben werden. Starte die Pandacoin Brieftasche neu zum komplettieren</translation>
     </message>
     <message>
         <location line="+1"/>
