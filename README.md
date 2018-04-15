@@ -1,4 +1,4 @@
-Pandacoin (PND) to continue its evoulution as the Digital Pandacoin project.
+Pandacoin (PND) to continue its evolution as the Digital Pandacoin project.
 
 Pandacoin development tree
 
