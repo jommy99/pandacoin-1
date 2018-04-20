@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="th_TH">
 <context>
@@ -6,7 +6,7 @@
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About Digital PandaBank</source>
-        <translation>เกี่ยวกับ PandaBank ดิจิตอล</translation>
+        <translation>เกี่ยวกับ Digital PandaBank</translation>
     </message>
     <message>
         <location line="+39"/>
@@ -96,7 +96,7 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location line="+14"/>
         <source>Sign message</source>
-        <translation>ลงชื่อเข้าใช้ข้อความ</translation>
+        <translation>ลงชื่อข้อความ</translation>
     </message>
     <message>
         <location line="+132"/>
@@ -183,7 +183,7 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location line="-156"/>
         <source>Available</source>
-        <translation>ที่มีจำหน่าย</translation>
+        <translation>ที่มีให้ใช้ได้</translation>
     </message>
     <message>
         <location line="+37"/>
@@ -252,7 +252,7 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location line="+11"/>
         <source>Sign a message to prove you own a Pandacoin address</source>
-        <translation>ลงชื่อเข้าใช้เพื่อยืนยันว่าคุณเป็นเจ้าของที่อยู่ Pandacoin</translation>
+        <translation>ลงชื่อเพื่อยืนยันว่าคุณเป็นเจ้าของที่อยู่ Pandacoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -468,7 +468,7 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location line="+39"/>
         <source>For earning interest only</source>
-        <translation>สำหรับรายได้ที่น่าสนใจเท่านั้น</translation>
+        <translation>สำหรับรายได้ดอกเบี้ยเท่านั้น</translation>
     </message>
     <message>
         <source>Enter passphrase</source>
@@ -529,7 +529,7 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location line="+1"/>
         <source>Please enter your Digital PandaBank password to log on to Digital PandaBank.</source>
-        <translation>กรุณาใส่รหัสผ่าน PandaBank ดิจิตอลของคุณเพื่อเข้าสู่ Digital PandaBank.</translation>
+        <translation>กรุณาใส่รหัสผ่าน Digital PandaBankของคุณเพื่อเข้าสู่ Digital PandaBank.</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -539,12 +539,12 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location line="+11"/>
         <source>This operation needs your Digital PandaBank password to unlock Digital PandaBank.</source>
-        <translation>การดำเนินการนี้ต้องการรหัสผ่าน PandaBank ดิจิตอลของคุณเพื่อปลดล็อก Digital PandaBank.</translation>
+        <translation>การดำเนินการนี้ต้องการรหัสผ่าน Digital PandaBankของคุณเพื่อปลดล็อก Digital PandaBank.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Unlock Digital PandaBank</source>
-        <translation>ปลดล็อก PandaBank ดิจิตอล</translation>
+        <translation>ปลดล็อก Digital PandaBank</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -574,7 +574,7 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location line="+1"/>
         <source>Warning: If you encrypt your Digital PandaBank and lose your password, you will &lt;b&gt;LOSE ALL OF YOUR COINS&lt;/b&gt;!</source>
-        <translation>คำเตือน: หากคุณเข้ารหัส PandaBank ดิจิตอลและสูญเสียรหัสผ่านของคุณคุณจะ &lt;b&gt; สูญเสียเหรียญทั้งหมดของคุณ &lt;/ b&gt;!</translation>
+        <translation>คำเตือน: หากคุณเข้ารหัส Digital PandaBankและสูญเสียรหัสผ่านของคุณคุณจะ &lt;b&gt; สูญเสียเหรียญทั้งหมดของคุณ &lt;/ b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -608,7 +608,7 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location line="-57"/>
         <source>Digital PandaBank encryption failed due to an internal error. Your Digital PandaBank was not encrypted.</source>
-        <translation>การเข้ารหัสดิจิตอล PandaBank ล้มเหลวเนื่องจากข้อผิดพลาดภายใน PandaBank ดิจิตอลของคุณไม่ได้รับการเข้ารหัส.</translation>
+        <translation>การเข้ารหัสดิจิตอล PandaBank ล้มเหลวเนื่องจากข้อผิดพลาดภายใน Digital PandaBankของคุณไม่ได้รับการเข้ารหัส.</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -619,7 +619,7 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location line="-38"/>
         <source>Digital PandaBank unlock failed</source>
-        <translation>ปลดล็อก PandaBank ดิจิตอล</translation>
+        <translation>ปลดล็อก Digital PandaBank</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -636,7 +636,7 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location line="+14"/>
         <source>Wallet password was successfully changed.</source>
-        <translation>รหัสผ่านที่ให้มาไม่ตรงกัน.</translation>
+        <translation>รหัสผ่านของกระเป๋าสตางค์ได้รับการเปลี่ยนแปลงเรียบร้อยแล้ว</translation>
     </message>
     <message>
         <location line="+49"/>
@@ -737,7 +737,7 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location line="-7"/>
         <source>&amp;Send coins</source>
-        <translation>&amp;และส่งเหรียญ</translation>
+        <translation>&amp;ส่งเหรียญ</translation>
     </message>
     <message>
         <location line="+33"/>
@@ -797,7 +797,7 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location line="-13"/>
         <source>&amp;Show / Hide</source>
-        <translation>&amp;แสดงซ่อน</translation>
+        <translation>&amp;แสดง / ซ่อน</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -823,17 +823,17 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location line="+16"/>
         <source>Searching for peers.</source>
-        <translation>ค้นหาโดยใช้คำหลัก.</translation>
+        <translation>ค้นหาเพียร์</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Connecting to peers.</source>
-        <translation>ค้นหาโดยใช้คำหลัก.</translation>
+        <translation>ค้นหาเพียร์</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Fetching checkpoints.</source>
-        <translation>ค้นหาโดยใช้คำหลัก.</translation>
+        <translation>ปรับค่าเช็คพอยต์</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -997,7 +997,7 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
         <location line="-454"/>
         <location line="+454"/>
         <source>hours</source>
-        <translation>ช่วยด้วย</translation>
+        <translation>ชั่วโมง</translation>
     </message>
     <message>
         <location line="-450"/>
@@ -1133,7 +1133,7 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location line="+1"/>
         <source>Backup Digital PandaBank to another location</source>
-        <translation>ส่งเหรียญไปยังที่อยู่ Digital PandaBank</translation>
+        <translation>สำรองข้อมูล Digital PandaBank ไปที่อื่น</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1148,12 +1148,12 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location line="+1"/>
         <source>&amp;Unlock Digital PandaBank...</source>
-        <translation>&amp;ปลดล็อก PandaBank ดิจิตอล ...</translation>
+        <translation>&amp;ปลดล็อก Digital PandaBank ...</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Unlock Digital PandaBank</source>
-        <translation>ปลดล็อก PandaBank ดิจิตอล</translation>
+        <translation>ปลดล็อก Digital PandaBank</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1163,7 +1163,7 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location line="+1"/>
         <source>Lock Digital PandaBank</source>
-        <translation>ล็อก PandaBank ดิจิตอล</translation>
+        <translation>ล็อก Digital PandaBank</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -1271,32 +1271,32 @@ Address: %4
     <message>
         <location line="+2"/>
         <source>Not earning interest</source>
-        <translation>มีรายได้ดอกเบี้ย</translation>
+        <translation>ไม่มีรายได้ดอกเบี้ย</translation>
     </message>
     <message>
         <location line="-235"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>
-        <translation>Wallet ถูกเข้ารหัส &lt;b&gt; เข้ารหัส &lt;/ b&gt; และปัจจุบัน &lt;b&gt; ปลดล็อก &lt;/ b&gt;</translation>
+        <translation>กระเป๋าสตางค์ถูก &lt;b&gt; เข้ารหัส &lt;/ b&gt; และเป็นปัจจุบัน &lt;b&gt; ปลดล็อก &lt;/ b&gt;</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</source>
-        <translation>Wallet ถูกเข้ารหัส &lt;b&gt; เข้ารหัส &lt;/ b&gt; และปัจจุบัน &lt;b&gt; ล็อค &lt;/ b&gt;</translation>
+        <translation>กระเป๋าสตางค์ถูก &lt;b&gt; เข้ารหัส &lt;/ b&gt; และเป็นปัจจุบัน &lt;b&gt; ล็อค &lt;/ b&gt;</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>Backup Wallet</source>
-        <translation>เปิดกระเป๋าสตางค์</translation>
+        <translation>กระเป๋าสตางค์สำรอง</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Wallet Data (*.dat)</source>
-        <translation>ถอดรหัสกระเป๋าสตางค์</translation>
+        <translation>ข้อมูลกระเป๋าสตางค์</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Backup Failed</source>
-        <translation>เปิดกระเป๋าสตางค์</translation>
+        <translation>การสำรองไฟล์ล้มเหลว</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -1332,7 +1332,7 @@ Address: %4
     <message>
         <location line="+32"/>
         <source>Bytes:</source>
-        <translation>ข้อความ:</translation>
+        <translation>จำนวนไบต์:</translation>
     </message>
     <message>
         <location line="+48"/>
@@ -1427,7 +1427,7 @@ Address: %4
     <message>
         <location line="+1"/>
         <source>Copy label</source>
-        <translation>คัดลอกฉลาก</translation>
+        <translation>คัดลอกป้ายกำกับ</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1448,7 +1448,7 @@ Address: %4
     <message>
         <location line="+2"/>
         <source>Copy fee</source>
-        <translation>คัดลอกฉลาก</translation>
+        <translation>คัดลอกป้ายกำกับ</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1458,7 +1458,7 @@ Address: %4
     <message>
         <location line="+1"/>
         <source>Copy bytes</source>
-        <translation>คัดลอกฉลาก</translation>
+        <translation>คัดลอกจำนวนไบต์</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1628,7 +1628,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+0"/>
         <source>Your Digital PandaBank Account has been created.</source>
-        <translation>สร้างบัญชี PandaBank ดิจิตอลของคุณแล้ว.</translation>
+        <translation>สร้างบัญชี Digital PandaBankของคุณแล้ว.</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -1646,7 +1646,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+11"/>
         <source>&amp;Label</source>
-        <translation>&amp;ฉลาก</translation>
+        <translation>&amp;ป้ายกำกับ</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1760,12 +1760,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../forms/lockbar.cpp" line="-3"/>
         <source>Wallet is &lt;b&gt;not encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt; click to encrypt and lock.</source>
-        <translation>Wallet ถูกเข้ารหัส &lt;b&gt; ไม่ได้เข้ารหัส &lt;/ b&gt; และ &lt;b&gt; ปลดล็อก &lt;/ b&gt; ในปัจจุบันเพื่อเข้ารหัสและล็อค.</translation>
+        <translation>กระเป๋าสตางค์ถูกเข้ารหัส &lt;b&gt; ไม่ได้เข้ารหัส &lt;/ b&gt; และ &lt;b&gt; ปลดล็อก &lt;/ b&gt; ในปัจจุบันเพื่อเข้ารหัสและล็อค.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt; click to lock.</source>
-        <translation>Wallet ได้รับการเข้ารหัส &lt;b&gt; เข้ารหัส &lt;/ b&gt; และ &lt;b&gt; ปลดล็อก &lt;/ b&gt; ในปัจจุบัน &lt;/ b&gt; เพื่อล็อค.</translation>
+        <translation>กระเป๋าสตางค์ได้รับการเข้ารหัส &lt;b&gt; เข้ารหัส &lt;/ b&gt; และ &lt;b&gt; ปลดล็อก &lt;/ b&gt; ในปัจจุบัน &lt;/ b&gt; เพื่อล็อค.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1775,7 +1775,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+2"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt; click to unlock.</source>
-        <translation>Wallet ถูกเข้ารหัส &lt;b&gt; b / b&gt; และ &lt;b&gt; ล็อค &lt;/ b&gt; ในปัจจุบันเพื่อปลดล็อก.</translation>
+        <translation>กระเป๋าสตางค์ถูกเข้ารหัส &lt;b&gt; b / b&gt; และ &lt;b&gt; ล็อค &lt;/ b&gt; ในปัจจุบันเพื่อปลดล็อก.</translation>
     </message>
 </context>
 <context>
@@ -1839,7 +1839,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+21"/>
         <source>Reserve</source>
-        <translation>ที่อยู่</translation>
+        <translation>สำรอง</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -1899,12 +1899,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+7"/>
         <source>&amp;Port:</source>
-        <translation>&amp;ท่าเรือ:</translation>
+        <translation>&amp;พอร์ต:</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Port of the proxy (e.g. 9050)</source>
-        <translation>เลือกที่อยู่จากสมุดที่อยู่</translation>
+        <translation>พอร์ตของพร็อกซี่</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1944,7 +1944,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+21"/>
         <source>&amp;Display</source>
-        <translation>&amp;ฉลาก</translation>
+        <translation>&amp;ป้ายกำกับ</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -1959,7 +1959,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+11"/>
         <source>&amp;Unit to show amounts in:</source>
-        <translation>&amp;Unit เพื่อแสดงจำนวนเงินใน:</translation>
+        <translation>&amp;หน่วย เพื่อแสดงจำนวนเงินใน:</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -2014,7 +2014,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+10"/>
         <source>&amp;Apply</source>
-        <translation>&amp;ฉลาก</translation>
+        <translation>&amp;ป้ายกำกับ</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="+62"/>
@@ -2064,7 +2064,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+22"/>
         <source>My Portfolio</source>
-        <translation>ผลงานของฉัน</translation>
+        <translation>การเงินของฉัน</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2074,17 +2074,17 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+58"/>
         <source>Portfolio Summary</source>
-        <translation>สรุปผลงาน</translation>
+        <translation>สรุปผลการเงิน</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Available</source>
-        <translation>ที่มีจำหน่าย</translation>
+        <translation>ที่มีให้ใช้ได้</translation>
     </message>
     <message>
         <location line="+45"/>
         <source>Earning Interest</source>
-        <translation>รายได้ดอกเบี้ย</translation>
+        <translation>ดอกเบี้ย</translation>
     </message>
     <message>
         <location line="+42"/>
@@ -2104,7 +2104,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+89"/>
         <source>Quick Transfer</source>
-        <translation>Quick Transfer</translation>
+        <translation>ส่งแบบเร็ว</translation>
     </message>
     <message>
         <location line="+30"/>
@@ -2308,7 +2308,7 @@ Should you encounter this error repeatedly please seek assistance.</source>
     <message>
         <location line="-44"/>
         <source>Label:</source>
-        <translation>ฉลาก:</translation>
+        <translation>ป้ายกำกับ:</translation>
     </message>
     <message>
         <location line="+19"/>
@@ -2546,7 +2546,7 @@ Should you encounter this error repeatedly please seek assistance.</source>
     <message>
         <location line="-19"/>
         <source>Bytes:</source>
-        <translation>ข้อความ:</translation>
+        <translation>จำนวนไบต์:</translation>
     </message>
     <message>
         <location line="+51"/>
@@ -2599,7 +2599,7 @@ Should you encounter this error repeatedly please seek assistance.</source>
     <message>
         <location line="+50"/>
         <source>custom change address</source>
-        <translation>สร้างที่อยู่ใหม่</translation>
+        <translation>เปลี่ยนแปลงที่อยู่ตามที่ต้องการ่</translation>
     </message>
     <message>
         <location line="+67"/>
@@ -2644,7 +2644,7 @@ Should you encounter this error repeatedly please seek assistance.</source>
     <message>
         <location line="+1"/>
         <source>Copy fee</source>
-        <translation>คัดลอกฉลาก</translation>
+        <translation>คัดลอกป้ายกำกับ</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2654,7 +2654,7 @@ Should you encounter this error repeatedly please seek assistance.</source>
     <message>
         <location line="+1"/>
         <source>Copy bytes</source>
-        <translation>คัดลอกฉลาก</translation>
+        <translation>คัดลอกป้ายกำกับ</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2836,7 +2836,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+12"/>
         <source>Enter the message you want to sign here</source>
-        <translation>ป้อนข้อความที่คุณต้องการลงชื่อเข้าใช้</translation>
+        <translation>ป้อนข้อความที่คุณต้องการลงชื่อตรงนี้</translation>
     </message>
     <message>
         <location line="+24"/>
@@ -2846,7 +2846,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+21"/>
         <source>Sign the message to prove you own this Pandacoin address</source>
-        <translation>ลงชื่อเข้าใช้เพื่อยืนยันว่าคุณเป็นเจ้าของที่อยู่ Pandacoin</translation>
+        <translation>ลงชื่อเพื่อยืนยันว่าคุณเป็นเจ้าของที่อยู่ Pandacoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2919,12 +2919,12 @@ Please select the &quot;from&quot; address at the top of this page.</source>
         <location line="-81"/>
         <location line="+81"/>
         <source>The entered address does not refer to a key.</source>
-        <translation>ที่อยู่ที่ป้อนไม่ได้หมายถึงกุญแจ.</translation>
+        <translation>ที่อยู่ที่ป้อนไม่ได้อ้างถึงกุญแจ.</translation>
     </message>
     <message>
         <location line="-73"/>
         <source>Wallet unlock was cancelled.</source>
-        <translation>ยกเลิกการปลดล็อก Wallet แล้ว.</translation>
+        <translation>ยกเลิกการปลดล็อกกระเป๋าสตางค์แล้ว.</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -3132,7 +3132,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+7"/>
         <source>Debug information</source>
-        <translation>แก้จุดบกพร่องข้อมูล</translation>
+        <translation>จุดบกพร่องข้อมูล</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -3318,7 +3318,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
         <location line="+42"/>
         <location line="+2"/>
         <source>Received</source>
-        <translation>ที่อยู่</translation>
+        <translation>ได้รับ</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3328,12 +3328,12 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+3"/>
         <source>Internal Transfer</source>
-        <translation>รวมดอกเบี้ย</translation>
+        <translation>การรับส่งภายใน</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Interest</source>
-        <translation>รวมดอกเบี้ย</translation>
+        <translation>ดอกเบี้ย</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -3343,27 +3343,27 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+569"/>
         <source>Destination account of transaction.</source>
-        <translation>ยอดคงเหลือของบัญชี ณ วันสิ้นงวด.</translation>
+        <translation>บัญชีที่รับโอนของธุรกรรม</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Source account of transaction.</source>
-        <translation>ยอดคงเหลือของบัญชี ณ วันสิ้นงวด.</translation>
+        <translation>บัญชีที่โอนออกของธุรกรรม</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Account for transaction.</source>
-        <translation>ยอดคงเหลือของบัญชี ณ วันสิ้นงวด.</translation>
+        <translation>บัญชีที่จะทำธุรกรรม</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Other account for transaction.</source>
-        <translation>ยอดคงเหลือของบัญชี ณ วันสิ้นงวด.</translation>
+        <translation>บัญชีอื่นที่จะทำธุรกรรม</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Account balance at end of transaction.</source>
-        <translation>ยอดคงเหลือของบัญชี ณ วันสิ้นงวด.</translation>
+        <translation>ยอดคงเหลือของบัญชีหลังการทำธุรกรรม</translation>
     </message>
     <message>
         <location line="-539"/>
@@ -3391,7 +3391,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+10"/>
         <source>Amount removed from or added to balance.</source>
-        <translation>จำนวนเงินที่ลบออกจากหรือเพิ่มลงในยอดคงเหลือ.</translation>
+        <translation>จำนวนเงินที่เอาออกจากหรือเพิ่มลงในยอดคงเหลือ.</translation>
     </message>
 </context>
 <context>
@@ -3408,7 +3408,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+1"/>
         <source>Copy label</source>
-        <translation>คัดลอกฉลาก</translation>
+        <translation>คัดลอกป้ายกำกับ</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3514,7 +3514,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location filename="../walletmodel.cpp" line="+505"/>
         <source>Sending...</source>
-        <translation>การส่ง...</translation>
+        <translation>กำลังส่ง...</translation>
     </message>
 </context>
 <context>
@@ -3587,7 +3587,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+1"/>
         <source>Maintain at most &lt;n&gt; connections to peers (default: 125)</source>
-        <translation>รักษาส่วนใหญ่ &lt;n&gt; การเชื่อมต่อกับเพื่อน (ค่าเริ่มต้น: 125)</translation>
+        <translation>รักษาส่วนใหญ่ &lt;n&gt; การเชื่อมต่อกับเพียร์ (ค่าเริ่มต้น: 125)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3612,12 +3612,12 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+5"/>
         <source>Threshold for disconnecting misbehaving peers (default: 100)</source>
-        <translation>เกณฑ์การถอดปลั๊กเพื่อนที่ไม่ทำงาน (ค่าเริ่มต้น: 100)</translation>
+        <translation>เกณฑ์การถอดปลั๊กเพียร์ที่ไม่ทำงาน (ค่าเริ่มต้น: 100)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Number of seconds to keep misbehaving peers from reconnecting (default: 86400)</source>
-        <translation>จำนวนวินาทีที่จะทำให้เพื่อนที่ทำงานไม่ถูกต้องจากการเชื่อมต่อใหม่ (ค่าเริ่มต้น: 86400)</translation>
+        <translation>จำนวนวินาทีที่จะทำให้เพียร์ที่ทำงานไม่ถูกต้องจากการเชื่อมต่อใหม่ (ค่าเริ่มต้น: 86400)</translation>
     </message>
     <message>
         <location line="-44"/>
@@ -3657,7 +3657,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="-5"/>
         <source>Error: Wallet locked, unable to create transaction  </source>
-        <translation>ข้อผิดพลาด: Wallet ถูกล็อคไม่สามารถสร้างธุรกรรมได้  </translation>
+        <translation>ข้อผิดพลาด: กระเป๋าสตางค์ถูกล็อคไม่สามารถสร้างธุรกรรมได้  </translation>
     </message>
     <message>
         <location line="-8"/>
@@ -3747,7 +3747,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="-90"/>
         <source>Find peers using DNS lookup (default: 1)</source>
-        <translation>ค้นหา peers โดยใช้ DNS lookup (ค่าดีฟอลต์: 1)</translation>
+        <translation>ค้นหาเพียร์โดยใช้ DNS lookup (ค่าดีฟอลต์: 1)</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -3919,7 +3919,7 @@ rpcpassword =%s
     <message>
         <location line="+51"/>
         <source>Find peers using internet relay chat (default: 0)</source>
-        <translation>ค้นหา peers โดยใช้ chat relay อินเทอร์เน็ต (ค่าเริ่มต้น: 0)</translation>
+        <translation>ค้นหาเพียร์โดยใช้ chat relay อินเทอร์เน็ต (ค่าเริ่มต้น: 0)</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -4019,7 +4019,7 @@ rpcpassword =%s
     <message>
         <location line="+53"/>
         <source>Error: Wallet unlocked for staking only, unable to create transaction.</source>
-        <translation>ข้อผิดพลาด: Wallet ไม่ได้รับการล็อกเพื่อปักหลักเท่านั้นและไม่สามารถสร้างธุรกรรมได้.</translation>
+        <translation>ข้อผิดพลาด: กระเป๋าสตางค์ไม่ได้รับการล็อกเพื่อปักหลักเท่านั้นและไม่สามารถสร้างธุรกรรมได้.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -4034,7 +4034,7 @@ rpcpassword =%s
     <message>
         <location line="+95"/>
         <source>Wallet %s resides outside data directory %s.</source>
-        <translation>Wallet %s อยู่นอกไดเรกทอรีข้อมูล %s.</translation>
+        <translation>กระเป๋าสตางค์ %s อยู่นอกไดเรกทอรีข้อมูล %s.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -4074,17 +4074,17 @@ rpcpassword =%s
     <message>
         <location line="+2"/>
         <source>Error loading wallet.dat: Wallet corrupted</source>
-        <translation>เกิดข้อผิดพลาดในการโหลด wallet.dat: Wallet เสียหาย</translation>
+        <translation>เกิดข้อผิดพลาดในการโหลด wallet.dat: กระเป๋าสตางค์ขำรุด</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Error loading wallet.dat: Wallet requires newer version of Pandacoin</source>
-        <translation>เกิดข้อผิดพลาดในการโหลด wallet.dat: Wallet ต้องใช้ Pandacoin เวอร์ชันใหม่กว่า</translation>
+        <translation>เกิดข้อผิดพลาดในการโหลด wallet.dat: กระเป๋าสตางค์ต้องใช้ Pandacoin เวอร์ชันใหม่กว่า</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Wallet needed to be rewritten: restart Pandacoin to complete</source>
-        <translation>ต้องมีการเขียนใหม่ของ Wallet: รีสตาร์ท Pandacoin ให้เสร็จสมบูรณ์</translation>
+        <translation>ต้องมีการเขียนใหม่ของกระเป๋าสตางค์: รีสตาร์ท Pandacoin ให้เสร็จสมบูรณ์</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -4184,7 +4184,7 @@ rpcpassword =%s
     <message>
         <location line="+1"/>
         <source>Cannot write default address</source>
-        <translation>ไม่สามารถเขียนที่อยู่เริ่มต้นได้</translation>
+        <translation>ไม่สามารถเขียนที่อยู่เดิมได้</translation>
     </message>
     <message>
         <location line="+1"/>
