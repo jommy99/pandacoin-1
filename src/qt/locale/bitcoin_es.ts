@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="es">
+<TS version="2.1" language="es">
 <context>
     <name>AboutDialog</name>
     <message>
@@ -10,7 +10,7 @@
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>Sobre Digital PandaBank</translation>
     </message>
     <message>
         <location line="+39"/>
@@ -50,17 +50,17 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     <message>
         <location filename="../accountmodel.cpp" line="+24"/>
         <source>Account Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de la cuenta</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Account Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Dirección de la cuenta</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Account Balance</source>
-        <translation type="unfinished"></translation>
+        <translation>Saldo de la cuenta</translation>
     </message>
 </context>
 <context>
@@ -68,81 +68,81 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     <message>
         <location filename="../forms/accountpage.ui" line="+20"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Marco</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Transactions</source>
-        <translation type="unfinished"></translation>
+        <translation>Actas</translation>
     </message>
     <message>
         <location line="+38"/>
         <source>View transactions for</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver transacciones para</translation>
     </message>
     <message>
         <location line="+36"/>
         <source>Copy Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar dirección</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Show QR Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar código QR</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Sign message</source>
-        <translation type="unfinished"></translation>
+        <translation>Mensaje de muestra</translation>
     </message>
     <message>
         <location line="+132"/>
         <source>Last 30 Days</source>
-        <translation type="unfinished"></translation>
+        <translation>Últimos 30 días</translation>
     </message>
     <message>
         <location line="+40"/>
         <source>Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Fuera</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>In</source>
-        <translation type="unfinished"></translation>
+        <translation>En</translation>
     </message>
     <message>
         <location line="+23"/>
         <location line="+10"/>
         <location line="+140"/>
         <source>PND</source>
-        <translation type="unfinished"></translation>
+        <translation>PND</translation>
     </message>
     <message>
         <location line="-128"/>
         <source>Interest Gained</source>
-        <translation type="unfinished"></translation>
+        <translation>Intereses ganados</translation>
     </message>
     <message>
         <location line="+115"/>
         <source>Total interest</source>
-        <translation type="unfinished"></translation>
+        <translation>Interés total</translation>
     </message>
     <message>
         <location line="+32"/>
         <location line="+25"/>
         <source>Create Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear una cuenta</translation>
     </message>
     <message>
         <location filename="../forms/accountpage.cpp" line="+155"/>
         <source>All Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Todas las cuentas</translation>
     </message>
     <message>
         <location line="+28"/>
         <location line="+4"/>
         <source>transaction found</source>
-        <translation type="unfinished"></translation>
+        <translation>transacción encontrada</translation>
     </message>
 </context>
 <context>
@@ -150,58 +150,58 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     <message>
         <location filename="../forms/accountsummaryheaderwidget.ui" line="+14"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Marco</translation>
     </message>
     <message>
         <location line="+32"/>
         <source>Earning interest</source>
-        <translation type="unfinished"></translation>
+        <translation>Ganar interés</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Total balance</source>
-        <translation type="unfinished"></translation>
+        <translation>Balance total</translation>
     </message>
     <message>
         <location line="+153"/>
         <source>Edit account name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar el nombre de la cuenta.</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Accept new account name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aceptar nuevo nombre de cuenta.</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Cancel editing of account name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancele la edición del nombre de la cuenta.</translation>
     </message>
     <message>
         <location line="-156"/>
         <source>Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Disponible</translation>
     </message>
     <message>
         <location line="+37"/>
         <source>Pending</source>
-        <translation type="unfinished"></translation>
+        <translation>Pendiente</translation>
     </message>
     <message>
         <location filename="../forms/accountsummaryheaderwidget.cpp" line="+63"/>
         <location line="+9"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location line="-9"/>
         <source>An account with this name already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Una cuenta con este nombre ya existe.</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Error could not change name of Digital PandaBank account.</source>
-        <translation type="unfinished"></translation>
+        <translation>El error no pudo cambiar el nombre de la cuenta de PandaBank Digital.</translation>
     </message>
 </context>
 <context>
@@ -214,7 +214,7 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     <message>
         <location line="+22"/>
         <source>Double-click to edit address or label</source>
-        <translation>Haga doble clic para editar una etiqueta o dirección </translation>
+        <translation>Haga doble clic para editar una etiqueta o dirección</translation>
     </message>
     <message>
         <location line="+27"/>
@@ -304,7 +304,7 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     <message>
         <location line="+0"/>
         <source>Could not write to file %1.</source>
-        <translation>No se pudo escribir en el archivo %1</translation>
+        <translation>No se pudo escribir en el archivo %1.</translation>
     </message>
 </context>
 <context>
@@ -312,67 +312,67 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     <message>
         <location filename="../forms/addressbookpage_new.ui" line="+14"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Marco</translation>
     </message>
     <message>
         <location line="+34"/>
         <source>Address Book</source>
-        <translation type="unfinished">Libreta de Direcciones</translation>
+        <translation>Libreta de Direcciones</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>Create a new address</source>
-        <translation type="unfinished">Crear una nueva dirección</translation>
+        <translation>Crear una nueva dirección</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;New Address</source>
-        <translation type="unfinished">&amp;Nueva Dirección</translation>
+        <translation>&amp;Nueva Dirección</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Copy the currently selected address to the system clipboard</source>
-        <translation type="unfinished">Copiar la dirección seleccionada al portapapeles del sistema</translation>
+        <translation>Copiar la dirección seleccionada al portapapeles del sistema</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Copy Address</source>
-        <translation type="unfinished">&amp;Copiar dirección</translation>
+        <translation>&amp;Copiar dirección</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Show &amp;QR Code</source>
-        <translation type="unfinished">Enseñar &amp;QR Code</translation>
+        <translation>Enseñar &amp;QR Code</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Verify a message to ensure it was signed with a specified Pandacoin address</source>
-        <translation type="unfinished">Verifique el mensaje para asegurarse que fue firmado por una dirección específica de Pandacoin</translation>
+        <translation>Verifique el mensaje para asegurarse que fue firmado por una dirección específica de Pandacoin</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Verify Message</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Y verificar el mensaje</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Delete the currently selected address from the list</source>
-        <translation type="unfinished">Borrar de la lista la dirección seleccionada</translation>
+        <translation>Borrar de la lista la dirección seleccionada</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Delete</source>
-        <translation type="unfinished">&amp;Eliminar</translation>
+        <translation>&amp;Eliminar</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Search address book</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar libreta de direcciones</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>label</source>
@@ -382,47 +382,47 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
         <location line="+80"/>
         <location line="+245"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar</translation>
     </message>
     <message>
         <location line="+40"/>
         <source>Account address</source>
-        <translation type="unfinished"></translation>
+        <translation>Dirección de cuenta</translation>
     </message>
     <message>
         <location line="-191"/>
         <source>Send Pandacoins</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar Pandacoins</translation>
     </message>
     <message>
         <location line="+40"/>
         <source>From</source>
-        <translation type="unfinished">De</translation>
+        <translation>De</translation>
     </message>
     <message>
         <location line="+36"/>
         <source>Amount</source>
-        <translation type="unfinished"></translation>
+        <translation>Cantidad</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Siguiente</translation>
     </message>
     <message>
         <location line="+67"/>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>Hecho</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Account name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de la cuenta</translation>
     </message>
     <message>
         <location line="+57"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Borrar</translation>
     </message>
 </context>
 <context>
@@ -454,22 +454,22 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
         <location line="+21"/>
         <location filename="../askpassphrasedialog.cpp" line="+42"/>
         <source>Enter password</source>
-        <translation type="unfinished"></translation>
+        <translation>Introducir la contraseña</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>New password</source>
-        <translation type="unfinished"></translation>
+        <translation>Nueva contraseña</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Repeat new password</source>
-        <translation type="unfinished"></translation>
+        <translation>repita la nueva contraseña</translation>
     </message>
     <message>
         <location line="+39"/>
         <source>For earning interest only</source>
-        <translation type="unfinished"></translation>
+        <translation>Para ganar interés solamente</translation>
     </message>
     <message>
         <source>Enter passphrase</source>
@@ -539,83 +539,83 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     <message>
         <location filename="../askpassphrasedialog.cpp" line="-7"/>
         <source>Enter the new password to the wallet.&lt;br/&gt;Please use a password of &lt;b&gt;10 or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingrese la nueva contraseña en la billetera. &lt;br/&gt; Use una contraseña de &lt;b&gt; 10 o más caracteres aleatorios &lt;/ b&gt;, o &lt;b&gt; ocho o más palabras &lt;/ b&gt;.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Encrypt Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>Encriptar PandaBank Digital</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Log on to Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicie sesión en PandaBank digital</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Please enter your Digital PandaBank password to log on to Digital PandaBank.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingrese su contraseña digital de PandaBank para iniciar sesión en Digital PandaBank.</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>LOG ON</source>
-        <translation type="unfinished"></translation>
+        <translation>ACCEDER</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>This operation needs your Digital PandaBank password to unlock Digital PandaBank.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta operación necesita su contraseña digital de PandaBank para desbloquear PandaBank digital.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Unlock Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>Desbloquear PandaBank digital</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>This operation needs your Digital PandaBank password to decrypt Digital PandaBank.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta operación necesita su contraseña digital de PandaBank para descifrar PandaBank digital.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Decrypt Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>Descifrar PandaBank digital</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Change password</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambia la contraseña</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Enter the old and new password to Digital PandaBank.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingrese la contraseña anterior y la nueva para Digital PandaBank.</translation>
     </message>
     <message>
         <location line="+46"/>
         <source>Confirm Digital PandaBank encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmar el cifrado digital de PandaBank</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Warning: If you encrypt your Digital PandaBank and lose your password, you will &lt;b&gt;LOSE ALL OF YOUR COINS&lt;/b&gt;!</source>
-        <translation type="unfinished"></translation>
+        <translation>Advertencia: si cifra su PandaBank digital y pierde su contraseña, &lt;b&gt; PERDERÁ TODAS SUS MONEDAS &lt;/ b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Are you sure you wish to encrypt your Digital PandaBank?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Estás seguro de que deseas encriptar tu PandaBank digital?</translation>
     </message>
     <message>
         <location line="+9"/>
         <location line="+61"/>
         <source>Digital PandaBank encrypted</source>
-        <translation type="unfinished"></translation>
+        <translation>PandaBank digital encriptado</translation>
     </message>
     <message>
         <location line="-59"/>
         <source>Digital PandaBank will close now to finish the encryption process. Remember that encrypting your Digital PandaBank cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation type="unfinished"></translation>
+        <translation>PandaBank digital se cerrará ahora para finalizar el proceso de encriptación. Recuerde que el cifrado de su PandaBank digital no puede proteger completamente sus monedas contra el robo de malware que infecta su computadora.</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -628,40 +628,40 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
         <location line="+45"/>
         <location line="+6"/>
         <source>Digital PandaBank encryption failed</source>
-        <translation type="unfinished"></translation>
+        <translation>El cifrado digital de PandaBank falló</translation>
     </message>
     <message>
         <location line="-57"/>
         <source>Digital PandaBank encryption failed due to an internal error. Your Digital PandaBank was not encrypted.</source>
-        <translation type="unfinished"></translation>
+        <translation>El cifrado digital de PandaBank falló debido a un error interno. Su PandaBank digital no estaba encriptado.</translation>
     </message>
     <message>
         <location line="+7"/>
         <location line="+51"/>
         <source>The supplied passwords do not match.</source>
-        <translation type="unfinished"></translation>
+        <translation>Las contraseñas suministradas no coinciden.</translation>
     </message>
     <message>
         <location line="-38"/>
         <source>Digital PandaBank unlock failed</source>
-        <translation type="unfinished"></translation>
+        <translation>El desbloqueo digital de PandaBank falló</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+12"/>
         <location line="+19"/>
         <source>The password entered for your Digital PandaBank was incorrect.</source>
-        <translation type="unfinished"></translation>
+        <translation>La contraseña ingresada para su PandaBank digital fue incorrecta.</translation>
     </message>
     <message>
         <location line="-20"/>
         <source>Digital PandaBank decryption failed</source>
-        <translation type="unfinished"></translation>
+        <translation>El descifrado digital de PandaBank falló</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Wallet password was successfully changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>La contraseña de Wallet fue modificada con éxito.</translation>
     </message>
     <message>
         <location line="+49"/>
@@ -716,32 +716,32 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     <message>
         <location line="+240"/>
         <source>%1 active %2 to Digital PandaBank network</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 activo %2 a la red digital de PandaBank</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>connection</source>
-        <translation type="unfinished"></translation>
+        <translation>conexión</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>connections</source>
-        <translation type="unfinished"></translation>
+        <translation>conexiones</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Searching for peers.</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscando pares.</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Connecting to peers.</source>
-        <translation type="unfinished"></translation>
+        <translation>Conectando con sus compañeros.</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Fetching checkpoints.</source>
-        <translation type="unfinished"></translation>
+        <translation>Obtener puntos de control.</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -753,51 +753,51 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
         <location line="+29"/>
         <location line="+29"/>
         <source>%1 %2 remaining</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 %2 restantes</translation>
     </message>
     <message>
         <location line="-217"/>
         <source>checkpoint</source>
-        <translation type="unfinished"></translation>
+        <translation>punto de control</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>checkpoints</source>
-        <translation type="unfinished"></translation>
+        <translation>puntos de control</translation>
     </message>
     <message>
         <location line="+22"/>
         <location line="+33"/>
         <source>Performing Instant Sync</source>
-        <translation type="unfinished"></translation>
+        <translation>Realizando la sincronización instantánea</translation>
     </message>
     <message>
         <location line="-31"/>
         <source>(Phase 1 of 3)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Fase 1 de 3)</translation>
     </message>
     <message>
         <location line="+9"/>
         <location line="+96"/>
         <source>header</source>
-        <translation type="unfinished"></translation>
+        <translation>encabezamiento</translation>
     </message>
     <message>
         <location line="-96"/>
         <location line="+96"/>
         <source>headers</source>
-        <translation type="unfinished"></translation>
+        <translation>encabezados</translation>
     </message>
     <message>
         <location line="-88"/>
         <location line="+96"/>
         <source>Downloaded %1 of %2 headers (%3% done).</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargó %1 de %2 encabezados (%3% hecho).</translation>
     </message>
     <message>
         <location line="-80"/>
         <source>(Phase 2 of 3)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Fase 2 de 3)</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -806,7 +806,7 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
         <location line="+29"/>
         <location line="+29"/>
         <source>block</source>
-        <translation type="unfinished"></translation>
+        <translation>bloquear</translation>
     </message>
     <message>
         <location line="-151"/>
@@ -815,48 +815,48 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
         <location line="+29"/>
         <location line="+29"/>
         <source>blocks</source>
-        <translation type="unfinished"></translation>
+        <translation>bloques</translation>
     </message>
     <message>
         <location line="-143"/>
         <location line="+93"/>
         <source>Downloaded %1 of %2 blocks (%3% done).</source>
-        <translation type="unfinished"></translation>
+        <translation>Se descargó %1 de %2 bloques (%3% hecho).</translation>
     </message>
     <message>
         <location line="-79"/>
         <source>Scanning wallet transactions</source>
-        <translation type="unfinished"></translation>
+        <translation>Escanear transacciones de billetera</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>(Phase 3 of 3)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Fase 3 de 3)</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Scanned %1 of %2 blocks (%3% done).</source>
-        <translation type="unfinished"></translation>
+        <translation>Escaneado %1 de %2 bloques (%3% hecho).</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Rapid Blockchain Download (Phase 1 of 2).</source>
-        <translation type="unfinished"></translation>
+        <translation>Descarga Rapid Blockchain (Fase 1 de 2).</translation>
     </message>
     <message>
         <location line="+30"/>
         <source>Rapid Blockchain Download (Phase 2 of 2).</source>
-        <translation type="unfinished"></translation>
+        <translation>Descarga rápida de Blockchain (Fase 2 de 2).</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>Verify blockchain.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verificar blockchain.</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Verified %1 of %2 blocks (%3% done).</source>
-        <translation type="unfinished"></translation>
+        <translation>Verificado %1 de %2 bloques (%3% hecho).</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -871,22 +871,22 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     <message>
         <location line="-156"/>
         <source>Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>PandaBank digital</translation>
     </message>
     <message>
         <location line="+58"/>
         <source>My Home</source>
-        <translation type="unfinished"></translation>
+        <translation>Mi hogar</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>View Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver cuentas</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Transfers</source>
-        <translation type="unfinished"></translation>
+        <translation>Transferencias</translation>
     </message>
     <message>
         <location line="+96"/>
@@ -896,7 +896,7 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     <message>
         <location line="+6"/>
         <source>Send coins to a Digital PandaBank address</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar monedas a una dirección de PandaBank digital</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1108,61 +1108,61 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
         <location line="+4"/>
         <location line="+4"/>
         <source>%1 %2 ago</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 %2 hace</translation>
     </message>
     <message>
         <location line="-12"/>
         <location line="+454"/>
         <source>second</source>
-        <translation type="unfinished"></translation>
+        <translation>segundo</translation>
     </message>
     <message>
         <location line="-454"/>
         <location line="+454"/>
         <source>seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>segundos</translation>
     </message>
     <message>
         <location line="-450"/>
         <location line="+454"/>
         <source>minute</source>
-        <translation type="unfinished"></translation>
+        <translation>minuto</translation>
     </message>
     <message>
         <location line="-454"/>
         <location line="+454"/>
         <source>minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>minutos</translation>
     </message>
     <message>
         <location line="-450"/>
         <location line="+454"/>
         <source>hour</source>
-        <translation type="unfinished"></translation>
+        <translation>hora</translation>
     </message>
     <message>
         <location line="-454"/>
         <location line="+454"/>
         <source>hours</source>
-        <translation type="unfinished"></translation>
+        <translation>horas</translation>
     </message>
     <message>
         <location line="-450"/>
         <location line="+454"/>
         <source>day</source>
-        <translation type="unfinished"></translation>
+        <translation>día</translation>
     </message>
     <message>
         <location line="-454"/>
         <location line="+454"/>
         <source>days</source>
-        <translation type="unfinished"></translation>
+        <translation>dias</translation>
     </message>
     <message>
         <location line="-250"/>
         <location line="+15"/>
         <source>URI can not be parsed! This can be caused by an invalid Digital PandaBank address or malformed URI parameters.</source>
-        <translation type="unfinished"></translation>
+        <translation>¡URI no puede ser analizado! Esto puede deberse a una dirección de PandaBank digital no válida o a parámetros URI incorrectos.</translation>
     </message>
     <message>
         <location line="+239"/>
@@ -1207,96 +1207,96 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     <message>
         <location line="-1045"/>
         <source>&amp;About Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;sobre Digital PandaBank</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show information about Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar información sobre Digital PandaBank</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Modify configuration options for Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar información sobre Digital PandaBank</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Encrypt Digital PandaBank...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Encrypt Digital PandaBank ...</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Encrypt or decrypt Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>Encriptar o desencriptar PandaBank digital</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Backup Digital PandaBank...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;copia de seguridad de PandaBank digital ...</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Backup Digital PandaBank to another location</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia de seguridad del PandaBank digital a otra ubicación</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Change Password...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Cambia la contraseña...</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Change the password used for wallet encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar la contraseña utilizada para el cifrado de la billetera</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Unlock Digital PandaBank...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;desbloquear PandaBank digital ...</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Unlock Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>Desbloquear PandaBank digital</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Lock Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Lock Digital PandaBank</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Lock Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>Lock Digital PandaBank</translation>
     </message>
     <message>
         <location line="+4"/>
         <location line="+1"/>
         <source>Activate &apos;Classic&apos; client mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>Activa el modo de cliente &apos;Clásico&apos;.</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+1"/>
         <source>Activate &apos;Hybrid&apos; client mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>Activa el modo de cliente &apos;Híbrido&apos;.</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+1"/>
         <source>Activate &apos;Lite&apos; client mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>Activa el modo de cliente &apos;Lite&apos;.</translation>
     </message>
     <message>
         <location line="+91"/>
         <location line="+71"/>
         <source>Digital PandaBank client</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliente digital PandaBank</translation>
     </message>
     <message>
         <location line="+134"/>
         <source>Downloaded %1 of %2 checkpoints (%3% done).</source>
-        <translation type="unfinished"></translation>
+        <translation>Se descargó %1 de %2 puntos de control (%3% hecho).</translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s) ago</source>
@@ -1376,7 +1376,7 @@ Dirección: %4
     <message>
         <location line="+116"/>
         <source>Activate Digital PandaBank ‘Classic’</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar PandaBank Digital &apos;Classic&apos;</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1385,12 +1385,16 @@ Dirección: %4
 Switching to Digital PandaBank &apos;Classic&apos; from other modes will wipe out your existing blockchain data.
 
 Activate Digital PandaBank &apos;Classic&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Digital PandaBank &apos;Classic&apos; le permite ganar interés y ayudar a proteger la red de Pandacoin una vez que se completa la sincronización y descarga de la cadena de bloques. Funciona con el método desactualizado de sincronización y descarga de la cadena de bloques, que puede tomar entre 4 y 24 horas para completarse. Recomendamos a la mayoría de los usuarios de Pandacoin que utilicen Pandacoin &apos;Hybrid&apos;.
+
+El cambio a PandaBank Digital &apos;Classic&apos; desde otros modos borrará los datos existentes de blockchain.
+
+Activar PandaBank Digital &apos;Classic&apos;?</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Activate Digital PandaBank ‘Hybrid’</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar PandaBank Digital &apos;Híbrido&apos;</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1399,12 +1403,16 @@ Activate Digital PandaBank &apos;Classic&apos;?</source>
 Digital PandaBank &apos;Hybrid allows you to earn interest and help secure the Pandacoin Network in approximately 5 to 15 minutes after installation, once both synchronization and download of the blockchain is completed.
 
 Activate Digital PandaBank &apos;Hybrid&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Digital PandaBank &apos;Hybrid&apos; es el modo recomendado para la mayoría de los usuarios de Pandacoin. La sincronización con la red Pandacoin solo llevará unos segundos después de la instalación para que pueda ver y utilizar sus Pandacoins de inmediato.
+
+Digital PandaBank &apos;Hybrid le permite ganar interés y ayudar a proteger la red Pandacoin en aproximadamente 5 a 15 minutos después de la instalación, una vez que se completa la sincronización y la descarga de la cadena de bloques.
+
+Activar PandaBank &apos;Híbrido&apos; digital?</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Activate Digital PandaBank ‘Lite’</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar PandaBank digital &apos;Lite&apos;</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1413,17 +1421,21 @@ Activate Digital PandaBank &apos;Hybrid&apos;?</source>
 Pandacoin &apos;Lite&apos; DOES NOT allow you to earn interest or help secure the Pandacoin Network.
 
 Activate Digital PandaBank &apos;Lite&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>PandaBank digital &apos;Lite&apos; es para usuarios que tienen acceso a descargas limitadas o espacio de almacenamiento en el disco duro. Los datos almacenados son solo unos pocos megabytes. La sincronización con la red Pandacoin solo llevará unos segundos después de la instalación para que pueda ver y utilizar sus Pandacoins de inmediato.
+
+Pandacoin &apos;Lite&apos; NO le permite ganar intereses ni ayudar a proteger la red Pandacoin.
+
+Activar PandaBank digital &apos;Lite&apos;?</translation>
     </message>
     <message>
         <location line="+42"/>
         <source>Unable to earn interest in light mode.&lt;br/&gt;Switch to hybrid mode if you would like to earn interest.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede ganar intereses en el modo de luz. &lt;br/&gt; Cambia al modo híbrido si deseas ganar intereses.</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Unable to earn interest until syncing is completed.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede ganar intereses hasta que se complete la sincronización.</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -1431,32 +1443,32 @@ Activate Digital PandaBank &apos;Lite&apos;?</source>
         <location line="+4"/>
         <location line="+4"/>
         <source>%1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 %2</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Not earning interest because wallet is locked</source>
-        <translation type="unfinished"></translation>
+        <translation>No gana intereses porque la billetera está bloqueada</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Not earning interest because wallet is offline</source>
-        <translation type="unfinished"></translation>
+        <translation>No gana intereses porque la billetera está fuera de línea</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Not earning interest because wallet is syncing</source>
-        <translation type="unfinished"></translation>
+        <translation>No gana interés porque la billetera se está sincronizando</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Not earning interest because you don&apos;t have mature coins</source>
-        <translation type="unfinished"></translation>
+        <translation>No gana intereses porque no tiene monedas maduras</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Not earning interest</source>
-        <translation type="unfinished"></translation>
+        <translation>No gana intereses</translation>
     </message>
     <message>
         <source>URI can not be parsed! This can be caused by an invalid Pandacoin address or malformed URI parameters.</source>
@@ -1811,58 +1823,58 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location filename="../forms/createaccountwidget.ui" line="+20"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Marco</translation>
     </message>
     <message>
         <location line="+53"/>
         <source>Creating a new Digital PandaBank account is easy</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear una nueva cuenta Digital PandaBank es fácil</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Create</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Account name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de la cuenta</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Account address</source>
-        <translation type="unfinished"></translation>
+        <translation>Dirección de cuenta</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="../forms/createaccountwidget.cpp" line="+55"/>
         <location line="+19"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location line="-19"/>
         <source>An account with this name already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Una cuenta con este nombre ya existe.</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Digital PandaBank account created</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuenta digital PandaBank creada</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Your Digital PandaBank Account has been created.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tu cuenta digital de PandaBank ha sido creada.</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Error creating Digital PandaBank account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al crear la cuenta digital de PandaBank.</translation>
     </message>
 </context>
 <context>
@@ -1984,27 +1996,27 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
         <location filename="../forms/lockbar.cpp" line="+37"/>
         <location line="+5"/>
         <source>Lock</source>
-        <translation type="unfinished"></translation>
+        <translation>Bloquear</translation>
     </message>
     <message>
         <location filename="../forms/lockbar.cpp" line="-3"/>
         <source>Wallet is &lt;b&gt;not encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt; click to encrypt and lock.</source>
-        <translation type="unfinished"></translation>
+        <translation>LockWallet está &lt;b&gt; no encriptado &lt;/ b&gt; y actualmente &lt;b&gt; desbloqueado &lt;/ b&gt; hace clic para encriptar y bloquear.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt; click to lock.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wallet está &lt;b&gt; encriptado &lt;/ b&gt; y actualmente &lt;b&gt; desbloqueado &lt;/ b&gt; hace clic para bloquear.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Unlock</source>
-        <translation type="unfinished"></translation>
+        <translation>desbloquear</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt; click to unlock.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wallet está &lt;b&gt; encriptado &lt;/ b&gt; y actualmente &lt;b&gt; bloqueado &lt;/ b&gt; hace clic para desbloquear.</translation>
     </message>
 </context>
 <context>
@@ -2012,7 +2024,7 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location filename="../forms/mainframe.ui" line="+14"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Marco</translation>
     </message>
 </context>
 <context>
@@ -2020,22 +2032,22 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location filename="../forms/menubar.ui" line="+55"/>
         <source>Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modo</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuraciones</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayuda</translation>
     </message>
 </context>
 <context>
@@ -2082,7 +2094,7 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="+3"/>
         <source>&amp;Start Digital PandaBank on system login</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Start Digital PandaBank en el inicio de sesión del sistema</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2112,12 +2124,12 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="+7"/>
         <source>Connect to the Pandacoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Conéctese a la red de Pandacoin a través de un SOCKS proxy (e.g. cuando se conecta a través de Tor)</translation>
+        <translation>Conéctese a la red de Pandacoin a través de un SOCKS proxy (e.g. cuando se conecta a través de Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Connect through SOCKS proxy:</source>
-        <translation>&amp;Conéctese a través de un SOCKS proxy</translation>
+        <translation>&amp;Conéctese a través de un SOCKS proxy:</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -2182,7 +2194,7 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="+8"/>
         <source>User Interface &amp;language:</source>
-        <translation>I&amp;dioma de la interfaz de usuario</translation>
+        <translation>I&amp;dioma de la interfaz de usuario:</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -2212,27 +2224,27 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="+7"/>
         <source>Whether to show coin control features or not.</source>
-        <translation>Mostrar o no funcionalidad de Coin Control</translation>
+        <translation>Mostrar o no funcionalidad de Coin Control.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Display coin &amp;control features (experts only!)</source>
-        <translation>Mostrar moneda y Coin Control (expertos solamente!)</translation>
+        <translation>Mostrar moneda y Coin &amp;Control (expertos solamente!)</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Avanzado</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Reset Blockchain</source>
-        <translation type="unfinished"></translation>
+        <translation>Restablecer Blockchain</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Reset Peers</source>
-        <translation type="unfinished"></translation>
+        <translation>Restablecer pares</translation>
     </message>
     <message>
         <location line="+86"/>
@@ -2274,12 +2286,12 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="+20"/>
         <source>Confirm Blockchain reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmar restablecimiento de Blockchain</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Are you sure you want to reset your Blockchain? This will cause the entire Blockchain to download again.</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Seguro que quieres restablecer tu Blockchain? Esto hará que todo Blockchain se descargue nuevamente.</translation>
     </message>
 </context>
 <context>
@@ -2292,72 +2304,72 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="+26"/>
         <source>Welcome to your Digital PandaBank, You last logged on at &lt;TIME&gt; on &lt;DATE&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Bienvenido a su PandaBank digital, la última vez que inició sesión fue &lt;TIME&gt; el &lt;DATE&gt;</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>My Portfolio</source>
-        <translation type="unfinished"></translation>
+        <translation>Mi portafolio</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>More</source>
-        <translation type="unfinished"></translation>
+        <translation>Más</translation>
     </message>
     <message>
         <location line="+58"/>
         <source>Portfolio Summary</source>
-        <translation type="unfinished"></translation>
+        <translation>Resumen de la cartera</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Disponible</translation>
     </message>
     <message>
         <location line="+45"/>
         <source>Earning Interest</source>
-        <translation type="unfinished"></translation>
+        <translation>Ganar interés</translation>
     </message>
     <message>
         <location line="+42"/>
         <source>Pending</source>
-        <translation type="unfinished"></translation>
+        <translation>Pendiente</translation>
     </message>
     <message>
         <location line="+45"/>
         <source>Total Balance</source>
-        <translation type="unfinished"></translation>
+        <translation>Balance total</translation>
     </message>
     <message>
         <location line="+48"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: &lt;span style=&quot; font-weight:600;&quot;&gt;Available&lt;/span&gt; is the amount of PND that is available for you to spend or transfer. &lt;span style=&quot; font-weight:600;&quot;&gt;Earning Interest&lt;/span&gt; is the amount of PND that is currently being used to generate interest. &lt;span style=&quot; font-weight:600;&quot;&gt;Pending&lt;/span&gt; is the amount of recent incoming PND from another account address waiting to be transferred to your account. &lt;span style=&quot; font-weight:600;&quot;&gt;Total Balance&lt;/span&gt; is the sum total of PND of all your account balances. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt; &lt;head /&gt; &lt;body&gt; &lt;p&gt; Nota: &lt;span style = &quot;font-weight: 600;&quot;&gt; Available &lt;/ span&gt; es la cantidad de PND que está disponible para que usted la pase o transfiera. &lt;span style = &quot;font-weight: 600;&quot;&gt; Earning Interest &lt;/ span&gt; es la cantidad de PND que se está utilizando actualmente para generar interés. &lt;span style = &quot;font-weight: 600;&quot;&gt; Pendiente &lt;/ span&gt; es la cantidad de PND entrante reciente de otra dirección de cuenta que está esperando ser transferida a su cuenta. &lt;span style = &quot;font-weight: 600;&quot;&gt; Total Balance &lt;/ span&gt; es la suma total de PND de todos los saldos de sus cuentas. &lt;/ p&gt; &lt;/ body&gt; &lt;/ html&gt;</translation>
     </message>
     <message>
         <location line="+89"/>
         <source>Quick Transfer</source>
-        <translation type="unfinished"></translation>
+        <translation>Transferencia rápida</translation>
     </message>
     <message>
         <location line="+30"/>
         <source>To</source>
-        <translation type="unfinished">Para</translation>
+        <translation>Para</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Amount</source>
-        <translation type="unfinished"></translation>
+        <translation>Cantidad</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>From</source>
-        <translation type="unfinished">De</translation>
+        <translation>De</translation>
     </message>
     <message>
         <location line="+71"/>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Siguiente</translation>
     </message>
     <message>
         <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Pandacoin network after a connection is established, but this process has not completed yet.</source>
@@ -2422,33 +2434,33 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location filename="../overviewpage.cpp" line="+40"/>
         <source>Copy account address</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar dirección de cuenta</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy account name</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar nombre de la cuenta</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy account balance</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar saldo de cuenta</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Welcome to your Digital PandaBank, You last logged on at</source>
-        <translation type="unfinished"></translation>
+        <translation>Bienvenido a su PandaBank digital, la última vez que inició sesión en</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>on</source>
-        <translation type="unfinished"></translation>
+        <translation>en</translation>
     </message>
     <message>
         <location line="+96"/>
         <location line="+7"/>
         <source>Select account</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar cuenta</translation>
     </message>
 </context>
 <context>
@@ -2456,22 +2468,22 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location filename="../guiutil.cpp" line="-569"/>
         <source>&lt;b&gt;%1&lt;/b&gt; to %2 (%3)</source>
-        <translation type="unfinished">&lt;b&gt;%1&lt;/b&gt; para %2 (%3)</translation>
+        <translation>&lt;b&gt;%1&lt;/b&gt; para %2 (%3)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Confirm send coins</source>
-        <translation type="unfinished">Confirmar el envío de bitcoins</translation>
+        <translation>Confirmar el envío de bitcoins</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Are you sure you want to send %1?</source>
-        <translation type="unfinished">Estás seguro que quieres enviar %1?</translation>
+        <translation>Estás seguro que quieres enviar %1?</translation>
     </message>
     <message>
         <location line="+0"/>
         <source> and </source>
-        <translation type="unfinished">y</translation>
+        <translation> y </translation>
     </message>
     <message>
         <location line="+63"/>
@@ -2485,67 +2497,67 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
         <location line="+12"/>
         <location line="+12"/>
         <source>Send Coins</source>
-        <translation type="unfinished">Enviar bitcoins</translation>
+        <translation>Enviar bitcoins</translation>
     </message>
     <message>
         <location line="-98"/>
         <source>The recipient address is not valid, please recheck.</source>
-        <translation type="unfinished">La dirección de recepción no es válida, compruébela de nuevo.</translation>
+        <translation>La dirección de recepción no es válida, compruébela de nuevo.</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>The amount to pay must be larger than 0.</source>
-        <translation type="unfinished">La cantidad por pagar tiene que ser mayor de 0.</translation>
+        <translation>La cantidad por pagar tiene que ser mayor de 0.</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>The amount exceeds your balance.</source>
-        <translation type="unfinished">La cantidad sobrepasa su saldo.</translation>
+        <translation>La cantidad sobrepasa su saldo.</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>The amount exceeds your available balance, some of your Pandacoins are currently being used to earn you interest.</source>
-        <translation type="unfinished"></translation>
+        <translation>El monto excede su saldo disponible, algunos de sus Pandacoins se utilizan actualmente para ganarle interés.</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>The total exceeds your balance when the %1 transaction fee is included.</source>
-        <translation type="unfinished">El total sobrepasa su saldo cuando se incluye la tasa de envío de %1</translation>
+        <translation>El total sobrepasa su saldo cuando se incluye la tasa de envío de %1.</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>The amount exceeds your available balance when the %1 transaction fee is included, some of your Pandacoins are currently being used to earn you interest.</source>
-        <translation type="unfinished"></translation>
+        <translation>El monto excede su saldo disponible cuando se incluye la tarifa de transacción %1, algunos de sus Pandacoins se están utilizando actualmente para ganarle interés.</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Duplicate address found, can only send to each address once per send operation.</source>
-        <translation type="unfinished">Se ha encontrado una dirección duplicada. Solo se puede enviar a cada dirección una vez por operación de envío.</translation>
+        <translation>Se ha encontrado una dirección duplicada. Solo se puede enviar a cada dirección una vez por operación de envío.</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Error: Transaction creation failed because transaction size (in Kb) too large.</source>
-        <translation type="unfinished"></translation>
+        <translation>Error: Error en la creación de la transacción porque el tamaño de la transacción (en Kb) es demasiado grande.</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Error: Transaction creation failed.</source>
-        <translation type="unfinished">Error: Falla al crear la transacción.</translation>
+        <translation>Error: Falla al crear la transacción.</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Error: The transaction was rejected. This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation type="unfinished">Error: La transacción ha sido rechazada. Esto puede ocurrir si algunas de sus monedas en el monedero ya se gastaron, por ejemplo, si se usa una copia del wallet.dat y se gastaron las monedas de la copia pero no se han marcado como gastadas aquí.</translation>
+        <translation>Error: La transacción ha sido rechazada. Esto puede ocurrir si algunas de sus monedas en el monedero ya se gastaron, por ejemplo, si se usa una copia del wallet.dat y se gastaron las monedas de la copia pero no se han marcado como gastadas aquí.</translation>
     </message>
     <message>
         <location filename="../pandastyles.cpp" line="+18"/>
         <source>Arial, &apos;Helvetica Neue&apos;, Helvetica, sans-serif</source>
-        <translation type="unfinished"></translation>
+        <translation>Arial, &apos;Helvetica Neue&apos;, Helvetica, sans-serif</translation>
     </message>
     <message>
         <location filename="../../init.cpp" line="+849"/>
         <source>My account</source>
-        <translation type="unfinished"></translation>
+        <translation>Mi cuenta</translation>
     </message>
     <message>
         <location filename="../../main.cpp" line="+928"/>
@@ -2554,7 +2566,11 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
 
 The most likely cause of this error is a problem with your local blockchain, so the blockchain will now reset itself and sync again.
 Should you encounter this error repeatedly please seek assistance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Error de sincronización encontrado:
+%s
+
+La causa más probable de este error es un problema con tu cadena de bloques local, por lo que la cadena de bloques se restablecerá y se sincronizará nuevamente.
+Si encuentra este error repetidamente, busque ayuda.</translation>
     </message>
 </context>
 <context>
@@ -2602,7 +2618,7 @@ Should you encounter this error repeatedly please seek assistance.</source>
     <message>
         <location line="+23"/>
         <source>Resulting URI too long, try to reduce the text for label / message.</source>
-        <translation>La URI es demasiado larga, pruebe a acortar el texto para la etiqueta / mensaje</translation>
+        <translation>La URI es demasiado larga, pruebe a acortar el texto para la etiqueta / mensaje.</translation>
     </message>
     <message>
         <location line="+25"/>
@@ -2749,7 +2765,7 @@ Should you encounter this error repeatedly please seek assistance.</source>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
         <source>Welcome to the Pandacoin RPC console.</source>
-        <translation>Bienvenido a la consola RPC de Pandacoin</translation>
+        <translation>Bienvenido a la consola RPC de Pandacoin.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2971,48 +2987,48 @@ Should you encounter this error repeatedly please seek assistance.</source>
     <message>
         <location line="+59"/>
         <source>Send Pandacoins</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar Pandacoins</translation>
     </message>
     <message>
         <location line="+74"/>
         <source>Coin Control Features</source>
-        <translation type="unfinished">Características de Coin Control</translation>
+        <translation>Características de Coin Control</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Inputs...</source>
-        <translation type="unfinished">Entradas...</translation>
+        <translation>Entradas...</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>automatically selected</source>
-        <translation type="unfinished">Seleccionado automáticamente</translation>
+        <translation>Seleccionado automáticamente</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Insufficient funds!</source>
-        <translation type="unfinished">Fondos insuficientes!</translation>
+        <translation>Fondos insuficientes!</translation>
     </message>
     <message>
         <location line="+77"/>
         <source>Quantity:</source>
-        <translation type="unfinished">Cantidad:</translation>
+        <translation>Cantidad:</translation>
     </message>
     <message>
         <location line="+22"/>
         <location line="+35"/>
         <source>0</source>
-        <translation type="unfinished">0</translation>
+        <translation>0</translation>
     </message>
     <message>
         <location line="-19"/>
         <source>Bytes:</source>
-        <translation type="unfinished">Bytes:</translation>
+        <translation>Bytes:</translation>
     </message>
     <message>
         <location line="+51"/>
         <source>Amount:</source>
-        <translation type="unfinished"></translation>
+        <translation>Cantidad:</translation>
     </message>
     <message>
         <location line="+22"/>
@@ -3020,77 +3036,77 @@ Should you encounter this error repeatedly please seek assistance.</source>
         <location line="+86"/>
         <location line="+32"/>
         <source>0.00 PND</source>
-        <translation type="unfinished">123.456 PND {0.00 ?}</translation>
+        <translation>123.456 PND {0.00 ?}</translation>
     </message>
     <message>
         <location line="-191"/>
         <source>Priority:</source>
-        <translation type="unfinished">Prioridad:</translation>
+        <translation>Prioridad:</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>medium</source>
-        <translation type="unfinished">medio</translation>
+        <translation>medio</translation>
     </message>
     <message>
         <location line="+32"/>
         <source>Fee:</source>
-        <translation type="unfinished">Tasa:</translation>
+        <translation>Tasa:</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>Low Output:</source>
-        <translation type="unfinished">Envío pequeño:</translation>
+        <translation>Envío pequeño:</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>no</source>
-        <translation type="unfinished">no</translation>
+        <translation>no</translation>
     </message>
     <message>
         <location line="+32"/>
         <source>After Fee:</source>
-        <translation type="unfinished">Después de tasas:</translation>
+        <translation>Después de tasas:</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>Change</source>
-        <translation type="unfinished">Cambio</translation>
+        <translation>Cambio</translation>
     </message>
     <message>
         <location line="+50"/>
         <source>custom change address</source>
-        <translation type="unfinished">dirección de cambio personalizada</translation>
+        <translation>dirección de cambio personalizada</translation>
     </message>
     <message>
         <location line="+67"/>
         <source>From</source>
-        <translation type="unfinished">De</translation>
+        <translation>De</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>To</source>
-        <translation type="unfinished">Para</translation>
+        <translation>Para</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Or</source>
-        <translation type="unfinished"></translation>
+        <translation>o</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Amount</source>
-        <translation type="unfinished"></translation>
+        <translation>Cantidad</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>▾ Send To My Own Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>▾ Enviar a mis propias cuentas</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Siguiente</translation>
     </message>
     <message>
         <source>A&amp;mount:</source>
@@ -3139,75 +3155,76 @@ Should you encounter this error repeatedly please seek assistance.</source>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+108"/>
         <source>Copy quantity</source>
-        <translation type="unfinished">Copiar cantidad</translation>
+        <translation>Copiar cantidad</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy amount</source>
-        <translation type="unfinished">Copiar cuantía</translation>
+        <translation>Copiar cuantía</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy fee</source>
-        <translation type="unfinished">Copiar donación</translation>
+        <translation>Copiar donación</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy after fee</source>
-        <translation type="unfinished">Copiar después de aplicar donación</translation>
+        <translation>Copiar después de aplicar donación</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy bytes</source>
-        <translation type="unfinished">Copiar bytes</translation>
+        <translation>Copiar bytes</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy priority</source>
-        <translation type="unfinished">Copiar prioridad</translation>
+        <translation>Copiar prioridad</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy low output</source>
-        <translation type="unfinished">Copiar envío pequeño</translation>
+        <translation>Copiar envío pequeño</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy change</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar cambio</translation>
     </message>
     <message>
         <location line="+115"/>
         <location line="+46"/>
         <source>No from account selected</source>
-        <translation type="unfinished"></translation>
+        <translation>No desde la cuenta seleccionada</translation>
     </message>
     <message>
         <location line="-46"/>
         <location line="+46"/>
         <source>You have not selected an account from which to make the payment.
 Please select the &quot;from&quot; address at the top of this page.</source>
-        <translation type="unfinished"></translation>
+        <translation>No ha seleccionado una cuenta desde la cual realizar el pago.
+Seleccione la dirección &quot;de&quot; en la parte superior de esta página.</translation>
     </message>
     <message>
         <location line="+114"/>
         <source>Search your accounts list...</source>
-        <translation type="unfinished"></translation>
+        <translation>Busque en su lista de cuentas ...</translation>
     </message>
     <message>
         <location line="+224"/>
         <source>WARNING: Invalid Pandacoin address</source>
-        <translation type="unfinished">ADVERTENCIA: Dirección Pandacoin inválida</translation>
+        <translation>ADVERTENCIA: Dirección Pandacoin inválida</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>(no label)</source>
-        <translation type="unfinished">(sin etiqueta)</translation>
+        <translation>(sin etiqueta)</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>WARNING: unknown change address</source>
-        <translation type="unfinished">ADVERTENCIA: dirección de cambio desconocida</translation>
+        <translation>ADVERTENCIA: dirección de cambio desconocida</translation>
     </message>
 </context>
 <context>
@@ -3215,82 +3232,82 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location filename="../forms/sendcoinstargetwidget.ui" line="+14"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Marco</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>Account name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de la cuenta</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>The address to send the payment to  (e.g. PBZ8YVV3XT3WWWd2a1jo4N9WePiwKB3mJE)</source>
-        <translation type="unfinished">La dirección a la que se quiere enviar el pago (p.ej. PBZ8YVV3XT3WWWd2a1jo4N9WePiwKB3mJE)</translation>
+        <translation>La dirección a la que se quiere enviar el pago (p.ej. PBZ8YVV3XT3WWWd2a1jo4N9WePiwKB3mJE)</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Enter a Pandacoin address (e.g. PBZ8YVV3XT3WWWd2a1jo4N9WePiwKB3mJE)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingrese una dirección de Pandacoin (por ejemplo, PBZ8YVV3XT3WWWd2a1jo4N9WePiwKB3mJE)</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Choose address from address book</source>
-        <translation type="unfinished">Elije dirección de la libreta de direcciones</translation>
+        <translation>Elije dirección de la libreta de direcciones</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Alt+A</source>
-        <translation type="unfinished">Alt+A</translation>
+        <translation>Alt+A</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Paste address from clipboard</source>
-        <translation type="unfinished">Pegar dirección desde portapapeles</translation>
+        <translation>Pegar dirección desde portapapeles</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Alt+P</source>
-        <translation type="unfinished">Alt+P</translation>
+        <translation>Alt+P</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Remove this recipient</source>
-        <translation type="unfinished">Elimina este beneficiario</translation>
+        <translation>Elimina este beneficiario</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Account address</source>
-        <translation type="unfinished"></translation>
+        <translation>Dirección de cuenta</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Siguiente</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Add another</source>
-        <translation type="unfinished"></translation>
+        <translation>Agrega otro</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>▾</source>
-        <translation type="unfinished"></translation>
+        <translation>▾</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Amount</source>
-        <translation type="unfinished"></translation>
+        <translation>Cantidad</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>New accounts will automatically be added to your address book</source>
-        <translation type="unfinished"></translation>
+        <translation>Las nuevas cuentas se agregarán automáticamente a su libreta de direcciones</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Enter an account name for this account address to add it to your address book</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingrese el nombre de una cuenta para esta dirección de cuenta para agregarla a su libreta de direcciones</translation>
     </message>
 </context>
 <context>
@@ -3351,7 +3368,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+21"/>
         <source>Sign the message to prove you own this Pandacoin address</source>
-        <translation>Firma el mensaje para demostrar que posees esta dirección Pandacoin.</translation>
+        <translation>Firma el mensaje para demostrar que posees esta dirección Pandacoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -3383,7 +3400,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+40"/>
         <source>Verify the message to ensure it was signed with the specified Pandacoin address</source>
-        <translation>Verifique el mensaje para asegurarse de que se firmó con la dirección Pandacoin especificada.</translation>
+        <translation>Verifique el mensaje para asegurarse de que se firmó con la dirección Pandacoin especificada</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -3429,7 +3446,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="-73"/>
         <source>Wallet unlock was cancelled.</source>
-        <translation>Se ha cancelado el desbloqueo del monedero. </translation>
+        <translation>Se ha cancelado el desbloqueo del monedero.</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -3479,7 +3496,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
         <location filename="../accountmodel.cpp" line="+241"/>
         <location line="+4"/>
         <source>All Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Todas las cuentas</translation>
     </message>
 </context>
 <context>
@@ -3487,7 +3504,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location filename="../forms/tabbeddatewidget.ui" line="+20"/>
         <source>TabWidget</source>
-        <translation type="unfinished"></translation>
+        <translation>TabWidget</translation>
     </message>
 </context>
 <context>
@@ -3696,37 +3713,37 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location filename="../forms/transactionfilterwidget.ui" line="+20"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Marco</translation>
     </message>
     <message>
         <location line="+21"/>
         <source> or jump to</source>
-        <translation type="unfinished"></translation>
+        <translation> o saltar a</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Espectáculo</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Recent Transactions</source>
-        <translation type="unfinished"></translation>
+        <translation>Transacciones Recientes</translation>
     </message>
     <message>
         <location line="+30"/>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Search by keyword</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar por palabra clave</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
 </context>
 <context>
@@ -3771,22 +3788,22 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="-64"/>
         <source>From account</source>
-        <translation type="unfinished"></translation>
+        <translation>De la cuenta</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>To account</source>
-        <translation type="unfinished"></translation>
+        <translation>A la cuenta</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Account Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de la cuenta</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Balance</source>
-        <translation type="unfinished"></translation>
+        <translation>Equilibrar</translation>
     </message>
     <message>
         <location line="+70"/>
@@ -3827,52 +3844,52 @@ Please select the &quot;from&quot; address at the top of this page.</source>
         <location line="+42"/>
         <location line="+2"/>
         <source>Received</source>
-        <translation type="unfinished"></translation>
+        <translation>Recibido</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Sent</source>
-        <translation type="unfinished"></translation>
+        <translation>Expedido</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Internal Transfer</source>
-        <translation type="unfinished"></translation>
+        <translation>Transferencia interna</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Interest</source>
-        <translation type="unfinished"></translation>
+        <translation>Interesar</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Fee</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuota</translation>
     </message>
     <message>
         <location line="+569"/>
         <source>Destination account of transaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuenta de destino de la transacción.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Source account of transaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuenta de origen de la transacción.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Account for transaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuenta para la transacción.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Other account for transaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>Otra cuenta para transacción.</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Account balance at end of transaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>Saldo de la cuenta al final de la transacción.</translation>
     </message>
     <message>
         <source>Received with</source>
@@ -4018,7 +4035,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+1"/>
         <source>Show transaction in blockchain explorer</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar transacción en blockchain explorer</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -4089,17 +4106,17 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location filename="../forms/transferpage.ui" line="+14"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Marco</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Transfers</source>
-        <translation type="unfinished"></translation>
+        <translation>Transferencias</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Address Book</source>
-        <translation type="unfinished">Libreta de Direcciones</translation>
+        <translation>Libreta de Direcciones</translation>
     </message>
 </context>
 <context>
@@ -4130,20 +4147,17 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+1"/>
         <source>List commands</source>
-        <translation>Muestra comandos
-</translation>
+        <translation>Muestra comandos</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Get help for a command</source>
-        <translation>Recibir ayuda para un comando
-</translation>
+        <translation>Recibir ayuda para un comando</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Options:</source>
-        <translation>Opciones:
-</translation>
+        <translation>Opciones:</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -4233,7 +4247,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="-5"/>
         <source>Error: This transaction requires a transaction fee of at least %s because of its amount, complexity, or use of recently received funds  </source>
-        <translation>Error: Esta transacción requiere de una comisión de transacción de al menos %s debido a su tamaño, complejidad, o uso de fondos recibidos recientemente.</translation>
+        <translation>Error: Esta transacción requiere de una comisión de transacción de al menos %s debido a su tamaño, complejidad, o uso de fondos recibidos recientemente  </translation>
     </message>
     <message>
         <location line="-87"/>
@@ -4243,18 +4257,17 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="-11"/>
         <source>Accept command line and JSON-RPC commands</source>
-        <translation>Aceptar comandos consola y JSON-RPC
-</translation>
+        <translation>Aceptar comandos consola y JSON-RPC</translation>
     </message>
     <message>
         <location line="+101"/>
         <source>Error: Transaction creation failed  </source>
-        <translation>Error: Fallo al crear la transacción.</translation>
+        <translation>Error: Fallo al crear la transacción  </translation>
     </message>
     <message>
         <location line="-5"/>
         <source>Error: Wallet locked, unable to create transaction  </source>
-        <translation>Error: Monedero bloqueado, no es posible crear una transacción</translation>
+        <translation>Error: Monedero bloqueado, no es posible crear una transacción  </translation>
     </message>
     <message>
         <location line="-8"/>
@@ -4269,14 +4282,12 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="-88"/>
         <source>Run in the background as a daemon and accept commands</source>
-        <translation>Ejecutar en segundo plano como daemon y aceptar comandos
-</translation>
+        <translation>Ejecutar en segundo plano como daemon y aceptar comandos</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Use the test network</source>
-        <translation>Usar la red de pruebas
-</translation>
+        <translation>Usar la red de pruebas</translation>
     </message>
     <message>
         <location line="-24"/>
@@ -4437,7 +4448,8 @@ Please select the &quot;from&quot; address at the top of this page.</source>
         <location line="+109"/>
         <source>Unable to sign checkpoint, wrong checkpointkey?
 </source>
-        <translation>No es posible firmar el punto de control, clave de punto de control incorrecta?%s</translation>
+        <translation>No es posible firmar el punto de control, clave de punto de control incorrecta? %s?
+</translation>
     </message>
     <message>
         <location line="-80"/>
@@ -4457,8 +4469,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+42"/>
         <source>Username for JSON-RPC connections</source>
-        <translation>Nombre de usuario para las conexiones JSON-RPC
-</translation>
+        <translation>Nombre de usuario para las conexiones JSON-RPC</translation>
     </message>
     <message>
         <location line="+47"/>
@@ -4483,13 +4494,12 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="-48"/>
         <source>wallet.dat corrupt, salvage failed</source>
-        <translation>wallet.dat corrupto. Ha fallado la recuperación.</translation>
+        <translation>wallet.dat corrupto. Ha fallado la recuperación</translation>
     </message>
     <message>
         <location line="-54"/>
         <source>Password for JSON-RPC connections</source>
-        <translation>Contraseña para las conexiones JSON-RPC
-</translation>
+        <translation>Contraseña para las conexiones JSON-RPC</translation>
     </message>
     <message>
         <location line="-84"/>
@@ -4534,14 +4544,12 @@ por ejemplo: alertnotify=echo %%s | mail -s &quot;Pandacoin Alert&quot; admin@fo
     <message>
         <location line="+16"/>
         <source>Allow JSON-RPC connections from specified IP address</source>
-        <translation>Permitir conexiones JSON-RPC desde la dirección IP especificada
-</translation>
+        <translation>Permitir conexiones JSON-RPC desde la dirección IP especificada</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Send commands to node running on &lt;ip&gt; (default: 127.0.0.1)</source>
-        <translation>Enviar comando al nodo situado en &lt;ip&gt; (predeterminado: 127.0.0.1)
-</translation>
+        <translation>Enviar comando al nodo situado en &lt;ip&gt; (predeterminado: 127.0.0.1)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -4576,8 +4584,7 @@ por ejemplo: alertnotify=echo %%s | mail -s &quot;Pandacoin Alert&quot; admin@fo
     <message>
         <location line="+1"/>
         <source>Set key pool size to &lt;n&gt; (default: 100)</source>
-        <translation>Ajustar el número de claves en reserva &lt;n&gt; (predeterminado: 100)
-</translation>
+        <translation>Ajustar el número de claves en reserva &lt;n&gt; (predeterminado: 100)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -4602,20 +4609,17 @@ por ejemplo: alertnotify=echo %%s | mail -s &quot;Pandacoin Alert&quot; admin@fo
     <message>
         <location line="+8"/>
         <source>Use OpenSSL (https) for JSON-RPC connections</source>
-        <translation>Usar OpenSSL (https) para las conexiones JSON-RPC
-</translation>
+        <translation>Usar OpenSSL (https) para las conexiones JSON-RPC</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Server certificate file (default: server.cert)</source>
-        <translation>Certificado del servidor (predeterminado: server.cert)
-</translation>
+        <translation>Certificado del servidor (predeterminado: server.cert)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Server private key (default: server.pem)</source>
-        <translation>Clave privada del servidor (predeterminado: server.pem)
-</translation>
+        <translation>Clave privada del servidor (predeterminado: server.pem)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -4635,8 +4639,7 @@ por ejemplo: alertnotify=echo %%s | mail -s &quot;Pandacoin Alert&quot; admin@fo
     <message>
         <location line="-158"/>
         <source>This help message</source>
-        <translation>Este mensaje de ayuda
-</translation>
+        <translation>Este mensaje de ayuda</translation>
     </message>
     <message>
         <location line="+95"/>

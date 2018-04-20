@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="nl">
+<TS version="2.1" language="nl">
 <context>
     <name>AboutDialog</name>
     <message>
@@ -10,7 +10,7 @@
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>Over Digital PandaBank</translation>
     </message>
     <message>
         <location line="+39"/>
@@ -24,7 +24,7 @@ Copyright © 2012-2014 The NovaCoin developers
 Copyright © 2014 The Pandacoin developers</source>
         <translation>Copyright © 2009-2014 De Bitcoin ontwikkelaars
 Copyright © 2012-2014 De NovaCoin ontwikkelaars
-Copyright © 2014 De Pandacoin ontwikkelaars</translation>
+Copyright © 2014-2018 De Pandacoin ontwikkelaars</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -47,17 +47,17 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     <message>
         <location filename="../accountmodel.cpp" line="+24"/>
         <source>Account Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Accountnaam</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Account Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Account adres</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Account Balance</source>
-        <translation type="unfinished"></translation>
+        <translation>Accountsaldo</translation>
     </message>
 </context>
 <context>
@@ -65,81 +65,81 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     <message>
         <location filename="../forms/accountpage.ui" line="+20"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>omlijsting</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Transactions</source>
-        <translation type="unfinished"></translation>
+        <translation>Transactie</translation>
     </message>
     <message>
         <location line="+38"/>
         <source>View transactions for</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekijk transacties voor</translation>
     </message>
     <message>
         <location line="+36"/>
         <source>Copy Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Adres kopiëren</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Show QR Code</source>
-        <translation type="unfinished"></translation>
+        <translation>QR-code weergeven</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Sign message</source>
-        <translation type="unfinished"></translation>
+        <translation>Teken bericht</translation>
     </message>
     <message>
         <location line="+132"/>
         <source>Last 30 Days</source>
-        <translation type="unfinished"></translation>
+        <translation>Laatste 30 dagen</translation>
     </message>
     <message>
         <location line="+40"/>
         <source>Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Uit</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>In</source>
-        <translation type="unfinished"></translation>
+        <translation>In</translation>
     </message>
     <message>
         <location line="+23"/>
         <location line="+10"/>
         <location line="+140"/>
         <source>PND</source>
-        <translation type="unfinished"></translation>
+        <translation>PND</translation>
     </message>
     <message>
         <location line="-128"/>
         <source>Interest Gained</source>
-        <translation type="unfinished"></translation>
+        <translation>Geïnteresseerde rente</translation>
     </message>
     <message>
         <location line="+115"/>
         <source>Total interest</source>
-        <translation type="unfinished"></translation>
+        <translation>Totale rente</translation>
     </message>
     <message>
         <location line="+32"/>
         <location line="+25"/>
         <source>Create Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Account aanmaken</translation>
     </message>
     <message>
         <location filename="../forms/accountpage.cpp" line="+155"/>
         <source>All Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle accounts</translation>
     </message>
     <message>
         <location line="+28"/>
         <location line="+4"/>
         <source>transaction found</source>
-        <translation type="unfinished"></translation>
+        <translation>transactie gevonden</translation>
     </message>
 </context>
 <context>
@@ -147,58 +147,58 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     <message>
         <location filename="../forms/accountsummaryheaderwidget.ui" line="+14"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>omlijsting</translation>
     </message>
     <message>
         <location line="+32"/>
         <source>Earning interest</source>
-        <translation type="unfinished"></translation>
+        <translation>Verdienen van rente</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Total balance</source>
-        <translation type="unfinished"></translation>
+        <translation>Eindbalans</translation>
     </message>
     <message>
         <location line="+153"/>
         <source>Edit account name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bewerk de accountnaam.</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Accept new account name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Accepteer de nieuwe accountnaam.</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Cancel editing of account name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuleer de bewerking van de accountnaam.</translation>
     </message>
     <message>
         <location line="-156"/>
         <source>Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Beschikbaar</translation>
     </message>
     <message>
         <location line="+37"/>
         <source>Pending</source>
-        <translation type="unfinished"></translation>
+        <translation>In afwachting</translation>
     </message>
     <message>
         <location filename="../forms/accountsummaryheaderwidget.cpp" line="+63"/>
         <location line="+9"/>
         <source>Error</source>
-        <translation type="unfinished">Fout</translation>
+        <translation>Fout</translation>
     </message>
     <message>
         <location line="-9"/>
         <source>An account with this name already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Er bestaat al een account met deze naam.</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Error could not change name of Digital PandaBank account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fout kan naam van Digital PandaBank-account niet wijzigen.</translation>
     </message>
 </context>
 <context>
@@ -246,7 +246,7 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     <message>
         <location line="+11"/>
         <source>Sign a message to prove you own a Pandacoin address</source>
-        <translation>Teken een bericht om te bewijzen dat je een Pandacoin adres bezit.</translation>
+        <translation>Teken een bericht om te bewijzen dat je een Pandacoin adres bezit</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -301,7 +301,7 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     <message>
         <location line="+0"/>
         <source>Could not write to file %1.</source>
-        <translation>Kan niet schrijven naat bestand %1</translation>
+        <translation>Kan niet schrijven naat bestand %1.</translation>
     </message>
 </context>
 <context>
@@ -309,67 +309,67 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     <message>
         <location filename="../forms/addressbookpage_new.ui" line="+14"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>omlijsting</translation>
     </message>
     <message>
         <location line="+34"/>
         <source>Address Book</source>
-        <translation type="unfinished">Adresboek</translation>
+        <translation>Adresboek</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>Create a new address</source>
-        <translation type="unfinished">Maak een nieuw adres aan</translation>
+        <translation>Maak een nieuw adres aan</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;New Address</source>
-        <translation type="unfinished">&amp;Nieuw adres</translation>
+        <translation>&amp;Nieuw adres</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Copy the currently selected address to the system clipboard</source>
-        <translation type="unfinished">Kopieer het huidig geselecteerde adres naar het klembord</translation>
+        <translation>Kopieer het huidig geselecteerde adres naar het klembord</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Copy Address</source>
-        <translation type="unfinished">&amp;Kopiëer Adres</translation>
+        <translation>&amp;Kopiëer Adres</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Show &amp;QR Code</source>
-        <translation type="unfinished">Toon &amp;QR Code</translation>
+        <translation>Toon &amp;QR Code</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Verify a message to ensure it was signed with a specified Pandacoin address</source>
-        <translation type="unfinished">Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek Pandacoin adres</translation>
+        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek Pandacoin adres</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Verify Message</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Verifieer bericht</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Delete the currently selected address from the list</source>
-        <translation type="unfinished">Verwijder het geselecteerde adres van de lijst</translation>
+        <translation>Verwijder het geselecteerde adres van de lijst</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Delete</source>
-        <translation type="unfinished">&amp;Verwijder</translation>
+        <translation>&amp;Verwijder</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Search address book</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoek adresboek</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>label</source>
@@ -379,47 +379,47 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
         <location line="+80"/>
         <location line="+245"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Bewerk</translation>
     </message>
     <message>
         <location line="+40"/>
         <source>Account address</source>
-        <translation type="unfinished"></translation>
+        <translation>Account adres</translation>
     </message>
     <message>
         <location line="-191"/>
         <source>Send Pandacoins</source>
-        <translation type="unfinished"></translation>
+        <translation>Stuur Pandacoins</translation>
     </message>
     <message>
         <location line="+40"/>
         <source>From</source>
-        <translation type="unfinished">Van</translation>
+        <translation>Van</translation>
     </message>
     <message>
         <location line="+36"/>
         <source>Amount</source>
-        <translation type="unfinished">Bedrag</translation>
+        <translation>Bedrag</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>volgende</translation>
     </message>
     <message>
         <location line="+67"/>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>Gedaan</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Account name</source>
-        <translation type="unfinished"></translation>
+        <translation>Accountnaam</translation>
     </message>
     <message>
         <location line="+57"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder</translation>
     </message>
 </context>
 <context>
@@ -451,22 +451,22 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
         <location line="+21"/>
         <location filename="../askpassphrasedialog.cpp" line="+42"/>
         <source>Enter password</source>
-        <translation type="unfinished"></translation>
+        <translation>Voer wachtwoord in</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>New password</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw paswoord</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Repeat new password</source>
-        <translation type="unfinished"></translation>
+        <translation>Herhaal nieuw wachtwoord</translation>
     </message>
     <message>
         <location line="+39"/>
         <source>For earning interest only</source>
-        <translation type="unfinished"></translation>
+        <translation>Alleen voor het verdienen van rente</translation>
     </message>
     <message>
         <source>Enter passphrase</source>
@@ -536,83 +536,83 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     <message>
         <location filename="../askpassphrasedialog.cpp" line="-7"/>
         <source>Enter the new password to the wallet.&lt;br/&gt;Please use a password of &lt;b&gt;10 or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Voer het nieuwe wachtwoord in voor de portefeuille. &lt;br/&gt; Gebruik een wachtwoord van &lt;b&gt; 10 of meer willekeurige tekens &lt;/ b&gt; of &lt;b&gt; acht of meer woorden &lt;/ b&gt;.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Encrypt Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>Versleutel Digital PandaBank</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Log on to Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>Meld u aan bij Digital PandaBank</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Please enter your Digital PandaBank password to log on to Digital PandaBank.</source>
-        <translation type="unfinished"></translation>
+        <translation>Voer uw Digital PandaBank-wachtwoord in om u aan te melden bij Digital PandaBank.</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>LOG ON</source>
-        <translation type="unfinished"></translation>
+        <translation>INLOGGEN</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>This operation needs your Digital PandaBank password to unlock Digital PandaBank.</source>
-        <translation type="unfinished"></translation>
+        <translation>Voor deze operatie hebt u uw digitale PandaBank-wachtwoord nodig om Digital PandaBank te ontgrendelen.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Unlock Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>Ontgrendel de digitale PandaBank</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>This operation needs your Digital PandaBank password to decrypt Digital PandaBank.</source>
-        <translation type="unfinished"></translation>
+        <translation>Voor deze operatie hebt u uw digitale PandaBank-wachtwoord nodig om Digital PandaBank te decoderen.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Decrypt Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>Decrypt Digital PandaBank</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Change password</source>
-        <translation type="unfinished"></translation>
+        <translation>Verander wachtwoord</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Enter the old and new password to Digital PandaBank.</source>
-        <translation type="unfinished"></translation>
+        <translation>Voer het oude en nieuwe wachtwoord in voor Digital PandaBank.</translation>
     </message>
     <message>
         <location line="+46"/>
         <source>Confirm Digital PandaBank encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Bevestig de digitale PandaBank-codering</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Warning: If you encrypt your Digital PandaBank and lose your password, you will &lt;b&gt;LOSE ALL OF YOUR COINS&lt;/b&gt;!</source>
-        <translation type="unfinished"></translation>
+        <translation>Waarschuwing: als u uw digitale PandaBank codeert en uw wachtwoord verliest, verlaagt u &lt;b&gt; ALLES VAN UW MUNTEN &lt;/ b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Are you sure you wish to encrypt your Digital PandaBank?</source>
-        <translation type="unfinished"></translation>
+        <translation>Weet je zeker dat je je digitale PandaBank wilt coderen?</translation>
     </message>
     <message>
         <location line="+9"/>
         <location line="+61"/>
         <source>Digital PandaBank encrypted</source>
-        <translation type="unfinished"></translation>
+        <translation>Digitale PandaBank gecodeerd</translation>
     </message>
     <message>
         <location line="-59"/>
         <source>Digital PandaBank will close now to finish the encryption process. Remember that encrypting your Digital PandaBank cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation type="unfinished"></translation>
+        <translation>De digitale PandaBank wordt nu gesloten om het coderingsproces te voltooien. Vergeet niet dat het coderen van uw digitale PandaBank uw munten niet volledig kan beschermen tegen diefstal door malware die uw computer infecteert.</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -625,40 +625,40 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
         <location line="+45"/>
         <location line="+6"/>
         <source>Digital PandaBank encryption failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Digitale PandaBank-codering mislukt</translation>
     </message>
     <message>
         <location line="-57"/>
         <source>Digital PandaBank encryption failed due to an internal error. Your Digital PandaBank was not encrypted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Digitale PandaBank-codering is mislukt vanwege een interne fout. Uw digitale PandaBank is niet gecodeerd.</translation>
     </message>
     <message>
         <location line="+7"/>
         <location line="+51"/>
         <source>The supplied passwords do not match.</source>
-        <translation type="unfinished"></translation>
+        <translation>De meegeleverde wachtwoorden komen niet overeen.</translation>
     </message>
     <message>
         <location line="-38"/>
         <source>Digital PandaBank unlock failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Digital PandaBank unlock mislukt</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+12"/>
         <location line="+19"/>
         <source>The password entered for your Digital PandaBank was incorrect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het wachtwoord dat voor uw digitale PandaBank is ingevoerd, was onjuist.</translation>
     </message>
     <message>
         <location line="-20"/>
         <source>Digital PandaBank decryption failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Digitale PandaBank-decodering mislukt</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Wallet password was successfully changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wallet-wachtwoord is succesvol gewijzigd.</translation>
     </message>
     <message>
         <location line="+49"/>
@@ -713,32 +713,32 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     <message>
         <location line="+240"/>
         <source>%1 active %2 to Digital PandaBank network</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 actief %2 naar digitaal PandaBank-netwerk</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>connection</source>
-        <translation type="unfinished"></translation>
+        <translation>verbinding</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>connections</source>
-        <translation type="unfinished"></translation>
+        <translation>verbindingen</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Searching for peers.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoeken naar collega&apos;s.</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Connecting to peers.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verbinden met peers.</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Fetching checkpoints.</source>
-        <translation type="unfinished"></translation>
+        <translation>IJkpunten ophalen.</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -750,51 +750,51 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
         <location line="+29"/>
         <location line="+29"/>
         <source>%1 %2 remaining</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 %2 resterend</translation>
     </message>
     <message>
         <location line="-217"/>
         <source>checkpoint</source>
-        <translation type="unfinished"></translation>
+        <translation>checkpoint</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>checkpoints</source>
-        <translation type="unfinished"></translation>
+        <translation>checkpoints</translation>
     </message>
     <message>
         <location line="+22"/>
         <location line="+33"/>
         <source>Performing Instant Sync</source>
-        <translation type="unfinished"></translation>
+        <translation>Instant Sync uitvoeren</translation>
     </message>
     <message>
         <location line="-31"/>
         <source>(Phase 1 of 3)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Fase 1 van 3)</translation>
     </message>
     <message>
         <location line="+9"/>
         <location line="+96"/>
         <source>header</source>
-        <translation type="unfinished"></translation>
+        <translation>hoofd</translation>
     </message>
     <message>
         <location line="-96"/>
         <location line="+96"/>
         <source>headers</source>
-        <translation type="unfinished"></translation>
+        <translation>hoofd</translation>
     </message>
     <message>
         <location line="-88"/>
         <location line="+96"/>
         <source>Downloaded %1 of %2 headers (%3% done).</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 van %2 headers gedownload (%3% voltooid).</translation>
     </message>
     <message>
         <location line="-80"/>
         <source>(Phase 2 of 3)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Fase 2 van 3)</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -803,7 +803,7 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
         <location line="+29"/>
         <location line="+29"/>
         <source>block</source>
-        <translation type="unfinished"></translation>
+        <translation>blok</translation>
     </message>
     <message>
         <location line="-151"/>
@@ -812,48 +812,48 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
         <location line="+29"/>
         <location line="+29"/>
         <source>blocks</source>
-        <translation type="unfinished"></translation>
+        <translation>blokken</translation>
     </message>
     <message>
         <location line="-143"/>
         <location line="+93"/>
         <source>Downloaded %1 of %2 blocks (%3% done).</source>
-        <translation type="unfinished"></translation>
+        <translation>Gedownloade %1 van %2 blokken (%3% voltooid).</translation>
     </message>
     <message>
         <location line="-79"/>
         <source>Scanning wallet transactions</source>
-        <translation type="unfinished"></translation>
+        <translation>Portemonnee-transacties scannen</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>(Phase 3 of 3)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Fase 3 van 3)</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Scanned %1 of %2 blocks (%3% done).</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 van %2 blokken gescand (%3% voltooid).</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Rapid Blockchain Download (Phase 1 of 2).</source>
-        <translation type="unfinished"></translation>
+        <translation>Snelle Blockchain-download (fase 1 van 2).</translation>
     </message>
     <message>
         <location line="+30"/>
         <source>Rapid Blockchain Download (Phase 2 of 2).</source>
-        <translation type="unfinished"></translation>
+        <translation>Snelle blockchain-download (fase 2 van 2).</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>Verify blockchain.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verifieer blockchain.</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Verified %1 of %2 blocks (%3% done).</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 van %2 blokken geverifieerd (%3% voltooid).</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -868,22 +868,22 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     <message>
         <location line="-156"/>
         <source>Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>Digitale PandaBank</translation>
     </message>
     <message>
         <location line="+58"/>
         <source>My Home</source>
-        <translation type="unfinished"></translation>
+        <translation>Mijn huis</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>View Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Accounts bekijken</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Transfers</source>
-        <translation type="unfinished"></translation>
+        <translation>transfers</translation>
     </message>
     <message>
         <location line="+96"/>
@@ -893,7 +893,7 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     <message>
         <location line="+6"/>
         <source>Send coins to a Digital PandaBank address</source>
-        <translation type="unfinished"></translation>
+        <translation>Stuur munten naar een Digital PandaBank-adres</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -928,7 +928,7 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     <message>
         <location line="-7"/>
         <source>&amp;Send coins</source>
-        <translation>Verstuur munten</translation>
+        <translation>&amp;Verstuur munten</translation>
     </message>
     <message>
         <location line="+33"/>
@@ -1105,61 +1105,61 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
         <location line="+4"/>
         <location line="+4"/>
         <source>%1 %2 ago</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 %2 geleden</translation>
     </message>
     <message>
         <location line="-12"/>
         <location line="+454"/>
         <source>second</source>
-        <translation type="unfinished"></translation>
+        <translation>tweede</translation>
     </message>
     <message>
         <location line="-454"/>
         <location line="+454"/>
         <source>seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>seconden</translation>
     </message>
     <message>
         <location line="-450"/>
         <location line="+454"/>
         <source>minute</source>
-        <translation type="unfinished"></translation>
+        <translation>minuut</translation>
     </message>
     <message>
         <location line="-454"/>
         <location line="+454"/>
         <source>minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>notulen</translation>
     </message>
     <message>
         <location line="-450"/>
         <location line="+454"/>
         <source>hour</source>
-        <translation type="unfinished"></translation>
+        <translation>uur</translation>
     </message>
     <message>
         <location line="-454"/>
         <location line="+454"/>
         <source>hours</source>
-        <translation type="unfinished"></translation>
+        <translation>uur</translation>
     </message>
     <message>
         <location line="-450"/>
         <location line="+454"/>
         <source>day</source>
-        <translation type="unfinished"></translation>
+        <translation>dag</translation>
     </message>
     <message>
         <location line="-454"/>
         <location line="+454"/>
         <source>days</source>
-        <translation type="unfinished"></translation>
+        <translation>dagen</translation>
     </message>
     <message>
         <location line="-250"/>
         <location line="+15"/>
         <source>URI can not be parsed! This can be caused by an invalid Digital PandaBank address or malformed URI parameters.</source>
-        <translation type="unfinished"></translation>
+        <translation>URI kan niet worden geparseerd! Dit kan worden veroorzaakt door een ongeldig Digital PandaBank-adres of onjuist geformuleerde URI-parameters.</translation>
     </message>
     <message>
         <location line="+239"/>
@@ -1204,96 +1204,96 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     <message>
         <location line="-1045"/>
         <source>&amp;About Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Over Digital PandaBank</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show information about Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon informatie over Digital PandaBank</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Modify configuration options for Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>Pas configuratie-opties aan voor Digital PandaBank</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Encrypt Digital PandaBank...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Digital PandaBank coderen ...</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Encrypt or decrypt Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>Versleutel of decodeer Digital PandaBank</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Backup Digital PandaBank...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Backup Digital PandaBank ...</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Backup Digital PandaBank to another location</source>
-        <translation type="unfinished"></translation>
+        <translation>Back-up van de digitale PandaBank naar een andere locatie</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Change Password...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Verander wachtwoord...</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Change the password used for wallet encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Wijzig het wachtwoord dat wordt gebruikt voor wallet-codering</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Unlock Digital PandaBank...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ontgrendel digitale PandaBank ...</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Unlock Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>Ontgrendel de digitale PandaBank</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Lock Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vergrendel de digitale PandaBank</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Lock Digital PandaBank</source>
-        <translation type="unfinished"></translation>
+        <translation>Vergrendel de digitale PandaBank</translation>
     </message>
     <message>
         <location line="+4"/>
         <location line="+1"/>
         <source>Activate &apos;Classic&apos; client mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>Activeer de &apos;klassieke&apos; client-modus.</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+1"/>
         <source>Activate &apos;Hybrid&apos; client mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>Activeer de &apos;Hybride&apos; client-modus.</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+1"/>
         <source>Activate &apos;Lite&apos; client mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>Activeer de &apos;Lite&apos;-clientmodus.</translation>
     </message>
     <message>
         <location line="+91"/>
         <location line="+71"/>
         <source>Digital PandaBank client</source>
-        <translation type="unfinished"></translation>
+        <translation>Digitale PandaBank-client</translation>
     </message>
     <message>
         <location line="+134"/>
         <source>Downloaded %1 of %2 checkpoints (%3% done).</source>
-        <translation type="unfinished"></translation>
+        <translation>Gedownload %1 van %2 ijkpunten (%3% voltooid).</translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s) ago</source>
@@ -1373,7 +1373,7 @@ Adres: %4
     <message>
         <location line="+116"/>
         <source>Activate Digital PandaBank ‘Classic’</source>
-        <translation type="unfinished"></translation>
+        <translation>Activeer Digital PandaBank &apos;Classic&apos;</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1382,12 +1382,16 @@ Adres: %4
 Switching to Digital PandaBank &apos;Classic&apos; from other modes will wipe out your existing blockchain data.
 
 Activate Digital PandaBank &apos;Classic&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Met Digital PandaBank &apos;Classic&apos; kunt u rente verdienen en het pandacoin-netwerk beveiligen zodra de synchronisatie en het downloaden van de blockchain is voltooid. Het werkt met behulp van de verouderde methode van synchronisatie en het downloaden van de blockchain, die tussen de 4 en 24 uur kan duren om te voltooien. We raden de meeste Pandacoin-gebruikers aan Pandacoin &apos;Hybrid&apos; te gebruiken.
+
+Overschakelen naar Digital PandaBank &apos;Classic&apos; vanuit andere modi zal uw bestaande blockchain-gegevens wissen.
+
+Activeer Digital PandaBank &apos;Classic&apos;?</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Activate Digital PandaBank ‘Hybrid’</source>
-        <translation type="unfinished"></translation>
+        <translation>Activeer Digital PandaBank &apos;Hybrid&apos;</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1396,12 +1400,16 @@ Activate Digital PandaBank &apos;Classic&apos;?</source>
 Digital PandaBank &apos;Hybrid allows you to earn interest and help secure the Pandacoin Network in approximately 5 to 15 minutes after installation, once both synchronization and download of the blockchain is completed.
 
 Activate Digital PandaBank &apos;Hybrid&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Digital PandaBank &apos;Hybrid&apos; is de aanbevolen modus voor de meeste Pandacoin-gebruikers. Synchronisatie met het Pandacoin-netwerk duurt slechts enkele seconden na de installatie, zodat u uw Pandacoins onmiddellijk kunt zien en gebruiken.
+
+Met Digital PandaBank &apos;Hybrid kunt u na installatie ongeveer 5 tot 15 minuten rente verdienen en het Pandacoin-netwerk beveiligen, zodra zowel de synchronisatie als het downloaden van de blockchain is voltooid.
+
+Activeer Digital PandaBank &apos;Hybrid&apos;?</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Activate Digital PandaBank ‘Lite’</source>
-        <translation type="unfinished"></translation>
+        <translation>Activeer Digital PandaBank &apos;Lite&apos;</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1410,17 +1418,21 @@ Activate Digital PandaBank &apos;Hybrid&apos;?</source>
 Pandacoin &apos;Lite&apos; DOES NOT allow you to earn interest or help secure the Pandacoin Network.
 
 Activate Digital PandaBank &apos;Lite&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Digital PandaBank &apos;Lite&apos; is voor gebruikers die toegang hebben tot beperkte opslag- of opslagruimte op de harde schijf. Opgeslagen gegevens zijn slechts enkele megabytes. Synchronisatie met het Pandacoin-netwerk duurt slechts enkele seconden na de installatie, zodat u uw Pandacoins onmiddellijk kunt zien en gebruiken.
+
+Met Pandacoin &apos;Lite&apos; mag u GEEN rente verdienen of het pandacoin-netwerk beveiligen.
+
+Activeer Digital PandaBank &apos;Lite&apos;?</translation>
     </message>
     <message>
         <location line="+42"/>
         <source>Unable to earn interest in light mode.&lt;br/&gt;Switch to hybrid mode if you would like to earn interest.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan geen interesse in de lichte modus verdienen. &lt;br/&gt; Schakel over naar de hybride modus als u belangstelling wilt verdienen.</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Unable to earn interest until syncing is completed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan geen interesse genereren totdat de synchronisatie is voltooid.</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -1428,32 +1440,32 @@ Activate Digital PandaBank &apos;Lite&apos;?</source>
         <location line="+4"/>
         <location line="+4"/>
         <source>%1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 %2</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Not earning interest because wallet is locked</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen rente verdienen omdat portemonnee is vergrendeld</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Not earning interest because wallet is offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen rente verdienen omdat portemonnee offline is</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Not earning interest because wallet is syncing</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen rente verdienen omdat portemonnee wordt gesynchroniseerd</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Not earning interest because you don&apos;t have mature coins</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen rente verdienen omdat je geen volwassen munten hebt</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Not earning interest</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen rente verdienen</translation>
     </message>
     <message>
         <source>URI can not be parsed! This can be caused by an invalid Pandacoin address or malformed URI parameters.</source>
@@ -1545,7 +1557,7 @@ Activate Digital PandaBank &apos;Lite&apos;?</source>
     <message>
         <location line="+31"/>
         <source>Quantity:</source>
-        <translation>Kwantiteit</translation>
+        <translation>Kwantiteit:</translation>
     </message>
     <message>
         <location line="+32"/>
@@ -1749,7 +1761,7 @@ Activate Digital PandaBank &apos;Lite&apos;?</source>
 
 Dit betekend een fee van minimaal %1 per kb is noodzakelijk.&lt;br&gt;
 
-Kan varieren van +/- 1 Byte per invulling</translation>
+Kan varieren van +/- 1 Byte per invulling.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1771,9 +1783,9 @@ Dit betekend een fee van minimaal %1 per kb is noodzakelijk.</translation>
  This means a fee of at least %2 is required. 
 
  Amounts below 0.546 times the minimum relay fee are shown as DUST.</source>
-        <translation>Dit label wordt rood, als elke ontvanger ontvangt een bedrag dat kleiner is dan 1%. 
+        <translation>Dit label wordt rood, als elke ontvanger ontvangt een bedrag dat kleiner is dan %1. 
 
-Dit betekent dat een vergoeding van ten minste 2% is vereist. 
+Dit betekent dat een vergoeding van ten minste %2 is vereist. 
 
 Bedragen onder 0.546 keer het minimum vergoeding worden weergegeven als DUST.</translation>
     </message>
@@ -1808,58 +1820,58 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location filename="../forms/createaccountwidget.ui" line="+20"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>omlijsting</translation>
     </message>
     <message>
         <location line="+53"/>
         <source>Creating a new Digital PandaBank account is easy</source>
-        <translation type="unfinished"></translation>
+        <translation>Het maken van een nieuwe digitale PandaBank-account is eenvoudig</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Create</source>
-        <translation type="unfinished"></translation>
+        <translation>creëren</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Account name</source>
-        <translation type="unfinished"></translation>
+        <translation>Accountnaam</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Account address</source>
-        <translation type="unfinished"></translation>
+        <translation>Account adres</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuleer</translation>
     </message>
     <message>
         <location filename="../forms/createaccountwidget.cpp" line="+55"/>
         <location line="+19"/>
         <source>Error</source>
-        <translation type="unfinished">Fout</translation>
+        <translation>Fout</translation>
     </message>
     <message>
         <location line="-19"/>
         <source>An account with this name already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Er bestaat al een account met deze naam.</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Digital PandaBank account created</source>
-        <translation type="unfinished"></translation>
+        <translation>Digitaal PandaBank-account aangemaakt</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Your Digital PandaBank Account has been created.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uw digitale PandaBank-account is aangemaakt.</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Error creating Digital PandaBank account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fout bij het maken van een digitale PandaBank-account.</translation>
     </message>
 </context>
 <context>
@@ -1981,27 +1993,27 @@ Dit betekend dat een fee van %2 is vereist.</translation>
         <location filename="../forms/lockbar.cpp" line="+37"/>
         <location line="+5"/>
         <source>Lock</source>
-        <translation type="unfinished"></translation>
+        <translation>Slot</translation>
     </message>
     <message>
         <location filename="../forms/lockbar.cpp" line="-3"/>
         <source>Wallet is &lt;b&gt;not encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt; click to encrypt and lock.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wallet is &lt;b&gt; niet gecodeerd &lt;/ b&gt; en momenteel &lt;b&gt; ontgrendeld &lt;/ b&gt; klik om te coderen en te vergrendelen.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt; click to lock.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wallet is &lt;b&gt; versleuteld &lt;/ b&gt; en momenteel &lt;b&gt; ontgrendeld &lt;/ b&gt; klik om te vergrendelen.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Unlock</source>
-        <translation type="unfinished"></translation>
+        <translation>ontsluiten</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt; click to unlock.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wallet is &lt;b&gt; versleuteld &lt;/ b&gt; en momenteel &lt;b&gt; vergrendeld &lt;/ b&gt; klikt om te ontgrendelen.</translation>
     </message>
 </context>
 <context>
@@ -2009,7 +2021,7 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location filename="../forms/mainframe.ui" line="+14"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>omlijsting</translation>
     </message>
 </context>
 <context>
@@ -2017,22 +2029,22 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location filename="../forms/menubar.ui" line="+55"/>
         <source>Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>het dossier</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>instellingen</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Helpen</translation>
     </message>
 </context>
 <context>
@@ -2079,7 +2091,7 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location line="+3"/>
         <source>&amp;Start Digital PandaBank on system login</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Start Digital PandaBank bij inloggen systeem</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2109,7 +2121,7 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location line="+7"/>
         <source>Connect to the Pandacoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Verbinding maken met het Pandacoin netwerk via een SOCKS proxy (bijvoorbeeld als U gebruik maakt van Tor)</translation>
+        <translation>Verbinding maken met het Pandacoin netwerk via een SOCKS proxy (bijvoorbeeld als U gebruik maakt van Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2154,7 +2166,7 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location line="+6"/>
         <source>Show only a tray icon after minimizing the window.</source>
-        <translation>Laat alleen een systeemvak-icoon zien wanneer het venster geminimaliseerd is</translation>
+        <translation>Laat alleen een systeemvak-icoon zien wanneer het venster geminimaliseerd is.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2194,12 +2206,12 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location line="+13"/>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Kies de standaard onderverdelingseenheid om weer te geven in uw programma, en voor het versturen van munten</translation>
+        <translation>Kies de standaard onderverdelingseenheid om weer te geven in uw programma, en voor het versturen van munten.</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Whether to show Pandacoin addresses in the transaction list or not.</source>
-        <translation>Pandacoin adressen in de transactielijst weergeven of niet</translation>
+        <translation>Pandacoin adressen in de transactielijst weergeven of niet.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2214,22 +2226,22 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location line="+3"/>
         <source>Display coin &amp;control features (experts only!)</source>
-        <translation>Laat coin &amp; control functies zien (enkel voor gevorderden!)</translation>
+        <translation>Laat coin &amp;control functies zien (enkel voor gevorderden!)</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>gevorderd</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Reset Blockchain</source>
-        <translation type="unfinished"></translation>
+        <translation>Reset Blockchain</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Reset Peers</source>
-        <translation type="unfinished"></translation>
+        <translation>Reset Peers</translation>
     </message>
     <message>
         <location line="+86"/>
@@ -2271,12 +2283,12 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location line="+20"/>
         <source>Confirm Blockchain reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Bevestig Blockchain reset</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Are you sure you want to reset your Blockchain? This will cause the entire Blockchain to download again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Weet je zeker dat je je Blockchain wilt resetten? Hierdoor wordt de hele Blockchain opnieuw gedownload.</translation>
     </message>
 </context>
 <context>
@@ -2289,72 +2301,72 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location line="+26"/>
         <source>Welcome to your Digital PandaBank, You last logged on at &lt;TIME&gt; on &lt;DATE&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Welkom bij uw digitale PandaBank. U bent voor het laatst ingelogd op &lt;TIME&gt; op &lt;DATE&gt;</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>My Portfolio</source>
-        <translation type="unfinished"></translation>
+        <translation>Mijn portfolio</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>More</source>
-        <translation type="unfinished"></translation>
+        <translation>Meer</translation>
     </message>
     <message>
         <location line="+58"/>
         <source>Portfolio Summary</source>
-        <translation type="unfinished"></translation>
+        <translation>Portfolio Samenvatting</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Beschikbaar</translation>
     </message>
     <message>
         <location line="+45"/>
         <source>Earning Interest</source>
-        <translation type="unfinished"></translation>
+        <translation>Het verdienen van rente</translation>
     </message>
     <message>
         <location line="+42"/>
         <source>Pending</source>
-        <translation type="unfinished"></translation>
+        <translation>In afwachting</translation>
     </message>
     <message>
         <location line="+45"/>
         <source>Total Balance</source>
-        <translation type="unfinished"></translation>
+        <translation>Eindbalans</translation>
     </message>
     <message>
         <location line="+48"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: &lt;span style=&quot; font-weight:600;&quot;&gt;Available&lt;/span&gt; is the amount of PND that is available for you to spend or transfer. &lt;span style=&quot; font-weight:600;&quot;&gt;Earning Interest&lt;/span&gt; is the amount of PND that is currently being used to generate interest. &lt;span style=&quot; font-weight:600;&quot;&gt;Pending&lt;/span&gt; is the amount of recent incoming PND from another account address waiting to be transferred to your account. &lt;span style=&quot; font-weight:600;&quot;&gt;Total Balance&lt;/span&gt; is the sum total of PND of all your account balances. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt; &lt;head /&gt; &lt;body&gt; &lt;p&gt; Opmerking: &lt;span style = &quot;font-weight: 600;&quot;&gt; Beschikbaar &lt;/ span&gt; is het aantal PND dat beschikbaar is om te besteden of over te dragen. &lt;span style = &quot;font-weight: 600;&quot;&gt; Interest verdienen &lt;/ span&gt; is de hoeveelheid PND die momenteel wordt gebruikt om interesse te genereren. &lt;span style = &quot;font-weight: 600;&quot;&gt; In behandeling &lt;/ span&gt; is de hoeveelheid recente binnenkomende PND vanaf een ander accountadres dat wacht om naar uw account te worden verzonden. &lt;span style = &quot;font-weight: 600;&quot;&gt; Total Balance &lt;/ span&gt; is de som van PND&apos;s van al uw rekeningsaldi. &lt;/ P&gt; &lt;/ body&gt; &lt;/ html&gt;</translation>
     </message>
     <message>
         <location line="+89"/>
         <source>Quick Transfer</source>
-        <translation type="unfinished"></translation>
+        <translation>Snelle overdracht</translation>
     </message>
     <message>
         <location line="+30"/>
         <source>To</source>
-        <translation type="unfinished">Aan</translation>
+        <translation>Aan</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Amount</source>
-        <translation type="unfinished">Bedrag</translation>
+        <translation>Bedrag</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>From</source>
-        <translation type="unfinished">Van</translation>
+        <translation>Van</translation>
     </message>
     <message>
         <location line="+71"/>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>volgende</translation>
     </message>
     <message>
         <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Pandacoin network after a connection is established, but this process has not completed yet.</source>
@@ -2410,7 +2422,7 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location line="-42"/>
         <source>Total of coins that was staked, and do not yet count toward the current balance</source>
-        <translation>Totaal aantal munten dat was staked, en nog niet telt voor huidige balans.</translation>
+        <translation>Totaal aantal munten dat was staked, en nog niet telt voor huidige balans</translation>
     </message>
     <message>
         <source>out of sync</source>
@@ -2419,33 +2431,33 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location filename="../overviewpage.cpp" line="+40"/>
         <source>Copy account address</source>
-        <translation type="unfinished"></translation>
+        <translation>Accountadres kopiëren</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy account name</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopieer de accountnaam</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy account balance</source>
-        <translation type="unfinished"></translation>
+        <translation>Accountsaldo kopiëren</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Welcome to your Digital PandaBank, You last logged on at</source>
-        <translation type="unfinished"></translation>
+        <translation>Welkom bij uw digitale PandaBank, waarmee u het laatst bent ingelogd op</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>on</source>
-        <translation type="unfinished"></translation>
+        <translation>op</translation>
     </message>
     <message>
         <location line="+96"/>
         <location line="+7"/>
         <source>Select account</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecteer een account</translation>
     </message>
 </context>
 <context>
@@ -2453,22 +2465,22 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location filename="../guiutil.cpp" line="-569"/>
         <source>&lt;b&gt;%1&lt;/b&gt; to %2 (%3)</source>
-        <translation type="unfinished">&lt;b&gt; %1 &lt;/b&gt; to %2 (%3)</translation>
+        <translation>&lt;b&gt; %1 &lt;/b&gt; to %2 (%3)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Confirm send coins</source>
-        <translation type="unfinished">Bevestig versturen munten</translation>
+        <translation>Bevestig versturen munten</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Are you sure you want to send %1?</source>
-        <translation type="unfinished">Weet je zeker dat je %1 wilt verzenden?</translation>
+        <translation>Weet je zeker dat je %1 wilt verzenden?</translation>
     </message>
     <message>
         <location line="+0"/>
         <source> and </source>
-        <translation type="unfinished">en</translation>
+        <translation> en </translation>
     </message>
     <message>
         <location line="+63"/>
@@ -2482,67 +2494,67 @@ Dit betekend dat een fee van %2 is vereist.</translation>
         <location line="+12"/>
         <location line="+12"/>
         <source>Send Coins</source>
-        <translation type="unfinished">Verstuur munten</translation>
+        <translation>Verstuur munten</translation>
     </message>
     <message>
         <location line="-98"/>
         <source>The recipient address is not valid, please recheck.</source>
-        <translation type="unfinished">Het ontvangstadres is niet geldig, controleer uw invoer.</translation>
+        <translation>Het ontvangstadres is niet geldig, controleer uw invoer.</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>The amount to pay must be larger than 0.</source>
-        <translation type="unfinished">Het ingevoerde bedrag moet groter zijn dan 0.</translation>
+        <translation>Het ingevoerde bedrag moet groter zijn dan 0.</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>The amount exceeds your balance.</source>
-        <translation type="unfinished">Bedrag is hoger dan uw huidige saldo</translation>
+        <translation>Bedrag is hoger dan uw huidige saldo.</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>The amount exceeds your available balance, some of your Pandacoins are currently being used to earn you interest.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het bedrag overschrijdt uw beschikbare saldo, sommige van uw Pandacoins worden momenteel gebruikt om u rente te verdienen.</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>The total exceeds your balance when the %1 transaction fee is included.</source>
-        <translation type="unfinished">Totaal overschrijdt uw huidige saldo wanneer de %1 transactiekosten worden meegerekend</translation>
+        <translation>Totaal overschrijdt uw huidige saldo wanneer de %1 transactiekosten worden meegerekend.</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>The amount exceeds your available balance when the %1 transaction fee is included, some of your Pandacoins are currently being used to earn you interest.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het bedrag overschrijdt uw beschikbare saldo wanneer de %1 transactiekosten zijn inbegrepen, sommige van uw Pandacoins worden momenteel gebruikt om u rente te verdienen.</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Duplicate address found, can only send to each address once per send operation.</source>
-        <translation type="unfinished">Dubbel adres gevonden, u kunt slechts eenmaal naar een bepaald adres verzenden per verstuurtransactie</translation>
+        <translation>Dubbel adres gevonden, u kunt slechts eenmaal naar een bepaald adres verzenden per verstuurtransactie.</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Error: Transaction creation failed because transaction size (in Kb) too large.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fout: het maken van de transactie is mislukt omdat de transactiegrootte (in Kb) te groot is.</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Error: Transaction creation failed.</source>
-        <translation type="unfinished">FOUT: Creëren van transactie mislukt.</translation>
+        <translation>FOUT: Creëren van transactie mislukt.</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Error: The transaction was rejected. This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation type="unfinished">Fout: De transactie was geweigerd, Dit kan gebeuren als sommige munten in je portemonnee al gebruikt zijn, door het gebruik van een kopie van wallet.dat en de munten in de kopie zijn niet gemarkeerd als gebruikt.</translation>
+        <translation>Fout: De transactie was geweigerd, Dit kan gebeuren als sommige munten in je portemonnee al gebruikt zijn, door het gebruik van een kopie van wallet.dat en de munten in de kopie zijn niet gemarkeerd als gebruikt.</translation>
     </message>
     <message>
         <location filename="../pandastyles.cpp" line="+18"/>
         <source>Arial, &apos;Helvetica Neue&apos;, Helvetica, sans-serif</source>
-        <translation type="unfinished"></translation>
+        <translation>Arial, &apos;Helvetica Neue&apos;, Helvetica, sans-serif</translation>
     </message>
     <message>
         <location filename="../../init.cpp" line="+849"/>
         <source>My account</source>
-        <translation type="unfinished"></translation>
+        <translation>Mijn rekening</translation>
     </message>
     <message>
         <location filename="../../main.cpp" line="+928"/>
@@ -2551,7 +2563,11 @@ Dit betekend dat een fee van %2 is vereist.</translation>
 
 The most likely cause of this error is a problem with your local blockchain, so the blockchain will now reset itself and sync again.
 Should you encounter this error repeatedly please seek assistance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Synchronisatiefout aangetroffen:
+%s
+
+De meest waarschijnlijke oorzaak van deze fout is een probleem met uw lokale blockchain, dus de blockchain wordt nu opnieuw ingesteld en opnieuw gesynchroniseerd.
+Mocht u herhaaldelijk tegen deze fout aanlopen, vraag dan om hulp.</translation>
     </message>
 </context>
 <context>
@@ -2589,7 +2605,7 @@ Should you encounter this error repeatedly please seek assistance.</source>
     <message>
         <location filename="../qrcodedialog.cpp" line="+62"/>
         <source>Error encoding URI into QR Code.</source>
-        <translation>Fout tijdens encoderen URI in QR-code</translation>
+        <translation>Fout tijdens encoderen URI in QR-code.</translation>
     </message>
     <message>
         <location line="+40"/>
@@ -2604,7 +2620,7 @@ Should you encounter this error repeatedly please seek assistance.</source>
     <message>
         <location line="+25"/>
         <source>Save QR Code</source>
-        <translation>Sla QR Code op.</translation>
+        <translation>Sla QR Code op</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -2631,7 +2647,7 @@ Should you encounter this error repeatedly please seek assistance.</source>
         <location line="+23"/>
         <location filename="../rpcconsole.cpp" line="+347"/>
         <source>N/A</source>
-        <translation>N.v.t.</translation>
+        <translation>N/A</translation>
     </message>
     <message>
         <location line="-217"/>
@@ -2968,48 +2984,48 @@ Should you encounter this error repeatedly please seek assistance.</source>
     <message>
         <location line="+59"/>
         <source>Send Pandacoins</source>
-        <translation type="unfinished"></translation>
+        <translation>Stuur Pandacoins</translation>
     </message>
     <message>
         <location line="+74"/>
         <source>Coin Control Features</source>
-        <translation type="unfinished">Coin controle opties</translation>
+        <translation>Coin controle opties</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Inputs...</source>
-        <translation type="unfinished">Invoer...</translation>
+        <translation>Invoer...</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>automatically selected</source>
-        <translation type="unfinished">automatisch geselecteerd</translation>
+        <translation>automatisch geselecteerd</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Insufficient funds!</source>
-        <translation type="unfinished">Onvoldoende fonds!</translation>
+        <translation>Onvoldoende fonds!</translation>
     </message>
     <message>
         <location line="+77"/>
         <source>Quantity:</source>
-        <translation type="unfinished">Kwantiteit</translation>
+        <translation>Kwantiteit:</translation>
     </message>
     <message>
         <location line="+22"/>
         <location line="+35"/>
         <source>0</source>
-        <translation type="unfinished">0</translation>
+        <translation>0</translation>
     </message>
     <message>
         <location line="-19"/>
         <source>Bytes:</source>
-        <translation type="unfinished">Bytes:</translation>
+        <translation>Bytes:</translation>
     </message>
     <message>
         <location line="+51"/>
         <source>Amount:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bedrag:</translation>
     </message>
     <message>
         <location line="+22"/>
@@ -3017,77 +3033,77 @@ Should you encounter this error repeatedly please seek assistance.</source>
         <location line="+86"/>
         <location line="+32"/>
         <source>0.00 PND</source>
-        <translation type="unfinished">123.456 PND</translation>
+        <translation>123.456 PND</translation>
     </message>
     <message>
         <location line="-191"/>
         <source>Priority:</source>
-        <translation type="unfinished">Prioriteit:</translation>
+        <translation>Prioriteit:</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>medium</source>
-        <translation type="unfinished">gemiddeld</translation>
+        <translation>gemiddeld</translation>
     </message>
     <message>
         <location line="+32"/>
         <source>Fee:</source>
-        <translation type="unfinished">Vergoeding:</translation>
+        <translation>Vergoeding:</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>Low Output:</source>
-        <translation type="unfinished">Lage uitvoer:</translation>
+        <translation>Lage uitvoer:</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>no</source>
-        <translation type="unfinished">nee</translation>
+        <translation>nee</translation>
     </message>
     <message>
         <location line="+32"/>
         <source>After Fee:</source>
-        <translation type="unfinished">Na vergoeding:</translation>
+        <translation>Na vergoeding:</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>Change</source>
-        <translation type="unfinished">Wijzigen</translation>
+        <translation>Wijzigen</translation>
     </message>
     <message>
         <location line="+50"/>
         <source>custom change address</source>
-        <translation type="unfinished">handmatig veranderen adres</translation>
+        <translation>handmatig veranderen adres</translation>
     </message>
     <message>
         <location line="+67"/>
         <source>From</source>
-        <translation type="unfinished">Van</translation>
+        <translation>Van</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>To</source>
-        <translation type="unfinished">Aan</translation>
+        <translation>Aan</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Or</source>
-        <translation type="unfinished"></translation>
+        <translation>of</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Amount</source>
-        <translation type="unfinished">Bedrag</translation>
+        <translation>Bedrag</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>▾ Send To My Own Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>▾ Verzend naar mijn eigen accounts</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>volgende</translation>
     </message>
     <message>
         <source>A&amp;mount:</source>
@@ -3136,75 +3152,76 @@ Should you encounter this error repeatedly please seek assistance.</source>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+108"/>
         <source>Copy quantity</source>
-        <translation type="unfinished">Kopieer aantal</translation>
+        <translation>Kopieer aantal</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy amount</source>
-        <translation type="unfinished">Kopieer bedrag</translation>
+        <translation>Kopieer bedrag</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy fee</source>
-        <translation type="unfinished">Kopieer vergoeding</translation>
+        <translation>Kopieer vergoeding</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy after fee</source>
-        <translation type="unfinished">Kopieer na vergoeding</translation>
+        <translation>Kopieer na vergoeding</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy bytes</source>
-        <translation type="unfinished">Kopieer bytes</translation>
+        <translation>Kopieer bytes</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy priority</source>
-        <translation type="unfinished">Kopieer prioriteit</translation>
+        <translation>Kopieer prioriteit</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy low output</source>
-        <translation type="unfinished">Kopieer lage uitvoer</translation>
+        <translation>Kopieer lage uitvoer</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy change</source>
-        <translation type="unfinished">Kopieer wijzig</translation>
+        <translation>Kopieer wijzig</translation>
     </message>
     <message>
         <location line="+115"/>
         <location line="+46"/>
         <source>No from account selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Nee van account geselecteerd</translation>
     </message>
     <message>
         <location line="-46"/>
         <location line="+46"/>
         <source>You have not selected an account from which to make the payment.
 Please select the &quot;from&quot; address at the top of this page.</source>
-        <translation type="unfinished"></translation>
+        <translation>U hebt geen account geselecteerd om de betaling uit te voeren.
+Selecteer het &quot;van&quot; -adres bovenaan deze pagina.</translation>
     </message>
     <message>
         <location line="+114"/>
         <source>Search your accounts list...</source>
-        <translation type="unfinished"></translation>
+        <translation>Doorzoek uw accountlijst ...</translation>
     </message>
     <message>
         <location line="+224"/>
         <source>WARNING: Invalid Pandacoin address</source>
-        <translation type="unfinished">WAARSCHUWING: Ongeldig Pandacoin adres</translation>
+        <translation>WAARSCHUWING: Ongeldig Pandacoin adres</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>(no label)</source>
-        <translation type="unfinished">(geen label)</translation>
+        <translation>(geen label)</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>WARNING: unknown change address</source>
-        <translation type="unfinished">WAARSCHUWING: Onbekend adres</translation>
+        <translation>WAARSCHUWING: Onbekend adres</translation>
     </message>
 </context>
 <context>
@@ -3212,82 +3229,82 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location filename="../forms/sendcoinstargetwidget.ui" line="+14"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>omlijsting</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>Account name</source>
-        <translation type="unfinished"></translation>
+        <translation>Accountnaam</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>The address to send the payment to  (e.g. PBZ8YVV3XT3WWWd2a1jo4N9WePiwKB3mJE)</source>
-        <translation type="unfinished">Het adres om naar te betalen (bijv. PBZ8YVV3XT3WWWd2a1jo4N9WePiwKB3mJE)</translation>
+        <translation>Het adres om naar te betalen (bijv. PBZ8YVV3XT3WWWd2a1jo4N9WePiwKB3mJE)</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Enter a Pandacoin address (e.g. PBZ8YVV3XT3WWWd2a1jo4N9WePiwKB3mJE)</source>
-        <translation type="unfinished">Voeg een Pandacoin adres in (bijv. PBZ8YVV3XT3WWWd2a1jo4N9WePiwKB3mJE)</translation>
+        <translation>Voeg een Pandacoin adres in (bijv. PBZ8YVV3XT3WWWd2a1jo4N9WePiwKB3mJE)</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Choose address from address book</source>
-        <translation type="unfinished">Kies adres uit adresboek</translation>
+        <translation>Kies adres uit adresboek</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Alt+A</source>
-        <translation type="unfinished">Alt+A</translation>
+        <translation>Alt+A</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Paste address from clipboard</source>
-        <translation type="unfinished">Plak adres vanuit klembord</translation>
+        <translation>Plak adres vanuit klembord</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Alt+P</source>
-        <translation type="unfinished">Alt+P</translation>
+        <translation>Alt+P</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Remove this recipient</source>
-        <translation type="unfinished">Verwijder deze ontvanger</translation>
+        <translation>Verwijder deze ontvanger</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Account address</source>
-        <translation type="unfinished"></translation>
+        <translation>Account adres</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>volgende</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Add another</source>
-        <translation type="unfinished"></translation>
+        <translation>Een andere toevoegen</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>▾</source>
-        <translation type="unfinished"></translation>
+        <translation>▾</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Amount</source>
-        <translation type="unfinished">Bedrag</translation>
+        <translation>Bedrag</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>New accounts will automatically be added to your address book</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuwe accounts worden automatisch toegevoegd aan uw adresboek</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Enter an account name for this account address to add it to your address book</source>
-        <translation type="unfinished"></translation>
+        <translation>Voer een accountnaam in voor dit accountadres om het toe te voegen aan uw adresboek</translation>
     </message>
 </context>
 <context>
@@ -3311,7 +3328,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+18"/>
         <source>The address to sign the message with (e.g. PBZ8YVV3XT3WWWd2a1jo4N9WePiwKB3mJE)</source>
-        <translation>Het adres om het bericht te ondertekenen (bijv. PBZ8YVV3XT3WWWd2a1jo4N9WePiwKB3mJE) </translation>
+        <translation>Het adres om het bericht te ondertekenen (bijv. PBZ8YVV3XT3WWWd2a1jo4N9WePiwKB3mJE)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -3348,7 +3365,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+21"/>
         <source>Sign the message to prove you own this Pandacoin address</source>
-        <translation>Teken een bericht om te bewijzen dat je een Pandacoin adres bezit.</translation>
+        <translation>Teken een bericht om te bewijzen dat je een Pandacoin adres bezit</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -3426,7 +3443,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="-73"/>
         <source>Wallet unlock was cancelled.</source>
-        <translation>Portemonnee-ontsleuteling is geannuleerd</translation>
+        <translation>Portemonnee-ontsleuteling is geannuleerd.</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -3476,7 +3493,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
         <location filename="../accountmodel.cpp" line="+241"/>
         <location line="+4"/>
         <source>All Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle accounts</translation>
     </message>
 </context>
 <context>
@@ -3484,7 +3501,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location filename="../forms/tabbeddatewidget.ui" line="+20"/>
         <source>TabWidget</source>
-        <translation type="unfinished"></translation>
+        <translation>TabWidget</translation>
     </message>
 </context>
 <context>
@@ -3627,7 +3644,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+2"/>
         <source>Transaction ID</source>
-        <translation>Transactie-ID:</translation>
+        <translation>Transactie-ID</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3693,37 +3710,37 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location filename="../forms/transactionfilterwidget.ui" line="+20"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>omlijsting</translation>
     </message>
     <message>
         <location line="+21"/>
         <source> or jump to</source>
-        <translation type="unfinished"></translation>
+        <translation> of spring naar</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Laten zien</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Recent Transactions</source>
-        <translation type="unfinished"></translation>
+        <translation>recente transacties</translation>
     </message>
     <message>
         <location line="+30"/>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporteren</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Search by keyword</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoek op trefwoord</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
 </context>
 <context>
@@ -3768,22 +3785,22 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="-64"/>
         <source>From account</source>
-        <translation type="unfinished"></translation>
+        <translation>Van account</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>To account</source>
-        <translation type="unfinished"></translation>
+        <translation>Naar rekening</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Account Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Accountnaam</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Balance</source>
-        <translation type="unfinished"></translation>
+        <translation>Balans</translation>
     </message>
     <message>
         <location line="+70"/>
@@ -3793,7 +3810,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+3"/>
         <source>Unconfirmed</source>
-        <translation>Onbevestigd:</translation>
+        <translation>Onbevestigd</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3824,52 +3841,52 @@ Please select the &quot;from&quot; address at the top of this page.</source>
         <location line="+42"/>
         <location line="+2"/>
         <source>Received</source>
-        <translation type="unfinished"></translation>
+        <translation>Ontvangen</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Sent</source>
-        <translation type="unfinished"></translation>
+        <translation>Verzonden</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Internal Transfer</source>
-        <translation type="unfinished"></translation>
+        <translation>Interne overplaatsing</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Interest</source>
-        <translation type="unfinished"></translation>
+        <translation>Interesseren</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Fee</source>
-        <translation type="unfinished"></translation>
+        <translation>honorarium</translation>
     </message>
     <message>
         <location line="+569"/>
         <source>Destination account of transaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestemmingsaccount van de transactie.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Source account of transaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bronaccount van transactie.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Account for transaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>Account voor transactie.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Other account for transaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ander account voor transactie.</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Account balance at end of transaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>Accountsaldo aan het einde van de transactie.</translation>
     </message>
     <message>
         <source>Received with</source>
@@ -3921,7 +3938,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+10"/>
         <source>Amount removed from or added to balance.</source>
-        <translation>Bedrag verwijderd van of toegevoegd aan saldo</translation>
+        <translation>Bedrag verwijderd van of toegevoegd aan saldo.</translation>
     </message>
 </context>
 <context>
@@ -4015,7 +4032,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+1"/>
         <source>Show transaction in blockchain explorer</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon transactie in blockchain-verkenner</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -4070,7 +4087,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+0"/>
         <source>Could not write to file %1.</source>
-        <translation>Kan niet schrijven naar bestand %1</translation>
+        <translation>Kan niet schrijven naar bestand %1.</translation>
     </message>
     <message>
         <source>Range:</source>
@@ -4086,17 +4103,17 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location filename="../forms/transferpage.ui" line="+14"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>omlijsting</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Transfers</source>
-        <translation type="unfinished"></translation>
+        <translation>transfers</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Address Book</source>
-        <translation type="unfinished">Adresboek</translation>
+        <translation>Adresboek</translation>
     </message>
 </context>
 <context>
@@ -4227,12 +4244,12 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="-5"/>
         <source>Error: This transaction requires a transaction fee of at least %s because of its amount, complexity, or use of recently received funds  </source>
-        <translation>Fout: Deze transactie vereist een transactie vergoeding van ten minste %s vanwege de hoeveelheid, complexiteit, of het gebruik van recent ontvangen gelden</translation>
+        <translation>Fout: Deze transactie vereist een transactie vergoeding van ten minste %s vanwege de hoeveelheid, complexiteit, of het gebruik van recent ontvangen gelden  </translation>
     </message>
     <message>
         <location line="-87"/>
         <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 22444 or testnet: 25715)</source>
-        <translation>Wacht op JSON-RPC-connecties op &lt;poort&gt; (standaard: 22444 of testnet: 25715) </translation>
+        <translation>Wacht op JSON-RPC-connecties op &lt;poort&gt; (standaard: 22444 of testnet: 25715)</translation>
     </message>
     <message>
         <location line="-11"/>
@@ -4242,12 +4259,12 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+101"/>
         <source>Error: Transaction creation failed  </source>
-        <translation>Fout: Creëren van transactie mislukt.</translation>
+        <translation>Fout: Creëren van transactie mislukt  </translation>
     </message>
     <message>
         <location line="-5"/>
         <source>Error: Wallet locked, unable to create transaction  </source>
-        <translation>Fout: Portemonnee is op slot, niet mogelijk een transactie te creëren.</translation>
+        <translation>Fout: Portemonnee is op slot, niet mogelijk een transactie te creëren  </translation>
     </message>
     <message>
         <location line="-8"/>
@@ -4428,7 +4445,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
         <location line="+109"/>
         <source>Unable to sign checkpoint, wrong checkpointkey?
 </source>
-        <translation>Kan checkpoint niet ondertekenen, verkeerde checkpoint sleutel? 
+        <translation>Kan checkpoint niet ondertekenen, verkeerde checkpoint sleutel?
 </translation>
     </message>
     <message>
@@ -4454,7 +4471,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+47"/>
         <source>Verifying database integrity...</source>
-        <translation>Database integriteit wordt geverifieërd</translation>
+        <translation>Database integriteit wordt geverifieërd...</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -4503,7 +4520,8 @@ rpcpassword = %s
 De gebruikersnaam en het wachtwoord MAG NIET hetzelfde zijn. 
 Als het bestand niet bestaat, maakt u met leesbare-alleen-eigenaar bestandsbeheermachtigingen.  
 Het wordt ook aanbevolen om alertnotify instellen zodat u een melding van problemen;  
-bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;Pandacoin Alert&quot; admin@foo.com </translation>
+bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;Pandacoin Alert&quot; admin@foo.com
+</translation>
     </message>
     <message>
         <location line="+51"/>
