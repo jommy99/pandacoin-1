@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="th_TH">
+<TS version="2.1" language="th_TH">
 <context>
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About Digital PandaBank</source>
-        <translation>เกี่ยวกับ PandaBank ดิจิตอล</translation>
+        <translation>เกี่ยวกับ Digital PandaBank</translation>
     </message>
     <message>
         <location line="+39"/>
@@ -447,7 +447,7 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location filename="../forms/askpassphrasedialog.ui" line="+26"/>
         <source>Passphrase Dialog</source>
-        <translation>รหัสผ่านใหม่</translation>
+        <translation>กล่องโต้ตอบวลีรหัสผ่าน</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -476,7 +476,7 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     </message>
     <message>
         <source>New passphrase</source>
-        <translation type="obsolete">รหัสผ่านใหม่</translation>
+        <translation type="obsolete">รหัสผา่นใหม่</translation>
     </message>
     <message>
         <source>Repeat new passphrase</source>
@@ -687,7 +687,7 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location line="+1"/>
         <source>View Accounts</source>
-        <translation>ดูบัญชี</translation>
+        <translation>ดูบัญชีดูบัญชี</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -991,7 +991,7 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
         <location line="-450"/>
         <location line="+454"/>
         <source>hour</source>
-        <translation>ชั่วโมง</translation>
+        <translation>ช่วยด้วย</translation>
     </message>
     <message>
         <location line="-454"/>
@@ -1163,7 +1163,7 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location line="+1"/>
         <source>Lock Digital PandaBank</source>
-        <translation>ล็อก PandaBank ดิจิตอล</translation>
+        <translation>ปลดล็อก PandaBank ดิจิตอล</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -1222,7 +1222,7 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location line="+27"/>
         <source>Sent transaction</source>
-        <translation>ธุรกรรมแบบส่งไป</translation>
+        <translation>ธุรกรรมล่าสุด</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2614,7 +2614,7 @@ Should you encounter this error repeatedly please seek assistance.</source>
     <message>
         <location line="+15"/>
         <source>Or</source>
-        <translation>หรือ</translation>
+        <translation>บน</translation>
     </message>
     <message>
         <location line="+25"/>
@@ -3102,7 +3102,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="-39"/>
         <source>Transaction fee</source>
-        <translation>ค่าธรรมเนียมการทำธุรกรรม</translation>
+        <translation>การทำธุรกรรม</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -3122,7 +3122,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+2"/>
         <source>Transaction ID</source>
-        <translation>หมายเลขการทำธุรกรรม</translation>
+        <translation>การทำธุรกรรม</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3262,7 +3262,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="-64"/>
         <source>From account</source>
-        <translation>จากบัญชี</translation>
+        <translation>บัญชีทั้งหมด</translation>
     </message>
     <message>
         <location line="+0"/>
