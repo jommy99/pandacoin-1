@@ -2059,7 +2059,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+26"/>
         <source>Welcome to your Digital PandaBank, You last logged on at &lt;TIME&gt; on &lt;DATE&gt;</source>
-        <translation>ยินดีต้อนรับสู่ Digital PandaBank ของคุณ ... คุณเข้าสู่ระบบครั้งล่าสุดเมื่อเวลา &lt;TIME&gt; น. วันที่ &lt;DATE &gt; </translation>
+        <translation>ยินดีต้อนรับสู่ Digital PandaBank ของคุณ ... คุณเข้าสู่ระบบครั้งล่าสุดเมื่อเวลา &lt;TIME&gt; น. วันที่ &lt;DATE&gt; </translation>
     </message>
     <message>
         <location line="+22"/>
