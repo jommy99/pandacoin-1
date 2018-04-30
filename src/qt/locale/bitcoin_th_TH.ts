@@ -1989,7 +1989,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+21"/>
         <source>Advanced</source>
-        <translation>ล่วงหน้า</translation>
+        <translation>ล่วงรู้</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -2059,7 +2059,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+26"/>
         <source>Welcome to your Digital PandaBank, You last logged on at &lt;TIME&gt; on &lt;DATE&gt;</source>
-        <translation>ยินดีต้อนรับสู่ Digital PandaBank ของคุณ ... คุณเข้าสู่ระบบครั้งล่าสุดเมื่อเวลา &lt;TIME&gt; น. วันที่ &lt;DATE&gt; </translation>
+        <translation>ยินดีต้อนรับสู่ Digital PandaBank ของคุณ ... คุณเข้าสู่ระบบครั้งล่าสุดเมื่อเวลา &lt;TIME&gt; น. วันที่ &lt;DATE &gt; </translation>
     </message>
     <message>
         <location line="+22"/>
@@ -2164,12 +2164,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+13"/>
         <source>Welcome to your Digital PandaBank, You last logged on at</source>
-        <translation>ยินดีต้อนรับสู่ Digital PandaBank ของคุณคุณเข้าสู่ระบบครั้งล่าสุดเมื่อวันที่</translation>
+        <translation>ยินดีต้อนรับสู่ Digital PandaBank ของคุณ ... คุณเข้าสู่ระบบครั้งล่าสุดเมื่อเวลา</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>on</source>
-        <translation>บน</translation>
+        <translation>น. ของวันที่</translation>
     </message>
     <message>
         <location line="+96"/>

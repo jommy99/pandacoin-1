@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="fr">
+<TS version="2.0" language="fr">
 <context>
     <name>AboutDialog</name>
     <message>
@@ -83,7 +83,7 @@ Ce produit comprend des logiciels développés par le projet OpenSSL afin d&apos
     <message>
         <location line="+38"/>
         <source>View transactions for</source>
-        <translation>Compte</translation>
+        <translation>Compte :</translation>
     </message>
     <message>
         <location line="+36"/>
@@ -574,7 +574,7 @@ Ce produit comprend des logiciels développés par le projet OpenSSL afin d&apos
     <message>
         <location line="+11"/>
         <source>This operation needs your Digital PandaBank password to unlock Digital PandaBank.</source>
-        <translation>Cette opération a besoin que vous déverrouilliez votre portemonnaie Digital PandaBank.</translation>
+        <translation>Cette opération a besoin que vous déverrouilliez votre portemonnaie Digital PandaBank.  </translation>
     </message>
     <message>
         <location line="+5"/>
@@ -802,7 +802,7 @@ Ce produit comprend des logiciels développés par le projet OpenSSL afin d&apos
         <location line="-88"/>
         <location line="+96"/>
         <source>Downloaded %1 of %2 headers (%3% done).</source>
-        <translation>Synchronisation des en-têtes  (%1)..</translation>
+        <translation>Synchronisation des en-têtes  (%1) %2 %3% </translation>
     </message>
     <message>
         <location line="-80"/>
@@ -831,7 +831,7 @@ Ce produit comprend des logiciels développés par le projet OpenSSL afin d&apos
         <location line="-143"/>
         <location line="+93"/>
         <source>Downloaded %1 of %2 blocks (%3% done).</source>
-        <translation>Progression : %3% (%1 blocs téléchargés, sur %2 blocs au total).</translation>
+        <translation type="unfinished">Progression : %3% (%1 blocs scannés, sur %2 au total).</translation>
     </message>
     <message>
         <location line="-79"/>
@@ -846,7 +846,7 @@ Ce produit comprend des logiciels développés par le projet OpenSSL afin d&apos
     <message>
         <location line="+17"/>
         <source>Scanned %1 of %2 blocks (%3% done).</source>
-        <translation>Progression : %3% (%1 blocs scannés, sur %2 au total).</translation>
+        <translation type="unfinished">Progression :  (%1) %2 %3%</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -866,7 +866,7 @@ Ce produit comprend des logiciels développés par le projet OpenSSL afin d&apos
     <message>
         <location line="+16"/>
         <source>Verified %1 of %2 blocks (%3% done).</source>
-        <translation>Progression : %3% (%1 blocs vérifiés, sur %2 au total).</translation>
+        <translation type="unfinished">Progression :   (%1) %2 %3%</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -994,7 +994,7 @@ Ce produit comprend des logiciels développés par le projet OpenSSL afin d&apos
     <message>
         <location line="+537"/>
         <source>Downloaded %1 of %2 blocks of transaction history (%3% done).</source>
-        <translation>Progression : %3% (%1 blocs téléchagés, sur %2 au total).</translation>
+        <translation type="unfinished">Progression :   (%1) %2 %3%</translation>
     </message>
     <message>
         <location line="-512"/>
@@ -1306,7 +1306,7 @@ Ce produit comprend des logiciels développés par le projet OpenSSL afin d&apos
     <message>
         <location line="+134"/>
         <source>Downloaded %1 of %2 checkpoints (%3% done).</source>
-        <translation>Progression : %3% (%1 points de contrôle téléchargés, sur %2 au total).</translation>
+        <translation type="unfinished">Progression :   (%1) %2 %3%</translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s) ago</source>
@@ -3054,7 +3054,7 @@ Si ce problème persiste, nous vous prions de contacter l&apos;assistance techni
         <location line="+32"/>
         <source>0.00 PND</source>
         <translatorcomment>Why was this &quot;{0.00 ?}&quot;? Is it formatting?</translatorcomment>
-        <translation>0.00 PND</translation>
+        <translation type="unfinished">0.00 PND</translation>
     </message>
     <message>
         <location line="-191"/>
