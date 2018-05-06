@@ -21,6 +21,14 @@
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
+Copyright © 2014-2018 The Pandacoin developers</source>
+        <translation>Copyright © 2009 - 2014, les développeurs Bitcoin
+Copyright © 2012 - 2014, les développeurs NovaCoin
+Copyright © 2014 - 2018, les développeurs Pandacoin</translation>
+    </message>
+    <message>
+        <source>Copyright © 2009-2014 The Bitcoin developers
+Copyright © 2012-2014 The NovaCoin developers
 Copyright © 2014 The Pandacoin developers</source>
         <translation>Copyright © 2009-2014 Les développeurs Bitcoin
 Copyright © 2012-2014 Les développeurs NovaCoin
@@ -138,6 +146,10 @@ Ce produit comprend des logiciels développés par le projet OpenSSL afin d&apos
     <message>
         <location line="+28"/>
         <location line="+4"/>
+        <source>transactions found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>transaction found</source>
         <translation>transaction trouvée</translation>
     </message>
@@ -274,7 +286,7 @@ Ce produit comprend des logiciels développés par le projet OpenSSL afin d&apos
         <translation>&amp;Supprimer</translation>
     </message>
     <message>
-        <location filename="../addressbookpage.cpp" line="+65"/>
+        <location filename="../addressbookpage.cpp" line="+69"/>
         <source>Copy &amp;Label</source>
         <translation>Copier l&apos;é&amp;tiquette</translation>
     </message>
@@ -426,7 +438,7 @@ Ce produit comprend des logiciels développés par le projet OpenSSL afin d&apos
 <context>
     <name>AddressTableModel</name>
     <message>
-        <location filename="../addresstablemodel.cpp" line="+25"/>
+        <location filename="../addresstablemodel.cpp" line="+29"/>
         <source>Label</source>
         <translation>Étiquette</translation>
     </message>
@@ -450,7 +462,7 @@ Ce produit comprend des logiciels développés par le projet OpenSSL afin d&apos
     </message>
     <message>
         <location line="+21"/>
-        <location filename="../askpassphrasedialog.cpp" line="+42"/>
+        <location filename="../askpassphrasedialog.cpp" line="+46"/>
         <source>Enter password</source>
         <translation>Mot de passe</translation>
     </message>
@@ -707,7 +719,7 @@ Ce produit comprend des logiciels développés par le projet OpenSSL afin d&apos
 <context>
     <name>BitcoinGUI</name>
     <message>
-        <location filename="../bitcoingui.cpp" line="+311"/>
+        <location filename="../bitcoingui.cpp" line="+309"/>
         <source>Sign &amp;message...</source>
         <translation>Signer le &amp;message...</translation>
     </message>
@@ -790,7 +802,7 @@ Ce produit comprend des logiciels développés par le projet OpenSSL afin d&apos
         <location line="-88"/>
         <location line="+96"/>
         <source>Downloaded %1 of %2 headers (%3% done).</source>
-        <translation>Progression : %3% (%1 entêtes téléchargés, sur %2 au total).</translation>
+        <translation>Synchronisation des en-têtes  (%1) %2 %3% </translation>
     </message>
     <message>
         <location line="-80"/>
@@ -819,7 +831,7 @@ Ce produit comprend des logiciels développés par le projet OpenSSL afin d&apos
         <location line="-143"/>
         <location line="+93"/>
         <source>Downloaded %1 of %2 blocks (%3% done).</source>
-        <translation>Progression : %3% (%1 blocs téléchargés, sur %2 blocs au total).</translation>
+        <translation type="unfinished">Progression : %3% (%1 blocs scannés, sur %2 au total).</translation>
     </message>
     <message>
         <location line="-79"/>
@@ -834,7 +846,7 @@ Ce produit comprend des logiciels développés par le projet OpenSSL afin d&apos
     <message>
         <location line="+17"/>
         <source>Scanned %1 of %2 blocks (%3% done).</source>
-        <translation>Progression : %3% (%1 blocs scannés, sur %2 au total).</translation>
+        <translation type="unfinished">Progression :  (%1) %2 %3%</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -854,7 +866,7 @@ Ce produit comprend des logiciels développés par le projet OpenSSL afin d&apos
     <message>
         <location line="+16"/>
         <source>Verified %1 of %2 blocks (%3% done).</source>
-        <translation>Progression : %3% (%1 blocs vérifiés, sur %2 au total).</translation>
+        <translation type="unfinished">Progression :   (%1) %2 %3%</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -982,7 +994,7 @@ Ce produit comprend des logiciels développés par le projet OpenSSL afin d&apos
     <message>
         <location line="+537"/>
         <source>Downloaded %1 of %2 blocks of transaction history (%3% done).</source>
-        <translation>Téléchargement des blocks de l&apos;historique des transactions : 1% sur 2% (%3% effectués).</translation>
+        <translation type="unfinished">Progression :   (%1) %2 %3%</translation>
     </message>
     <message>
         <location line="-512"/>
@@ -1294,7 +1306,7 @@ Ce produit comprend des logiciels développés par le projet OpenSSL afin d&apos
     <message>
         <location line="+134"/>
         <source>Downloaded %1 of %2 checkpoints (%3% done).</source>
-        <translation>Progression : %3% (%1 points de contrôle téléchargés, sur %2 au total).</translation>
+        <translation type="unfinished">Progression :   (%1) %2 %3%</translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s) ago</source>
@@ -1536,7 +1548,7 @@ Voulez-vous vraiment activer le mode &quot;léger&quot; ?</translation>
         <translation type="obsolete">Pas de staking</translation>
     </message>
     <message>
-        <location filename="../bitcoin.cpp" line="+111"/>
+        <location filename="../bitcoin.cpp" line="+112"/>
         <source>A fatal error occurred. Pandacoin can no longer continue safely and will quit.</source>
         <translation>Une erreur fatale a été rencontrée. L&apos;application Pandacoin ne peut plus être s&apos;exécuter de façon correcte et doit se terminer.</translation>
     </message>
@@ -1544,7 +1556,7 @@ Voulez-vous vraiment activer le mode &quot;léger&quot; ?</translation>
 <context>
     <name>ClientModel</name>
     <message>
-        <location filename="../clientmodel.cpp" line="+92"/>
+        <location filename="../clientmodel.cpp" line="+96"/>
         <source>Network Alert</source>
         <translation>Alerte réseau</translation>
     </message>
@@ -1587,7 +1599,7 @@ Voulez-vous vraiment activer le mode &quot;léger&quot; ?</translation>
         <translation>Sortie faible :</translation>
     </message>
     <message>
-        <location filename="../coincontroldialog.cpp" line="+551"/>
+        <location filename="../coincontroldialog.cpp" line="+555"/>
         <source>no</source>
         <translation>non</translation>
     </message>
@@ -1904,7 +1916,7 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
         <translation>L&apos;adresse associée à cette entrée du carnet d&apos;adresse. Seules les adresses d&apos;envoi peuvent être modifiées.</translation>
     </message>
     <message>
-        <location filename="../editaddressdialog.cpp" line="+23"/>
+        <location filename="../editaddressdialog.cpp" line="+28"/>
         <source>New receiving address</source>
         <translation>Nouvelle adresse de réception</translation>
     </message>
@@ -1947,7 +1959,7 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
 <context>
     <name>GUIUtil::HelpMessageBox</name>
     <message>
-        <location filename="../guiutil.cpp" line="+655"/>
+        <location filename="../guiutil.cpp" line="+659"/>
         <location line="+12"/>
         <source>Pandacoin-Qt</source>
         <translation>Pandacoin-Qt</translation>
@@ -2143,7 +2155,7 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location line="+7"/>
         <source>&amp;Port:</source>
-        <translation>&amp;Port :</translation>
+        <translation>Por&amp;t :</translation>
     </message>
     <message>
         <location line="+19"/>
@@ -2153,7 +2165,7 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location line="+7"/>
         <source>SOCKS &amp;Version:</source>
-        <translation>&amp;Version SOCKS :</translation>
+        <translation>Version &amp;SOCKS :</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -2218,7 +2230,7 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location line="+3"/>
         <source>&amp;Display addresses in transaction list</source>
-        <translation>A&amp;fficher les adresses dans la liste des transactions</translation>
+        <translation>Afficher les adresses dans la liste des &amp;transactions</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2238,12 +2250,12 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location line="+8"/>
         <source>Reset Blockchain</source>
-        <translation>Réinitialiser la blockchain</translation>
+        <translation>Réinitialiser la &amp;blockchain</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Reset Peers</source>
-        <translation>Réinitialiser la liste des pairs</translation>
+        <translation>Réinitialiser la &amp;liste des pairs</translation>
     </message>
     <message>
         <location line="+86"/>
@@ -2253,15 +2265,15 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location line="+7"/>
         <source>&amp;Cancel</source>
-        <translation>&amp;Annuler</translation>
+        <translation>A&amp;nnuler</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>&amp;Apply</source>
-        <translation>&amp;Appliquer</translation>
+        <translation>A&amp;ppliquer</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="+58"/>
+        <location filename="../optionsdialog.cpp" line="+62"/>
         <source>default</source>
         <translation>par défaut</translation>
     </message>
@@ -2437,7 +2449,7 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
         <translation type="obsolete">désynchronisé</translation>
     </message>
     <message>
-        <location filename="../overviewpage.cpp" line="+40"/>
+        <location filename="../overviewpage.cpp" line="+44"/>
         <source>Copy account address</source>
         <translation>Copier l&apos;adresse du compte</translation>
     </message>
@@ -2560,7 +2572,7 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
         <translation>Arial, &apos;Helvetica Neue&apos;, Helvetica, sans-serif</translation>
     </message>
     <message>
-        <location filename="../../init.cpp" line="+849"/>
+        <location filename="../../init.cpp" line="+850"/>
         <source>My account</source>
         <translation>Mon compte</translation>
     </message>
@@ -2653,7 +2665,7 @@ Si ce problème persiste, nous vous prions de contacter l&apos;assistance techni
         <location line="+53"/>
         <location line="+23"/>
         <location line="+23"/>
-        <location filename="../rpcconsole.cpp" line="+347"/>
+        <location filename="../rpcconsole.cpp" line="+351"/>
         <source>N/A</source>
         <translation>ND</translation>
     </message>
@@ -3159,7 +3171,7 @@ Si ce problème persiste, nous vous prions de contacter l&apos;assistance techni
         <translation type="obsolete">Entrer une adresse Pandacoin (ex: PBZ8YVV3XT3WWWd2a1jo4N9WePiwKB3mJE)</translation>
     </message>
     <message>
-        <location filename="../sendcoinsentry.cpp" line="+108"/>
+        <location filename="../sendcoinsentry.cpp" line="+112"/>
         <source>Copy quantity</source>
         <translation>Copier la quantité</translation>
     </message>
@@ -3414,7 +3426,7 @@ Veuillez sélectionner une adresse source à partir du haut de cette page.</tran
         <translation>Réinitialiser tous les champs de vérification de message</translation>
     </message>
     <message>
-        <location filename="../signverifymessagedialog.cpp" line="+27"/>
+        <location filename="../signverifymessagedialog.cpp" line="+31"/>
         <location line="+3"/>
         <source>Enter a Pandacoin address (e.g. PBZ8YVV3XT3WWWd2a1jo4N9WePiwKB3mJE)</source>
         <translation>Entrer une adresse Pandacoin (e.g. PBZ8YVV3XT3WWWd2a1jo4N9WePiwKB3mJE)</translation>
@@ -3516,7 +3528,7 @@ Veuillez sélectionner une adresse source à partir du haut de cette page.</tran
 <context>
     <name>TransactionDesc</name>
     <message>
-        <location filename="../transactiondesc.cpp" line="+19"/>
+        <location filename="../transactiondesc.cpp" line="+23"/>
         <source>Open until %1</source>
         <translation>Ouvert jusqu&apos;à %1</translation>
     </message>
@@ -3755,7 +3767,7 @@ Veuillez sélectionner une adresse source à partir du haut de cette page.</tran
 <context>
     <name>TransactionTableModel</name>
     <message>
-        <location filename="../transactiontablemodel.cpp" line="+326"/>
+        <location filename="../transactiontablemodel.cpp" line="+330"/>
         <source>Date</source>
         <translation>Date</translation>
     </message>
@@ -4009,7 +4021,7 @@ Veuillez sélectionner une adresse source à partir du haut de cette page.</tran
         <translation type="obsolete">Montant min.</translation>
     </message>
     <message>
-        <location filename="../transactionview.cpp" line="+65"/>
+        <location filename="../transactionview.cpp" line="+69"/>
         <source>Copy address</source>
         <translation>Copier l’adresse</translation>
     </message>
@@ -4128,7 +4140,7 @@ Veuillez sélectionner une adresse source à partir du haut de cette page.</tran
 <context>
     <name>WalletModel</name>
     <message>
-        <location filename="../walletmodel.cpp" line="+501"/>
+        <location filename="../walletmodel.cpp" line="+505"/>
         <source>Sending...</source>
         <translation>Envoi...</translation>
     </message>
@@ -4136,7 +4148,7 @@ Veuillez sélectionner une adresse source à partir du haut de cette page.</tran
 <context>
     <name>bitcoin-core</name>
     <message>
-        <location filename="../bitcoinstrings.cpp" line="+33"/>
+        <location filename="../bitcoinstrings.cpp" line="+35"/>
         <source>Pandacoin version</source>
         <translation>Version Pandacoin</translation>
     </message>
