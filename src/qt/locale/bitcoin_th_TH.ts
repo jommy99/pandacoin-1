@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="th_TH">
+<TS version="2.1" language="th_TH">
 <context>
     <name>AboutDialog</name>
     <message>
@@ -158,7 +158,7 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location line="+32"/>
         <source>Earning interest</source>
-        <translation>รายได้ดอกเบี้ย</translation>
+        <translation>  กำลังใช้หาดอกเบี้ย</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -468,7 +468,7 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location line="+39"/>
         <source>For earning interest only</source>
-        <translation>สำหรับรายได้ดอกเบี้ยเท่านั้น</translation>
+        <translation>สำหรับการหาดอกเบี้ยเท่านั้น</translation>
     </message>
     <message>
         <source>Enter passphrase</source>
@@ -1020,7 +1020,7 @@ p̄hlitp̣hạṇṯh̒ nī̂ prakxbd̂wy sxft̒wær̒ thī̀ phạtʹhnā doy O
     <message>
         <location line="+116"/>
         <source>Activate Digital PandaBank ‘Classic’</source>
-        <translation>เปิดใช้งาน Digital PandaBank 'Classic' &apos;Classic&apos;</translation>
+        <translation>เปิดใช้งาน Digital PandaBank &apos;Classic&apos; &apos;Classic&apos;</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1038,7 +1038,7 @@ Activate Digital PandaBank &apos;Classic&apos;?</source>
     <message>
         <location line="+21"/>
         <source>Activate Digital PandaBank ‘Hybrid’</source>
-        <translation>เปิดใช้งาน Digital PandaBank 'Hybrid' </translation>
+        <translation>เปิดใช้งาน Digital PandaBank &apos;Hybrid&apos; </translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1056,7 +1056,7 @@ Digital PandaBank &apos;Hybrid ช่วยให้คุณได้รับ�
     <message>
         <location line="+19"/>
         <source>Activate Digital PandaBank ‘Lite’</source>
-        <translation>เปิดใช้งาน Digital PandaBank 'Lite'</translation>
+        <translation>เปิดใช้งาน Digital PandaBank &apos;Lite&apos;</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1065,17 +1065,17 @@ Digital PandaBank &apos;Hybrid ช่วยให้คุณได้รับ�
 Pandacoin &apos;Lite&apos; DOES NOT allow you to earn interest or help secure the Pandacoin Network.
 
 Activate Digital PandaBank &apos;Lite&apos;?</source>
-        <translation>Digital PandaBank 'Lite' สำหรับผู้ใช้ที่มีข้อจำกัดการดาวน์โหลด หรือ เนื้อที่ของฮาร์ดดิสก์ ซึ่งจะใช้เนื้อที่ไม่กี่เมกะไบต์ในการจัดเก็บข้อมูล การซิงโครไนส์กับเครือข่าย Pandacoin จะใช้เวลาไม่กี่วินาทีหลังจากการติดตั้ง ทำให้สามารถเห็น Pandacoin ของคุณ และใช้งานได้ทันที
+        <translation>Digital PandaBank &apos;Lite&apos; สำหรับผู้ใช้ที่มีข้อจำกัดการดาวน์โหลด หรือ เนื้อที่ของฮาร์ดดิสก์ ซึ่งจะใช้เนื้อที่ไม่กี่เมกะไบต์ในการจัดเก็บข้อมูล การซิงโครไนส์กับเครือข่าย Pandacoin จะใช้เวลาไม่กี่วินาทีหลังจากการติดตั้ง ทำให้สามารถเห็น Pandacoin ของคุณ และใช้งานได้ทันที
 
-Pandacoin 'Lite' ไม่ยอมให้คุณหารายได้ดอกเบี้ย หรือช่วยเหลือด้านความปลอดภัยในเครือข่าย Pandacoin
+Pandacoin &apos;Lite&apos; ไม่ยอมให้คุณหารายได้ดอกเบี้ย หรือช่วยเหลือด้านความปลอดภัยในเครือข่าย Pandacoin
 
-เปิดใช้งาน Digital PandaBank 'Lite' ไหม?
+เปิดใช้งาน Digital PandaBank &apos;Lite&apos; ไหม?
         </translation>
     </message>
     <message>
         <location line="+42"/>
         <source>Unable to earn interest in light mode.&lt;br/&gt;Switch to hybrid mode if you would like to earn interest.</source>
-        <translation>ไม่สามารถจ่ายดอกเบี้ยในโหมด 'lite' ให้สลับไปสู่โหมด 'hybrid' ถ้าคุณอยากได้รับดอกเบี้ย </translation>
+        <translation>ไม่สามารถจ่ายดอกเบี้ยในโหมด &apos;lite&apos; ให้สลับไปสู่โหมด &apos;hybrid&apos; ถ้าคุณอยากได้รับดอกเบี้ย </translation>
     </message>
     <message>
         <location line="+6"/>
@@ -1246,27 +1246,27 @@ Address: %4
     <message>
         <location line="+245"/>
         <source>Not earning interest because wallet is locked</source>
-        <translation>ไม่ได้รับรายได้ดอกเบี้ยเนื่องจากกระเป๋าสตางค์ถูกล็อค</translation>
+        <translation>ไม่ได้รับดอกเบี้ยเนื่องจากกระเป๋าสตางค์ถูกล็อค</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Not earning interest because wallet is offline</source>
-        <translation>ไม่ได้รับรายได้ดอกเบี้ยเนื่องจากกระเป๋าสตางค์ออฟไลน์</translation>
+        <translation>ไม่ได้รับดอกเบี้ยเนื่องจากกระเป๋าสตางค์ออฟไลน์</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Not earning interest because wallet is syncing</source>
-        <translation>ไม่ได้รับรายได้ดอกเบี้ยเนื่อง จากกระเป๋าสตางค์กำลังซิงค์</translation>
+        <translation>ไม่ได้รับดอกเบี้ยเนื่อง จากกระเป๋าสตางค์กำลังซิงค์</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Not earning interest because you don&apos;t have mature coins</source>
-        <translation>ไม่ได้รับรายได้ดอกเบี้ยเนื่องจากคุณไม่มีเหรียญที่สมบูรณ์พอ</translation>
+        <translation>ไม่ได้รับดอกเบี้ยเนื่องจากคุณไม่มีเหรียญที่สมบูรณ์พอ</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Not earning interest</source>
-        <translation>ไม่ได้รับรายได้ดอกเบี้ย</translation>
+        <translation>ไม่ได้รับดอกเบี้ย</translation>
     </message>
     <message>
         <location line="-235"/>
@@ -1533,7 +1533,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
  This means a fee of at least %1 per kb is required.</source>
         <translation>ธุรกรรมที่มีลำดับความสำคัญสูงจะถูกนำเข้าบล็อกได้มากกว่า
 
-ป้ายกำกับนี้จะเปลี่ยนเป็นสีแดง ถ้าลำดับความสำคัญน้อยกว่า "ปานกลาง"
+ป้ายกำกับนี้จะเปลี่ยนเป็นสีแดง ถ้าลำดับความสำคัญน้อยกว่า &quot;ปานกลาง&quot;
 
 นั่นหมายถึง ต้องจ่ายเพิ่มค่าธรรมเนียมอย่างน้อย %1 ต่อกิโลไบต์
 </translation>
@@ -1789,12 +1789,11 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
 <context>
     <name>MenuBar</name>
     <message>
-        <location filename="../forms/menubar.ui" line="+55"/>
         <source>Mode</source>
-        <translation>โหมด</translation>
+        <translation type="vanished">โหมด</translation>
     </message>
     <message>
-        <location line="+26"/>
+        <location filename="../forms/menubar.ui" line="+81"/>
         <source>File</source>
         <translation>ไฟล์</translation>
     </message>
@@ -1934,7 +1933,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+7"/>
         <source>Minimize instead of exit the application when the window is closed. When this option is enabled, the application will be closed only after selecting Quit in the menu.</source>
-        <translation>ปรับลดหน้าต่างลงแทนการออกจาแอพพลิเคชั่นเมื่อคลิ้กปิดหน้าต่าง ถ้าออพชั่นนี้ได้รับการเลือกไว้ แอพพลิเคชั่นจะปิดตัวลงหลังจากเลือก "ออก"ในเมนูเท่านั้น</translation>
+        <translation>ปรับลดหน้าต่างลงแทนการออกจาแอพพลิเคชั่นเมื่อคลิ้กปิดหน้าต่าง ถ้าออพชั่นนี้ได้รับการเลือกไว้ แอพพลิเคชั่นจะปิดตัวลงหลังจากเลือก &quot;ออก&quot;ในเมนูเท่านั้น</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2054,7 +2053,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../forms/overviewpage.ui" line="+14"/>
         <source>Form</source>
-        <translation>>แบบฟอร์ม</translation>
+        <translation>&gt;แบบฟอร์ม</translation>
     </message>
     <message>
         <location line="+26"/>
@@ -2084,7 +2083,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+45"/>
         <source>Earning Interest</source>
-        <translation>รายได้ดอกเบี้ย</translation>
+        <translation>ใช้หาดอกเบี้ย</translation>
     </message>
     <message>
         <location line="+42"/>
@@ -2164,7 +2163,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+13"/>
         <source>Welcome to your Digital PandaBank, You last logged on at</source>
-        <translation>ยินดีต้อนรับสู่ Digital PandaBank ของคุณ ... คุณเข้าสู่ระบบครั้งล่าสุดเมื่อเวลา</translation>
+        <translation>ยินดีต้อนรับสู่ Digital PandaBank ของคุณ ... คุณเข้าสู่ระบบครั้งล่าสุดเมื่อ </translation>
     </message>
     <message>
         <location line="+0"/>
@@ -2403,12 +2402,11 @@ Should you encounter this error repeatedly please seek assistance.</source>
         <translation>บน testnet</translation>
     </message>
     <message>
-        <location line="+23"/>
         <source>Blockchain</source>
-        <translation>บล็อกเชน</translation>
+        <translation type="vanished">บล็อกเชน</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location line="+30"/>
         <source>Current number of blocks</source>
         <translation>จำนวนบล็อกปัจจุบัน</translation>
     </message>
@@ -2463,7 +2461,12 @@ Should you encounter this error repeatedly please seek assistance.</source>
         <translation>Pandacoin Core</translation>
     </message>
     <message>
-        <location line="+279"/>
+        <location line="+184"/>
+        <source>Block chain</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+95"/>
         <source>Debug log file</source>
         <translation>ไฟล์บันทึกข้อผิดพลาด</translation>
     </message>
@@ -2505,7 +2508,7 @@ Should you encounter this error repeatedly please seek assistance.</source>
     <message>
         <location filename="../forms/sendcoinsentry.ui" line="+14"/>
         <source>Form</source>
-        <translation>>แบบฟอร์ม</translation>
+        <translation>&gt;แบบฟอร์ม</translation>
     </message>
     <message>
         <location line="+59"/>
@@ -2599,7 +2602,7 @@ Should you encounter this error repeatedly please seek assistance.</source>
     <message>
         <location line="+50"/>
         <source>custom change address</source>
-        <translation>เปลี่ยนแปลงที่อยู่ตามที่ต้องการ่</translation>
+        <translation>ที่อยู่เงินทอน</translation>
     </message>
     <message>
         <location line="+67"/>
@@ -2702,7 +2705,7 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     <message>
         <location line="+4"/>
         <source>WARNING: unknown change address</source>
-        <translation>คำเตือน: ที่อยู่เปลี่ยนไม่รู้จัก</translation>
+        <translation>คำเตือน: ที่อยู่เงินทอนไม่รู้จัก</translation>
     </message>
 </context>
 <context>
@@ -3126,8 +3129,12 @@ Please select the &quot;from&quot; address at the top of this page.</source>
     </message>
     <message>
         <location line="+3"/>
+        <source>Generated coins must mature 510 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Generated coins must mature 510 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the blockchain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>เหรียญที่สร้างขึ้นจะต้องมีอายุ 510 บล็อกก่อนที่จะสามารถใช้จ่ายได้ เมื่อคุณสร้างบล็อกนี้ระบบจะเผยแพร่ไปยังเครือข่ายเพื่อเพิ่มเข้าไปในบล็อกเชน หากไม่สามารถเข้าเชื่อมต่อ สถานะจะเปลี่ยนเป็น &quot;ไม่ยอมรับ&quot; และจะไม่สามารถใช้จ่ายได้ กรณีนี้อาจเกิดขึ้นได้หากโหนดอื่นสร้างบล็อกภายในสองสามวินาทีของคุณ</translation>
+        <translation type="vanished">เหรียญที่สร้างขึ้นจะต้องมีอายุ 510 บล็อกก่อนที่จะสามารถใช้จ่ายได้ เมื่อคุณสร้างบล็อกนี้ระบบจะเผยแพร่ไปยังเครือข่ายเพื่อเพิ่มเข้าไปในบล็อกเชน หากไม่สามารถเข้าเชื่อมต่อ สถานะจะเปลี่ยนเป็น &quot;ไม่ยอมรับ&quot; และจะไม่สามารถใช้จ่ายได้ กรณีนี้อาจเกิดขึ้นได้หากโหนดอื่นสร้างบล็อกภายในสองสามวินาทีของคุณ</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -3977,12 +3984,11 @@ rpcpassword =%s
         <translation>กำหนดขนาดพูลของคีย์เป็น &lt;n&gt; (ค่าดีฟอลต์: 100)</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Rescan the blockchain for missing wallet transactions</source>
-        <translation>สแกนบล็อกเชนใหม่สำหรับการทำธุรกรรมกับกระเป๋าสตางค์ที่หายไป</translation>
+        <translation type="vanished">สแกนบล็อกเชนใหม่สำหรับการทำธุรกรรมกับกระเป๋าสตางค์ที่หายไป</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location line="+3"/>
         <source>How many blocks to check at startup (default: 2500, 0 = all)</source>
         <translation>จำนวนบล็อกที่จะตรวจสอบเมื่อเริ่มต้น (ค่าดีฟอลต์: 2500, 0 = ทั้งหมด)</translation>
     </message>
@@ -4162,7 +4168,12 @@ rpcpassword =%s
         <translation>ค่าธรรมเนียมต่อ KB จะเพิ่มเข้ากับธุรกรรมที่คุณส่ง</translation>
     </message>
     <message>
-        <location line="+55"/>
+        <location line="+33"/>
+        <source>Rescan the block chain for missing wallet transactions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+22"/>
         <source>Invalid amount for -mininput=&lt;amount&gt;: &apos;%s&apos;</source>
         <translation>จำนวนเงินไม่ถูกต้องสำหรับ -mininput = &lt;amount&gt;: &apos;%s&apos;</translation>
     </message>
