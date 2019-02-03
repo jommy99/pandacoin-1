@@ -24,7 +24,7 @@ Copyright © 2012-2014 The NovaCoin developers
 Copyright © 2014 The Pandacoin developers</source>
         <translation>Urheberrechte  © 2009-2014 Die Bitcoin-Entwickler
 Urheberrechte  © 2012-2014 Die NovaCoin Entwickler
-Urheberrechte  © 2014-2018 Die Pandacoin-Entwickler</translation>
+Urheberrechte  © 2014-2019 Die Pandacoin-Entwickler</translation>
     </message>
     <message>
         <location line="+15"/>

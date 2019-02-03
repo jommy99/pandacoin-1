@@ -17,14 +17,14 @@
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014-2018 The Pandacoin developers</source>
+Copyright © 2014-2019 The Pandacoin developers</source>
         <translation>ลิขสิทธิ์© 2009-2014 นักพัฒนา Bitcoin
 สงวนลิขสิทธิ์© 2012-2014 นักพัฒนา NovaCoin
-ลิขสิทธิ์© 2014-2018 นักพัฒนาซอฟต์แวร์ Pandacoin
+ลิขสิทธิ์© 2014-2019 นักพัฒนาซอฟต์แวร์ Pandacoin
 
 Lik̄hs̄ithṭhi̒© 2009-2014 nạk phạtʹhnā Bitcoin
 s̄ngwn lik̄hs̄ithṭhi̒© 2012-2014 nạk phạtʹhnā NovaCoin
-lik̄hs̄ithṭhi̒© 2014-2018 nạk phạtʹhnā sxft̒wær̒ Pandacoin</translation>
+lik̄hs̄ithṭhi̒© 2014-2019 nạk phạtʹhnā sxft̒wær̒ Pandacoin</translation>
     </message>
     <message>
         <location line="+15"/>

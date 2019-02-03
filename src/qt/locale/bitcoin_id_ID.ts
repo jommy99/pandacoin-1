@@ -17,11 +17,11 @@
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014-2018 The Pandacoin developers</source>
+Copyright © 2014-2019 The Pandacoin developers</source>
         <translation>137/5000
 Copyright © 2009-2014 Pengembang Bitcoin
 Copyright © 2012-2014 Pengembang NovaCoin
-Copyright © 2014-2018 Pengembang Pandacoin</translation>
+Copyright © 2014-2019 Pengembang Pandacoin</translation>
     </message>
     <message>
         <location line="+15"/>
