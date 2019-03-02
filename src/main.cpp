@@ -1261,16 +1261,24 @@ bool CTransaction::IsStandard(string& strReason) const
             return false;
         }
     }
+    unsigned int nDataOut = 0;
+    txnouttype whichType;
     BOOST_FOREACH(const CTxOut& txout, vout) {
+    if (!::IsStandard(txout.scriptPubKey, whichType)) {
         if (!::IsStandard(txout.scriptPubKey)) {
             strReason = "scriptpubkey";
             return false;
         }
+        if (whichType == TX_NULL_DATA)
+            nDataOut++;
         if (txout.IsDust()) {
             strReason = "dust";
             return false;
         }
     }
+      // only one OP_RETURN txout is permitted
+    if (nDataOut > 1) {
+        return false;
     return true;
 }
 
