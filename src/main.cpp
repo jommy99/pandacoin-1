@@ -1278,6 +1278,7 @@ bool CTransaction::IsStandard(string& strReason) const
       // only one OP_RETURN txout is permitted
     if (nDataOut > 1) {
         return false;
+    }
     return true;
 }
 
