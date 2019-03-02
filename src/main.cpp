@@ -1265,7 +1265,6 @@ bool CTransaction::IsStandard(string& strReason) const
     txnouttype whichType;
     BOOST_FOREACH(const CTxOut& txout, vout) {
     if (!::IsStandard(txout.scriptPubKey, whichType)) {
-        if (!::IsStandard(txout.scriptPubKey)) {
             strReason = "scriptpubkey";
             return false;
         }
